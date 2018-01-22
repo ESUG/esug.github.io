@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>
+			{{title}}
+		</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Script-Type" content="text/javascript" />
+		<meta name="generator" content="Pharo - Pillar - Ecstatic" />
+		<meta name="robots" content="index,follow" />
+		<meta name="keywords" content="{{site_keywords}}" />
+		
+		<link rel="stylesheet" type="text/css" media="screen, projection" href="{{baseurl}}theme/screen.css" />
+		<link rel="stylesheet" type="text/css" media="print" href="{{baseurl}}theme/print.css" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" media="screen, projection" href="/wiki/files/PRBlueprintLibrary/ie.css"/><![endif]-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/pure.css" />
+		<!--link rel="canonical" href="http://esug.org/wiki/pier/About/membership" /-->
+		
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	</head>
+	<body class="page viewcommand defaultview">
+		<div class="container">
+			<div class="header">
+				<div class="title">	
+					<div style="float:left; margin-right:15px">
+						<a href="{{baseurl}}index.html">
+							 <img alt="{{site_name}}" src="{{site_logo}}">
+						</a>
+					</div>
+					<div style="margin:15px">
+						<h1>{{site_name}}</h1>
+					  	<h2>{{site_short_description}}</h2>
+					</div>
+				</div>
+				<div class="children">					
+					<ul>
+						{{#menu}}
+						<li>
+							<a class="page" href="{{url}}">{{title}}</a>
+						</li>
+						{{/menu}}
+					</ul>
+				</div>
+				<div class="submenue">
+					<ul>
+						{{# subfiles }}
+						<li><a href="{{url}}">{{title}}</a></li>
+						{{/ subfiles }}
+					</ul>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="body">
+				<div class="contents">
+					{{{content}}}
+				</div>
+			</div>
+		</div>
+		<div class="footer container-fluid">
+			<div class="madeby">
+				Pure theme powered by <a class="external" href="http://www.pharo.org">pharo</a> | <a class="external" href="http://www.smalltalkhub.com/#!/~Pier/Pillar">pillar</a> | <a class="external" href="http://guillep.github.io/ecstatic/">Ecstatic</a>
+			</div>
+
+		<script>
+		$(document).ready(function() {
+		    $('dt').each(function() {
+		        var $dt = $(this),
+		        $selection = $dt.next('dd').andSelf();
+		        $selection.wrapAll('<div class="col-md-4">');
+		    });
+			$('dd').find('br').remove();
+			$('dt').contents().unwrap().wrap("<h3/>");
+			$('dd').contents().unwrap().wrap("<p/>");
+			$('dl').wrap("<div class='row multi-columns-row'/>");
+			$('dl').contents().unwrap();
+		});
+		function transformAnnotatedParagraphs(pClass) {
+		    $("p." + pClass).wrap("<div class='alert alert-" + pClass + "' role='alert'/>" );
+		};
+		transformAnnotatedParagraphs('success');
+		transformAnnotatedParagraphs('info');
+		transformAnnotatedParagraphs('warning');
+		transformAnnotatedParagraphs('danger');
+		</script>
+		<script type="text/javascript">
+				/* analytics */
+				/*<![CDATA[*/
+					var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+					document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+				/*]]>*/
+			</script>
+			<script type="text/javascript">
+/*<![CDATA[*/var pageTracker = _gat._getTracker('UA-2892391-1');
+			pageTracker._initData();
+			pageTracker._trackPageview();/*]]>*/
+			</script>
+		</div>
+	</body>
+</html>
