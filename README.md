@@ -23,18 +23,15 @@ $ gem install travis # See: https://stackoverflow.com/a/33119804/895245
 gem update --system
 ```
 
-Then cd into your repository and:
+Then cd into your repository and encrypt an environment variable called `GH_TOKEN` with your token assigned. This environment variable will be used by the `prepare_for_deploy.sh` script later on.
 
 ```bash
-$ travis encrypt <api-token>
+$ travis encrypt GH_TOKEN=<api-token> --add
 ```
-but more recently people have reported that travis encrypt -r githubusername/repositoryname --org is needed instead, see: https://github.com/travis-ci/travis-ci/issues/8128
 
-This will produce an output like:
+This will modify your .travis.yml file.
 
-secure: "<encrypted-token>"
-Note down the large encrypted token.
-
+- Commit and push!
 
 
 [1] https://stackoverflow.com/questions/12343452/how-to-publish-artifacts-in-travis-ci/33109519#33109519
