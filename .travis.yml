@@ -8,6 +8,7 @@ addons:
     - libssl1.0.0:i386
     - libfreetype6:i386
 script:
+- if [[ ${TRAVIS_BRANCH} == "source" ]]; then make generate; fi
 - if [[ ${TRAVIS_BRANCH} == "source" && ${TRAVIS_PULL_REQUEST} == "false" ]]; then make deploy; fi
 env:
   global:
