@@ -8,7 +8,8 @@ addons:
     - libssl1.0.0:i386
     - libfreetype6:i386
 script:
-- if [[ ${TRAVIS_BRANCH} == "source" ]]; then make deploy; fi
+- if [[ ${TRAVIS_BRANCH} == "source" ]]; then make generate; fi
+- if [[ ${TRAVIS_BRANCH} == "source" && ${TRAVIS_PULL_REQUEST} == "false" ]]; then make deploy; fi
 env:
   global:
     secure: zWFi7uDh4grexxx93Hn1PsI2W/7+a+6kBx4XIuOhovnHySTGS8mELXhQdugXR9zPOvE+qK7w34IZM8XfjWLd1CGZP4B9p1IA12z+K9nKh9pgPtuCbWKQwdfiOW3JNut4n+4sLuyEqQCNLC9fj7rCZPb1gLNlD14xFfSggXjxXfvdP03dwBkepVRBRHimU4q5n39hNBv3CU32jbWQ9O0nFJ2QzUJ2iISASPCdkxdQ8mtKYBhK+q6N/IQQrjS5J2DjvMrQ9gfN/4pQgX1X0LIOcf3Ge5U100HeOmF0vv+T69tBNh62KoTK1RfmduxwwBj112ITmhbW9rEJXFOfL/CKQ5sb8jHuS/UH4kmWK9/i6/y18FhvuF+TmJOS/y/K+4CwIxi7sKo35MBs8qlgI2hbxVHqaNBVA7YqyUoh4C5Dk4SvUxbfVKgfvZAV7xh642mJjgb6PjpuBzzzTra7GJgK+eFOP0ItN/Bu9incPOmFZIvYSt+mXhRogLdzR7wucY8cPBcHKJ/a/znE3g8q0v68ZqLoZRsK+MtQuS50YQX4Q4h7cOJWchZM5+zxrbxozH/p3Ws0LVPe5COD0tGcOtE2PB8fvS4wQtAq7So5eNK3WD0T7GBZxY0fv2Wt/oEuFSKhwngKeur3iKQYkQxJi5NWEpjC72EEbVBrSEf9m8VyWnc=
