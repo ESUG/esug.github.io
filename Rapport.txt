@@ -5,3 +5,6 @@ At this moment we have a general idea of what the site will be.
 25/01/2018
 URL's was broken, then I try to fix it by removing the base URL. I will try to avoid generating website on PRs
 (looking at travis configuration).
+
+30/01/2018
+Adding some contents, of the original site (pages for conf 2018 and publications)
