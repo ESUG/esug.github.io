@@ -1,0 +1,89 @@
+!News
+
+{{{<div class="boxes toright">}}}
+{{{<div class="frontpagemessage">}}}
+The *2017 conference>http://www.esug.org/wiki/pier/Conferences/2017* co-organised by *University FERI>https://feri.um.si/en/* was held in Maribor, Slovenia 4-8 September 2017.
+{{{
+<a href="https://www.um.si/en/"><img src="http://esug.org/design/logo-feri1.png"  width="130" /></a>
+<a href="https://feri.um.si/en/"><img src="http://esug.org/design/logo-feri2.png"  width="150" /></a>
+}}}
+{{{</div>
+<div>
+}}}{{{
+</div>
+<div style="clear: both"></div> 
+
+
+<p>The European Smalltalk User Group (ESUG) is a non-profit users organization that supports all kinds of Smalltalk initiatives, especially free-open source ones that benefit the whole Smalltalk community. For example ESUG does:</p>
+<ul>
+<li>Link all users of the Smalltalk programming language and environments in Europe, individual and corporate</li>
+<li>Promote the use of Smalltalk</li>
+<li>Support local users groups and establish new ones</li>
+<li>Support Smalltalk projects and initiatives such as the <a href="http://www.seasidehosting.st/">Free Seaside Hosting Server</a></li>
+</ul>
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="esug-info@esug.org">
+<input type="hidden" name="item_name" value="Donation to Support ESUG">
+<input type="hidden" name="item_number" value="Donation to Support ESUG">
+<input type="hidden" name="cn" value="Comments">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+</form>
+<a href="http://flattr.com/thing/40240/European-Smalltalk-UserGroup" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
+<br>
+<center>
+}}}*Support ESUG actions! Become a Sponsor!>http://www.esug.org/wiki/pier/About/BecomeSponsor*{{{<br><br>
+<b>Platinum Sponsors</b><br>
+<a href="http://gemtalksystems.com"><img src="http://esug.org/design/sponsor-gemtalk.png"  width="250" /></a><br>
+<a href="http://www.instantiations.com"><img src="http://esug.org/design/sponsor-instantiations.jpg"  width="250" /></a><br>
+<a href="http://feenk.com"><img src="http://esug.org/design/sponsor-feenk.png" width="88" height="75" ></a><br>
+<b>Golden Sponsors</b><br>
+<a href="http://smalltalk.cincom.com/"><img src="http://esug.org/design/sponsor-cincom06.jpg" alt="cincom smalltalk logo"  width="250" /></a><br>
+<a href="http://www.heeg.de/"><img src="http://esug.org/design/sponsor-heeg.gif" alt="sponsor-heeg.gif" width="88" height="75" /></a><br>
+<a href="http://www.stic.org/"><img src="http://esug.org/design/sponsor-stic.png"></a><br>
+<br>
+
+
+<a href="http://www.deltalloydgroep.com/en/home/."><img src="http://esug.org/design/Sponsor-DeltaLloyd.gif" alt="sponsor-DeltaLloyd.gif" width="200"/></a><br>
+<b>Silver Sponsors</b><br>
+<a href="http://www.hrworks.de"><img src="http://esug.org/design/sponsor-hrworks.png"  height="70" /></a><br>
+<a href="http://www.chameleonjohn.com/"><img src="http://esug.org/design/sponsor-chameleon.png" alt="sponsor-ChameleonJohn"  height="55" /></a><br>
+<a href="http://2denker.de/"><img src="http://esug.org/design/sponsor-2denker.png" alt="sponsor-2denker"  width="250" /></a><br>
+<a href="http://www.mediagenix.tv"><img src="http://esug.org/design/sponsor-mediagenix.png" width="250"> </a>
+
+<a href="http://www.collogia.de"><img src="http://esug.org/design/sponsor-collogia.jpg" width="250"> </a>
+
+<a href="https://www.palantirsolutions.com"><img src="http://esug.org/design/sponsor-palantir.png" width="250"> </a>
+
+<a href="http://http://objektfabrik.de"><img src="http://esug.org/design/sponsor-objektfabrik.jpg" width="250"> </a>
+
+
+<br>
+<center>
+</div>
+<div class="blogbox">}}}+smalblog+{{{
+<div class="rssfeedbox">
+<a class="rssfeed" href="http://feeds.feedburner.com/ESUG">.</a>
+</div>
+</div>
+<p> </p>
+<div class="boxesnodot">
+<h2>ESUG Awards 2017</h2>
+}}}
+
+|+goldSmallMedalAwardsESUG2017+|   {{{<table><tr><td>}}} *Moldable Editor>https://github.com/feenkcom/gtoolkit*  {{{</td></tr><tr><td>Aliaksei Syrel, Andrei Chis, Tudor Girba</td></tr></table>}}}|
+|+silverSmallMedalAwardsESUG2017+| {{{<table><tr><td>}}} *SmartTest>https://github.com/badetitou/SmartTest* {{{</td></tr><tr><td>Benoit Verhaeghe</td></tr></table>}}}|
+|+bronzeSmallMedalAwardsESUG2017+| {{{<table><tr><td>}}} *PharoThings>https://github.com/pharo-iot/PharoThings* {{{</td></tr><tr><td>Denis Kudriashov</td></tr></table>}}}|
+{{{<h2>Special Awards</h2>}}}
+
+|+promotion2012small+| {{{<table><tr><td>}}} Promotion Award: *James Robertson>http://www.jarober.com/* {{{</td></tr><tr><td></td></tr></table>}}}|
+|+25Years2012small+| {{{<table><tr><td>}}} 25 Years of Successful Smalltalk: *Georg Heeg>http://www.heeg.de/* {{{</td></tr><tr><td></td></tr></table>}}}|
+{{{</div>}}}
+
+
+
+

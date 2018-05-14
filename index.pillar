@@ -1,61 +1,28 @@
-!About Us
+!News
 
-+file://Aboutus.jpg|width=70|label=aboutus+
+	-*CFP - IWST 2018 - International Workshop on Smalltalk Technologies>cfp_iwst_18.pillar*
+	12 April 20184:09:35 pm by admin
+	CALL FOR PAPERS http://esug.org/wiki/pier/Conferences/2018/International-Workshop-IWST_18 Cagliari, Italy; Between September 10th and 14th, 2018 Goals and scopes The goals of the workshop is ...
 
+	-*VA Smalltalk News>va_news.pillar*
+	11 April 20185:20:11 pm by admin
+	VAST 9.0 Success Story, New VAST Release Coming Soon, Growing our Staff https://mailchi.mp/instantiations/draft-va-smalltalk-news-2860809 Dear VA Smalltalk User, There has been so much going on...
 
-!Contact ESUG
+	-*ESUG 2018 Call for Participation>esug_cfp_18.pillar*
+	6 February 20184:55:15 pm by admin
+	Call-for-Presentations 26rd International Smalltalk Joint Conference The ESUG board is pleased to announce that the 26th ESUG conference/summer-school will be held in Cagliari, Italy 10-14 September ...
 
--You can reach the ESUG board at *board@esug.org*
+	-*Feb 5: First Smalltalk Meetup Lübeck/Germany>fsm_germany.pillar*
+	12 January 20181:21:21 pm by admin
+	The first Smalltalk meeting in Lübeck/Germany will happen Feb 5/2018: More information: https://www.meetup.com/Smalltalker-Treff-Lubeck/events/245699471/
 
-!Board
-The ESUG Board as elected 2010
--President: *Stéphane Ducasse>http://stephane.ducasse.free.fr/* (Inria)
--Treasurer: *Luc Fabresse>http://car.mines-douai.fr/luc* (EMD)
--*Damien Cassou>http://damiencassou.seasidehosting.st/* (Univ. Lille 1)
--*Jordi Delgado>http://smalltalk.cat/* (Politecnica Catalunya)
--*Marcus Denker>http://www.marcusdenker.de/* (Inria)
--*Alain Plantec>http://www.lisyc.univ-brest.fr/pages_perso/plantec* (UBO)
--*Serge Stinckwich>http://doesnotunderstand.org/* (IRD)
-
-
-!Legal Information
-ESUG is a french-law association, and hence it is not subject to the VAT. It does not have a siret number but is registered under the number W751167780.
-- *CreditCard>http://www.esug.org/wiki/pier/About/CreditCard?_s=SWBep7RcK9EHbR2m&_k=-xlOIQmbHmdZ7XyB&_n&22*
-{{{html:
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="esug-info@esug.org">
-<input type="hidden" name="item_name" value="Donation to Support ESUG">
-<input type="hidden" name="item_number" value="Donation to Support ESUG">
-<input type="hidden" name="cn" value="Comments">
-<input type="hidden" name="currency_code" value="EUR">
-<input type="hidden" name="tax" value="0">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-</form>
-}}}
+	-*UK Smalltalk User Group Meeting - Monday, October 30th>uks_meeting.pillar*
+	27 October 20171:46:43 pm by admin
+	PharoLambda: Smalltalk running serverless on AWS The next meeting of the UK Smalltalk User Group Meeting will be on Monday, 30th October. We'll meet at The City Pride, London (http://www.citypridecl...
 
 
+!Sponsors
 
-!Our Goals
-ESUG is a non-profit association that gathers all European users of all dialects of Smalltalk. It was registered in 1991 under French status "Association de Loi 1901".
 
-Its goals are to:
--promote use of the Smalltalk programming language
--promote communication between Smalltalk users through meetings, periodic newsletter, software exchange, electronic mail, etc., and by organizing events like the Smalltalk Yearly Conference
--help and link local Smalltalk users groups
--help the creation of local Smalltalk users groups
--identify Smalltalk users and their needs and represent them towards discussions with vendors.
+!Latest awards
 
-ESUG usually meets at Object-Oriented Conferences, such as Tools, Ecoop and OOPSLA, and the ESUG users conference. Board members can be reached through e-mail at *esug-info@esug.org* (which broadcasts to all board members) for information.
-
-For mailings to members and everybody who subscribed directly to the mailing list you can send a mail to *esug-list@lists.esug.org*. To visit the mailing list go to *http://lists.esug.org/mailman/listinfo/esug-list_lists.esug.org*, currently more than 500 Smalltalkers all over Europe and beyond!.
-
-Info on the ESUG board members is also available. If you want to become an ESUG member, you can check out the Membership page.
-
-${columns}$
-   ${column:width=60}$
-!Contact ESUG
--You can reach the ESUG board at *board@esug.org*
-   ${column:40}$
-Test
-${endColumns}$
