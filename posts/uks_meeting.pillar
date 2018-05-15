@@ -1,0 +1,16 @@
+!! UK Smalltalk User Group Meeting - Monday, October 30th
+
+!PharoLambda: Smalltalk running serverless on AWS
+
+
+The next meeting of the UK Smalltalk User Group Meeting will be on Monday, 30th October.
+
+We'll meet at The City Pride, London (*http://www.cityprideclerkenwell.co.uk/*) at 7pm.
+
+Tim Mackinnon will show how recent Pharo advances with a small footprint 64bit image allow for Smalltalk to run happily on AWS Lambda and power things like an Alexa skill. While serverless architecture is interesting in its own right, the neat twist is using standard Smalltalk tooling to "~live" debug a failed execution and step through a post mortem stack.
+
+We will take a peak at the GitLab CI setup to deploy an Alexa application, look at how a simple lambda function can be hooked up and then discuss how we might leverage other Smalltalk strengths in a serverless world.
+
+If you'd like to join us, you can just show up at the pub. You can also sign up in advance at the meeting's Meetup page: *https://www.meetup.com/UKSTUG/events/244451089/*.
+
+See you there!

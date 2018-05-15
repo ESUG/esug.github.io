@@ -1,28 +1,74 @@
 !News
 
-	-*CFP - IWST 2018 - International Workshop on Smalltalk Technologies>cfp_iwst_18.pillar*
+-*CFP - IWST 2018 - International Workshop on Smalltalk Technologies>posts/cfp_iwst_18.pillar*
 	12 April 20184:09:35 pm by admin
 	CALL FOR PAPERS http://esug.org/wiki/pier/Conferences/2018/International-Workshop-IWST_18 Cagliari, Italy; Between September 10th and 14th, 2018 Goals and scopes The goals of the workshop is ...
 
-	-*VA Smalltalk News>va_news.pillar*
+-*VA Smalltalk News>posts/va_news.pillar*
 	11 April 20185:20:11 pm by admin
 	VAST 9.0 Success Story, New VAST Release Coming Soon, Growing our Staff https://mailchi.mp/instantiations/draft-va-smalltalk-news-2860809 Dear VA Smalltalk User, There has been so much going on...
 
-	-*ESUG 2018 Call for Participation>esug_cfp_18.pillar*
+-*ESUG 2018 Call for Participation>posts/esug_cfp_18.pillar*
 	6 February 20184:55:15 pm by admin
 	Call-for-Presentations 26rd International Smalltalk Joint Conference The ESUG board is pleased to announce that the 26th ESUG conference/summer-school will be held in Cagliari, Italy 10-14 September ...
 
-	-*Feb 5: First Smalltalk Meetup Lübeck/Germany>fsm_germany.pillar*
+-*Feb 5: First Smalltalk Meetup Lübeck/Germany>posts/fsm_germany.pillar*
 	12 January 20181:21:21 pm by admin
 	The first Smalltalk meeting in Lübeck/Germany will happen Feb 5/2018: More information: https://www.meetup.com/Smalltalker-Treff-Lubeck/events/245699471/
 
-	-*UK Smalltalk User Group Meeting - Monday, October 30th>uks_meeting.pillar*
+-*UK Smalltalk User Group Meeting - Monday, October 30th>posts/uks_meeting.pillar*
 	27 October 20171:46:43 pm by admin
 	PharoLambda: Smalltalk running serverless on AWS The next meeting of the UK Smalltalk User Group Meeting will be on Monday, 30th October. We'll meet at The City Pride, London (http://www.citypridecl...
 
 
 !Sponsors
 
+*Support ESUG actions! Become a Sponsor>become_sponsor.pillar*
+
+{{{
+<table class="table">
+    <tbody>
+      <tr>
+        <td><a href="http://gemtalksystems.com"><img src="http://esug.org/design/sponsor-gemtalk.png"  width="250" /></a></td>
+        <td><a href="http://www.instantiations.com"><img src="http://esug.org/design/sponsor-instantiations.jpg" width="250"/></a></td>
+        <td><a href="http://feenk.com"><img src="http://esug.org/design/sponsor-feenk.png" width="88" height="75" ></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://smalltalk.cincom.com/"><img src="http://esug.org/design/sponsor-cincom06.jpg" alt="cincom smalltalk logo"  width="250" /></a></td>
+        <td><a href="http://www.heeg.de/"><img src="http://esug.org/design/sponsor-heeg.gif" alt="sponsor-heeg.gif" width="88" height="75" /></a></td>
+        <td><a href="http://www.stic.org/"><img src="http://esug.org/design/sponsor-stic.png"></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.deltalloydgroep.com/en/home/."><img src="http://esug.org/design/Sponsor-DeltaLloyd.gif" alt="sponsor-DeltaLloyd.gif" width="200"/></a></td>
+        <td><a href="http://www.hrworks.de"><img src="http://esug.org/design/sponsor-hrworks.png"  height="70" /></a></td>
+        <td><a href="http://www.chameleonjohn.com/"><img src="http://esug.org/design/sponsor-chameleon.png" alt="sponsor-ChameleonJohn"  height="55" /></a></td>
+      </tr>
+	  <tr>
+        <td><a href="http://2denker.de/"><img src="http://esug.org/design/sponsor-2denker.png" alt="sponsor-2denker"  width="250"/></a></td>
+        <td><a href="http://www.mediagenix.tv"><img src="http://esug.org/design/sponsor-mediagenix.png" width="250"></a></td>
+        <td><a href="http://www.collogia.de"><img src="http://esug.org/design/sponsor-collogia.jpg" width="250"></a></td>
+      </tr>
+	  <tr>
+        <td><a href="https://www.palantirsolutions.com"><img src="http://esug.org/design/sponsor-palantir.png" width="250"></a></td>
+        <td><a href="http://http://objektfabrik.de"><img src="http://esug.org/design/sponsor-objektfabrik.jpg" width="250"></a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+<br/>
+<br/>
+}}}
+
+
+
 
 !Latest awards
+| *Moldable Editor>https://github.com/feenkcom/gtoolkit* | *SmartTest>https://github.com/badetitou/SmartTest* | *PharoThings>https://github.com/pharo-iot/PharoThings*
+| Aliaksei Syrel, Andrei Chis, Tudor Girba | Benoit Verhaeghe | Denis Kudriashov
+| +file://first_award.png+ | +file://second_award.png+ | +file://third_award.png+
 
+
+!Special awards
+| Promotion Award | 25 Years of Successful Smalltalk
+| *James Robertson>http://www.jarober.com/* | *Georg Heeg>http://www.heeg.de/*
+| +file://special_award.png+ | +file://25_years_award.png+
