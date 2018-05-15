@@ -66,7 +66,7 @@
         </div>
     </div>
     
-    <footer class="container-fluid fixed-bottom">
+    <footer class="footer">
         This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and Ecstatic<br>
         Organ theme by <a href="https://github.com/samakhov">Asbath</a>.
     </footer>
