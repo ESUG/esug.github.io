@@ -60,14 +60,9 @@
         </div>
     </nav>
     
-    <div class="container-fluid" id="main_content" style="max-width:900px; margin:auto">
+    <div class="container-fluid" id="main_content" style="max-width:1000px; margin:auto">
 		<div class="row">
-            <!--<div class="panel panel-default col-md-6">
-            <div class="panel-body">Something</div>
-            </div>-->
-            <!--<div class="panel panel-default col-md-6">-->
             <div class="panel-body">{{{content}}}</div>
-            <!--</div>-->
         </div>
     </div>
     
@@ -81,17 +76,13 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <!--<script>
-	hljs.initHighlightingOnLoad();
-	$("#{{title}}").addClass('active');
-	function transformAnnotatedParagraphs(pClass) {
-	    $("p." + pClass).wrap("<div class='alert alert-" + pClass + "' role='alert'/>" );
-	};
-	transformAnnotatedParagraphs('success');
-	transformAnnotatedParagraphs('info');
-	transformAnnotatedParagraphs('warning');
-	transformAnnotatedParagraphs('danger');
-	</script>-->
+	<script>
+		var table = document.getElementsByTagName("table");
+		for (i=1; i<table.length; i++) {
+			table[i].style.border = "";
+			table[i].setAttribute("class", "table");		
+		}
+	</script>
     
   </body>
 </html>

@@ -1,29 +1,67 @@
+! Welcome to ESUG
+
+The European Smalltalk User Group (ESUG) is a non-profit users organization that supports all kinds of Smalltalk initiatives, especially free-open source ones that benefit the whole Smalltalk community. For example 
+ESUG does:
+
+-Link all users of the Smalltalk programming language and environments in Europe, individual and corporate
+-Promote the use of Smalltalk
+-Support local users groups and establish new ones
+-Support Smalltalk projects and initiatives such as the *Free Seaside Hosting Server>http://www.seasidehosting.st/*
+
+
 !News
 
--*CFP - IWST 2018 - International Workshop on Smalltalk Technologies>posts/cfp_iwst_18.pillar*
-	12 April 20184:09:35 pm by admin
+*CFP - IWST 2018 - International Workshop on Smalltalk Technologies>posts/cfp_iwst_18.pillar*
+	
+12 April 20184:09:35 pm by admin
+
 	CALL FOR PAPERS http://esug.org/wiki/pier/Conferences/2018/International-Workshop-IWST_18 Cagliari, Italy; Between September 10th and 14th, 2018 Goals and scopes The goals of the workshop is ...
 
--*VA Smalltalk News>posts/va_news.pillar*
-	11 April 20185:20:11 pm by admin
+*VA Smalltalk News>posts/va_news.pillar*
+	
+11 April 20185:20:11 pm by admin
+
 	VAST 9.0 Success Story, New VAST Release Coming Soon, Growing our Staff https://mailchi.mp/instantiations/draft-va-smalltalk-news-2860809 Dear VA Smalltalk User, There has been so much going on...
 
--*ESUG 2018 Call for Participation>posts/esug_cfp_18.pillar*
+*ESUG 2018 Call for Participation>posts/esug_cfp_18.pillar*
+	
 	6 February 20184:55:15 pm by admin
+
 	Call-for-Presentations 26rd International Smalltalk Joint Conference The ESUG board is pleased to announce that the 26th ESUG conference/summer-school will be held in Cagliari, Italy 10-14 September ...
 
--*Feb 5: First Smalltalk Meetup Lübeck/Germany>posts/fsm_germany.pillar*
+*Feb 5: First Smalltalk Meetup Lübeck/Germany>posts/fsm_germany.pillar*
+	
 	12 January 20181:21:21 pm by admin
+
 	The first Smalltalk meeting in Lübeck/Germany will happen Feb 5/2018: More information: https://www.meetup.com/Smalltalker-Treff-Lubeck/events/245699471/
 
--*UK Smalltalk User Group Meeting - Monday, October 30th>posts/uks_meeting.pillar*
+*UK Smalltalk User Group Meeting - Monday, October 30th>posts/uks_meeting.pillar*
+	
 	27 October 20171:46:43 pm by admin
-	PharoLambda: Smalltalk running serverless on AWS The next meeting of the UK Smalltalk User Group Meeting will be on Monday, 30th October. We'll meet at The City Pride, London (http://www.citypridecl...
 
+	PharoLambda: Smalltalk running serverless on AWS The next meeting of the UK Smalltalk User Group Meeting will be on Monday, 30th October. We'll meet at The City Pride, London (http://www.citypridecl...
 
 !Sponsors
 
 *Support ESUG actions! Become a Sponsor>become_sponsor.pillar*
+
+
+{{{
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="esug-info@esug.org">
+<input type="hidden" name="item_name" value="Donation to Support ESUG">
+<input type="hidden" name="item_number" value="Donation to Support ESUG">
+<input type="hidden" name="cn" value="Comments">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+</form>
+<a href="http://flattr.com/thing/40240/European-Smalltalk-UserGroup" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
+<br>
+}}}
 
 {{{
 <table class="table">
