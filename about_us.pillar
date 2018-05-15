@@ -1,13 +1,8 @@
-!About Us
+!!About Us
 
 +file://Aboutus.jpg|width=70|label=aboutus+
 
-
-!Contact ESUG
-
--You can reach the ESUG board at *board@esug.org*
-
-!Board
+!!Board
 The ESUG Board as elected 2010
 -President: *Stéphane Ducasse>http://stephane.ducasse.free.fr/* (Inria)
 -Treasurer: *Luc Fabresse>http://car.mines-douai.fr/luc* (EMD)
@@ -18,7 +13,12 @@ The ESUG Board as elected 2010
 -*Serge Stinckwich>http://doesnotunderstand.org/* (IRD)
 
 
-!Legal Information
+!!Contact ESUG
+
+-You can reach the ESUG board at *board@esug.org*
+
+
+!!Legal Information
 ESUG is a french-law association, and hence it is not subject to the VAT. It does not have a siret number but is registered under the number W751167780.
 - *CreditCard>http://www.esug.org/wiki/pier/About/CreditCard?_s=SWBep7RcK9EHbR2m&_k=-xlOIQmbHmdZ7XyB&_n&22*
 {{{html:
@@ -35,8 +35,7 @@ ESUG is a french-law association, and hence it is not subject to the VAT. It doe
 }}}
 
 
-
-!Our Goals
+!!Our Goals
 ESUG is a non-profit association that gathers all European users of all dialects of Smalltalk. It was registered in 1991 under French status "Association de Loi 1901".
 
 Its goals are to:
@@ -52,10 +51,4 @@ For mailings to members and everybody who subscribed directly to the mailing lis
 
 Info on the ESUG board members is also available. If you want to become an ESUG member, you can check out the Membership page.
 
-${columns}$
-   ${column:width=60}$
-!Contact ESUG
--You can reach the ESUG board at *board@esug.org*
-   ${column:40}$
-Test
-${endColumns}$
+

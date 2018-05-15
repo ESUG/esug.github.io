@@ -82,6 +82,11 @@
 			table[i].style.border = "";
 			table[i].setAttribute("class", "table");		
 		}
+
+		var captions = document.getElementsByTagName("figcaption");
+		for (i=0; i<captions.length; i++) {
+			captions[i].innerHTML=""
+		}
 	</script>
     
   </body>
