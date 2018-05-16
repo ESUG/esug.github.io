@@ -14,7 +14,7 @@
     <link rel="stylesheet" type="text/css" href="{{baseurl}}/theme/print.css" media="print">-->
 	<!--<script src="{{baseurl}}theme/highlight/highlight.pack.js"></script>-->
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/style_conf.css">
+	<!--<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/style.css">-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -37,7 +37,7 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
-                    {{# menu }}
+                    {{# menu_conf }}
                     <li role="presentation" id="{{title}}" {{# has_subfiles }}class="dropdown"{{/ has_subfiles }}>
                         <!--<div>-->
 						<a href="{{url}}" {{# has_subfiles }}class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"{{/ has_subfiles }}>
@@ -54,20 +54,26 @@
                         {{/ has_subfiles }}
 						<!--</div>-->
                    </li>
-	               {{/ menu }}
+	               {{/ menu_conf }}
                 </ul>
             </div>
         </div>
     </nav>
     
-    <div class="container-fluid" id="main_content" style="max-width:1000px; margin:auto">
+    <div class="container-fluid" id="main_content">
 		<div class="row">
+            <!--<div class="panel panel-default col-md-6">
+            <div class="panel-body">Something</div>
+            </div>-->
+            <!--<div class="panel panel-default col-md-6">-->
             <div class="panel-body">{{{content}}}</div>
+            <!--</div>-->
         </div>
     </div>
     
-    <footer class="footer">
-        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and <a href="https://github.com/guillep/ecstatic">Ecstatic</a><br/><br/>
+    <footer class="container-fluid fixed-bottom">
+        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and Ecstatic<br>
+        Organ theme by <a href="https://github.com/samakhov">Asbath</a>.
     </footer>
 
 
@@ -75,18 +81,17 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script>
-		var table = document.getElementsByTagName("table");
-		for (i=1; i<table.length; i++) {
-			table[i].style.border = "";
-			table[i].setAttribute("class", "table");		
-		}
-
-		var captions = document.getElementsByTagName("figcaption");
-		for (i=0; i<captions.length; i++) {
-			captions[i].innerHTML=""
-		}
-	</script>
+    <!--<script>
+	hljs.initHighlightingOnLoad();
+	$("#{{title}}").addClass('active');
+	function transformAnnotatedParagraphs(pClass) {
+	    $("p." + pClass).wrap("<div class='alert alert-" + pClass + "' role='alert'/>" );
+	};
+	transformAnnotatedParagraphs('success');
+	transformAnnotatedParagraphs('info');
+	transformAnnotatedParagraphs('warning');
+	transformAnnotatedParagraphs('danger');
+	</script>-->
     
   </body>
 </html>
