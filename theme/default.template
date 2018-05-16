@@ -67,8 +67,7 @@
     </div>
     
     <footer class="footer">
-        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and Ecstatic<br>
-        Organ theme by <a href="https://github.com/samakhov">Asbath</a>.
+        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and <a href="https://github.com/guillep/ecstatic">Ecstatic</a><br/><br/>
     </footer>
 
 
