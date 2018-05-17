@@ -21,7 +21,7 @@ html, body{
         text-align: justify;
         background-color: white;
 }
-.container {
+/*.container {
           width: 100%;
           min-height: 100%;
           height: auto !important;
@@ -54,7 +54,7 @@ a:focus.page, a:active {
 }
 .clear{
         clear: both;
-}
+}*/
 /*header*/
 
 .header{
@@ -113,7 +113,7 @@ a:focus.page, a:active {
 }
 /* children Menue (Main) */
 
-.header .children a{
+/*.header .children a{
         height: 40px;
 }
 .header .children a.page{		
@@ -150,7 +150,7 @@ a:focus.page, a:active {
 	height: 40px;
 	display: inline;  
         margin: 15px;       
-}
+}*/
 
 /* submenue */
 
@@ -294,9 +294,9 @@ a.post{
            float: right;
            }
 .footer {
-        height: 150px;
+        height: 70px;
         width: 100%;
-        background-image: url("http://esug.org/design/footer2.png"); 
+        background-image: url("http://esug.org/design/footer2.png");
         background-repeat: x;
 }
 .madeby {
