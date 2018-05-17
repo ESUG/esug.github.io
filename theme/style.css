@@ -27,6 +27,7 @@ img {
 .navbar {
 
 	background-color: white; !important
+	border-bottom: none; !important
 }
 
 .boxesnodot {

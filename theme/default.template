@@ -13,8 +13,8 @@
 	<!--<script src="{{baseurl}}theme/highlight/highlight.pack.js"></script>-->
 	<!-- Latest compiled and minified CSS -->
 	<!--<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/organ.css">-->
-	<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/style.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/style.css">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -66,7 +66,8 @@
     </div>
     
     <footer class="footer">
-        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and <a href="https://github.com/guillep/ecstatic">Ecstatic</a>
+        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and <a href="https://github.com/guillep/ecstatic">Ecstatic</a><br/>
+		Source Code and <a href="https://github.com/ESUG/esug.github.io/issues">Issue Tracker</a> hosted on <a href="https://github.com/ESUG/esug.github.io">Github</a>
     </footer>
 
 
