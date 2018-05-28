@@ -7,8 +7,16 @@
 The ESUG board is pleased to announce that the 26th ESUG conference/summer-school will be held in Cagliari, Italy 10-14 September 2018; with Camp Smalltalk 8-9 September 2018. The conference is co-organised by *University of Cagliari>http://www.unica.it/* and the Agile Group of the Faculty of computer science.
 
 !!!Conference calls
--*Call for Presentations>call2018.pillar*
--*Call for Student Volunteers>callForStudents2018.pillar*
+- *Call for Presentations>call2018.pillar*
+- *Call for Student Volunteers>callForStudents2018.pillar*
+
+!!! Conference registration
+@registration
+The conference registration is open.
+Pay attention the 10th of July is the deadline for the early registration
+*http://registration.esug.org*
+
+
 
 !!!Conference Program
 -Conference-Schedule
@@ -17,32 +25,33 @@ The ESUG board is pleased to announce that the 26th ESUG conference/summer-schoo
 -Tuesday
 -Wednesday
 -Thursday
--Friday
--Social-Event
+ -Friday
+- *Social-Event>@social* *@social*
 
 -""Conference-Registration""
 
 !!!International WorkShop IWST
--CfP: *IWST_18>iwst_2018.pillar*
--IWST-Program
--Proceedings in the *ACM Digital Library>http://dl.acm.org/citation.cfm?id=2991041&preflayout=flat*
--Download IWST-Proceedings
+- CfP: *IWST18>cfpIWST2018.pillar*
+- IWST-Program
+- Proceedings in the *ACM Digital Library>http://dl.acm.org/citation.cfm?id=2991041&preflayout=flat*
+- Download IWST-Proceedings (later)
 
-!!!Innovation-Technology-Awards
--Submissions
--*Vote counting process details>process_details.pillar*
+!!!Innovation Technology Awards
+Submissions 
+- Prepare a 3-5 min videos and post it to youtube!
+- Send a title and a description to (to be announced)
+- *Vote counting process details>process_details.pillar*
 
 !!!Cagliari and Sardania
 
 Cagliari is the largest city of Sardania.
-
 -*https://en.wikipedia.org/wiki/Cagliari*
 -*https://www.lonelyplanet.com/italy/sardinia/cagliari*
 -*http://www.cagliariturismo.it/en/*
 
 !!!Venue and Maps
 
-!!!Conference venue
+!!!!Conference venue
 
 The conference will be held at the University of Cagliari.
 
@@ -52,29 +61,24 @@ Piazza D'Armi
 09123 Cagliari, Italy
 ]]]
 
-
-
-!!!Maps
-
-Information to be provided
-
-
-!!!Hotels
-
-Information to be provided.
+!!!! Social Event
+@social
+Soon to be announced. 
+If you want to attend the social event with your partner contact us: board@esug.org
 
 !!!!Student volunteer hosting
+	See *Call for Student Volunteers>callForStudents2018.pillar*
 
 !!!How to reach Cagliari
 
 Cagliari has an international airport located at 10 min by train or taxi.
 
--Taxi cost around 20 Euros
--Trains cost 1.5 Euros
+- Taxi cost around 20 Euros
+- Trains cost 1.5 Euros
 
 !!!Conference live
 
--Videos will be on Youtube
--SlideShare: *http://www.slideshare.net/esug/presentations*
--Archive: *http://www.esug.org/data/ESUG2018/*
--Videos are on Youtube: PlayList ESUG2018 Main
+- Videos will be on Youtube
+- SlideShare: *http://www.slideshare.net/esug/presentations*
+- Archive: *http://www.esug.org/data/ESUG2018/*
+- Videos are on Youtube: PlayList ESUG2018 Main
