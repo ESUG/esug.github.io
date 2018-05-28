@@ -2,8 +2,7 @@
 "title": "IWST 2018"
 }
 
-!IWST_18
-!!CALL FOR PAPERS
+!IWST 18 Information and Call For Papers
 
 IWST18 — International Workshop on Smalltalk Technologies Cagliari, Italy; September 10-14th, 2018
 
@@ -14,32 +13,31 @@ The goals of the workshop is to create a forum around advances or experience in 
 
 We expect papers of three kinds:
 
--Short position papers describing emerging ideas
--Long research papers with deeper description of experiments and of research results.
--Industrial papers with presentation of real and innovative Smalltalk applications; this kind of paper should enlighten why Smalltalk is really appropriate for your application.
+- Short position papers describing emerging ideas
+- Long research papers with deeper description of experiments and of research results.
+- Industrial papers with presentation of real and innovative Smalltalk applications; this kind of paper should enlighten why Smalltalk is really appropriate for your application.
 
 We will not enforce any length restriction.
 
-
 ""Important Dates""
 
--Submission deadline: June 15th, 2018
--Notification deadline: July 20th, 2018
--Workshop: between September 10th and 14th, 2018
+- Submission deadline: June 15th, 2018
+- Notification deadline: July 20th, 2018
+- Workshop: between September 10th and 14th, 2018
 
 
 ""Topics""
 
 We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
 
--Aspect-oriented programming,
--Design patterns,
--Experience reports,
--Frameworks,
--Implementation, new dialects or languages implemented in Smalltalk,
--Interaction with other languages,
--Meta-programming and Meta-modeling,
--Tools
+- Aspect-oriented programming,
+- Design patterns,
+- Experience reports,
+- Frameworks,
+- Implementation, new dialects or languages implemented in Smalltalk,
+- Interaction with other languages,
+- Meta-programming and Meta-modeling,
+- Tools
 
 
 ""Best Paper Award""
@@ -62,27 +60,27 @@ All submissions must be sent via easychair: *https://easychair.org/conferences/?
 
 ""Program chairs""
 
--Anne Etien (Université de Lille, France)
--Loïc Lagadec (Ensta Bretagne, France)
+- Anne Etien (Université de Lille, France)
+- Loïc Lagadec (Ensta Bretagne, France)
 
 
 ""Program Committee""
 
--Vincent Aranega, Axellience, France
--Clement Bera, Pharo Consortium, France
--Alexandre Bergel, University of Chile, Chile
--Vincent Blondeau, Lam Research, US
--Leandro Caniglia, Palantir Solutions
--Andrei Chis, Feenk, Switzerland
--Steven Costiou, Université de Brest, France
--Serge Demeyer, University of Antwerpen, Belgium
--Luc Fabresse, Institut Mines Telecom, France
--Nevena (Milojković) Lazarevic, University of Bern, Switzerland
--Hayatou Oumarou, University of Maroua, Cameroon
--Robert Pergl, Czech Technical University, Czech Republic
--Alain Plantec, Université de Brest, France
--Guillermo Polito, Cnrs, France
--Henrique Rocha, Inria, France
--Juan Pablo Sandoval Alcocer, Chile
--Gustavo Santos, Brazil
--Andres Valoud, LabWare, US
+- Vincent Aranega, Axellience, France
+- Clément Bera, Soft-VUB, Belgium
+- Alexandre Bergel, University of Chile, Chile
+- Vincent Blondeau, Lam Research, US
+- Leandro Caniglia, Palantir Solutions
+- Andrei Chis, Feenk, Switzerland
+- Steven Costiou, Université de Brest, France
+- Serge Demeyer, University of Antwerpen, Belgium
+- Luc Fabresse, Institut Mines Telecom, France
+- Nevena (Milojković) Lazarevic, University of Bern, Switzerland
+- Hayatou Oumarou, University of Maroua, Cameroon
+- Robert Pergl, Czech Technical University, Czech Republic
+- Alain Plantec, Université de Brest, France
+- Guillermo Polito, Cnrs, France
+- Henrique Rocha, Inria, France
+- Juan Pablo Sandoval Alcocer, Chile
+- Gustavo Santos, Brazil
+- Andres Valoud, LabWare, US
