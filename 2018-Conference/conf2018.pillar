@@ -50,7 +50,9 @@ Cagliari is the largest city of Sardania.
 
 !!!Venue and Maps
 
-*GoogleMaps>https://drive.google.com/open?id=1ERipc8QFZ0tfCQ_yJayiUcJV1Xj6IFZT&usp=sharing*
+{{{
+<iframe src="https://www.google.com/maps/d/embed?mid=1ERipc8QFZ0tfCQ_yJayiUcJV1Xj6IFZT" width="640" height="480"></iframe>
+}}}
 
 !!!!Conference venue
 
