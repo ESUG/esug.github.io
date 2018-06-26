@@ -3,7 +3,7 @@
 Jan Vrany (jan.vrany@fit.cvut.cz)
 ""Abstract: "" Smalltalk environments are traditionally praised for their debugging
 features based on runtime reflection. However, some kinds of problems
-are difficult - if not impossible - to debug using traditional malltalk
+are difficult - if not impossible - to debug using traditional smalltalk
 in-process tools such as debuggers or inspectors. To name some: crashes
 in external libraries called via faulty runtime of FFI, heap
 corruption, race conditions. 
