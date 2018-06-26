@@ -1,0 +1,8 @@
+! Roassal: Current Status and Future Plan
+
+Alexandre Bergel (Alexandre.Bergel@me.com)
+
+""Abstract:"" Roassal has become the standard platform to visualize data in Pharo and VisualWorks. Roassal contains numerous tunable and interactive visualizations. This presentation highlights the latest progress of Roassal and outline the integration plan with Bloc. 
+More information about Roassal: http://AgileVisualization.com
+
+""Bio:"" Alexandre Bergel is Assistant Professor and researcher at the University of Chile. Alexandre Bergel and his collaborators carry out research in software engineering. His effort is about designing tools and methodologies to improve the overall performance and internal quality of software systems, by employing profiling, visualization, and artificial intelligence techniques. Alexandre Bergel has authored over 100 articles, published in international and peer reviewed scientific forums, including the most competitive conferences and journals in the field of software engineering. Alexandre has participated to over 107 program committees of international events. Alexandre has also a strong interest in applying his research results to industry. Several of his research prototypes have been turned into products and adopted by major companies in the semi-conductor industry and certification of critical software systems. Alexandre authored the book Agile Visualization and co-authored the book Deep Into Pharo.

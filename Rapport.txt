@@ -1,0 +1,15 @@
+23/01/2018
+First upload on github account ESUG/esug.github.io cretaed by Guillermo Polito for managing the project.
+At this moment we have a general idea of what the site will be.
+
+25/01/2018
+URL's was broken, then I try to fix it by removing the base URL. I will try to avoid generating website on PRs
+(looking at travis configuration).
+
+30/01/2018
+Adding some contents, of the original site (pages for conf 2018 and publications)
+
+4/02/2018
+Continue transfering contents from esug.org.
+Pages concerning Smalltalk press, companies, and archive.
+Now I am going to play with design. I will try to give a better organisation (a good theme).

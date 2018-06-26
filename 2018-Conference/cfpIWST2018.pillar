@@ -1,0 +1,86 @@
+{
+"title": "IWST 2018"
+}
+
+!IWST 18 Information and Call For Papers
+
+IWST18 — International Workshop on Smalltalk Technologies Cagliari, Italy; September 10-14th, 2018
+
+
+""Goals and scopes""
+
+The goals of the workshop is to create a forum around advances or experience in Smalltalk and to trigger discussions and exchanges of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Participants are invited to submit research articles or industrial papers. This year we want to open two different tracks: one research track and one industrial track with less scientific constraints.
+
+We expect papers of three kinds:
+
+- Short position papers describing emerging ideas
+- Long research papers with deeper description of experiments and of research results.
+- Industrial papers with presentation of real and innovative Smalltalk applications; this kind of paper should enlighten why Smalltalk is really appropriate for your application.
+
+We will not enforce any length restriction.
+
+""Important Dates""
+
+- Submission deadline: June 15th, 2018
+- Notification deadline: July 10th, 2018 (Pay attention the news on the old esug server is not correct!)
+- Workshop: between September 10th and 14th, 2018
+
+
+""Topics""
+
+We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
+
+- Aspect-oriented programming,
+- Design patterns,
+- Experience reports,
+- Frameworks,
+- Implementation, new dialects or languages implemented in Smalltalk,
+- Interaction with other languages,
+- Meta-programming and Meta-modeling,
+- Tools
+
+
+""Best Paper Award""
+
+To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST.
+
+We thank the Lam Research Corporation for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
+
+The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
+
+The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be illegible, a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
+
+
+""Publication""
+
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
+
+All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst18*
+
+
+""Program chairs""
+
+- Anne Etien (Université de Lille, France)
+- Loïc Lagadec (Ensta Bretagne, France)
+
+
+""Program Committee""
+
+- Vincent Aranega, Axellience, France
+- Clément Bera, Soft-VUB, Belgium
+- Alexandre Bergel, University of Chile, Chile
+- Vincent Blondeau, Lam Research, US
+- Leandro Caniglia, Palantir Solutions
+- Andrei Chis, Feenk, Switzerland
+- Steven Costiou, Université de Brest, France
+- Serge Demeyer, University of Antwerpen, Belgium
+- Luc Fabresse, Institut Mines Telecom, France
+- Nevena (Milojković) Lazarevic, University of Bern, Switzerland
+- Hayatou Oumarou, University of Maroua, Cameroon
+- Robert Pergl, Czech Technical University, Czech Republic
+- Alain Plantec, Université de Brest, France
+- Guillermo Polito, Cnrs, France
+- Henrique Rocha, Inria, France
+- Juan Pablo Sandoval Alcocer, Chile
+- Gustavo Santos, Brazil
+- Andres Valoud, LabWare, US

@@ -1,0 +1,22 @@
+{
+"title": "Your Project"
+}
+
+!Your Project
+
++file://images/Promotion.jpg|width=70|label=Promote+
+
+
+''ESUG wants to support your projects. It can be projects related to software development, teaching, conference presence, etc.''
+
+!!Rules
+
+-Describe your project in one page max
+-Give us a motivation and a budget: why should we give you our money and how much ?
+-Give us all the data that you think makes sense for us to understand why you apply
+-If your project is software development it must be open-source and must be in Smalltalk
+
+
+!! Selected Projects
+-Morphic 3
+-DrGeo Scripting Syntax extension

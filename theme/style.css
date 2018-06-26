@@ -1,0 +1,62 @@
+html{
+	position: relative;
+	min-height: 100%;
+}
+
+body{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-family: helvetica neue, helvetica;
+	text-align: justify;
+	background-color: white;
+	margin-bottom: 70px;
+}
+
+
+footer {
+	position: absolute;
+	text-align:center;
+	background: #f4f2e1;
+	width: 100%;
+	height: 70px;
+	bottom: 0;   
+	background-image: url("http://esug.org/design/footer2.png");
+	background-repeat: x;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar {
+
+	background-color: white; !important
+	border-bottom: none; !important
+}
+
+.boxesnodot {
+      padding: 15px;
+       width: 320px;
+       height: auto;
+}
+
+.boxes{
+       border: 1px dotted;
+       padding: 15px;
+       width: 320px;
+       height: auto;
+      
+}
+
+.toright {
+  float: right;
+}
+
+.blogbox{
+       width: 380px;
+       padding-top: 30px;
+}
+

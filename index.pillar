@@ -1,0 +1,119 @@
+
+{{{
+<div class="boxes toright">
+}}}*Support ESUG actions! Become a Sponsor!>become_sponsor.pillar*
+{{{<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="esug-info@esug.org">
+<input type="hidden" name="item_name" value="Donation to Support ESUG">
+<input type="hidden" name="item_number" value="Donation to Support ESUG">
+<input type="hidden" name="cn" value="Comments">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+</form>
+<a href="http://flattr.com/thing/40240/European-Smalltalk-UserGroup" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
+<br>
+}}}
+
+{{{
+
+
+<b>Platinum Sponsors</b><br>
+<a href="http://gemtalksystems.com"><img src="http://esug.org/design/sponsor-gemtalk.png"  width="250" /></a><br>
+<a href="http://www.instantiations.com"><img src="http://esug.org/design/sponsor-instantiations.jpg"  width="250" /></a><br>
+<a href="http://feenk.com"><img src="http://esug.org/design/sponsor-feenk.png" height="80" ></a><br>
+<b>Golden Sponsors</b><br>
+<a href="http://smalltalk.cincom.com/"><img src="http://esug.org/design/sponsor-cincom06.jpg" alt="cincom smalltalk logo"  width="250" /></a><br>
+<a href="http://www.heeg.de/"><img src="http://esug.org/design/sponsor-heeg.gif" alt="sponsor-heeg.gif" width="88" height="75" /></a><br>
+<a href="http://www.stic.org/"><img src="http://esug.org/design/sponsor-stic.png"></a><br>
+<br>
+
+
+<a href="http://www.ohra.nl"><img src="http://esug.org/design/sponsor-ohra.png" alt="sponsor-ohra.png" width="200"/></a><br/>
+<b>Silver Sponsors</b><br/>
+<a href="http://www.hrworks.de"><img src="http://esug.org/design/sponsor-hrworks.png"  height="70" /></a><br/>
+<a href="http://www.chameleonjohn.com/"><img src="http://esug.org/design/sponsor-chameleon.png" alt="sponsor-ChameleonJohn"  height="55" /></a><br/>
+<a href="http://2denker.de/"><img src="http://esug.org/design/sponsor-2denker.png" alt="sponsor-2denker"  width="250" /></a><br/>
+<a href="http://www.mediagenix.tv"><img src="http://esug.org/design/sponsor-mediagenix.png" width="250"> </a>
+
+<a href="http://www.collogia.de"><img src="http://esug.org/design/sponsor-collogia.jpg" width="250"> </a>
+
+<a href="https://www.palantirsolutions.com"><img src="http://esug.org/design/sponsor-palantir.png" width="250"> </a>
+
+<a href="http://http://objektfabrik.de"><img src="http://esug.org/design/sponsor-objektfabrik.jpg" width="250"> </a>
+
+
+<br/>
+
+</div>
+}}}
+
+
+{{{<div class="blogbox">}}}
+
+!Welcome to ESUG
+
+The European Smalltalk User Group (ESUG) is a non-profit users organization that supports all kinds of  initiatives around the Smalltalk programming language. ESUG is supporting especially free-open source actions that benefit the whole Smalltalk community. For example ESUG does:
+
+- Link all users of the Smalltalk programming language and environments in Europe, individual and corporate
+- Promote the use of Smalltalk and lectures
+- Support local users groups and establish new ones
+- Support students and researchers to meet and collaborate
+- Organize a yearly conference and sponsor other Smalltalk conferences
+
+! ESUG 2018
+- *From 10 to 14th September at Cagliari, Sardaigna.>2018-Conference/conf2018.pillar*
+- *Registration is now open>2018-Conference/conf2018.pillar*
+Do not miss the conference! 
+
+!News
+
+!!!! Registration is open! 
+See *Registration>2018-Conference/conf2018.pillar*.
+End of early registration is 13th of July! Register earlier, else pay more. 
+
+!!!! ESUG 2018 conference web site
+*2018 Conference at Cagliari>2018-Conference/conf2018.pillar*
+From 10 to 14th September at Cagliari, Sardaigna. Do not miss the conference! 
+
+!!!! IWST call for Papers
+*CFP - IWST 2018 - International Workshop on Smalltalk Technologies>2018-Conference/cfpIWST2018.pillar*
+
+	CALL FOR PAPERS Cagliari, Italy; Between September 10th and 14th, 2018 Goals and scopes The goals of the workshop is ...
+
+!!!! VA Smalltalk 
+*VA Smalltalk News>posts/va_news.pillar*
+
+	VAST 9.0 Success Story, New VAST Release Coming Soon, Growing our Staff https://mailchi.mp/instantiations/draft-va-smalltalk-news-2860809 Dear VA Smalltalk User, There has been so much going on...
+
+!!!! ESUG 2018 Call for Participation
+*ESUG 2018 Call for Participation>2018-Conference/call2018.pillar*
+
+	Call-for-Presentations 26rd International Smalltalk Joint Conference The ESUG board is pleased to announce that the 26th ESUG conference/summer-school will be held in Cagliari, Italy 10-14 September ...
+
+!!!! Meetup at Lubeck
+*Feb 5: First Smalltalk Meetup Lübeck/Germany>posts/fsm_germany.pillar*
+	
+	The first Smalltalk meeting in Lübeck/Germany will happen Feb 5/2018: More information: *https://www.meetup.com/Smalltalker-Treff-Lubeck/events/245699471/*
+
+!!!! UK User Group Meeting
+*UK Smalltalk User Group Meeting - Monday, October 30th>posts/uks_meeting.pillar*
+	
+PharoLambda: Smalltalk running serverless on AWS The next meeting of the UK Smalltalk User Group Meeting will be on Monday, 30th October. We'll meet at The City Pride, London
+
+{{{</div><br/><br/><br/>}}}
+
+
+! 2017 Awards
+| *Moldable Editor>https://github.com/feenkcom/gtoolkit* | *SmartTest>https://github.com/badetitou/SmartTest* | *PharoThings>https://github.com/pharo-iot/PharoThings*
+| Aliaksei Syrel, Andrei Chis, Tudor Girba | Benoit Verhaeghe | Denis Kudriashov
+| +file://images/2017-1st-Award.png+ | +file://images/2017-2nd-Award.png+ | +file://images/2017-3rd-Award.png+
+
+
+!Special Awards
+| Promotion Award | 25 Years of Successful Smalltalk
+| *James Robertson>http://www.jarober.com/* | *Georg Heeg>http://www.heeg.de/*
+| +file://images/special-award.png+ | +file://images/25-years-award.png+
