@@ -1,0 +1,7 @@
+! Prototypes in Pharo
+
+Pavel Krivanek (pavel.krivanek@gmail.com)
+
+""Abstract:"" In this talk, I will present the features, advantages and disadvantages of the object model based on prototypes used in the Self programming language. I will describe how to use prototypes in Pharo and show some details of the implementation.   
+
+""Bio:"" Pavel Krivanek is a software engineer at Inria Nord Europe in (http://rmod.lille.inria.fr) RMoD team. He actively participates in the Pharo open source community with the primary focus on Pharo modularization, bootstrapping and cleaning. Currently, he works on the new meta-modelling infrastructure of the Moose platform. 
