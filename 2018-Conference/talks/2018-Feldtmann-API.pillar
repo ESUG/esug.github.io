@@ -1,0 +1,7 @@
+! Practical API development using Gemstone/S
+
+Marten Feldtmann (marten@feldtmann.online)
+
+""Abstract:"" With this talk I want to show an API oriented programming model, where Gemstone/s works as a database and center of the whole system. We've used this approach in three projects/products with different languages on the client side: Java, C#, Python and Sencha ExtJS UI (Javascript).
+
+""Bio:"" Smalltalker starting on Atari ST somewhere in the 1980ties, VisualSmalltalk under OS/2, VisualWorks under Windows, VisualAge under Windows, Linux and Solaris - now Gemstone/S.
