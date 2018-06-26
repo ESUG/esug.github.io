@@ -1,0 +1,11 @@
+! Smalltalk Security Landscape
+
+Jerry Kott (jkott@image-ware.com)
+
+""Abstract:""
+In this talk, Jerry will present an overview of various Smalltalk dialects, platforms and frameworks in the context of cybersecurity threat landscape. He will focus on the OWASP Top Ten most critical web application vulnerabilities and how they apply to Smalltalk-written web applications. He will show practical examples of testing Smalltalk applications for security vulnerabilities.
+
+""Bio:""
+Jerry has been a Smalltalk developer and advocate for over 25 years. Throughout his career, he has worked as a Smalltalk consultant in a variety of industries including finance, insurance, telecommunications, manufacturing and entertainment. He spent ten years as an engineer at Cincom Systems where he was responsible for protocols and web application development components of the Cincom Smalltalk Foundation.
+Jerry’s interest in cybersecurity led him to pursue advanced cybersecurity training. He is an Offensive Security Certified Professional, with additional training in Enterprise Incident Response from Mandiant, a leading cybersecurity consulting firm. In his quest for understanding all aspects of security, he developed a deep appreciation for the human side of cybersecurity and learning of the attacker mindset.
+After leaving Cincom, Jerry has focused his energy on applying cybersecurity's best practices in the Smalltalk space, doing research in vulnerability assessment and penetration testing. 

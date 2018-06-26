@@ -1,0 +1,9 @@
+! Application Development with VA Smalltalk
+
+Alexander Mitin (amitin@instantiations.com)
+
+""Abstract:""
+Alexander Mitin, joined by Seth Berman, from Instantiations will demonstrate real world application development using VA Smalltalk.  This demonstration will touch on topics such as UI Builders, an advanced code editor, configuration management with ENVY, code coverage and metrics, performance and memory profiling, remote debugging, cross-development packaging, image reduction capability and more.
+
+""Bio:""
+Prior to Instantiations, Alexander spent more than 5 years developing software for a steel company where he gained expertise in a wide variety of domains, including the development of real-time systems. After joining Instantiations in November of 2003, Alexander became a key developer for the award-winning WindowBuilder project, including the famous GWT Designer product which was acquired by Google.  Following this, Alexander joined Instantiation's Smalltalk department, becoming the team lead engineer for the next-generation of VA Smalltalk's virtual machine and overseas all vm development tasks.  Alexander has a B.S. and M.S. in Electric Engineering.

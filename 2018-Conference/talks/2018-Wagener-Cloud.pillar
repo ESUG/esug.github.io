@@ -1,0 +1,7 @@
+! Something for the Cloud
+
+Roland Wagener (roland@heeg.de)
+
+""Abstract:"" Goal of the research project 'Cloud-basierte Collaboration Software auf dem Weg zur Information 4.0 Welt von morgen' funded by the EU and Efre NRW is to find solutions to enable smooth collaboration between  project participants using an office automation software which stores its data in a hybrid cloud. The software is implemented in VisualWorks and uses Postgres as its back-end. The following solutions were developed in the project: aPart as a development framework (see presentation by Richard Uttner), a generic GlorpPart framework to ease the development of UIs for domain objects stored in a database, the DeltaLibrary for secure file storage using highspeed retrieval and distribution in networks, a dynamic translation mechanism for displaying e.g. names of domain objects, and an infrastructure to allow zooming of UIs to adapt for visually impaired users. And of course we use an automatic build and test framework to keep our development process agile.
+
+""Bio:"" Working for Georg Heeg since 1990, I worked with all VisualWorks versions ever released. First used it to solve support calls with customers, then I teached Smalltalk using VisualWorks, and finally I started consulting customers and implementing frameworks.

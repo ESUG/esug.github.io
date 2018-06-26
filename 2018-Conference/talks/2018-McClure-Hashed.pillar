@@ -1,0 +1,25 @@
+! Hashed Collections: You Can (and sometimes should) Build Your Own
+
+Martin McClure (martin.mcclure@gemtalksystems.com)
+Andres Valloud (andres.valloud@gmail.com)
+
+""Abstract:""
+Hashed collections -- Sets, Dictionaries, and the like. We all use them,
+but sometimes the built-in ones don't quite fit our needs. We'll start
+by reviewing the concepts behind hashed collections. Martin and Andres
+will also swap stories of oddball collections they have implemented,
+discuss why you might want your own collection classes, and show how to
+create ones that perform well.
+
+""Bio:""
+Martin has been interested in Smalltalk since he first heard about it in
+1975. After a frustrating ten-year wait he finally got his hands on a
+running Smalltalk system and hasn't let go since. He is a senior
+engineer at GemTalk, working on the GemStone Smalltalk product line. In
+his spare time, he works on Mist, a Smalltalk variant with improved
+modularity and security and no virtual machine.
+
+""Bio:""
+Andres started working on Smalltalk in 1996, and has been developing
+virtual machines since 2007. He is the author of three books on
+Smalltalk, and currently works at LabWare.
