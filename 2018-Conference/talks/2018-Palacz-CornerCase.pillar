@@ -1,0 +1,11 @@
+! Pharo in Corner Cases of the Enterprise
+
+Name: Piotr Palacz
+Email: piotr@palacz.net
+Abstract: Based on my experiences from using Pharo over the last three years in three different industrial projects, I propose to discuss the following:
+- What are the areas were Pharo can be used successfully in an enterprise context
+- What are ways of introducing Pharo to non-mainstream-technology-averse organizations
+- What in Pharo is attractive for the independents and small companies who provide IT services pertaining to a lifecycle of enterprise systems
+- What in Pharo could be improved to increase this attractiveness.
+
+Bio: My first contact with Smalltalk was around '87 - I took a Smalltalk course at school, using Digitalk/V. I worked with Smalltalk full time between 1990 and 2002 or so, in Australia and in the US, mostly in enterprise-level applications and systems. After several years of working with big companies and big systems in the US as Technical/Solution/Application/Lead/etc Architect, I went independent and consequently had the opportunity to use Smalltalk (Pharo specifically) on three different projects over the last 3+ years. 
