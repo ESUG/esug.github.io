@@ -1,0 +1,9 @@
+! Smalltalk usage for UI prototyping in Thales industrial context
+
+Pierre Laborde (pierre.laborde@fr.thalesgroup.com)
+Eric Lepors (eric.lepors@fr.thalesgroup.com)
+
+""Abstract:"" We will present SMOCK, a Thales framework, based on the Smalltalk programming language and dedicated to the construction of User Interface prototypes. The SMOCK prototyping environment proposes tools and editors allowing to build quickly innovative user interfaces (with multi-touch, 3D, VR, eye-tracker, etc.).
+SMOCK environment is able to import graphical design assets (binary or vectorial) and is able to combine them in visual designs. The good properties of the Smalltalk programming language also allow to propose sessions with live designs and/or modifications in front of the customers.
+
+""Bio:"" Pierre is User Interface design manager, user experience designer and software engineer in Thales Defense Mission System since 2009. Eric is User Interface solutions architect, software expert in prototyping languages and I work for Thales Defense Mission Systems since 2001.
