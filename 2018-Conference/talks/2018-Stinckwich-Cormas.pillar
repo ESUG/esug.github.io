@@ -1,0 +1,39 @@
+! CORMAS, a participatory and interdisc​iplinary modeling platform based on Smalltalk
+
+
+Serge Stinckwich (serge.stinckwich@gmail.com)
+
+""Abstract:""
+CORMAS (for COmmon-pool Resources and Multi-Agent Systems) is an Agent-Based Modeling (ABM) platform runing on Pharo, dedicated to natural and common-pool resources management. As an open-source
+ software, it is used by an international community of researchers
+willing to understand the relationships between human societies and
+their environment. From recent years, the development of CORMAS has taken an
+innovative direction more oriented towards participatory modeling,
+i.e. the collective design of models as an appropriate medium for
+fostering interdisciplinary and interactive simulation
+involving several stakeholders who interact with a simulation by
+acting directly on it. 
+
+As our intention is to involve more deeply, various types of
+stakeholders (from farmers to scientists and from technicians to
+decision makers) into the modeling process, it is necessary to
+have an easily adaptable tool to act on the simulation and to
+modify the conceptual model on the fly.
+
+CORMAS benefits from all the functionalities offered by Smalltalk,
+which opens a space of potentialities much richer than the other
+ABM platforms. Its minimalist syntax enables fast
+language learning even for non-computer users. As an
+immersive OO system, that enables concept reification,
+introspection and intercession, Smalltalk promotes rapid and
+efficient model prototyping. The power of its debugger allows a
+novice modeler to check finely the functioning of his model, but
+also to code directly during the execution of a simulation. Thus, 
+participatory design of models and interactive simulations
+enable to collectively explore medium and long-term scenarios to
+better understand how a desired situation may be reached on the
+field.
+
+""Bio:""
+Serge was introduced to Smalltalk during his master in ​the ninetie and since
+then is a Smalltalk zealot.​ Serge is ​a computer scientist from Sorbonne University and IRD (Institut de Recherche pour le Développement). He his working on live domain-specific tools and languages for the simulation of complex system. He is currently living in Yaoundé, Cameroon.​
