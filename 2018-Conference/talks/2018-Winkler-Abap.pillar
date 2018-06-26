@@ -1,0 +1,7 @@
+! Abap for Moose
+
+Rainer Winkler (rainer.winkler@poaceae.de)
+
+""Abstract:"" The software company SAP has an own computer language for developing business applications, ABAP. This language is continuously improved and intents like Smalltalk to reduce the effort to develop applications. I will show the new ABAP statements TEST-SEAM and TEST-INJECTION which can significantly reduce the effort to create Unit Tests for code with external dependencies. I know currently of no other languages that have such a statement. I will speak about my experiences  and discuss a possible implementation in Smalltalk.
+
+""Bio:"" Rainer Winkler is developer for SAP applications specialized in SAP tools for reporting. He is interested in software maintenance and in getting Legacy code under control. He works primarily with ABAP and enjoyed to learn Pharo recently to utilize Roassal and Moose.
