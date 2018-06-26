@@ -1,0 +1,8 @@
+! VM development in Pharo
+
+Eliot Miranda (eliot.miranda@gmail.com)
+
+""Abstract:"" In this talk we show the progress made in the development process of the VM, and how the VM can be developed from within Pharo.
+
+""Bio:"" 
+Needed
