@@ -1,0 +1,18 @@
+! Hands on: Contributing to Pharo
+
+Guillermo Polito (guillermo.polito@inria.fr)
+
+""Abstract: ""
+Since 2017, Pharo's contribution process has radically changed through the migration of the sources to Git, the bootstrap process and Iceberg.
+Contributors used to monticello and slices had to shift their state of mind and learn new technologies and paradigms.
+
+Through this hand-on, every one participating will go through this process:
+ - prepare your image for contribution
+ - make a change in pharo
+ - publish a pull request
+ - follow the validation of the process in the jenkins continuous integration process
+
+""Bio:"" Guille Polito is research engineer at the CRIStAL laboratory in the university of Lille, working in tight relation with the RMoD team.
+Guille's main research interests are techniques to develop modular systems and new development tools.
+Guille participates in the Pharo community since 2010.
+His most noticeable contributions in the past months are in the Pharo bootstrap process, Pharo stream management, Iceberg and OSSubprocess.
