@@ -2,11 +2,15 @@
 
 Robin Schwegler (robin.schwegler@hrworks.de)
 
-""Abstract:"" HRworks is developing one of the leading SaaS HR solutions in Germany. Over 1.300 customers with over 150.000 users rely on our Smalltalk based all-in-one HR software day by day. Customers and users are rising continuously. 
-The software is delivered by Continuous Delivery, improvement proposals can be send with a single button click inside the software easily.
-The responsible module owner receives the proposal and will discuss the case with the developers, the consultants and other relevant departments which might have an important opinion on the proposal such as HR or sales.
-If the proposals are considered necessary they will be ranked and implemented by the responsible developer on a testing server where our software continuously packaged every 30 minutes.
-In this way we can enable our software tests without the version being already finished. HRworks launches a new version approximately every four weeks, where the improvements and implemented customer-requested features will be delivered to the users.
+""Abstract:"" HRworks is developing one of the leading SaaS HR solutions in Germany. 
+Smalltalk and its unique features made our success story possible as the primary programming language at HRworks. 
+Smalltalk helps our developers to work as efficient and profitable as possible. 
+Among other functions, the developers profit from the language’s self reflection, the brilliant class library and ENVY, a version control system written within Smalltalk. 
+Thereby Smalltalk empowers HRworks to keep development costs down and as a consequence thereof also to offer the software at very attractive conditions. 
+Over 1.300 customers with over 150.000 users rely on our Smalltalk based all-in-one HR software day by day. 
+The number of customers and users are rising continuously. 
+Within my presentation I would like to give an overview on Smalltalk’s unique characteristics and illustrate the audience how they empower business success stories, such as HRworks.
+
 
 
 ""Bio:"" After finishing my masters’ degree in General Management successfully, I decided to join HRworks for several reasons.
