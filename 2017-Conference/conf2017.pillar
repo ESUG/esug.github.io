@@ -14,8 +14,8 @@ The ESUG board is pleased to announce that the 25th ESUG conference/summer-schoo
 -Archive: *http://www.esug.org/data/ESUG2017/*
 
 -Program
---Conference-Schedule
---IWST-Program
+--*Conference-Schedule>confSchedule.pillar*
+--*IWST-Program>iwstProgram.pillar*
 --Monday
 --Tuesday
 --Wednesday
