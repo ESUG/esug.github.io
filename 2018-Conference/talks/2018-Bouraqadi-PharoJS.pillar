@@ -1,8 +1,8 @@
-! VM development in Pharo
+! PharoJS
 
-Eliot Miranda (eliot.miranda@gmail.com)
+Noury Bouraqadi (noury.bouraqadi@yahoo.fr)
 
-""Abstract:"" In this talk we show the progress made in the development process of the VM, and how the VM can be developed from within Pharo.
+""Abstract:""
 
 ""Bio:"" 
 Needed
