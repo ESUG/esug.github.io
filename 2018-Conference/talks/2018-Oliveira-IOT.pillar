@@ -1,0 +1,21 @@
+! PharoThings: Playing with Sensors on Raspberry PI
+
+Allex Oliveira (allex.oliveira@msn.com)
+Marcus Denker (marcus.denker@inria.fr)
+
+""Abstract:"" 
+In this talk we will show how to build a simple weather station with PharoThings. Pharo on the Raspberry PI reads sensors for temperature and pressure, sends the
+data to a server, so we can visualize it over time.
+We show how to install Pharo on a Raspberry PI and build a simple weather station step by step.
+
+""Bio: ""
+Marcus Denker is a permanent researcher (CR1, with tenure) at INRIA Lille - Nord Europe. 
+Before, he was a postdoc at the PLEIAD lab/DCC University of Chile and the Software Composition Group, University of Bern. 
+His research focuses on reflection and meta-programming for dynamic languages. 
+He is an active participant in the Squeak and Pharo open source communities for many years. 
+Marcus Denker received a PhD in Computer Science from the University of Bern/Switzerland in 2008 and a Dipl.-Inform. (MSc) from the University of Karlsruhe/Germany in 2004. 
+He co-founded 2Denker GmbH in 2009
+
+Allex Oliveira is an IoT engineer (started 2018) at INRIA Lille Nord Europe in RMoD team (http://rmod.lille.inria.fr).
+His interests are wireless networks, infrastructure, cybersecurity, internet of things, cloud & distributed systems and management & monitoring systems. 
+He works with PharoThings, and he is glad to learn Pharo for coding new tools to Pharo IoT.
