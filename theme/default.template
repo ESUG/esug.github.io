@@ -9,7 +9,7 @@
     	<title>ESUG: {{{title}}}</title>
     	<link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="{{baseurl}}/theme/style.css">
+	<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/style.css">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -19,7 +19,7 @@
   
     <nav class="navbar navbar-expand-lg navbar-light">
 	<a class="navbar-brand" href="{{baseurl}}">
-             <img alt="{{site_name}}" src="{{baseurl}}/{{site_logo}}">
+             <img alt="{{site_name}}" src="{{baseurl}}{{site_logo}}">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
     		<span class="navbar-toggler-icon"></span>
