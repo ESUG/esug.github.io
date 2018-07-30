@@ -1,7 +1,7 @@
 
 
 
-{{{<!--<div class="blogbox">-->
+{{{
 <div class="row">
 <div class="col-8">}}}
 
@@ -62,7 +62,6 @@ PharoLambda: Smalltalk running serverless on AWS The next meeting of the UK Smal
 
 
 {{{
-<!--<div class="boxes toright">-->
 <div class="col-4 boxes">
 }}}*Support ESUG actions! Become a Sponsor!>become_sponsor.pillar*
 {{{<center>

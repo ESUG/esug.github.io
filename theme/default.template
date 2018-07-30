@@ -18,7 +18,6 @@
   <body>
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light">
-    <!--<nav class="navbar navbar-expand-sm navbar-light justify-content-center" >-->
 	<a class="navbar-brand" href="{{baseurl}}">
              <img alt="{{site_name}}" src="{{baseurl}}{{site_logo}}">
         </a>
@@ -46,14 +45,11 @@
 		   
                 </ul>
             </div>
-        <!--</div>-->
     </nav>
     
-    <!--<div class="container-fluid" id="main_content">-->
-	<div class="row justify-content-center">
-            <div class="panel-body col-12" style="margin-top: 30px;">{{{content}}}</div>
-        </div>
-    <!--</div>-->
+    <div class="row justify-content-center">
+        <div class="panel-body col-12" style="margin-top: 30px;">{{{content}}}</div>
+    </div>
    </div> 
     <footer class="footer">
         This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and <a href="https://github.com/guillep/ecstatic">Ecstatic</a><br/>
