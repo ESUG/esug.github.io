@@ -27,11 +27,6 @@ img {
 	margin-right: auto;
 }
 
-.navbar {
-	background-color: white;
-	border-bottom: none;
-}
-
 .boxesnodot {
 	padding: 15px;
 	width: 320px;
@@ -40,16 +35,9 @@ img {
 
 .boxes {
 	border: 1px dotted;
-	padding: 15px;
-	width: 320px;
-	height: auto;
-}
-
-.toright {
-	float: right;
 }
 
 .blogbox {
-	width: 380px;
+	width: 800px;
 	padding-top: 30px;
 }
