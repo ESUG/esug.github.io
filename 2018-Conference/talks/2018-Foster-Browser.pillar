@@ -1,6 +1,6 @@
 ! A Browser-based IDE for Cloud-hosted GemStone
 
-James Foster Polito (james.foster@wallawalla.edu)
+James Foster (james.foster@wallawalla.edu)
 
 ""Abstract:""
 While Smalltalk has been an innovator in many ways, hosted development tools has not been a notable area of leadership. Smalltalk’s ecosystem tends to have a more challenging install process (particularly for GemStone) and this may limit its ability to attract attention. Tools like Cloud9 and Jupyter make it very easy to experiment with C++ or Python using just a web browser. In this presentation we look at an approach to using GemStone in the cloud with only a web browser.
