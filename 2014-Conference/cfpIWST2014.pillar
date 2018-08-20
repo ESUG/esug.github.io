@@ -1,0 +1,128 @@
+{
+"title": "IWST 2014"
+}
+
+!! IWST14
+!! 6th International Workshop on Smalltalk Technologies
+
+The ESUG'14 companion event
+
+Cambridge, England.
+
+- Submission deadline: June 22, 2014
+- Notification deadline: July 15, 2014
+- Workshop : August 19, 2014
+
+
+!! Proceedings
+
+*Get it here in Pdf>iwst14-proceedings.pdf*
+
+All accepted papers are available separately in a *compressed archive>http://www.esug.org/wiki/pier/Conferences/2014/IWST14/IWST14_Accepted_papers?_s=OljKsjELNBGgeEcB&_k=ROiJYmfy54KUOBah&view=PRDownloadView&_n&31*.
+
+
+!! Awards
+
+{{{
+<p><table border=1 cellspacing=0 cellpadding=5>
+<tr><td> <img width="50" alt="IwstAwardImage1" src="/wiki/pier?_s=S4fNhY4EHofL28qi"/> </td>
+<td> <strong>Reducing Waste in Expandable Collections: The Pharo Case</strong>, <em>Alexandre Bergel, Alejandro José Infante Rica and Juan Pablo Sandoval Alcocer</em> </td></tr>
+<tr><td> <img width="50" alt="IwstAwardImage2" src="/wiki/pier?_s=861_K0SNs5XDlvcR"/> </td>
+<td> <strong>A bytecode set for adaptive optimisations</strong>, <em>Clement Bera and Eliot Miranda</em> </td></tr>
+<tr><td> <img width="50" alt="IwstAwardImage3" src="/wiki/pier?_s=yHvewtTAwZZc4JXE"/> </td>
+<td> <strong>The Moldable Inspector: A framework for domain-specific object inspection</strong>, <em>Andrei Chis, Tudor Girba and Oscar Nierstrasz</em> </td></tr>
+</table></p>
+}}}
+
+{{{
+
+<h1><a name="165680129"></a>Program</h1><p>
+<table width="100%" cellpadding="5" cellspacing="0">
+	<col width="128*">
+	<col width="128*">
+	<tr>
+		<td colspan="2" width="100%" valign="top" style="border: 1px solid #000000; padding: 0.04in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Tue,
+			August 19, 11:00am – 12:30pm</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="50%" bgcolor="#eeeeee" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Session
+			1 A - Track 1 - Room FW 11</font></font></p>
+		</td>
+		<td width="50%" bgcolor="#eeeeee" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Session
+			1 B - Track 2 - Room FW 26</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Clement
+			Bera and Eliot Miranda. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>A
+			bytecode set for adaptive optimizations</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Jan
+			Kurs, Mircea Lungu and Oscar Nierstrasz. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Top-Down
+			Parsing with Parsing Contexts</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Javier
+			Pimás, Javier Burroni and Gerardo Richarte. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Bee
+			Smalltalk runtime</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Dan
+			Ingalls, Bert Freudenberg, Ted Kaehler, Yoshiki Ohshima and Alan
+			Kay. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Reviving
+			Smalltalk-78	</i></font></font></p>
+			
+		</td>
+		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Camillo
+			Bruni, Guido Chari, Stéphane Ducasse and Igor Stasenko. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Benzo:
+			Reflective Glue for Low-level Programming</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Guillermo Polito, Noury Bouraqadi, Stéphane Ducasse and Luc Fabresse. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Understanding
+			Pharo’s global state to move programs through time and space</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Johan
+			Fabry and Miguel Campusano. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Live
+			Programming the Lego Mindstorms</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Xuan
+			Sang Le, Loïc Lagadec, Noury Bouraqadi, Luc Fabresse and Jannik
+			Laval. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>From
+			Smalltalk to Silicon: Towards a methodology to turn Smalltalk code
+			into FPGA</i></font></font></p>
+			<p><br>
+			</p>
+		</td>
+	</tr>
+</table>
+
+}}}
+
+!! Best Paper Award
+
+
