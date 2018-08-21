@@ -1,0 +1,139 @@
+{
+"title": "Submissions"
+}
+
+!! Submissions
+
+By alphabetical order
+
+
+!! BLOC
+
+- Submitter: Stéphane Ducasse
+- Other Developers: Alain Plantec
+- Smalltalk Dialect: Pharo
+- Affiliation: Inria - University of Brest
+- Country: France
+- Download url: *http://smalltalkhub.com/#!/~AlainPlantec/Bloc*
+- Licence: MIT
+
+
+
+!! DynaCASE modeling platform
+
+- Submitter: Peter Uhnák
+- Other Developers: Jan Blizničenko (bliznjan@fit.cvut.cz)
+- Smalltalk Dialect: Pharo
+- Affiliation:  Czech Technical University, Faculty of Information Technology
+- Country: Czech Republic
+- Download url: *https://ci.inria.fr/pharo-contribution/job/DynaCASE/lastSuccessfulBuild/PHARO=40,VERSION=development,VM=vm/artifact/*
+- Demo url: *http://youtu.be/slIcmccsgyo*
+- Keywords: modeling, Pharo, uml, borm
+- Licence: MIT
+
+
+
+!! Gestures and Multi-Touch events
+
+- Submitter: Merwan Ouddane
+- Smalltalk Dialect: Pharo
+- Affiliation: RMoD
+- Country: France
+- Download url: *http://smalltalkhub.com/#!/~Pharo/OSWindow*
+- Demo url: *https://www.youtube.com/watch?v=eNrbH8A5nyY*
+- Licence: MIT
+
+
+!! GH Sound System
+
+- Submitter: Holger Guhl
+- Other Developers: Ralf Propach, Georg Heeg and others from the company team
+- Smalltalk Dialect: VisualWorks
+- Affiliation: Georg Heeg eK
+- Country: Germany
+- Download url: *http://www.heeg.de/*
+- Keywords: museum; exhibition; audio media presentation; Raspberry pi
+- Licence: commercial
+
+
+!! Griotte
+
+- Submitter: Thomas Heniart
+- Other Developers: Martin Dias
+- Smalltalk Dialect: Pharo
+- Affiliation: Inria
+- Country: France
+- Download url: *http://smalltalkhub.com/#!/~ThomasHeniart/GriotteCodeReview*
+- Licence: MIT
+
+
+!! GTSpotter
+
+- Submitter: Andrei Chis
+- Other Developers: Aliaksei Syrel (a), Andrei Chis (a), Tudor Girba (b), Juraj Kubelka (c), Stefan Reichhart (d)
+- Smalltalk Dialect: Pharo
+- Affiliation: (a) University of Bern, (b) tudorgirba.com, (c) University of Chile
+- Country: Switzerland
+- Download url:  *http://gt.moosetechnology.org/*
+- Demo url: *http://www.slideshare.net/girba/gt-spotter*
+- Keywords: search, navigation, IDEs, integration
+- Licence: MIT
+
+
+
+!! Live Robot Programming
+
+- Submitter: Johan Fabry
+- Other Developers: Miguel Campusano
+- Smalltalk Dialect: Pharo
+- Affiliation: Pleiad and RyCh labs, DCC, Universidad de Chile
+- Country: Chile
+- Download url: *http://pleiad.cl/lrp*
+- Demo url: *http://pleiad.cl/lrp*
+- Keywords: Live programming, robotics
+- Licence: MIT
+
+!! PharoJS
+
+- Submitter: Noury Bouraqadi
+- Smalltalk Dialect: Pharo
+- Affiliation: Ecole des Mines de Douai
+- Country: France
+- Download url: *http://smalltalkhub.com/#!/~noury/JavaScriptBridge*
+- Demo url: *http://car.mines-douai.fr/pharojs*
+- Keywords: Web development, Mobile development, JavaScript
+- Licence: MIT
+
+!! Pillar
+
+- Submitter: Cyril Ferlicot-Delbecque
+- Other Developers: Damien Cassou, Lukas Renggli
+- Smalltalk Dialect: Pharo
+- Affiliation: Inria-RMOD
+- Country: France
+- Download url: *http://www.smalltalkhub.com/#!/~Pier/Pillar*
+- Demo url: *https://www.youtube.com/watch?v=MfqW2rTH5C8*
+- Keywords: Pillar Documentation Write
+- Licence: MIT
+
+
+!! P.O.S.
+
+- Submitter: Dario Romano Trussardi
+- Smalltalk Dialect: Gemstone
+- Affiliation: freelance
+- Country: Italy
+- Keywords: Pharo Seaside Gemstone
+
+
+
+!! Rewrite Tool
+
+- Submitter: Markiyan Rizun
+- Smalltalk Dialect: Pharo
+- Affiliation: Ivan Franko National University of Lviv, RMoD (Inria)
+- Country: Ukraine
+- Download url: *http://smalltalkhub.com/#!/~MarkRizun/RewriteTool/*
+- Demo url: *http://myfuncoding.blogspot.com/*
+- Keywords: code transformation, ast, rewritng, refactoring
+- Licence: MIT

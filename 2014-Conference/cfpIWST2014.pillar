@@ -1,0 +1,295 @@
+{
+"title": "IWST 2014"
+}
+
+!! IWST14
+!! 6th International Workshop on Smalltalk Technologies
+
+The ESUG'14 companion event
+
+Cambridge, England.
+
+- Submission deadline: June 22, 2014
+- Notification deadline: July 15, 2014
+- Workshop : August 19, 2014
+
+
+!! Proceedings
+
+*Get it here in Pdf>iwst14-proceedings.pdf*
+
+All accepted papers are available separately in a *compressed archive>http://www.esug.org/wiki/pier/Conferences/2014/IWST14/IWST14_Accepted_papers?_s=OljKsjELNBGgeEcB&_k=ROiJYmfy54KUOBah&view=PRDownloadView&_n&31*.
+
+
+!! Awards
+
+{{{
+<p><table border=1 cellspacing=0 cellpadding=5>
+<tr><td> <img width="50" alt="IwstAwardImage1" src="../images/2014-iwstAward1.png"/> </td>
+<td> <strong>Reducing Waste in Expandable Collections: The Pharo Case</strong>, <em>Alexandre Bergel, Alejandro José Infante Rica and Juan Pablo Sandoval Alcocer</em> </td></tr>
+<tr><td> <img width="50" alt="IwstAwardImage2" src="../images/2014-iwstAward2.png"/> </td>
+<td> <strong>A bytecode set for adaptive optimisations</strong>, <em>Clement Bera and Eliot Miranda</em> </td></tr>
+<tr><td> <img width="50" alt="IwstAwardImage3" src="../images/2014-iwstAward2.png"/> </td>
+<td> <strong>The Moldable Inspector: A framework for domain-specific object inspection</strong>, <em>Andrei Chis, Tudor Girba and Oscar Nierstrasz</em> </td></tr>
+</table></p>
+}}}
+
+{{{
+
+<h1><a name="165680129"></a>Program</h1><p>
+<table width="100%" cellpadding="5" cellspacing="0">
+	<col width="128*">
+	<col width="128*">
+	<tr>
+		<td colspan="2" width="100%" valign="top" style="border: 1px solid #000000; padding: 0.04in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Tue,
+			August 19, 11:00am – 12:30pm</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="50%" bgcolor="#eeeeee" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Session
+			1 A - Track 1 - Room FW 11</font></font></p>
+		</td>
+		<td width="50%" bgcolor="#eeeeee" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Session
+			1 B - Track 2 - Room FW 26</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Clement
+			Bera and Eliot Miranda. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>A
+			bytecode set for adaptive optimizations</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Jan
+			Kurs, Mircea Lungu and Oscar Nierstrasz. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Top-Down
+			Parsing with Parsing Contexts</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Javier
+			Pimás, Javier Burroni and Gerardo Richarte. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Bee
+			Smalltalk runtime</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Dan
+			Ingalls, Bert Freudenberg, Ted Kaehler, Yoshiki Ohshima and Alan
+			Kay. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Reviving
+			Smalltalk-78	</i></font></font></p>
+			
+		</td>
+		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Camillo
+			Bruni, Guido Chari, Stéphane Ducasse and Igor Stasenko. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Benzo:
+			Reflective Glue for Low-level Programming</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Guillermo Polito, Noury Bouraqadi, Stéphane Ducasse and Luc Fabresse. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Understanding
+			Pharo’s global state to move programs through time and space</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Johan
+			Fabry and Miguel Campusano. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Live
+			Programming the Lego Mindstorms</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Xuan
+			Sang Le, Loïc Lagadec, Noury Bouraqadi, Luc Fabresse and Jannik
+			Laval. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>From
+			Smalltalk to Silicon: Towards a methodology to turn Smalltalk code
+			into FPGA</i></font></font></p>
+			<p><br>
+			</p>
+		</td>
+	</tr>
+</table>
+
+}}}
+
+{{{
+
+<p style="margin-bottom: 0in; line-height: 100%"><br>
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br>
+</p>
+<table width="100%" cellpadding="5" cellspacing="0">
+	<col width="128*">
+	<col width="128*">
+	<tr>
+		<td colspan="2" width="100%" valign="top" style="border: 1px solid #000000; padding: 0.04in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#000000">August
+			19, 2:00pm – 3:30pm</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="50%" bgcolor="#eeeeee" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Session
+			2 A - Track 1 - Room FW 11</font></font></p>
+		</td>
+		<td width="50%" bgcolor="#eeeeee" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Session
+			2 B - Track 2 - Room FW 26</font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Lucas
+			Godoy, Damien Cassou and Stephane Ducasse. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Tracking
+			dependencies between code changes</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Christophe
+			Demarey, Damien Cassou and Stéphane Ducasse. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Towards
+			a new package dependencies model</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Boris
+			Shingarov. </font></font>
+			</p>
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Modern
+			Problems for the Smalltalk VM</i></font></font></p>
+
+			
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Nicolás
+			Passerini, Pablo Tesone and Stephane Ducasse. </font></font>
+			</p>
+			<p><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>An
+			extensible constraint-based type inference algorithm for
+			object-oriented dynamic languages supporting blocks and generic
+			types</i></font></font></p>
+		</td>
+		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Glenn
+			Cavarlé, Alain Plantec, Vincent Ribaud and Christophe Touze. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Towards
+			agile cross-platform application development with Smalltalk and
+			Model Driven Engineering</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Andrei
+			Chis, Tudor Girba and Oscar Nierstrasz. </font></font>
+			</p>
+			<p style="margin-bottom: 0in; font-style: normal"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">The
+			Moldable Inspector: </font></font>
+			</p>
+			<p style="margin-bottom: 0in; font-style: normal"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">A
+			framework for domain-specific object inspection</font></font></p>
+			<p style="margin-bottom: 0in; font-style: normal"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Ciprian
+			Teodorov. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Embedding
+			Multiform Time Constraints in Smalltalk</i></font></font></p>
+			<p style="margin-bottom: 0in"><br>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Alexandre
+			Bergel, Alejandro José Infante Rica and Juan Pablo Sandoval
+			Alcocer. </font></font>
+			</p>
+			<p style="margin-bottom: 0in"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><i>Reducing
+			Waste in Expandable Collections: The Pharo Case</i></font></font></p>
+			<p><br>
+			</p>
+		</td>
+	</tr>
+</table>
+
+</p>
+
+}}}
+
+
+""Best Paper Award""
+
+To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST. 
+
+We thank the *Lam Research Corporation>http://www.lamresearch.com/* for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
+
+The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
+
+The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, a paper must be presented at the workshop by one of the authors and that the presenting author must be registered at the ESUG conference.
+
+
+""Goals and scopes""
+
+The goals of the workshop is to create a forum around advances or experience in Smalltalk and to trigger discussions and exchanges of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Participants are invited to submit research articles or industrial papers. This year we want to open two different tracks: one research track and one industrial track with less scientific constraints.
+
+We expect papers of three kinds:
+
+- Short position papers describing emerging ideas
+- Long research papers with deeper description of experiments and of research results.
+- Industrial papers with presentation of real and innovative Smalltalk applications; this kind of paper should enlighten why Smalltalk is really appropriate for your application.
+
+We will not enforce any length restriction.
+
+
+""Topics""
+
+We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
+
+- Aspect-oriented programming,
+- Design patterns,
+- Experience reports,
+- Frameworks,
+- Implementation, new dialects or languages implemented in Smalltalk,
+- Interaction with other languages,
+- Meta-programming and Meta-modeling,
+- Tools
+
+""Publication""
+
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
+
+
+""Submissions""
+
+All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst14*
+
+
+""Program chairs""
+
+- Alain Plantec (UMR 6265 Lab-STICC, University of Brest, France)
+- Jannik Laval (Ecole des Mines de Douai, France)
+
+
+
+""Program Committee""
+
+- Alexandre Bergel (Pleiad Lab, University of Chile, Chile)
+- Noury Bouraqadi (Ecole des Mines de Douai, France)
+- Damien Cassou (Lille 1, Inria, RMoD)
+- Jordi Delgado (Software Department, Technical University of Catalonia (UPC))
+- Marcus Denker (Inria Lille, France)
+- Zoe Drey (ENSTA Bretagne - UMR 6285 Lab-STICC)
+- Anne Etien (Lille 1, Inria, RMoD)
+- Johan Fabry (DCC - Universidad de Chile - Santiago, Chile)
+- Tudor Girba
+- Mickaël Kerboeuf (UMR 6265 Lab-STICC, University of Brest, France)
+- Loic Lagadec (ENSTA Bretagne - UMR 6285 Lab-STICC)
+- Ciprian Teodorov (ENSTA Bretagne )
+- Hernan Wilkinson (10Pines Partener and Professor at the University of Buenos Aires (UBA))

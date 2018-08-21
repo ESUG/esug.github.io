@@ -1,0 +1,64 @@
+{
+"title": "Call for Presentation"
+}
+
+!! Call-for-Presentations
+
+For the past 22 years, the European Smalltalk User Group (ESUG) has organised the International Smalltalk Conference, a lively forum on cutting edge software technologies that attract people from both academia and industry for a whole week. The attendees are both engineers using Smalltalk in business and students and teachers using Smalltalk both for research and didactic purposes.
+
+As every year, this year's edition of the largest European Smalltalk event will include the regular Smalltalk developers conference with renowned invited speakers, a Smalltalk camp that proves fruitful for interactions and discussions. This year we will hold the 10th edition of the Innovation Technology Awards where prizes will be awarded to authors of best Smalltalk-related projects as well as an international workshop on Smalltalk and dynamic languages.
+
+You can support the ESUG conference in many different ways:
+
+- Sponsor the conference. New sponsoring packages are described *here>../become_sponsor.pillar*
+- Submit a talk, a software or a paper to one of the events. See below.
+- Attend the conference. We'd like to beat the previous record of attendance (170 people at Amsterdam 2008)!
+- Students can get free registration and hosting if they enrol into the the Student Volunteers program. See below.
+
+!! Developers Forum: International Smalltalk Developers Conference
+
+We are looking for YOUR experience on using Smalltalk. You will have 30 min for presentations and 45-60 min for hands-on tutorials.
+
+The list of topics for the normal talks and tutorials includes, but is not limited to the following:
+
+- Micro Services, Container, Cloud, Big Data,
+- XP practices, Development tools, Experience reports
+- Model driven development, Web development, Team management
+- Meta-Modeling, Security, New libraries and frameworks
+- Educational material, Embedded systems and robotics
+- SOA and Web services, Interaction with other programming languages
+
+
+!! Teaching Pearls and Show us Your Business
+
+-Show your business 10 min session (Get prepared!!)
+-Teaching pearls : we want some session on how to teach some design aspects. We want your tip and tricks to teach Smalltalk or OOP.
+
+We expect to have several 10 to 15 min sessions aggregated.
+
+
+!! How to submit ?
+
+- Submissions deadline is 15 of June 2014
+- Notification of acceptance will be on done on the fly.
+- *More information>conf2014.pillar*
+
+Pay attention: the places are limited so do not wait till the last minute to apply.  Prospective presenters should submit a request to Stephane.Ducasse at inria.fr AND USE THE following header [ESUG 2014 Developers].
+
+Please follow the template below the email will be automatically processed!
+
+[[[
+Subject: [ESUG 2014 Developers] + your name
+ First Name:
+ Last Name:
+ Email where you can always be reached:
+ Title:
+ Type: Tutorial/Talk/Teaching Pearl
+ Abstract:
+ Bio:
+]]]
+
+Any presentation not respecting this form will be discarded automatically.
+
+We hope to see you there and have fun together.
+
