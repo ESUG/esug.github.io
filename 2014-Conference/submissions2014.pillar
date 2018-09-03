@@ -1,0 +1,127 @@
+{
+"title": "Submissions"
+}
+
+!! Submissions
+
+By alphabetical order
+
+!! GT Inspector
+
+- Submitter: Andrei Chiș, Tudor Girba, Alex Syrel
+- Smalltalk Dialect: Pharo
+- Affiliation: University of Bern, tudorgirba.com
+- Country: Switzerland
+- Website: http://gt.moosetechnology.org
+- Trailer: http://vimeo.com/103463364
+- Keywords: Pharo, IDE, Moose, Visualization
+- Licence: MIT
+
+
+
+!! IntiProfiler
+
+- Submitter: Milton Mamani Torres
+- Other Developers: Alejandro Infante, Alexandre Bergel, Alejandro Molina, Chris Thorgrimsson
+- Smalltalk Dialect: Pharo
+- Affiliation: ObjectProfile
+- Country: Chile
+- Download url: *http://smalltalkhub.com/#!/~azazael/inti*
+- Demo url: *https://www.youtube.com/watch?v=hLZumpaS8lE&list=UUx7V811wz1RQwo7NAfgR0BQ*
+- Keywords: Inti, Sunburst, MessageTally, GTInpector, Roassal2
+- Licence: MIT
+
+
+
+!! Jetstorm
+
+- Submitter: Jannik LAVAL
+- Smalltalk Dialect: Pharo
+- Affiliation: Ecole des Mines de Douai
+- Country: France
+- Download url: *http://www.jetstorm.info/*
+- Demo url: *https://vimeo.com/103126982*
+- Keywords: Lego Minstorms Pharo Phratch
+- Licence: MIT
+
+
+!! Kontolino.de
+
+- Submitter: Joachim Tuchel
+- Smalltalk Dialect: VA Smalltalk
+- Affiliation: objektfabrik Joachim Tuchel
+- Country: Germany
+- Download url: *http://www.kontolino.de/*
+- Demo url: *https://kontolino.de/?registrieren*
+- Keywords: Accounting, saas, Small and Medium businesses, tax reporting
+- Licence: commercial
+
+
+!! Saint Georges
+
+- Submitter: Annick Fron
+- Smalltalk Dialect: Visualworks
+- Affiliation: AFC Europe
+- Country: France
+- Download url: *http://fencingfox.com/esug/saintgeorges.zip*
+- Demo url: *http://www.fencingfox.com/welcome* and enter competition number 1003. Also *http://fencingfox.com/esug/Manual.pdf* and *http://www.fencingfox.com/esug/demo.html*
+- Keywords: visualworks
+- Licence: Commercial
+
+!! Sherlook
+
+- Submitter: Daniel Aviv
+- Other Developers: Alexandre Bergel Alejandor Infante
+- Smalltalk Dialect: Pharo
+- Affiliation: Object Profile
+- Country: Chile
+- Download url:  *http://smalltalkhub.com/#!/~DanielAvivNotario/Sherlook*
+
+
+!! Spy2
+
+- Submitter: Alejandro Infante
+- Other Developers: Alexandre Bergel, Ricardo Jacas
+- Smalltalk Dialect: Pharo
+- Affiliation: Universidad de Chile, Object Profile
+- Country: Chile
+- Download url: *http://smalltalkhub.com/#!/~ObjectProfile/S2py*
+- Demo url: *http://pleiad.cl/lrp*
+- Keywords: Profiling, Visualization
+- Licence: MIT
+
+!! STX:LIBJAVA
+
+- Submitter: Jan Vraný
+- Other Developers: Marcel Hlopko (Czech Republic) Claus Gittinger (Germany) Jan Kurš (Czech Republic) Tomáš Heger (Czech Republic)
+- Smalltalk Dialect: Smalltalk/X
+- Affiliation: eXept Software AG & SWING Research Group, Czech Technical University in Prague
+- Country: Czech Republic
+- Download url: *https://swing.fit.cvut.cz/projects/stx-libjava/wiki*
+- Demo url: *https://www.youtube.com/watch?v=p3J554BNEz8*
+- Keywords: vm, ide, java
+- Licence: Free
+
+!! Telescope
+
+- Submitter: Leo Perard
+- Smalltalk Dialect: Pharo
+- Affiliation: RMOD team
+- Country: France
+- Download url: *http://rmod.inria.fr/web/software/telescope*
+- Keywords: pharo visualization
+- Licence: Free
+
+
+!! Woden
+
+- Submitter: Ronie Salgado
+- Other Developers: Alexandre Bergel
+- Smalltalk Dialect: Pharo
+- Affiliation: Object Profile
+- Country: Chile
+- Download url: *http://www.smalltalkhub.com/#!/~ronsaldo/Woden*
+- Demo url: *http://youtu.be/1Nze9tnwYxY*
+- Keywords: 3d opencl graphics roassal roassal3d performance
+- Licence: MIT
+

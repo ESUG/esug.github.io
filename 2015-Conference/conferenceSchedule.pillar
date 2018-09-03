@@ -1,0 +1,19 @@
+{
+    "title": "Conference Schedule"
+}
+
+!! Conference Schedule
+
+""Note:"" If you don't see anything, just apply the following steps in sequence and stop when you see the schedule: refresh, refresh, log out from your google account, log in to your google account, close your browser, open again, dance around the computer, change your browser/os/computer, try again with the previous browser/os/computer.
+
+{{{
+<iframe
+src="https://www.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showTabs=0&showCalendars=0&src=qajq51tk7t22h6u87dp01b6ncc%40group.calendar.google.com&ctz=Europe/Paris&mode=week&dates=20150712%2F20150717&wkst=1"
+style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+</p><p>
+<iframe
+src="https://www.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showTabs=0&showCalendars=0&src=qajq51tk7t22h6u87dp01b6ncc%40group.calendar.google.com&ctz=Europe/Paris&mode=agenda&dates=20150712%2F20150717&wkst=1"
+style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+</p>
+
+}}}
