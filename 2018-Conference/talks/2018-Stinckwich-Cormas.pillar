@@ -1,7 +1,7 @@
 ! CORMAS, a participatory and interdisc​iplinary modeling platform
 
 
-Serge Stinckwich (serge.stinckwich@gmail.com)
+Pierre Bommel (pierre.bommel@cirad.fr) and Etienne Delay (etienne.delay@cirad.fr)
 
 ""Abstract:""
 CORMAS (for COmmon-pool Resources and Multi-Agent Systems) is an Agent-Based Modeling (ABM) platform runing on Pharo, dedicated to natural and common-pool resources management. As an open-source
@@ -35,5 +35,10 @@ better understand how a desired situation may be reached on the
 field.
 
 ""Bio:""
-Serge was introduced to Smalltalk during his master in ​the ninetie and since
-then is a Smalltalk zealot.​ Serge is ​a computer scientist from Sorbonne University and IRD (Institut de Recherche pour le Développement). He his working on live domain-specific tools and languages for the simulation of complex system. He is currently living in Yaoundé, Cameroon.​
+Pierre Bommel (pierre.bommel@cirad.fr):
+I am a modeler scientist at CIRAD. I contribute to promoting the Companion Modeling approach. Through the development of CORMAS, I have been focusing on the development and the use of Multi-Agent Systems for the simulation of renewable resource management issues. Since 2010, I am based in Costa Rica, at the University.
+I develop models related to environmental management, such as breeding adaptation of drought in Uruguay or as breeding and deforestation in the Amazon. Nowadays, I am especially interested in collective design of ABM and interactive simulation for assisting role-playing games.
+
+Etienne Delay (etienne.delay@cirad.fr):
+I'm a researcher in social geography and spatial modeling. To tackle the scientific challenges proposed by landscape dynamics and cooperation processes, I have developed a research methodology based on field work and companion modeling combined with the formalization of the observed processes and agents based models.
+This approach offers the possibility to understand: spatial, social, cultural and / or economic conditions that take place in territories, and to provide prospective scenarios. My technical expertise grew and evolved through investment in several workgroups: MAPS Team (Modeling Applied to Space Phenomena), OpenMole, OSGeo-international, various initiatives around modeling, exploration and sensibility analysis of spatial patterns behaviors, and more generally in Free Software communities.
