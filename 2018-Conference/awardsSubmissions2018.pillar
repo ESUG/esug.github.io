@@ -147,7 +147,7 @@
 - ''Licence'': ""MIT""
 
 !!!PORT
-- ''Submitter'': ""Matteo.Marra""
+- ''Submitter'': ""Matteo Marra""
 - ''Affiliation'': ""Vrije Universiteit Brussel""
 - ''Country'': ""Belgium""
 - ''Keywords'': ""big data, debugging, distributed system""
@@ -172,7 +172,7 @@
 
 !!!Improving Code Completion in Pharo
 - ''Keywords'': ""code completion, software quality""
-- ''Developer'': ""Myroslava Romaniuk, supervised by Stephane Ducasse and Marcus Denker""
+- ''Developers'': ""Myroslava Romaniuk, supervised by Stephane Ducasse and Marcus Denker""
 - ''Affiliation'': ""Ukrainian Catholic University (but the project was done at RMoD at INRIA)""
 - ''Country'': ""Ukraine""
 - ''Smalltalk dialect'': ""Pharo""
@@ -180,7 +180,7 @@
 - ''Project URL'': ""*https://github.com/myroslavarm/Experimental-Completion*""
 
 !!!PharoLauncher
-- ''Developer'': ""Christophe Demarey, Damien Cassou""
+- ''Developers'': ""Christophe Demarey, Damien Cassou""
 - ''Keywords'': ""Image manager""
 - ''Country'': ""France""
 - ''Smalltalk dialect'': ""Pharo""
