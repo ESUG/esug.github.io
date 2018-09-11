@@ -159,3 +159,30 @@
 - ''Country'': ""France""
 - ''Download Url'': ""*https://github.com/pillar-markup/pillar*""
 - ''Keywords'': ""Pillar, GitHub, Travis""
+
+!!!Woden Procedural Game Engine
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Ronie Salgado""
+- ''Affiliation'': ""University of Chile""
+- ''Country'': ""Chile""
+- ''Download Url'': ""*https://github.com/ronsaldo/woden*""
+- ''Demo Url'': ""*https://www.youtube.com/watch?v=k9GIuKstIYI*""
+- ''Keywords'': ""pharo woden 3d graphics procedural conten""
+- ''Licence'': ""MIT""
+
+!!!Improving Code Completion in Pharo
+- ''Keywords'': ""code completion, software quality""
+- ''Developer'': ""Myroslava Romaniuk, supervised by Stephane Ducasse and Marcus Denker""
+- ''Affiliation'': ""Ukrainian Catholic University (but the project was done at RMoD at INRIA)""
+- ''Country'': ""Ukraine""
+- ''Smalltalk dialect'': ""Pharo""
+- ''Licence'': ""MIT""
+- ''Project URL'': ""*https://github.com/myroslavarm/Experimental-Completion*""
+
+!!!PharoLauncher
+- ''Developer'': ""Christophe Demarey, Damien Cassou""
+- ''Keywords'': ""Image manager""
+- ''Country'': ""France""
+- ''Smalltalk dialect'': ""Pharo""
+- ''Licence'': ""MIT""
+- ''Project URL'': ""*https://github.com/pharo-project/pharo-launcher*""
