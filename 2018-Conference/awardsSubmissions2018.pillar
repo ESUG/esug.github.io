@@ -3,6 +3,7 @@
 }
 !Projects Submitted to the *Innovation Technology Awards 15th Edition>https://esug.github.io/2018-Conference/awardsCall2018.html*
 !!!Iceberg
++file://Medalles2018-Gold.png|width=150+
 - ''Smalltalk Dialect'': ""Pharo""
 - ''Submitter'': ""Guille Polito""
 - ''Other Authors'': ""Pablo Tesone Esteban Lorenzano Nicolas Passerini""
@@ -11,6 +12,31 @@
 - ''Download Url'': ""*https://github.com/pharo-vcs/iceberg*""
 - ''Demo Url'': ""*https://www.youtube.com/watch?v=PK2yCu2rWCc&t=80s*""
 - ''Keywords'': ""pharo git vcs scm""
+- ''Licence'': ""MIT""
+
+!!!Caffeine
++file://Medalles2018-Silver.png|width=150+
+- ''Smalltalk Dialect'': ""SqueakJS Squeak Pharo Cuis VisualWorks""
+- ''Submitter'': ""Craig Latta""
+- ''Other Authors'': ""Bert Freudenberg""
+- ''Affiliation'': ""Black Page Digital""
+- ''Country'': ""Netherlands""
+- ''Download Url'': ""*https://caffeine.js.org*""
+- ''Demo Url'': ""*https://caffeine.js.org*""
+- ''Keywords'': ""livecoding web platform SqueakJS javascript Snowglobe remote messaging remote graphics NodeJS Morphic A-Frame speech recognition 3D virtual reality CSS HTML5 MIDI remote debugging mobile animated wireframes""
+- ''Licence'': ""MIT""
+
+
+!!!PhaROS
++file://Medalles2018-Bronze.png|width=150+
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Santiago Bragagnolo""
+- ''Other Authors'': ""Luc Fabresse, Pablo Estefo, Sang Le, Noury Bouraqadi""
+- ''Affiliation'': ""IMT Lille Douai""
+- ''Country'': ""France""
+- ''Download Url'': ""*https://github.com/CARMinesDouai/pharos/wiki*""
+- ''Demo Url'': ""*https://youtu.be/AOJ-23YpqGY*""
+- ''Keywords'': ""Robotics, middleware""
 - ''Licence'': ""MIT""
 
 !!!Ukulele
@@ -62,17 +88,6 @@
 - ''Demo Url'': ""*https://www.mercapsoftware.com/video/abbaco_en.mp4*""
 - ''Keywords'': ""Finance Bonds Calculator""
 - ''Licence'': ""SaaS (Propietary)""
-
-!!!Caffeine
-- ''Smalltalk Dialect'': ""SqueakJS Squeak Pharo Cuis VisualWorks""
-- ''Submitter'': ""Craig Latta""
-- ''Other Authors'': ""Bert Freudenberg""
-- ''Affiliation'': ""Black Page Digital""
-- ''Country'': ""Netherlands""
-- ''Download Url'': ""*https://caffeine.js.org*""
-- ''Demo Url'': ""*https://caffeine.js.org*""
-- ''Keywords'': ""livecoding web platform SqueakJS javascript Snowglobe remote messaging remote graphics NodeJS Morphic A-Frame speech recognition 3D virtual reality CSS HTML5 MIDI remote debugging mobile animated wireframes""
-- ''Licence'': ""MIT""
 
 !!!Keras-Bridge
 - ''Smalltalk Dialect'': ""Pharo""
@@ -133,17 +148,6 @@
 - ''Download Url'': ""*https://github.com/maenu/LiteratureResearcher*""
 - ''Demo Url'': ""*https://www.youtube.com/watch?v=EcK3Pt_WnEw*""
 - ''Keywords'': ""literature research""
-- ''Licence'': ""MIT""
-
-!!!PhaROS
-- ''Smalltalk Dialect'': ""Pharo""
-- ''Submitter'': ""Santiago Bragagnolo""
-- ''Other Authors'': ""Luc Fabresse, Pablo Estefo, Sang Le, Noury Bouraqadi""
-- ''Affiliation'': ""IMT Lille Douai""
-- ''Country'': ""France""
-- ''Download Url'': ""*https://github.com/CARMinesDouai/pharos/wiki*""
-- ''Demo Url'': ""*https://youtu.be/AOJ-23YpqGY*""
-- ''Keywords'': ""Robotics, middleware""
 - ''Licence'': ""MIT""
 
 !!!PORT
