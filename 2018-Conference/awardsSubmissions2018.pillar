@@ -3,7 +3,7 @@
 }
 !Projects Submitted to the *Innovation Technology Awards 15th Edition>https://esug.github.io/2018-Conference/awardsCall2018.html*
 !!!Iceberg
-+file://Medalles2018-Gold.png|width=150+
++file://Medalles2018-Gold.png|width=30+
 - ''Smalltalk Dialect'': ""Pharo""
 - ''Submitter'': ""Guille Polito""
 - ''Other Authors'': ""Pablo Tesone Esteban Lorenzano Nicolas Passerini""
@@ -15,7 +15,7 @@
 - ''Licence'': ""MIT""
 
 !!!Caffeine
-+file://Medalles2018-Silver.png|width=150+
++file://Medalles2018-Silver.png|width=30+
 - ''Smalltalk Dialect'': ""SqueakJS Squeak Pharo Cuis VisualWorks""
 - ''Submitter'': ""Craig Latta""
 - ''Other Authors'': ""Bert Freudenberg""
@@ -28,7 +28,7 @@
 
 
 !!!PhaROS
-+file://Medalles2018-Bronze.png|width=150+
++file://Medalles2018-Bronze.png|width=30+
 - ''Smalltalk Dialect'': ""Pharo""
 - ''Submitter'': ""Santiago Bragagnolo""
 - ''Other Authors'': ""Luc Fabresse, Pablo Estefo, Sang Le, Noury Bouraqadi""
