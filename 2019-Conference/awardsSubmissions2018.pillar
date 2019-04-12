@@ -1,0 +1,192 @@
+{
+"title": "Projects Submitted to the Innovation Technology Awards 2018"
+}
+!Projects Submitted to the *Innovation Technology Awards 15th Edition>https://esug.github.io/2018-Conference/awardsCall2018.html*
+!!!Iceberg
++file://Medalles2018-Gold.png|width=30+
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Guille Polito""
+- ''Other Authors'': ""Pablo Tesone Esteban Lorenzano Nicolas Passerini""
+- ''Affiliation'': ""Inria / CRIStAL""
+- ''Country'': ""France""
+- ''Download Url'': ""*https://github.com/pharo-vcs/iceberg*""
+- ''Demo Url'': ""*https://www.youtube.com/watch?v=PK2yCu2rWCc&t=80s*""
+- ''Keywords'': ""pharo git vcs scm""
+- ''Licence'': ""MIT""
+
+!!!Caffeine
++file://Medalles2018-Silver.png|width=30+
+- ''Smalltalk Dialect'': ""SqueakJS Squeak Pharo Cuis VisualWorks""
+- ''Submitter'': ""Craig Latta""
+- ''Other Authors'': ""Bert Freudenberg""
+- ''Affiliation'': ""Black Page Digital""
+- ''Country'': ""Netherlands""
+- ''Download Url'': ""*https://caffeine.js.org*""
+- ''Demo Url'': ""*https://caffeine.js.org*""
+- ''Keywords'': ""livecoding web platform SqueakJS javascript Snowglobe remote messaging remote graphics NodeJS Morphic A-Frame speech recognition 3D virtual reality CSS HTML5 MIDI remote debugging mobile animated wireframes""
+- ''Licence'': ""MIT""
+
+
+!!!PhaROS
++file://Medalles2018-Bronze.png|width=30+
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Santiago Bragagnolo""
+- ''Other Authors'': ""Luc Fabresse, Pablo Estefo, Sang Le, Noury Bouraqadi""
+- ''Affiliation'': ""IMT Lille Douai""
+- ''Country'': ""France""
+- ''Download Url'': ""*https://github.com/CARMinesDouai/pharos/wiki*""
+- ''Demo Url'': ""*https://youtu.be/AOJ-23YpqGY*""
+- ''Keywords'': ""Robotics, middleware""
+- ''Licence'': ""MIT""
+
+!!!Ukulele
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Santiago Bragagnolo""
+- ''Affiliation'': ""INRIA""
+- ''Country'': ""France""
+- ''Download Url'': ""*https://github.com/sbragagnolo/uqll*""
+- ''Keywords'': ""Blockchain SQL database""
+
+!!!Moose2Model
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Rainer Winkler""
+- ''Other Authors'': ""The initial coding is based on a demo coding provided by Alexandré Bergel""
+- ''Affiliation'': ""CubeServ""
+- ''Country'': ""Germany""
+- ''Download Url'': ""*http://www.moose2model.org*""
+- ''Demo Url'': ""*https://youtu.be/k8RkDwlXKmg*""
+- ''Keywords'': ""Software Exploration""
+- ''Licence'': ""MIT""
+
+!!!HoneyGinger
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Tomohiro Oda""
+- ''Affiliation'': ""Software Research Associates Inc.""
+- ''Country'': ""Japan""
+- ''Download Url'': ""*https://github.com/tomooda/HoneyGinger/*""
+- ''Demo Url'': ""*https://youtu.be/eYuhlixBaPI*""
+- ''Keywords'': ""Pharo Fluid Dynamics Visualization Interactivity""
+- ''Licence'': ""The MIT License""
+
+!!!Clap
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Damien Pollet""
+- ''Affiliation'': ""Inria""
+- ''Country'': ""France""
+- ''Download Url'': ""*https://github.com/cdlm/clap-st*""
+- ''Demo Url'': ""*https://www.youtube.com/watch?v=VjnVZR4FMcQ*""
+- ''Keywords'': ""command line argument parser""
+- ''Licence'': ""MIT""
+
+!!!Abbaco
+- ''Smalltalk Dialect'': ""VA Smalltalk / Pharo""
+- ''Submitter'': ""Gabriel Omar Cotelli""
+- ''Other Authors'': ""Mercap Development Team""
+- ''Affiliation'': ""Mercap Software""
+- ''Country'': ""Argentina""
+- ''Download Url'': ""*https://www.mercapabbaco.com*""
+- ''Demo Url'': ""*https://www.mercapsoftware.com/video/abbaco_en.mp4*""
+- ''Keywords'': ""Finance Bonds Calculator""
+- ''Licence'': ""SaaS (Propietary)""
+
+!!!Keras-Bridge
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Alejandro Infante""
+- ''Other Authors'': ""Alexandre Bergel""
+- ''Affiliation'': ""ObjectProfile""
+- ''Country'': ""Chile""
+- ''Download Url'': ""*https://github.com/ObjectProfile/KerasWrapper*""
+- ''Demo Url'': ""*https://youtu.be/mlp_1mbBILs*""
+- ''Keywords'': ""Neural Networks Machine Learning Keras Python Bridge""
+- ''Licence'': ""MIT""
+
+!!!Visual / VM Debugger
+- ''Smalltalk Dialect'': ""Smalltalk/X""
+- ''Submitter'': ""Jan Vrany""
+- ''Affiliation'': ""Jan Solutions""
+- ''Country'': ""United Kingdom""
+- ''Download Url'': ""*https://swing.fit.cvut.cz/projects/stx-jv*""
+- ''Keywords'': ""virtual machine debugger ffi""
+- ''Licence'': ""Creative Commons Attribution-NonCommercial 4.0""
+
+!!!Collectors: find and debug objects at runtime
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Steven Costiou""
+- ''Other Authors'': ""Clotilde Toullec Mickael Kerboeuf Alain Plantec""
+- ''Affiliation'': ""University of Western Brittany - LabSTICC""
+- ''Country'': ""France""
+- ''Download Url'': ""*https://github.com/ClotildeToullec/Collectors*""
+- ''Demo Url'': ""*https://github.com/ClotildeToullec/Collectors/wiki*""
+- ''Keywords'': ""Object-Centric-Debugging""
+- ''Licence'': ""MIT""
+
+!!!Willow
+- ''Smalltalk Dialect'': ""Pharo / VA Smalltalk""
+- ''Submitter'': ""Gabriel Omar Cotelli""
+- ''Other Authors'': ""Maxi Tabacman""
+- ''Affiliation'': ""Buenos Aires Smalltalk / Mercap""
+- ''Country'': ""Argentina""
+- ''Download Url'': ""*https://github.com/ba-st/Willow*""
+- ''Demo Url'': ""*https://drive.google.com/open?id=1LUWgNuUJN7sA0ahSIxGjz2QUOQabBqB4*""
+- ''Keywords'': ""Web AJAX Web-Components""
+- ''Licence'': ""MIT""
+
+!!!GsSqueak
+- ''Smalltalk Dialect'': ""Squeak GemStone""
+- ''Submitter'': ""Pit Wegner""
+- ''Other Authors'': ""Tobias Zagorni Marc André Freiheit Martin Stamm Stephan Lutz Wilhelm Friedemann Jakob Braun""
+- ''Affiliation'': ""Hasso Plattner Institute""
+- ''Country'': ""Germany""
+- ''Download Url'': ""*https://github.com/GsSqueak/GsSqueak*""
+- ''Demo Url'': ""*https://www.youtube.com/watch?v=TLOmrb4Ty14&feature=youtu.be*""
+
+!!!LiteratureResearcher
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Manuel Leuenberger""
+- ''Affiliation'': ""University of Bern SCG""
+- ''Country'': ""Switzerland""
+- ''Download Url'': ""*https://github.com/maenu/LiteratureResearcher*""
+- ''Demo Url'': ""*https://www.youtube.com/watch?v=EcK3Pt_WnEw*""
+- ''Keywords'': ""literature research""
+- ''Licence'': ""MIT""
+
+!!!PORT
+- ''Submitter'': ""Matteo Marra""
+- ''Affiliation'': ""Vrije Universiteit Brussel""
+- ''Country'': ""Belgium""
+- ''Keywords'': ""big data, debugging, distributed system""
+
+!!!Personal Websites with Pillar
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Asbath BIYALOU-SAMA""
+- ''Affiliation'': ""RMoD""
+- ''Country'': ""France""
+- ''Download Url'': ""*https://github.com/pillar-markup/pillar*""
+- ''Keywords'': ""Pillar, GitHub, Travis""
+
+!!!Woden Procedural Game Engine
+- ''Smalltalk Dialect'': ""Pharo""
+- ''Submitter'': ""Ronie Salgado""
+- ''Affiliation'': ""University of Chile""
+- ''Country'': ""Chile""
+- ''Download Url'': ""*https://github.com/ronsaldo/woden*""
+- ''Demo Url'': ""*https://www.youtube.com/watch?v=k9GIuKstIYI*""
+- ''Keywords'': ""pharo woden 3d graphics procedural conten""
+- ''Licence'': ""MIT""
+
+!!!Improving Code Completion in Pharo
+- ''Keywords'': ""code completion, software quality""
+- ''Developers'': ""Myroslava Romaniuk, supervised by Stephane Ducasse and Marcus Denker""
+- ''Affiliation'': ""Ukrainian Catholic University (but the project was done at RMoD at INRIA)""
+- ''Country'': ""Ukraine""
+- ''Smalltalk dialect'': ""Pharo""
+- ''Licence'': ""MIT""
+- ''Project URL'': ""*https://github.com/myroslavarm/Experimental-Completion*""
+
+!!!PharoLauncher
+- ''Developers'': ""Christophe Demarey, Damien Cassou""
+- ''Keywords'': ""Image manager""
+- ''Country'': ""France""
+- ''Smalltalk dialect'': ""Pharo""
+- ''Licence'': ""MIT""
+- ''Project URL'': ""*https://github.com/pharo-project/pharo-launcher*""
