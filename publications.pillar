@@ -4,7 +4,8 @@
 
 !YourPublication
 @publication
-ESUG offers 150 Euros for each international conference paper whose concepts involves an implementation in Smalltalk
+ESUG offers 150 Euros for each international conference paper whose concepts involves an implementation in Smalltalk.
+It is normally limited to three sponsoring per research people.
 
 !!!Rules
 -After notification of acceptance, one of the authors sends to the ESUG board the article, a CV, and a brief explanation of how Smalltalk was used
@@ -52,7 +53,7 @@ ESUG offers 150 Euros for each international conference paper whose concepts inv
 - Jorge Ressia, Alexandre Bergel, and Oscar Nierstrasz, "Object-Centric Debugging", Proceedings of ICSE 2012, 485-495, 2012
 - Alberto Bacchelli, Tommaso dal Sasso, Marco D'Ambros, and Michele Lanza, "Content Classification of Development Emails", Proceedings of ICSE 2012, 375-385, 2012
 - Oscar Callau, "Do Objects need Occurrence Typing?", JCC 2012 (Jornadas Chilenas de Computación), 2012
-- Jef Dex, "Smalltalk: een unieke ervaring!", Dutch/Flemish article published in 't Scholierke, issue 7-8, 2012
+
 
 !!!Sponsored articles for 2011
 - Fernando Olivero, Michele Lanza, Marco D'Ambros, and Romain Robbes, "Enabling Program Comprehension through a Visual Object-focused Development Environment", Proceedings of VL/HCC 2011, 2011
@@ -80,20 +81,3 @@ ESUG offers 150 Euros for each international conference paper whose concepts inv
 - Adrian Lienhard (*CSMR 2008>http://csmr2008.uwaterloo.ca/*) Test Blueprints, Exposing Side Effects in Execution Traces to Support Writing Unit Tests, (Software Composition Group, University Bern)
 - Guillermo Adrián Molina (*S3 Workshop>http://www.swa.hpi.uni-potsdam.de/s3/program/index.html*), Huemul, a Smalltalk Implementation
 - David Röthlisberger (*ICPC 2008>http://www.cs.vu.nl/icpc2008/*), Exploiting Runtime Information in the IDE, (Software Composition Group, University Bern)
-
-!!Sponsored articles for 2006
-- Serge Stinckwich, Stéphane Ducasse, "Les structures de contrôle en Smalltalk", Linux Pratique 33, January-February 2006
-- Hilaire Fernandes, Stéphane Ducasse, "Smalltalk : Le pouvoir et la simplicité du tout objet", Linux Magazine 82, April 2006
-- Hilaire Fernandes, Stéphane Ducasse, "La syntaxe Smalltalk par la pratique", Linux Magazine 83, May 2006
-- Serge Stinckwich, Hilaire Fernandes, "Nos premières classes en Smalltalk", Linux Magazine 84, June 2006
-- Hilaire Fernandes, Serge Stinckwich, "Environnement de développement Smalltalk", Linux Magazine 85, July-August 2006
-- Stéphane Ducasse, Serge Stinckwich, "Seaside : développement d'applications Web avec Smalltalk", Linux Magazine 85, September 2006
-
-!!Sponsored articles for  2005
-- Hilaire Fernandes, Stéphane Ducasse, "Squeak, un Smalltalk libre multimédia", Linux Pratique 28, Mars-April 2005
-- Hilaire Fernandes, Stéphane Ducasse, "Squeak, mon premier programme", Linux Pratique 31, September-October 2005
-- Frank Müller, "Mehr als ein Spiel" ("More than a game"), German article featuring *Croquet>http://www.opencroquet.org/*, published in *IX>http://www.heise.de/ix/*, Oct 2005
-- Serge Stinckwich, Stéphane Ducasse, "Squeak - La Syntaxe De Smalltalk", published in Linux Pratique 32, Nov-Dec 2005
-- Frank Müller, "Partytime", German article about 25 years of Smalltalking, published in *IX>http://www.heise.de/ix/*, Nov 2005
-
-
