@@ -1,5 +1,6 @@
-!!ESUG 2018 Call for Participation
-!!Call-for-Presentations 27th International Smalltalk Joint Conference
+!!ESUG 2019 Call for Participation
+
+Call-for-Presentations 27th International Smalltalk Joint Conference
 
 The ESUG board is pleased to announce that the 27th ESUG conference/summer-school will be held in Cologne, Germany 26-30 August 2019; with Camp Smalltalk 24-25 August 2019. The conference is co-organized by ZWEIDENKER.
 
@@ -36,11 +37,12 @@ The list of topics for the normal talks and tutorials includes, but is not limit
 
 !!How to submit?
 
-- Submissions deadline is 15 of June 2019
+- Submissions deadline is 15 of July 2019 (Pay attention early registration will end up 22 of July 2019)
 - Notification of acceptance will be on done on the fly.
 
-Pay attention: the places are limited so do not wait till the last minute to apply. Prospective presenters should submit a request to Stephane.Ducasse[at]inria.fr AND USE THE following header [ESUG 2018 Developers] Title: Please follow the template below the email will be automatically processed!
-
+Pay attention: the places are limited so do not wait till the last minute to apply. 
+Prospective presenters should submit a PR https://github.com/ESUG/esug.github.io/pulls
+= Title: Please follow the template below the email will be automatically processed!
 = Name:
 = Email:
 = Abstract:
@@ -55,8 +57,7 @@ IWST is an exciting workshop. Read the page for more information: *Call for IWST
 
 !!Technology Award Competition
 
-The top 3 teams with the most innovative software will receive, respectively, 500 Euros, 300 Euros and 200 Euros during an awards ceremony at the conference. Developers of any Smalltalk-based software are welcome to compete.
-
+The top 3 teams with the most innovative software will receive, respectively, 500 Euros, 300 Euros and 200 Euros during an awards ceremony at the conference. Developers of any Smalltalk-based software are welcome to compete. Read more at : *2019 Innovation award call>awardsCall2019.pillar*
 
 !!Student Volunteer Program
 
