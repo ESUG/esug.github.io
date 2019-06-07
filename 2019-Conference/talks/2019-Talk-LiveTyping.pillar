@@ -1,0 +1,12 @@
+! LiveTyping: Automatic Type Annotation to improve the Programming eXperience
+
+Hernan Wilkinson ( hernan.wilkinson@10pines.com / [http://www.10pines.com](http://www.10pines.com))
+
+""Abstract:""
+LiveTyping automatically annotates variables' types based on the objects assigned to them, and method's return types based on the returned objects. It does it while the system runs due to small changes made to the VM. With the annotated type information the tools can be greatly improved, boosting the programming experience and opening a new way of thinking about the Smalltalk's tools.
+LiveTyping allows to look for actual senders based on the receiver's type, rename messages based on the actual senders and implementors without making a manual and error prone filtering of them, delete methods based on actual senders, autocomplete code as in statically typed languages and help the programmer to understand the types of objects when reading code, among many other advantages. It does it without loosing any of the dynamic characteristic we all love of Smalltalk and with an unnoticeable performance hit.
+In this talk I will show the changes made to the VM, how it compares to similar approaches, how the type information is stored in the image and how the tools take advantage of that information showing concrete and useful day to day examples.
+Finally, I'll share with you what I conceptually learned implementing LiveTyping and why type information should be handle fundamentally different in dynamically typed languages compared to statically typed ones.
+
+""Bio:""
+Hernan Wilkinson is a passionate programmer. Smalltalk lover. Founder of 10Pines and FAST (Argentine Foundation of Smalltalk). Professor at the University of Buenos Aires. Teaches OO and Agile techniques at the university and the industry. Key Note Speaker of many national and international conferences. Contributes to many Smalltalk open source projects. Promotes horizontal organizations and agile methodologies. You can follow him in Twitter at @hernanwilkinson
