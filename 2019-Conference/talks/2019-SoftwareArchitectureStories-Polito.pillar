@@ -1,0 +1,20 @@
+! Software Architecture Stories
+
+Guille Polito ( guillermo.polito@univ-lille.fr / [https://guillep.github.io/](https://guillep.github.io/))
+
+""Abstract:"" 
+When asked about software architecture we tend to describe structures such as layers, services, micro-services, components, distribution.
+However, structure is not the only link between these architectures.
+Some people describe also software architectures as decisions, sometimes complex decisions or hard to change decisions.
+
+Understanding the reasoning behind architecture decisions is key to evaluate and adapt architectures to new situations.
+This talk tells several stories about existing software architectures, how they are, how they came to be and what did we learn in the process.
+Because stories have morals, and architectures have them too.
+
+
+""Bio:"" 
+Guille Polito is research engineer at the CRIStAL laboratory in the University of Lille, working in tight relation with the RMoD team.
+He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
+Guille's main research interests are modularity and development tools.
+Guille participates in the Pharo community since 2010 and is now board member.
+His most noticeable contributions to the community are the Pharo Bootstrap process and Iceberg.

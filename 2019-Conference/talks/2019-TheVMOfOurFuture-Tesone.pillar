@@ -1,0 +1,30 @@
+! The Past, Present and Future of the PharoVM
+
+Pablo Tesone (tesonep@gmail.com)
+
+""Abstract:""
+
+Last year the Pharo team set as objective to have a headless event-based embeddable VM for the future.
+However, evolving the VM and reaching a mature product requires an infrastructure that supports change and makes it painless.
+One year later, we have make good progress with our infrastructure, which lead us to a first version of a headless embeddable VM.
+
+In this talk, although the VM seems to be the subject, we want to focus on the scaffolding around it:
+ - A simpler build process using CMake and integrating with existing IDEs, 
+ - Making Slang work back in Pharo, taking advantage of our set of tools,
+ - Automated tests to detect regressions in Slang generation and VM execution,
+ - Automated benchmarks to detect performance regressions,
+ - and a CI to govern them all
+
+These changes were capital to make possible this year:
+ - a headless VM suited for server applications,
+ - an embeddable VM to spread Pharo in other applications,
+ - a reorganization of VM plugins to strip VM footprint,
+
+Although our short-term future includes an event-based VM, this infrastructure opens a lots of doors in VM development.
+
+""Bio:"" 
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
+He is interested in improving development tools and the daily development process. 
+He is an enthusiast of the object oriented programming and their tools. 
+He collaborates with different open source projects like the ones in the Pharo Community [http://pharo.org/] and the Uqbar Foundation [http://www.uqbar-project.org/].

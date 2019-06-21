@@ -1,0 +1,20 @@
+! Strategies for Non-Blocking FFI
+
+Pablo Tesone (tesonep@gmail.com)
+
+""Abstract:"" 
+Interacting with external libraries is crucial for business to avoid reinventing the wheel and use good quality existing libraries.
+In the last years, the use of external libraries in Pharo through FFI has notably augmented because of the ease of use of libraries like Unified-FFI.
+However, restrictions in the current state of the runtime makes FFI blocking.
+This is specially annoying and inefficient when FFI calls do take a lot of time, because they freeze the VM execution.
+This means for example, that an expensive SQL query can lower the throughput of your business application.
+
+In this talk we present several solutions we have under development in the Pharo consortium to be released before the end of the year.
+Each of these solutions has a different architecture to allow non-Blocking FFI, and each presents different advantages and disadvantages.
+
+""Bio:"" 
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
+He is interested in improving development tools and the daily development process. 
+He is an enthusiast of the object oriented programming and their tools. 
+He collaborates with different open source projects like the ones in the Pharo Community [http://pharo.org/] and the Uqbar Foundation [http://www.uqbar-project.org/].
