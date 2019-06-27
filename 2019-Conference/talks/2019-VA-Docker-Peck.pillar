@@ -1,0 +1,14 @@
+! Improving VASmalltalk deployment, availability and scalability with Docker
+
+Mariano Martinez Peck ( mpeck@instantiations.com / [https://marianopeck.wordpress.com/](https://marianopeck.wordpress.com/))
+
+""Abstract:""
+Anyone that has ever done a deployment with Smalltalk knows how easy it can be compared to other languages. But the technology space is always in motion and with a continued increase in DevOps roles, the rest of the world offers top notch technologies for improving deployment, availability, scalability, and other aspects of the whole software engineering process.
+
+In this talk, I will show how VA Smalltalk integrates smoothly with these technologies to build enterprise-class scalable and performant systems. I will demonstrate how to take an application from the development environment and prepare it for deployment. I will show how to get started with Docker by building Docker images and running them within isolated containers. Finally, I will create an ARM 64 cluster using Raspberry Pi and a Pine64 IoT devices that will be running a cloud of containers: a Docker Swarm.
+
+
+""Bio:""
+Mariano is a systems engineer specializing in software solutions based on dynamic programming languages currently working at Instantiations Inc. He contributes to the development and maintenance of VA Smalltalk commercial development environment. Responsibilities include crafting or importing frameworks, libraries and tools, as well as improving the existing code base of the product.
+
+As a Smalltalk expert, he is active in the Smalltalk community and has co-authored numerous open-source project. Mariano’s academic research has been published across various international journals. He has a PhD in Computer Science from RMOD-INRIA and the École Des Mines de Douai in France, where his thesis was on application-level virtual memory for object-oriented systems.
