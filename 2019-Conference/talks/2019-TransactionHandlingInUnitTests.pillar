@@ -1,0 +1,13 @@
+Dirk Nel (dirkOckertNel@gmail.com)
+
+""Abstract:""
+For many years we could not simulate transaction handling (GemStone) in the unit tests of our system.
+This resulted in subtle bugs slipping into our system which was hard to catch and hard to prevent from occuring again.
+Then GemStone implemented nested transactions and we found a way to use them to simulate transaction handling in our unit tests.
+This talk is about the little framework that we built in order to accomplish this.
+ 
+""Bio:"" 
+I am Dirk Nel from South Africa.  I work on a client liability system that has been around since the early 1990s.
+The system was developed in VisualWorks with GemStone as the DB.
+My talk will give highlights of our journey with regards to how we do development and specifically looking at
+unit testing and transaction handling within those unit tests.
