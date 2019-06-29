@@ -1,0 +1,40 @@
+! Dancing Links in Smalltalk
+
+Massimo Nocentini ( massimo.nocentini@unifi.it )
+
+""Abstract:"" 
+This talk aims to show *Dancing Links* (re)-introduced by Donald Knuth and it
+can be regarded as an educational pearl. In Donald's words: 
+
+	Suppose x points to an element of a doubly linked list; 
+	let L[x] and R[x] point to the predecessor and successor 
+	of that element. Then the operations:
+		L[R[x]] ← L[x], R[L[x]] ← R[x] (1)
+	remove x from the list; every programmer knows this. 
+	But comparatively few programmers have realized that the 
+	subsequent operations
+		L[R[x]] ← x, R L[x] ← x (2)
+	will put x back into the list again.
+	The element denoted by x has been deleted from its list; 
+	why would anybody want to put it back again? An interactive 
+	program may need to revert to a former state; oth, 
+	another typical application arises in backtrack programs,
+	which enumerate all solutions to a given set of constraints.
+	The beauty of (2) is that operation (1) can be undone by 
+	knowing only the value of x. We can apply (1) and (2) 
+	repeatedly in complex data structures that involve large 
+	numbers of interacting doubly linked lists. This process 
+	causes the pointer variables inside the global data structure 
+	to execute an exquisitely choreographed dance; hence I like 
+	to call (1) and (2) the technique of *dancing links*.
+
+We would like to show our implementation which uses plain DoubleLink and
+DoubleLinkedList objects and some applications to exact cover problems such as
+sudoku and N-Queen.
+
+""Bio:"" 
+I'm a post-doc at the University of Florence, working primarily on
+combinatorics, formal methods for the analysis of algorithms and NLP, having a
+deep passion for programming from a long time. I graduated at the same
+University and my interests concern logic, programming paradigms and
+algorithms. I publish my code on https://github.com/massimo-nocentini.
