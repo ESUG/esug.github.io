@@ -1,0 +1,14 @@
+! Spec 2.0 - Building a GUI with Spec 2
+
+Cyril Ferlicot-Delbecque (cyril@ferlicot.me)
+
+""Abstract:"" 
+Pharo is pushing a new version of Spec, a framework for describing user interfaces, in Pharo 8.
+A lot of changes are happening since the previous version.
+Here is a tutorial to implement an interface in Spec 2 to explore some of the new features of Spec 2.
+
+""Bio:"" 
+Cyril is currently a research and development engineer at Inria after obtaining a Master of Business Informatics at the University of Lille.
+He working on the creation of an IDE for software analysis.
+
+He likes participation to open sources projects on its free time such has Seaside, Telescope, Material Design Lite...
