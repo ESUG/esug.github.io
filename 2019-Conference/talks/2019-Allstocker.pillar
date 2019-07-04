@@ -1,7 +1,7 @@
 ! Evolving ALLSTOCKER
 
-Presenter: Masashi Umezawa (ume@softumeya.com)
-Demo: Kazunori Ueda (k.ueda@sorabito.com)
+Masashi Umezawa (ume@softumeya.com)
+Kazunori Ueda (k.ueda@sorabito.com)
 
 ""Abstract:"" 
 ALLSTOCKER is an online platform for trading used construction equipment and machinery.
@@ -10,3 +10,5 @@ We will present how the marketplace web-app has been evolved incrementally in ag
 
 ""Bio:"" 
 Masashi Umezawa is an agile process consultant at SoftUmeYa, LLC and a tech fellow at SORABITO, Inc. He has been using Smalltalk since 1994. He has organized Smalltalk-users.jp meetups for 10 years. He has developed several OSS Smalltalk libraries and wrote "Jiyuu jizai Squeak Programming" book in Japan.
+
+Kazunori Ueda is (TBD)
