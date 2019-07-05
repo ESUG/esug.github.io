@@ -1,0 +1,12 @@
+! The Roassal3 Visualization Engine
+
+Alexandre Bergel ( alexandre.bergel@me.com / [http://bergel.eu](http://bergel.eu))
+
+""Abstract:"" 
+Roassal2, born 6 years ago, has become a standard in data and software visualizations in Smalltalk. 
+For nearly two years we have developed Roassal3, a new visualization engine. Roassal3 features amazing animations 
+and a rich set of intuitive interactions. This presentation our past and future effort on redesigning and improving a standard 
+in the Smalltalk community.
+
+""Bio:"" 
+Alexandre Bergel is Associate Professor and researcher at the University of Chile. Alexandre Bergel and his collaborators carry out research in software engineering. His focus is on designing tools and methodologies to improve the overall performance and internal quality of software systems, by employing profiling, visualization, and artificial intelligence techniques. Alexandre authored the book Agile Visualization and co-authored the book Deep Into Pharo.

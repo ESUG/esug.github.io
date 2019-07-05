@@ -1,0 +1,18 @@
+! Active research on advanced debugging tools
+
+Steven Costiou (steven.costiou@inria.fr)
+Thomas Dupriez (tdupriez@ens-paris-saclay.fr)
+
+""Abstract:""
+Hard and evil bugs are no match for advanced debugging tools:
+- Talk to your debugger and script your debugging sessions with Sindarin
+- Debug in isolation
+- Live reverse-debugging
+- A chest to store your precious objects
+- PowerAssert Replay: replay your failed assertions
+In this presentation, we show research prototypes of advanced debugging tools we are working on.
+
+""Bio:""
+Steven Costiou: I am an Inria researcher and I work in the RMoD team. Before that, I worked six years in the industry as a software developer. Today, I do research on software engineering. I work especially on debugging for which I'm interested in different topics: reflection and meta-programming, object-centric instrumentation, dynamic software adaptation, dynamic languages and virtual machines.
+
+Thomas Dupriez: I am a PhD student in the RMoD team. I work on debuggers and debugging tools. I am interested in exception mechanisms and execution manipulation. 

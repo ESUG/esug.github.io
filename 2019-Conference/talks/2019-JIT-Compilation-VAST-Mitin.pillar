@@ -1,0 +1,10 @@
+! Just in Time compilation in VAST
+
+Alexander Mitin ( amitin@instantiations.com / [https://www.linkedin.com/in/alexandermitin/](https://www.linkedin.com/in/alexandermitin/))
+
+""Abstract:""
+Languages and frameworks running on virtual machine runtimes are heavily dependent on their performance characteristics. And the overall performance is an important part of any production-ready application.
+At Instantiations, we continue to push forward with VA Smalltalk VM performance. In this talk I will demonstrate the improvements done to the VM using the powerful LLVM framework. I will give additional insights on how we achieved fast and efficient native translation of Smalltalk code.
+
+""Bio:""
+Prior to Instantiations, Alexander spent more than 5 years developing software for a steel company where he gained expertise in a wide variety of domains, including the development of real-time systems. After joining Instantiations in November of 2003, Alexander became a key developer for the award-winning WindowBuilder project, including the famous GWT Designer product which was acquired by Google.  Following this, Alexander joined Instantiations' Smalltalk department, becoming the team lead engineer for the next-generation of VA Smalltalk's virtual machine and oversees all vm development tasks.  Alexander has a B.S. & M.S. in Electric Engineering.

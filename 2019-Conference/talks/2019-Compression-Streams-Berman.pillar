@@ -1,0 +1,9 @@
+! Unified Compression Streams
+
+Seth Berman ( sberman@instantiations.com / [www.linkedin.com/in/seth-berman](www.linkedin.com/in/seth-berman))
+
+""Abstract:""
+VA Smalltalk has support for a wide variety of compression algorithms out-of-the-box such as Brotli, ZStandard, LZ4, GZip and DEFLATE. All of these are integrated into our Unified Compression Streams framework which provides a robust API and handles the details of implementing high-performance streams. I will be giving an overview of the framework as well as demonstrating how easy it is to enable streaming of new algorithms.
+
+""Bio:""
+Seth is the President/CEO of Instantiations, as well as a member of the technical staff. During his time as a developer with Instantiations he has been primarily involved with developing the VA Smalltalk code editor, code completion and live type inference capability, cryptography support, compression support, 64-bit virtual machine and Smalltalk's FFI library enhancements. Before joining Instantiations in May of 2011, Seth spent 10 years developing software for the U.S. government.  During this time he worked in a variety of domains to include stochastic simulation, operations research, grid computing and link analysis.  He has a B.S. in Computer Science and an M.S. in Software Engineering.
