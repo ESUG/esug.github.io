@@ -1,0 +1,14 @@
+! Turning a Tonel Class File into a Shell script
+
+Dale Henrichs (dale.henrichs@gemtalksystems.com)
+
+""Abstract:""
+Now that the Smalltalk community is using git for source code control, there is an opportunity to include Shell scripts as part of the git repository for a Smalltalk project. 
+
+Shell scripts for installation and launching of Smalltalk programs can be very useful, especially for newcomers to Smalltalk.
+Since many Smalltalk projects are intended for use with multiple Smalltalk implemenations, the Shell scripts should be executable against the set of supported platforms, as well.  
+
+I will present my work on a cross platform scheme for writing, maintaining and executing Smalltalk shell scripts.
+
+""Bio:""
+Dale Henrichs is a Principal Engineer at GemTalk Systems and has been working in Smalltalk since 1985. For the last decade Dale has focused on the development and support of open source projects for both GemTalk Systems and the Smalltalk community. His contributions to the Smalltalk community include Metacello, FileTree, and the GemStone port of Seaside. Recently, Dale has been working on Rowan a replacement for Monticello and Metacello.
