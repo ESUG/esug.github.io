@@ -1,0 +1,17 @@
+! Our Moneys
+
+Christian Haider (mail@christianhaider.de)
+
+""Abstract:""
+The budgets of communities and countries are the base of all politics: how much money is collected and how is it spent - our money!
+Unfortunately, budgets are extensive and complex - difficult to understand. To make things worse: they usually come only in large PDFs. 
+
+The new commercial project "Unsere Gelder" (our moneys) is set out to change this! 
+A data catalog for public budget data is going to hold data in all forms (doc, PDF, CSV, XML...) uploaded by anyone. The data will be made available as tables (CSV, SQL) or graphs (RDF) via a public API. Especially the automatic extraction of data tables from PDF documents will be one focus of the project.
+
+The budget data will be presented using special visualizations and navigations for better understanding. Comparisons and rankings will reveal information and context not available today.
+
+The talk will introduce the project and talk about the envisioned design and the business case. For details in German see https://unsere-gelder.de .
+
+""Bio:""
+Christian Haider works with his company "Smalltalked Visuals GmbH" on "smallCharts" - chart programs for newspapers. He has been using Smalltalk on a daily basis for more than 20 years for graphics and UI programming (and everything else). Author of the open source PDF library PDFtalk, the Values package and some goodies for VisualWorks. Been attending ESUG since 2002 and has given presentations.
