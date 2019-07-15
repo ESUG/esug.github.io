@@ -1,0 +1,19 @@
+! Design Matters
+
+David West (dwest@objectguild.com / [https://objectguild.com](https://objectguild.com))
+
+""Abstract:""
+Effective application development using Smalltalk depends on two factors: 
+language semantics and object design. This talk will briefly look at language 
+semantics and then focus on design issues: beginning with a discussion of how 
+"responsibility-driven design" leads to a more robust set of objects and 
+appropriate distribution of work across those objects. The final portion of 
+the talk will discuss how to make a bridge between behavioral description 
+(e.g. CRC cards) and coding guidelines for objects and methods with the use 
+of "Object Cubes."
+
+""Bio:""
+Dave West has been in the profession since its inception (1968) and has held positions 
+ranging from programmer to Chief Information Officer. He is also a Professor of 
+Computer Science and Software Development and creator of award-winning programs 
+in software development apprenticeship education.
