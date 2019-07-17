@@ -1,0 +1,9 @@
+! One rendering tree
+
+Aliaksei Syrel (alex.syrel@gmail.com)
+
+""Abstract:"" 
+Glamorous Toolkit is built on top of Bloc graphical stack. Bloc is an extensive infrastructure, but at its core it relies on a core property: one rendering tree. In this talk we look at the magic that this property makes possible, ranging from how we built a new live notebook category and how graphs can be intertwined with any widgets.
+
+""Bio:"" 
+Aliaksei Syrel works as a UI magician at feenk gmbh. He is a co-author of the Glamorous Toolkit (gtoolkit.org). Since recently he spends his energy rethinking the graphical stack of Glamorous Toolkit, a space in which he is a core contributor to Bloc and the creator of the Sparta canvas, a project that received the 1st prize at the ESUG 2016 Innovation Awards.
