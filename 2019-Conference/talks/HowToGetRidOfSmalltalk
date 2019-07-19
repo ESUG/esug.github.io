@@ -1,0 +1,12 @@
+! What a pity - How to get rid of Smalltalk? (A Model-Driven Approach)
+
+Christian Mann (christian.mann@tomcat.de)
+
+""Abstract:""
+It’s really a pity: professional systems with commercial background written in Smalltalk are nowadays more or less legacy systems – what in fact means systems to get rid of. Usually they are for several decades in use and quite often still „under construction“; very often, there is a substantial amount of business knowledge „burried“ in these systems and any approach to supersede them hast to start with a quite costly business reengineering phase.
+Extracting an object model of all the business classes in the old system might be a start. This is fairly easy for strongly typed programming languages like Java or C++ - but Smalltalk lacks the necessary type information for easy reengineering. Luckily, there are (even open source) systems which may help (<reference to Jan Blicnicenko’s talk>).
+A UML model of the business classes may be a basis for a kind of „walking skeleton“ generated with an MDA approach supporting the business analysis necessary for the replacement of the old system... Yes, we know: Model-Driven Architecture isn’t really en vogue anymore – but it works!
+
+""Bio:""
+Software developer, architect and trainer for modelling and development methodologies for more than a quarter of a century.
+I'm living close to Frankfurt, but I am also co-owner of tomcat s.r.o. in Prague and freelance consultant for Tomcat computer GmbH in Gilching (close to Munich.) 
