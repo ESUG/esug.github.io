@@ -1,0 +1,13 @@
+! 2019 PolyMath updates
+
+Konrad Hinsen, Serge Stinckwich, Hemal Varambhia, Oleksandr Zaytsev
+
+""Abstract:"" 
+We will present the last development of PolyMath, an open-source numerical computing library based on Pharo Smalltalk: PCA, t-SNE, etc ...
+PolyMath include Dataframe, a data science framework build by Olekskandr Zaytsev.
+
+""Bio:"" 
+We are PolyMath :-)
+
+""NOTE:""
+Please schedule presentation after innovation awards. We will compete this year.
