@@ -1,8 +1,12 @@
-! Toward a Simulation Server
+! How to make a great talk at ESUG
 
-Guillermo Amaral ( gamaral@palantirsolutions.com)
+Stéphane Ducasse ( stephane.ducasse@inria.fr / [http://stephane.ducasse.free.fr](http://stephane.ducasse.free.fr))
 
-""Abstract:"" About a year ago, we started to promote PetroVR as a full simulation server. Throughout the process, we analyzed different approaches, and, developed different layers of what had become our web application framework in Bee smalltalk. We want to share a bit of this process, the current state, and, the future work.
+""Abstract:"" 
+Think about your audience. 
+Understand what they should learn and bring back home.
+You can talk about your great project and this is important but what can your audience learn from it.
+And BTW Use slides with large fonts.
 
-""Bio:"" I live in Buenos Aires, Argentina. I have been devoted to Smalltalk for many years. I have used it and enjoyed it
-throughout my entire professional career. I am currently working at Palantir Solutions, an international company of software development for the oil and gas industry.
+""Bio:"" 
+Tell who you are and why this is nice that I listen to your talk.

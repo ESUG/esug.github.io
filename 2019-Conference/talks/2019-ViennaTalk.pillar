@@ -1,0 +1,15 @@
+! ViennaTalk : A formal method environment on Pharo
+
+Tomohiro Oda ( tomohiro@sra.co.jp / [https://www3.sra.co.jp/ktl/tomohirooda/index-e.html](https://www3.sra.co.jp/ktl/tomohirooda/index-e.html))
+
+""Abstract:"" 
+In this talk, ViennaTalk, a development environment for VDM-SL will be introduced with demos.
+VDM is a lightweight formal technique originated back in 70s, and VDM-SL is one of its specification languages.
+One interesting feature of VDM-SL is that it has executable subset and thus a specification written in VDM-SL can be unit-tested and also used as a prototype code.
+
+ViennaTalk is a development environment for VDM-SL built on top of Pharo.
+The design goal of ViennaTalk is to support exploratory stage of the specification phase by incorporating Pharo's programming styles such as TDD and quick prototyping including UIs and lightweight web APIs.
+It provides Web IDE (VDMPad available at https://vdmpad.viennatalk.org/), VDM Browser with automatic unit testing, Smalltalk code generators, UI prototyper and web API prototyper.
+
+""Bio:"" 
+Tomohiro Oda is a programmer and researcher at Software Research Associates, Inc. Formal methods engineer since 1992. Smalltalk lover since 1994. A former game programmer in 20th century.

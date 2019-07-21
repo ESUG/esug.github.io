@@ -1,0 +1,15 @@
+! Big Data with Pharo
+
+Matteo Marra ( mmarra@vub.be / [http://soft.vub.ac.be/~mmarra](http://soft.vub.ac.be/~mmarra))
+
+""Abstract:"" 
+In this talk I will present Port, a Big Data framework for Pharo, written in Pharo.
+It allows parallel remote execution of code either in a Map/Reduce fashion, or usig a Spark-like data structure and API.
+Port can be use to execute your code in parallel on multiple pharo images both locally, or on a cluster.
+
+""Bio:"" 
+I am a second year PhD student at the Vrije Unversiteit Brussel, and I also work in collaboration with RMoD.
+I work on debugging Big Data applications, in particular Map/Reduce or Spark-like applications running on Port, my Big Data framework for Pharo.
+
+""NOTE:""
+Please schedule presentation from monday to wednesday. I will not be at ESUG afterwards

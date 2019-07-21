@@ -1,0 +1,20 @@
+! Scarlet SmallTalk
+
+John McIntosh(johnmci@smalltalkconsulting.com)
+Michael Rueger (michael@andience.co.nz)
+
+""Abstract:"" 
+LabWare has for 30 years worked in the laboratory information management system space (LIMS). Their system is written in VSE Smalltalk and has accumulated decades of business logic written in Smalltalk.
+
+Utilizing this treasure trove on mobile was only possible by trying to run Smalltalk on the mobile devices (iOS, Android). Not currently being able to run Smalltalk on mobile devices in an acceptable manner, LabWare decided to use cross translation to JavaScript. Our current cross compiler and runtime system resulting from this effort is called Scarlet SmallTalk.
+
+Scarlet SmallTalk is a Smalltalk to JavaScript cross-compiler and runtime inspired and partially based on Amber.
+
+The compiler is a modified version of the current Squeak compiler and generates code that is strongly influenced by Amber.
+
+This talk will present the basic concepts of how Scarlet works and how the resulting JavaScript code is integrated into the LabWare iOS & Android applications. Our goal was to compile 500K lines (1.4 million words) of Smalltalk into JavaScript code that was more readable, more friendly to Apple's JavaScript Core engine, and could be compiled in just a few minutes.
+
+""Bio:"" 
+John McIntosh is the lead iOS and platform architect at LabWare. He has been working with Smalltalk since the mid 90's and was responsible for the maintenance of the early Macintosh Squeak VM, and the creation of the iPhone Squeak VM & current Macintosh VM. He has work on various large Smalltalk projects such as Sprint ION, Sophie, and Kapital @ JP Morgan. For most of this decade he been involved in building various iOS applications, from pure ObjC/Swift to LabWare's Smalltalk/Swift hybrid solution now found in Apple's App Store, and the Google Play Store.
+
+Michael Rueger is Android/Smalltalk/Javascript developer at LabWare and has been working with Smalltalk since the early 80's. He was part of Squeak Central at Disney Imagineering and Co-founder and development lead at Impara. Impara developed Plopp and was a major contributor to Sophie and Squeak. He was one of the initiators of Pharo, but then got pulled into Android before coming back to Smalltalk at LabWare, where he is also responsible for Android development.

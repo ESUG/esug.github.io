@@ -1,0 +1,14 @@
+! Evolving ALLSTOCKER
+
+Masashi Umezawa (ume@softumeya.com)
+Kazunori Ueda (k.ueda@sorabito.com)
+
+""Abstract:"" 
+ALLSTOCKER is an online platform for trading used construction equipment and machinery.
+It has been developed with a polyglot microservices approach using Pharo Smalltalk as the core of the system.
+We will present how the marketplace web-app has been evolved incrementally in agile development process. We also pick-up the real-time auction system and explain what has been done to make it highly reactive.
+
+""Bio:"" 
+Masashi Umezawa is an agile process consultant at SoftUmeYa, LLC and a tech fellow at SORABITO, Inc. He has been using Smalltalk since 1994. He has organized Smalltalk-users.jp meetups for 10 years. He has developed several OSS Smalltalk libraries and wrote "Jiyuu jizai Squeak Programming" book in Japan.
+
+Kazunori Ueda is a full stack software developer at SORABITO Inc. He has been using Smalltalk for one year and developed "SmalltalkJenga" to explore how dynamic Smalltalk is.

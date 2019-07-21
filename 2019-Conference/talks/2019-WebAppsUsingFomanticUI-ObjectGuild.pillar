@@ -1,0 +1,24 @@
+! Web Applications Using Fomantic UI
+
+Jonathan van Alteren (jvalteren@objectguild.com / [https://objectguild.com](https://objectguild.com))
+Don Howard (dhoward@objectguild.com / [https://objectguild.com](https://objectguild.com))
+
+""Abstract:""
+Numerous frameworks for creating sophisticated Web Application UI's exist, 
+with Bootstrap, perhaps, the most popular. This presentation start with a 
+short comparison of modern, popular UI frameworks. Then it will focus on 
+the use of Fomantic UI (a fork of the Semantic UI project) for two apps 
+Object Guild has delivered to its clients: why Fomantic UI was chosen and 
+how it was integrated into Seaside. The integration of Fomantic UI into 
+Seaside may be released as an open source project in the near future.
+
+""Bio:""
+Jonathan van Alteren has almost twenty years of experience in enterprise 
+software development and was a founding partner in a highly successful 
+enterprise solutions company in the Netherlands. Jonathan is highly skilled 
+in technical and infrastructural aspects of software development.
+
+Don Howard has over thirty years of experience ranging from programmer to 
+architect and has held positions as team lead and IT project management. 
+Don has led numerous agile teams, and played leadership roles developing 
+enterprise level software.

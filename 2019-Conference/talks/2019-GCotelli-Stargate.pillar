@@ -1,0 +1,13 @@
+! Stargate, an interstellar journey to RESTful APIs
+
+Gabriel Omar Cotelli ( g.cotelli@gmail.com / [https://github.com/gcotelli](https://github.com/gcotelli))
+
+""Abstract:""
+This talk will present [Stargate](htts://github.com/ba-st/Stargate), a library supporting the creation of HTTP based RESTful APIs.
+The library is built on top of Teapot and Zinc, providing a conceptual framework to simplify the creation of RESTful APIs including HATEOAS, content negotiation, API versioning, ETags and pagination.
+We will revisit the library affordances and a real world experience report using it.
+
+""Bio:""
+Bachelor in CS, continuous learner and free-thinker.
+Supporter of libre knowledge, human intelligence augmentation and open source software.
+Smalltalker since 2004, works at [Mercap Software](https://www.mercapsoftware.com/en/) making financial software in Smalltalk.

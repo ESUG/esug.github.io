@@ -1,0 +1,20 @@
+! Pharo as Universal Development Platform
+
+Dave Mason <dmason@ryerson.ca>
+
+""Abstract:""
+As we all know, Pharo Smalltalk is one of the most productive development environments available.
+Applications are normally developed for the desktop, but Pharo can also run a headless image for server applications.
+PharoJS generates code for web browsers and NodeJS (if it's a requirement for deployment).
+PharoJVM generates code for the JVM (if it's a requirement for deployment).
+
+One IDE to rule them all,
+One IDE to find them,
+One IDE to bring them all
+and in the productivity bind them.
+   -- with apologies to J.R.R.Tolkien
+
+This talk will demonstrate the facility with which Pharo Smalltalk can be used as a swiss army knife of development.
+
+""Bio:""
+Dave Mason is a Professor at Ryerson University. He is also one of the creators of PharoJS (targeting Smalltalk code to Javascript for the browser or node.js), and actively working on PharoJVM (targeting Smalltalk code to the JVM). He received a PhD from the University of Waterloo in 2002, and has been programming for almost 50 years. He is a member of ACM and is Chair of the Department of Computer Science at Ryerson.
