@@ -3,6 +3,24 @@
 }
 !Projects Submitted to the *Innovation Technology Awards 16th Edition>https://esug.github.io/2019-Conference/awardsCall2019.html*
 
+!!!1st: PharoGs
++file://Medailles2019-01.png|width=30+
+- ''Submitted by'': ""James Foster""
+- ''Download'': ""*https://github.com/jgfoster/PharoGs*""
+- ''Demo'': ""*https://youtu.be/8x2zS6YXuIE*""
+
+!!!2nd: GraalSqueak: A Squeak/Smalltalk implementation for the GraalVM
++file://Medailles2019-02.png|width=30+
+- ''Submitted by'': ""Fabio Niephaus""
+- ''Download'': ""*https://github.com/hpi-swa/graalsqueak/*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=1HjzDvNityU*""
+
+!!!3rd: El Carrillon
++file://Medailles2019-03.png|width=30+
+- ''Submitted by'': ""Mariano Martinez Peck""
+- ''Download'': ""*https://github.com/gerasdf/carrillon/tree/master/src.st*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=mP-7XB4fnao*""
+
 !!!LiveTyping
 - ''Submitted by'': ""Hernan Wilkinson""
 - ''Download'': ""*https://github.com/hernanwilkinson/LiveTyping/*""
@@ -17,11 +35,6 @@
 - ''Submitted by'': ""Thomas Dupriez, Steven Costiou & Stéphane Ducasse""
 - ''Download'': ""*https://github.com/dupriezt/PowerAssert*""
 - ''Demo'': ""**""
-
-!!!GraalSqueak: A Squeak/Smalltalk implementation for the GraalVM
-- ''Submitted by'': ""Fabio Niephaus""
-- ''Download'': ""*https://github.com/hpi-swa/graalsqueak/*""
-- ''Demo'': ""*https://www.youtube.com/watch?v=1HjzDvNityU*""
 
 !!!Event Music Manager
 - ''Submitted by'': ""Benoit Verhaeghe""
@@ -42,11 +55,6 @@
 - ''Submitted by'': ""Masashi Umezawa & Kazunori Ueda""
 - ''Download'': ""*https://allstocker.com/*""
 - ''Demo'': ""*https://alfresco.sorabito.com/share/s/gg44OnneRn-Fk330HIeHRg*""
-
-!!!El Carrillon
-- ''Submitted by'': ""Mariano Martinez Peck""
-- ''Download'': ""*https://github.com/gerasdf/carrillon/tree/master/src.st*""
-- ''Demo'': ""*https://www.youtube.com/watch?v=mP-7XB4fnao*""
 
 !!!Scarlet SmallTalk
 - ''Submitted by'': ""John McIntosh & Michael Rueger""
@@ -97,11 +105,6 @@
 - ''Submitted by'': ""Ronie Salgado""
 - ''Download'': ""*http://wodenengine.com/wodanic-alpha-voyage*""
 - ''Demo'': ""*https://youtu.be/p7blxmlhHQQ*""
-
-!!!PharoGs
-- ''Submitted by'': ""James Foster""
-- ''Download'': ""*https://github.com/jgfoster/PharoGs*""
-- ''Demo'': ""*https://youtu.be/8x2zS6YXuIE*""
 
 !!!PintGlas
 - ''Submitted by'': ""Tomohiro Oda""
