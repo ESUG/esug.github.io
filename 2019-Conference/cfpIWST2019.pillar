@@ -8,11 +8,13 @@ IWST19 — International Workshop on Smalltalk Technologies Cologne, Germany; Au
 
 ""Awards""
 
-- First Prize ''Inspecting Block Closures: To Generate Shaders for GPU Execution'' by Ronie Salgado.
-- Second Prize ''Illicium : A modular transpilation tool-chain from Pharo to C'' by Pierre Misse-Chanabier, Vincent Aranega, Guillermo Polito and Stéphane Ducasse.
-- Third Prize ''GildaVM: a Non-Blocking I/O Architecture for the Cog VM'' by Guillermo Polito, Pablo Tesone, Eliot Miranda and David Simmons.
+- First Prize: ''"Inspecting Block Closures: To Generate Shaders for GPU Execution"'' by Ronie Salgado.
+- Second Prize: ''"Illicium : A modular transpilation tool-chain from Pharo to C"'' by Pierre Misse-Chanabier, Vincent Aranega, Guillermo Polito and Stéphane Ducasse.
+- Third Prize: ''"GildaVM: a Non-Blocking I/O Architecture for the Cog VM"'' by Guillermo Polito, Pablo Tesone, Eliot Miranda and David Simmons.
 
 !! List of Accepted Articles
+
+All the articles can be found at *http://esug.github.io/2019-Conference/articles*.
 
 !!! Session: Domain specific tools
 - Serge Stinckwich and Konrad Hinsen, Building a scientific workbench in Pharo 
