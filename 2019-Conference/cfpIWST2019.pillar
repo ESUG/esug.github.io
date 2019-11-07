@@ -12,8 +12,39 @@ IWST19 — International Workshop on Smalltalk Technologies Cologne, Germany; Au
 - Second Prize ''Illicium : A modular transpilation tool-chain from Pharo to C'' by Pierre Misse-Chanabier, Vincent Aranega, Guillermo Polito and Stéphane Ducasse.
 - Third Prize ''GildaVM: a Non-Blocking I/O Architecture for the Cog VM'' by Guillermo Polito, Pablo Tesone, Eliot Miranda and David Simmons.
 
-""Goals and scopes""
+!! List of Accepted Articles
 
+!!! Session: Domain specific tools
+- Serge Stinckwich and Konrad Hinsen, Building a scientific workbench in Pharo 
+- Jan Blizničenko and Robert Pergl Generating UML models with inferred types from Pharo code
+- Tomohiro Oda, Yasuhiro Yamamoto and Kumiyo Nakakoji PintGlas - A Live Mobility Framework for Pharo
+- Sebastijan Kaplar, Miroslav Zarić and Gordana Milosavljević NewWave Workflow Engine
+
+!!! Session: Tests, Smells and Refactoring
+
+- Julien Delplanque, Stéphane Ducasse and Oleksandr Zaitsev, Magic Literals in Pharo     
+- Manuel Leuenberger Can I Remove This Method? How Live Feedback from the Ecosystem Supports Co-Evolution
+- Mehrdad Abdi, Henrique Rocha and Serge Demeyer Test Amplification in the Pharo Smalltalk Ecosystem 
+- Dayne Guerra, Julien Delplanque and Stéphane Ducasse Exposing Test Analysis Results with DrTests   
+- Clement Dutriez, Benoît Verhaeghe and Mustapha Derras Switching of GUI framework: the case from Spec to Spec2
+
+!!! Session: VM and low level
+- Guillermo Polito, Pablo Tesone, Eliot Miranda and David Simmons GildaVM: a Non-Blocking I/O Architecture for the Cog VM
+- Ronie Salgado Inspecting Block Closures: To Generate Shaders for GPU Execution
+- Pierre Misse-Chanabier, Vincent Aranega, Guillermo Polito and Stéphane Ducasse Illicium : A modular transpilation tool-chain from Pharo to C
+
+!!! Session: Debug and memory saving
+- Javier Pimás and Guido Chari Powerlang: a Vehicle for Lively Implementing Programming Languages
+- Théo Rogliano, Pablo Tesone and Guillermo PolitoVirtualization for porting programs
+- Tobias Pape, Jakob Reschke, Patrick Rein, Fabio Niephaus, Marcel Taeumel and Robert Hirschfeld Tracking Objects: Object Versioning in the Presence of File-based Version Control Systems     
+- Carolina Hernandez Phillips, Guillermo Polito, Luc Fabresse, Stéphane Ducasse, Noury Bouraqadi and Pablo Tesone Challenges in Debugging Bootstraps of Reflective Kernels  
+- Matthew Ralston and Dave Mason Tail Call Elimination in OpenSmalltalk
+
+
+
+!! Call for Papers
+
+""Goals and scopes""
 The goals of the workshop is to create a forum around advances or experience in Smalltalk and to trigger discussions and exchanges of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Participants are invited to submit research articles or industrial papers. This year we want to open two different tracks: one research track and one industrial track with less scientific constraints.
 
 We expect papers of three kinds:
