@@ -13,10 +13,30 @@ The European Smalltalk User Group (ESUG) is a non-profit users organization that
 - Organize a yearly conference and sponsor other Smalltalk conferences
 
 !! ESUG 2020
+<<<<<<< HEAD
 - Do not miss the conference!  *from 31.8. – 4.9 2020 in NoviSad.>2020-Conference/conf2020.pillar*
+=======
+- Do not miss the conference! From 31.8. – 4.9.2020 Novisad/Serbia
+>>>>>>> cd4fd15906919ad8d00ea1b1f2844857e785ba45
 
 
 !!News
+
+!!!! ESUG 2020 Novisad 31.8. – 4.9.
+
+We are happy to confirm that ESUG will happen in Novisad/Serbia from 31.8. – 4.9. 2020.
+
+
+!!!! ESUG19: Videos and Slides
+
+The Slides and Videos for ESUG19 are finally online:
+
+- Slides in the *ESUG Archive>http://esug.org/data/ESUG2019/*
+- Slides on *Slideshare>https://www.slideshare.net/esug/presentations*
+
+Videos were recorded for Room A:
+
+- Playlist *on Youtube>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi8DPNpy1jCkjE4yE0WUtDP2*
 
 !!!! ESUG19: Camp Smalltalk
 
@@ -97,7 +117,7 @@ We are happy to announce that we finally managed to fix everything for the 2019 
 <a href="https://www.linkedin.com/in/smalltalk"><img src="http://esug.org/design/sponsor-corporateSmalltalk.jpg"  height="70" /></a><br>
 <a href="http://www.hrworks.de"><img src="http://esug.org/design/sponsor-hrworks.png" height="70" /></a><br/>
 <a href="http://www.chameleonjohn.com/"><img src="http://esug.org/design/sponsor-chameleon.png" alt="sponsor-ChameleonJohn" width="100%"  height="55" /></a><br/>
-<a href="http://2denker.de/"><img src="http://esug.org/design/sponsor-2denker.png" alt="sponsor-2denker" width="100%"  class="img-responsive" /></a><br/>
+<a href="https://zweidenker.de/en/pharo/"><img src="http://esug.org/design/sponsor-2denker.png" alt="sponsor-2denker" width="100%"  class="img-responsive" /></a><br/>
 <a href="http://www.mediagenix.tv"><img src="http://esug.org/design/sponsor-mediagenix.png" width="100%" class="img-responsive"> </a>
 <a href="https://www.adesso-insure.de"><img src="http://esug.org/design/sponsor-adesso.jpg" width="250"> </a>
 <a href="https://www.palantirsolutions.com"><img src="http://esug.org/design/sponsor-palantir.png" width="100%" class="img-responsive"> </a>
