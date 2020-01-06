@@ -1,48 +1,23 @@
 {
-"title": "IWST 2019"
+"title": "IWST 2020"
 }
 
-!IWST 19 Information and Call For Papers
+!IWST 20 Information and Call For Papers
 
-IWST19 — International Workshop on Smalltalk Technologies Cologne, Germany; August 27-29th, 2019
+IWST20 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; September 1st-3rd, 2020
 
-""Awards""
+%""Awards""
 
-- First Prize: ''"Inspecting Block Closures: To Generate Shaders for GPU Execution"'' by Ronie Salgado.
-- Second Prize: ''"Illicium : A modular transpilation tool-chain from Pharo to C"'' by Pierre Misse-Chanabier, Vincent Aranega, Guillermo Polito and Stéphane Ducasse.
-- Third Prize: ''"GildaVM: a Non-Blocking I/O Architecture for the Cog VM"'' by Guillermo Polito, Pablo Tesone, Eliot Miranda and David Simmons.
+%- First Prize: ''"Title"'' by Author.
+%- Second Prize: ''"Title"'' by Author.
+%- Third Prize: ''"Title"'' by Author.
 
-!! List of Accepted Articles
+%!! List of Accepted Articles
 
-All the articles can be found at *http://esug.github.io/2019-Conference/articles/2019-08-26-IWST19.zip*.
+%All the articles can be found at *http://esug.github.io/2020-Conference/articles/2020-09-26-IWST19.zip*.
 
-!!! Session: Domain specific tools
-- Serge Stinckwich and Konrad Hinsen, Building a scientific workbench in Pharo 
-- Jan Blizničenko and Robert Pergl Generating UML models with inferred types from Pharo code
-- Tomohiro Oda, Yasuhiro Yamamoto and Kumiyo Nakakoji PintGlas - A Live Mobility Framework for Pharo
-- Sebastijan Kaplar, Miroslav Zarić and Gordana Milosavljević NewWave Workflow Engine
-
-!!! Session: Tests, Smells and Refactoring
-
-- Julien Delplanque, Stéphane Ducasse and Oleksandr Zaitsev, Magic Literals in Pharo     
-- Manuel Leuenberger Can I Remove This Method? How Live Feedback from the Ecosystem Supports Co-Evolution
-- Mehrdad Abdi, Henrique Rocha and Serge Demeyer Test Amplification in the Pharo Smalltalk Ecosystem 
-- Dayne Guerra, Julien Delplanque and Stéphane Ducasse Exposing Test Analysis Results with DrTests   
-- Clement Dutriez, Benoît Verhaeghe and Mustapha Derras Switching of GUI framework: the case from Spec to Spec2
-
-!!! Session: VM and low level
-- Guillermo Polito, Pablo Tesone, Eliot Miranda and David Simmons GildaVM: a Non-Blocking I/O Architecture for the Cog VM
-- Ronie Salgado Inspecting Block Closures: To Generate Shaders for GPU Execution
-- Pierre Misse-Chanabier, Vincent Aranega, Guillermo Polito and Stéphane Ducasse Illicium : A modular transpilation tool-chain from Pharo to C
-
-!!! Session: Debug and memory saving
-- Javier Pimás and Guido Chari Powerlang: a Vehicle for Lively Implementing Programming Languages
-- Théo Rogliano, Pablo Tesone and Guillermo PolitoVirtualization for porting programs
-- Tobias Pape, Jakob Reschke, Patrick Rein, Fabio Niephaus, Marcel Taeumel and Robert Hirschfeld Tracking Objects: Object Versioning in the Presence of File-based Version Control Systems     
-- Carolina Hernandez Phillips, Guillermo Polito, Luc Fabresse, Stéphane Ducasse, Noury Bouraqadi and Pablo Tesone Challenges in Debugging Bootstraps of Reflective Kernels  
-- Matthew Ralston and Dave Mason Tail Call Elimination in OpenSmalltalk
-
-
+%!!! Session: Title
+%-paper
 
 !! Call for Papers
 
@@ -59,9 +34,9 @@ We will not enforce any length restriction.
 
 ""Important Dates""
 
-- Submission deadline: June 15th, 2019
-- Notification deadline: July 20th, 2019
-- Workshop: between August 27th and 29th, 2019
+- Submission deadline: June 15th, 2020
+- Notification deadline: July 20th, 2020
+- Workshop: between September 1st and 3rd, 2020
 
 
 ""Topics""
@@ -93,30 +68,8 @@ The Best Paper Award will take place only with a minimum of six submissions. Not
 
 Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
 
-All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst19*
+All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst20*
 
 
-""Program chairs""
-
--Vincent Aranega, Université de Lille, France
--Vincent Blondeau, Lifeware, Switzerland
--Andrei Chiș, feenk gmbh, Switzerland
--Steven Costiou, Inria, France
--Luc Fabresse IMT Lille Douai, France
--Andre Hora, UFMG, Brazil
--Sebastijan Kaplar, Fakultet Tehnickih Nauka, Serbia
--Dave Mason, Ryerson University, US
--Kasper Østerbye, Independent, Denmark
--Robert Pergl, Czech Technical University, Czech Republic
--Alain Plantec, Université de Bretagne Occidentale, France
--Guillermo Polito, CNRS, France
--Gordana Rakic, Faculty of Science, Serbia
--Henrique Rocha, University of Antwerp, France
--Juan Pablo Sandoval Alcocer Universidad Católica Boliviana - "San Pablo", Bolivia
--Ciprian Teodorov Ensta Bretagne, France
--Pablo Tesone, Pharo Consortium, France
--Andres Valloud, LabWare
-
-
-
-
+""Program chairs and program committee""
+to be announced
