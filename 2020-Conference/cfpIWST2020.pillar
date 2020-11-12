@@ -12,12 +12,35 @@ IWST20 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; Se
 %- Second Prize: ''"Title"'' by Author.
 %- Third Prize: ''"Title"'' by Author.
 
-%!! List of Accepted Articles
+!! List of Accepted Articles
 
 %All the articles can be found at *http://esug.github.io/2020-Conference/articles/2020-09-26-IWST19.zip*.
 
-%!!! Session: Title
-%-paper
+
+!! Session: Language and Software
+
+- Pierre Laborde, Steven Costiou, Alain Plantec and Eric Le Pors, ''Molecule: live prototyping with component-oriented programming''
+- Stéphane Ducasse and Guillermo Polito, ''Microdown: a clean and extensible Markdown to support Pharo documentation''
+- Ronie Salgado, Marcus Denker, Stéphane Ducasse, Anne Etien and Vincent Aranega, ''Towards a Smart Data Processing and Storage Model''
+
+
+!!! Session: Debug and Tests
+
+- Steven Costiou, Thomas Dupriez and Damien Pollet, ''Handling Error-Handling Errors: dealing with debugger bugs in Pharo''
+- Mehrdad Abdi, Henrique Rocha and Serge Demeyer, ''Reproducible Crashes: Fuzzing Pharo by Mutating the Test Methods''
+- Thomas Dupriez, Steven Costiou and Stéphane Ducasse, ''First Infrastructure and Experimentation in Echo-debugging''
+
+
+!! Virtual Event
+
+This year event of IWST will be held remotely during two days with one session each day:
+
+- Session: Debug and Tests - Wednesday 18th of November, starting at *4pm Paris hours*
+- Session: Langage and Software - Thursday 19th of November, starting at *4pm Paris hours*
+
+The video of the presentations followed by Q&A will be broadcast via Zoom.
+If you want to attend to the sessions, you can *register here>https://univ-lille-fr.zoom.us/webinar/register/WN_V_0iv-joSzeBXppaDDmEWw* (registration is free).
+
 
 !! Call for Papers
 
@@ -54,15 +77,15 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 - Tools
 
 
-""Best Paper Award""
+%""Best Paper Award""
 
-To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST.
+%To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST.
 
-We thank the Lam Research Corporation for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
+%We thank the Lam Research Corporation for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
 
-The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
+%The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
 
-The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
+%The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
 
 
 ""Publication""
