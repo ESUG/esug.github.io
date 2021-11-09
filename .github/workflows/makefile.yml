@@ -14,9 +14,8 @@ jobs:
     steps:
     - name: Install dependencies
       run: |
+        sudo dpkg --add-architecture i386
         sudo apt-get update
-        sudo apt-cache search libssl
-        sudo apt-get install libssl1.0.0:i386
         sudo apt-get install -y ibasound2:i386 libssl1.0.0:i386 libfreetype6:i386
 
     - uses: actions/checkout@v2
