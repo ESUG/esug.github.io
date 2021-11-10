@@ -1,0 +1,28 @@
+name: ESUG web site build
+
+on:
+  push:
+    branches: [ source ]
+  pull_request:
+    branches: [ source ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-18.04
+
+    steps:
+    - name: Install dependencies
+      run: |
+        sudo dpkg --add-architecture i386
+        sudo apt-get update
+        sudo apt-get install -y libasound2:i386 libssl1.0.0:i386 libfreetype6:i386
+
+    - uses: actions/checkout@v2
+      
+    - name: Generate
+      run: make generate
+      
+    - name: Deploy
+      run: make deploy
+      if: github.ref == 'refs/heads/source' # only deploy on push
