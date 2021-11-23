@@ -24,7 +24,5 @@ jobs:
       run: make generate
       
     - name: Deploy
-      env:
-        GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
       run: make deploy
       if: github.ref == 'refs/heads/source' # only deploy on push
