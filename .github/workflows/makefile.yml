@@ -27,7 +27,7 @@ jobs:
       run: ./scripts/prepare_for_deploy.sh
       
     - name: Deploy
-      uses: esug/esug.github.io@source
+      uses: ESUG/esug.github.io@source
       env:
         repo: self
         branch: master # The branch the action should deploy to.
