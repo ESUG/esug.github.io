@@ -23,6 +23,13 @@ jobs:
     - name: Generate
       run: make generate
       
+    - name: PrepareForDeploy
+      run: ./scripts/prepare_for_deploy.sh
+      
     - name: Deploy
-      run: make deploy
-      if: github.ref == 'refs/heads/source' # only deploy on push
+      uses: gocko/esug.github.io@source
+      env:
+        repo: self
+        branch: master # The branch the action should deploy to.
+        folder: _site # The folder the action should deploy.
+        ssh-key: ${{ secrets.DEPLOY_KEY }}
