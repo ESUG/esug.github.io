@@ -23,9 +23,6 @@ jobs:
     - name: Generate
       run: make generate
       
-    - name: PrepareForDeploy
-      run: ./scripts/prepare_for_deploy.sh
-      
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@4.1.6
       with:
