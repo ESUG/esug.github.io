@@ -1,0 +1,12 @@
+! PolyMath: a numerical computing library for Pharo
+
+
+Serge Stinckwich (serge.stinckwich@gmail.com)
+
+""Abstract:""
+In this talk, we will present ​the last development of ​​PolyMath, an open-source numerical computing library based on Pharo Smalltalk.
+Several examples will illustrate how to do matrix computations, use ordinary differential equation solver or manipulate arbitrary floating-point arithmetics. ​PolyMath include Dataframe, a data science framework build by Olekskandr Zaytsev.
+
+""Bio:""
+Serge was introduced to Smalltalk during his master in ​the ninetie and since
+then is a Smalltalk zealot.​ Serge is ​a computer scientist from Sorbonne University and IRD (Institut de Recherche pour le Développement). He his working on live domain-specific tools and languages for the simulation of complex system. He is currently living in Yaoundé, Cameroon.​

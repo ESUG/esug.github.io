@@ -1,0 +1,9 @@
+! PythonBridge
+
+Alejandro Infante ( ainfante@dcc.uchile.cl )
+
+""Abstract:"" 
+This talk is about capitalizing on the large amount of software developed by the Python community. The Pharo community is great, but is not almighty, and does not have the muscle to reinvent nor replicate all the tools and libraries developed in other languages. PythonBridge is all about easily bridging Python libraries from Pharo, allowing Pharoers to capitalize on the vast Python ecosystem from our cozy Pharo image.
+
+""Bio:"" 
+Alejandro is a chilean researcher and software engineer that has been developing software in Pharo for the last 6 years. He is currently working at ObjectProfile where he has worked in profiling, visualizations, data analysis, machine learning and source code analysis.

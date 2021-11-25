@@ -1,0 +1,12 @@
+! Livecoding the Web Platform with Caffeine
+
+Craig Latta ( craig@blackpagedigital.com / [https://caffeine.js.org](https://caffeine.js.org))
+
+""Abstract:"" 
+Caffeine augments the Web platform with Smalltalk's livecoding style. Built upon [SqueakJS](https://squeak.js.org), Bert Freudenberg's JavaScript implementation of the [Open Smalltalk](http://opensmalltalk.org) virtual machine, Caffeine provides live Smalltalk interfaces to web browser subsystems, both built-in (such as [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)) and loadable (such as Mozilla's [A-Frame](https://aframe.io) virtual reality framework).
+
+I present several of these interfaces, emphasizing how livecoding improves the development experience in their respective domains. I show you how to get started using Caffeine with that web browser you're carrying. We'll also explore some future directions for Caffeine, touching on Smalltalk use from other languages, and the multi-language landscape of [WebAssembly](https://webassembly.org).
+
+""Bio:"" 
+Craig Latta is a research computer scientist based in Amsterdam. He discovered Smalltalk while studying live composition in the music department at the University of California at Berkeley. He went on to work with Smalltalk at several labs, including IBM's Watson Research Center, Interval Research, and Lam Research. He's been part of the open-source Squeak Smalltalk community for its entire lifetime, and serves on its board. He uses the Caffeine system to partipate in the broader Smalltalk, JavaScript, and Web platform communities, drawing them together through music livecoding in virtual worlds.
+

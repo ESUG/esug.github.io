@@ -1,0 +1,10 @@
+! ML in Pharo: TensorFlow with Pharo
+
+Serge Stinckwich (serge.stinckwich@gmail.com)
+
+""Abstract:""
+In this talk, we will present our work in order to use the TensorFlow numerical computing library from Pharo. We will illustrate our talk with a hands-on session where the user will build his own neural network.
+
+""Bio:""
+Serge was introduced to Smalltalk during his master in ​the ninetie and since
+then is a Smalltalk zealot.​ Serge is ​a computer scientist from Sorbonne University and IRD (Institut de Recherche pour le Développement). He his working on live domain-specific tools and languages for the simulation of complex system. He is currently living in Yaoundé, Cameroon.​

@@ -1,0 +1,18 @@
+! Clap! Pharo from the command line, take two
+
+Damien Pollet (damien.pollet@inria.fr)
+
+""Abstract:"" 
+
+Clap is a new opinionated argument parser for running Pharo code from the shell or the terminal.
+
+You specify the possible commands, subcommands, options, flags, positional parameters using a declarative API.
+Using this specification, Clap parses the list of strings provided at image launch time, validates them, and converts them into domain objects.
+It also takes care of help or error messages, documentation generation, etc so that your code can focus on functionality without being too defensive.
+
+
+""Bio:""
+
+Damien Pollet is an assistant professor in the university of Lille and in the RMoD team at Inria.
+A long time ago he worked on Coral, a file-based syntax for writing Pharo shell scripts, and co-authored the Pharo by Example book.
+Since then he coauthored ''Learning OOP Design and TDD with Pharo'', and designed the typographic style of the recent Pharo books and booklets.

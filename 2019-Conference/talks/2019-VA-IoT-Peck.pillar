@@ -1,0 +1,16 @@
+! Why is VASmalltalk a great possibility for doing IoT and edge computing?
+
+Mariano Martinez Peck ( mpeck@instantiations.com / [https://marianopeck.wordpress.com/](https://marianopeck.wordpress.com/))
+
+""Abstract:""
+Interest in the IoT space continues to expand, specifically in the enterprise space where the requirements of stability, security and performance are far different than that of the hobbyist. The hardware has improved to the point that small IoT devices are not just being limited in scope to the collection of data. These devices now have ample processing power to apply business logic and process the data before being sent out to storage locations like the cloud.
+
+In this talk I will answer: Why is Smalltalk a good fit for IoT and edge computing? Does it have unique features over other languages? How would IoT benefit from Smalltalk?
+
+I will show why VASmalltalk in particular is a great choice for IoT and edge computing by showing some specific applicable features: cross development, bootstrapped and reduced images, remote debugging, true headless VM, multiple CPU architecture support (ARM, aarch64) , ARM JIT compiler, transparent GemStone persistency, and different kinds of sensors with different protocols (1-Wire, I2C, etc) etc.
+
+
+""Bio:""
+Mariano is a systems engineer specializing in software solutions based on dynamic programming languages currently working at Instantiations Inc. He contributes to the development and maintenance of VA Smalltalk commercial development environment. Responsibilities include crafting or importing frameworks, libraries and tools, as well as improving the existing code base of the product.
+
+As a Smalltalk expert, he is active in the Smalltalk community and has co-authored numerous open-source project. Mariano’s academic research has been published across various international journals. He has a PhD in Computer Science from RMOD-INRIA and the École Des Mines de Douai in France, where his thesis was on application-level virtual memory for object-oriented systems.

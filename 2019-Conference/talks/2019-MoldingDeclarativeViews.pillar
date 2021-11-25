@@ -1,0 +1,23 @@
+! Molding Declarative Views
+
+Alistair Grant (akgrant0710@gmail.com)
+Juraj Kubelka (juraj.kubelka@gmail.com )
+Andrei Chis (andrei.chis@feenk.com)
+
+""Abstract:"" 
+Glamorous Toolkit shows how custom views can be described in a few lines of code. 
+This is mostly possible due to the declarative nature of the view definitions. 
+In this talk, we show how we can transform these definitions to be entirely declarative, and how, 
+once we do that, we enable remote inspection.
+
+""Bio:"" 
+Alistair Grant ...
+
+Juraj Kubelka ...
+
+Andrei Chis (andreichis.com) acts as a tool crafter at feenk (feenk.com) building tools and techniques for 
+improving software development. He is a co-author of the Glamorous Toolkit (gtoolkit.org) and a core 
+contributor to both the Moose analysis platform (moosetechnology.org) and the Pharo programming language (pharo.org). 
+Andrei holds a PhD from the University of Bern. In his PhD he maintained that integrated development environments 
+have to be moldable, that is, they have to be aware of the application under development and enable rapid 
+customizations to new applications and tasks, and explored solutions to make this vision possible.

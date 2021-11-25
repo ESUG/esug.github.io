@@ -1,0 +1,85 @@
+{
+"title": "IWST 2015"
+}
+
+!! 7th International Workshop IWST'15 \-\- In cooperation with ACM
+
+""Program""
+
+An archive containing all the *IWST15>http://www.esug.org/wiki/pier/Conferences/2015/International-Workshop-IWST_15/IWST15?_s=Gqf2imzx00v3RHwu&_k=BnfxDlTdxzJI1iDa&view=PRDownloadView&_n&30* papers can be downloaded.
+
+""Goals and scopes""
+
+The goals of the workshop is to create a forum around advances or experience in Smalltalk and to trigger discussions and exchanges of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Participants are invited to submit research articles or industrial papers. This year we want to open two different tracks: one research track and one industrial track with less scientific constraints.
+
+We expect papers of three kinds:
+
+- Short position papers describing emerging ideas
+- Long research papers with deeper description of experiments and of research results.
+- Industrial papers with presentation of real and innovative Smalltalk applications; this kind of paper should enlighten why Smalltalk is really appropriate for your application.
+
+We will not enforce any length restriction.
+
+""Important Dates""
+
+- Submission deadline: April 17th, 2015
+- Notification deadline: May 20th, 2015
+- Workshop: July 15th, 2015
+
+All accepted papers will be published in ACM DL.
+
+
+""Topics""
+
+We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
+
+- Aspect-oriented programming,
+- Design patterns,
+- Experience reports,
+- Frameworks,
+- Implementation, new dialects or languages implemented in Smalltalk,
+- Interaction with other languages,
+- Meta-programming and Meta-modeling,
+- Tools
+
+
+""Best Paper Award""
+
+To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST.
+
+We thank the Lam Research Corporation for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
+
+The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
+
+The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be illegible, a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
+
+
+""Publication""
+
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
+
+All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst15*
+
+
+""Program chairs""
+
+- Anne Etien (Université de Lille, France)
+- Jannik Laval (Ecole des Mines de Douai, France)
+
+
+""Program Committee""
+
+- Gabriela Arevalo
+- Noury Bouraqadi
+- Leandro Caniglia
+- Andrei Chis
+- Jordi Delgado
+- Christophe Dony
+- Stephan Eggermont
+- Johan Fabry
+- Kasper Osterbye
+- Alain Plantec
+- Guillermo Polito
+- Camille Teruel
+- Andres Valloud
+- Hernan Wilkinson

@@ -1,0 +1,10 @@
+! Improving Code Completion in Pharo
+
+Myroslava Romaniuk <romaniuk@ucu.edu.ua>
+Marcus Denker <marcus.denker@inria.fr>
+
+""Abstract:"" 
+The goal of this project has been to both refactor the code of the existing completion in Pharo, and come up with a tool that would improve the actual performance. In this presentation we will talk about the different approaches behind the two completions, the importance of using AST in our project, as well as demonstrate the results we've managed to achieve.
+
+""Bio:"" 
+Myroslava is a 3rd year Computer Science student at the Ukrainian Catholic University in Lviv, Ukraine. She is currently participating in Google Summer of Code for Pharo Consortium with this project. She has been active in the Pharo community since 2017. Interested in code quality and open source development.

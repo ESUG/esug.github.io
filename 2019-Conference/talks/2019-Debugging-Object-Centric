@@ -1,0 +1,9 @@
+! Object-Centric Debugging for Pharo 8
+
+Steven Costiou (steven.costiou@inria.fr)
+
+""Abstract:"" 
+Find objects. Debug objects. Fix bugs. With object-centric debugging, we narrow down the scope of debugging operations to one specific object instead of all instances of a class. This is particularly useful when debugging a program where one object among many is the source of a bug, for example, in graphical applications or programs generating lots of events. This presentation shows the object-centric debugging tools that we propose for integration to Pharo 8.
+
+""Bio:"" 
+I am an Inria researcher and I work in the RMoD team. Before that, I worked six years in the industry as a software developer. Today, I do research on software engineering. I work especially on debugging for which I'm interested in different topics: reflection and meta-programming, object-centric instrumentation, dynamic software adaptation, dynamic languages and virtual machines.

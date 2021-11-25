@@ -1,0 +1,128 @@
+{
+"title": "Projects Submitted to the Innovation Technology Awards 2019"
+}
+!Projects Submitted to the *Innovation Technology Awards 16th Edition>https://esug.github.io/2019-Conference/awardsCall2019.html*
+
+!!!1st: PharoGs
++file://Medailles2019-01.png|width=30+
+- ''Submitted by'': ""James Foster""
+- ''Download'': ""*https://github.com/jgfoster/PharoGs*""
+- ''Demo'': ""*https://youtu.be/8x2zS6YXuIE*""
+
+!!!2nd: GraalSqueak: A Squeak/Smalltalk implementation for the GraalVM
++file://Medailles2019-02.png|width=30+
+- ''Submitted by'': ""Fabio Niephaus""
+- ''Download'': ""*https://github.com/hpi-swa/graalsqueak/*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=1HjzDvNityU*""
+
+!!!3rd: El Carrillon
++file://Medailles2019-03.png|width=30+
+- ''Submitted by'': ""Mariano Martinez Peck""
+- ''Download'': ""*https://github.com/gerasdf/carrillon/tree/master/src.st*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=mP-7XB4fnao*""
+
+!!!LiveTyping
+- ''Submitted by'': ""Hernan Wilkinson""
+- ''Download'': ""*https://github.com/hernanwilkinson/LiveTyping/*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=N3RpsGeYeYk*""
+
+!!!NewWave
+- ''Submitted by'': ""Sebastijan Kaplar""
+- ''Download'': ""*https://github.com/skaplar/NewWave*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=6O-9iNT7VDA&feature=youtu.be*""
+
+!!!PowerAssert
+- ''Submitted by'': ""Thomas Dupriez, Steven Costiou & Stéphane Ducasse""
+- ''Download'': ""*https://github.com/dupriezt/PowerAssert*""
+- ''Demo'': ""**""
+
+!!!Event Music Manager
+- ''Submitted by'': ""Benoit Verhaeghe""
+- ''Download'': ""*https://github.com/badetitou/EMM*""
+- ''Demo'': ""*https://youtu.be/41cP6vWnGo8*""
+
+!!!Autonomous Robot 100% on PharoThings IoT
+- ''Submitted by'': ""Allex Oliveira, Steven Costiou, Louise Plantec, Mickaël Kerboeuf, Alain Plantec""
+- ''Download'': ""*https://github.com/StevenCostiou/Pharo-PiBorg*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=1j5WSCkIiKk&feature=youtu.be*""
+
+!!!Objective-Smalltalk
+- ''Submitted by'': ""Marcel Weiher""
+- ''Download'': ""*https://github.com/mpw/objective-smalltalk*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=B0OUl-AW7bo*""
+
+!!!ALLSTOCKER
+- ''Submitted by'': ""Masashi Umezawa & Kazunori Ueda""
+- ''Download'': ""*https://allstocker.com/*""
+- ''Demo'': ""*https://alfresco.sorabito.com/share/s/gg44OnneRn-Fk330HIeHRg*""
+
+!!!Scarlet SmallTalk
+- ''Submitted by'': ""John McIntosh & Michael Rueger""
+- ''Download'': ""*https://github.com/LabWare/ScarletSmallTalk*""
+- ''Demo'': ""*https://vimeo.com/354081838*""
+
+!!!Pharo Chip Designer
+- ''Submitted by'': ""Pavel Krivanek""
+- ''Download'': ""*https://github.com/pavel-krivanek/PharoChipDesigner*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=kPxq_319wBY*""
+
+!!!Experimental Completion
+- ''Submitted by'': ""Myroslava Romaniuk""
+- ''Download'': ""*https://github.com/myroslavarm/Experimental-Completion*""
+- ''Demo'': ""*https://youtu.be/3E81xNUGieA*""
+
+!!!PythonBridge
+- ''Submitted by'': ""Alejandro Infante""
+- ''Download'': ""*https://objectprofile.github.io/PythonBridge/*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=csk0w7xwf1Y&feature=youtu.be*""
+
+!!!PharoCodeGenerator
+- ''Submitted by'': ""Julien Delplanque""
+- ''Download'': ""*https://github.com/juliendelplanque/PharoCodeGenerator*""
+- ''Demo'': ""*https://youtu.be/L3CiHWkW9Gs*""
+
+!!!DrTDD
+- ''Submitted by'': ""Nicolas Papagna""
+- ''Download'': ""*https://github.com/npapagna/drtdd-pharo*""
+- ''Demo'': ""*https://vimeo.com/354461588*""
+
+!!!PolyMath
+- ''Submitted by'': ""Serge Stinckwich""
+- ''Download'': ""*https://github.com/PolyMathOrg/PolyMath*""
+- ''Demo'': ""**""
+
+!!!Unsere Gelder
+- ''Submitted by'': ""Christian Haider""
+- ''Download'': ""*https://unsere-gelder.de*""
+- ''Demo'': ""*https://drive.google.com/file/d/1v1LtMxUYO75BxPJ0R7pVAIl1ed6s6sdi/view*""
+
+!!!Eurofaktura.com
+- ''Submitted by'': ""David Gorisek""
+- ''Download'': ""*http://www.eurofaktura.com/*""
+- ''Demo'': ""*https://youtu.be/yiWeECkzy-g?t=160*""
+
+!!!Voyage in the WODANIC ALPHA
+- ''Submitted by'': ""Ronie Salgado""
+- ''Download'': ""*http://wodenengine.com/wodanic-alpha-voyage*""
+- ''Demo'': ""*https://youtu.be/p7blxmlhHQQ*""
+
+!!!PintGlas
+- ''Submitted by'': ""Tomohiro Oda""
+- ''Download'': ""*https://github.com/tomooda/PintGlas*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=tnI0FrXPbXQ&feature=youtu.be*""
+
+!!!A Smalltalk GraphQL Implementation
+- ''Submitted by'': ""Juan Pablo Sandoval Alcocer""
+- ''Download'': ""*https://github.com/OBJECTSEMANTICS/GraphQL*""
+- ''Demo'': ""*https://drive.google.com/file/d/1rQYrmz_O3fimOKxAlfJE1_H8z4FY0Mhq/view?usp=sharing*""
+
+!!!Polyglot
+- ''Submitted by'': ""Nikhil Pinnaparaju""
+- ''Download'': ""*https://github.com/PolyMathOrg/Polyglot*""
+- ''Demo'': ""*https://drive.google.com/file/d/1PgNS1xpwos1txeclhbzFfVlbrbs54pGs/view?usp=sharing*""
+
+
+!!!DrTests
+- ''Submitted by'': ""Dayne Guerra & Julien Deplanque""
+- ''Download'': ""*https://github.com/juliendelplanque/DrTests*""
+- ''Demo'': ""*https://www.youtube.com/watch?v=XKRL6neJAmA *""

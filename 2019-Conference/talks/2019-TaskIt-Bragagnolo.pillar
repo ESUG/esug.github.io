@@ -1,0 +1,18 @@
+! TaskIt - Processing framework
+
+Santiago Bragagnolo ( santiago.bragagnolo@inria.fr )
+
+""Abstract:"" 
+TaskIt born back in the 2013, during the development of PhaROS.  
+Having as main goal to support many of the main threading architectures, offering a controllable 
+environment for concurrency, and many wellknown features such as Future, Actors, etc. 
+TaskIt has been used in many different projects such as PhaROS, Makros(Component oriented robotic framework),
+Fog (Ethereum driver), and is acceptance is growing lately including it usage by GTK extentions for pharo. 
+
+
+""Bio:"" 
+Coding enthusiast.  Software engineer, giving my first steps in research.
+I am currently working as a research engineer at INRIA, starting soon a PhD on software analysis, and working along side many 
+different technologies such as migration, blockchain and robotics. 
+My main topics of interests are language and runtime analysis and modeling, parallel/concurrent 
+computation and virtual machines.

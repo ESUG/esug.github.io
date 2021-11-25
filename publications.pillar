@@ -1,0 +1,87 @@
+{
+"title": "Your Publication"
+}
+
+!YourPublication
+@publication
+ESUG offers 150 Euros for each international conference paper whose concepts involves an implementation in Smalltalk.
+It is normally limited to three sponsoring per research people.
+
+!!!Rules
+-After notification of acceptance, one of the authors sends to the ESUG board the article, a CV, and a brief explanation of how Smalltalk was used
+-In case the ESUG board decides to support the promotion, the author has to send to ESUG after the camera-ready deadline a PDF of the article, where ESUG is referenced in the acknowledgment section, including a link to esug.org
+-During the presentation at the conference, the author must mention ESUG support (e.g. the ESUG Logo)
+-After the presentation at the conference the author sends to ESUG a PDF version of the slides, where there is a visible reference to ESUG (e.g. the ESUG Logo). ESUG will put the slides on the ESUG website
+-The author can then trigger the payment by sending an e-Mail to the ESUG board
+-A maximum of 3 supported articles per year per institution is allowed
+
+
+!!!Sponsored articles for 2020
+- Matteo Marra, Guillermo Polito, Elisa Gonzalez Boix, "Framework-Aware Debugging with Stack Tailoring", 16th Dynamic Languages Symposium (DLS) at SPLASH 202, *conference website>https://conf.researchr.org/home/dls-2020*
+!!!Sponsored articles for 2019
+- Juraj Kubelka, Romain Robbes, Alexandre Bergel, "Live Programming and Software Evolution: Questions during a Programming Change Task", 27th IEEE/ACM International Conference on Program Comprehension 2019, *conference website>https://conf.researchr.org/event/icpc-2019/icpc-2019-technical-research-live-programming-and-software-evolution-questions-during-a-programming-change-task*
+- Matteo Marra, Guillermo Polito, Elisa Gonzalez Boix, "Out-of-place debugging: A debugging architecture to reduce debugging interference", The Art, Science and Engineering of Programming Vol. 3(2) , 2018, *https://programming-journal.org/2019/3/3/*
+
+!!!Sponsored articles  for 2016
+- Ignacio Fernandez, Alexandre Bergel, Juan Pablo Sandoval Alcocer, Alejandro Infante and Tudor Gîrba, "Glyph-based software component identification", 2016 IEEE 24th International Conference on Program Comprehension (ICPC), p.1-10, 2016, *https://doi.org/10.1109/ICPC.2016.7503713>https://doi.org/10.1109/ICPC.2016.7503713*
+- Boris Spasojevic, Mircea Lungu and Oscar Nierstrasz, "A Case Study on Type Hints in Method Argument Names in Pharo Smalltalk Projects", 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER), p.283-292, 2016, *https://doi.org/10.1109/SANER.2016.41>https://doi.org/10.1109/SANER.2016.41*
+
+!!!Sponsored articles  for 2015
+- Alvao Jose Peralta, Thanh Le Nguyen Tuan, Serge Stinckwich, Chihab Hanachi, Alexandre Bergel and Vinh Ho Tuong, "A Tool for Assessing Quality of Rescue Plans by Combining Visualizations of Different Business Process Perspectives", International Conference on Information Systems for Crisis Response and Management in Mediterranean Countries, Lecture Notes in Business Information Processing, Vol.233, p.155-166, 2015, *https://doi.org/10.1007/978-3-319-24399-3_14>https://doi.org/10.1007/978-3-319-24399-3_14*
+- Paloma Oliveira, Marco Tulio Valente, Alexandre Bergel and Alexander Serebrenik, "Validating metric thresholds with developers: An early result", 2015 IEEE International Conference on Software Maintenance and Evolution (ICSME), p.546-550,2015,*https://doi.org/10.1109/icsm.2015.7332511>https://doi.org/10.1109/icsm.2015.7332511*
+- Juan Pablo Sandoval Alcocer and Alexandre Bergel, "Tracking down performance variation against source code evolution", ACM SIGPLAN Notices, vol.51, num.2, p.129-139, 2015, *https://doi.org/10.1145/2936313.2816718>https://doi.org/10.1145/2936313.2816718*
+- Andrei Chis, Tudor Girba, Oscar Nierstrasz and Aliaksei Syrel, "The Moldable Inspector", 2015 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward!), p.44-60, 2015, *https://doi.org/10.1145/2814228.2814234>https://doi.org/10.1145/2814228.2814234*
+- Guido Chari, Diego Garbervetsky, Stefan Marr and Stéphane Ducasse, "Towards fully reflective environments", 2015 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward!), p.240-253, 2015, *https://doi.org/10.1145/2814228.2814241>https://doi.org/10.1145/2814228.2814241*
+- Guillermo Polito, Stéphane Ducasse, Noury Bouraqadi and Luc Fabresse, "A bootstrapping infrastructure to build and extend Pharo-like languages", 2015 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward!), pp.183-196, 2015, *https://doi.org/10.1145/2814228.2814236>https://doi.org/10.1145/2814228.2814236*
+- Guillermo Polito, Stéphane Ducasse, Noury Bouraqadi and Luc Fabresse, "Virtualization support for dynamic core library update", 2015 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward!), p.211-223, 2015, *https://doi.org/10.1145/2814228.2814233>https://doi.org/10.1145/2814228.2814233*
+- Nevena Milojković, Andrea Caracciolo, Mircea Lungu, Oscar Nierstrasz, David Röthlisberger and Romain Robbes, "Polymorphism in the Spotlight: Studying its Prevalence in Java and Smalltalk", 2015 IEEE 23rd International Conference on Program Comprehension, p.186-195, 2015, *https://doi.org/10.1109/ICPC.2015.29>https://doi.org/10.1109/ICPC.2015.29*
+- Tommaso Dal Sasso, Andrea Mocci and Michele Lanza, "Misery Loves Company - CrowdStacking Traces to Aid Problem Detection", Proceedings of the 30th Annual ACM Symposium on Applied Computing, p.131-140, 2015 *https://doi.org/10.1109/SANER.2015.7081823>https://doi.org/10.1109/SANER.2015.7081823*
+- Martin Dias, Alberto Bacchelli, Georgios Gousios, Damien Cassou and Stéphane Ducasse, "Untangling Fine-Grained Code Changes", Proceedings of the 30th Annual ACM Symposium on Applied Computing, p.341-350, 2015 *https://doi.org/10.1109/SANER.2015.7081844>https://doi.org/10.1109/SANER.2015.7081844*
+
+!!!Sponsored articles  for 2014
+-Nick Papoulias, Marcus Denker, Stéphane Ducasse, Luc Fabresse, "Reifying the reflectogram: Towards explicit control for implicit reflection", Proceedings of the 30th Annual ACM Symposium on Applied Computing, pp.1978-1985, 2015 *https://doi.org/10.1145/2695664.2695883>https://doi.org/10.1145/2695664.2695883*
+-Yuriy Tymchuk, Andrea Mocci, Michele Lanza, "Code Review: Veni, ViDI, Vici", 2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER), pp.151-160, 2015 *https://doi.org/10.1109/SANER.2015.7081825>https://doi.org/10.1109/SANER.2015.7081825*
+-Bui Thi Mai Anh, Serge Stinckwich, Mikal Ziane, Benjamin Roche and Ho Tuong Vinh, "KENDRICK: a Domain Specific Language and Platform for Mathematical Epidemiological Modelling", 11th IEEE-RIVF International Conference on Computing and Communication Technologies (RIVF 2015), 2015
+-Boris Spasojevic, Mircea Lungu and Oscar Nierstrasz, "Mining the Ecosystem to Improve Type Inference For Dynamically Typed Languages", Onward! 2014, 2014
+-Oscar Callau, Romain Robbes, Eric Tanter, David Rothlisberger and Alexandre Bergel, "On the Use of Type Predicates in Object-Oriented Software: The Case of Smalltalk", SPLASH 2014 Dynamic Languages Symposium, 2014
+-Johan Fabry and Miguel Campusano, "Live Robot Programming", 14th edition of the Ibero-American Conference on Artificial Intelligence (IBERAMIA 2014), Santiago de Chile, 2014
+-Yuriy Tymchuk, Andrea Mocci and Michele Lanza, "Collaboration in Open-Source Projects: Myth or Reality?", 11th Working Conference on Mining Software Repositories (MSR 2014), 2014 *https://doi.org/10.1145/2597073.2597093>https://doi.org/10.1145/2597073.2597093*
+
+!!!Sponsored articles  for 2013
+-Johan Fabry and Alexandre Bergel, "Design Decisions in AspectMaps", 1st IEEE Working Conference on Software Visualization, 2013
+-Jannick Laval, Luc Fabresse and Noury Bouraqadi, "A Methodology for Testing Mobile Autonomous Robots", IROS 2013 conference (IEEE/RSJ International Conference on Intelligent Robots and Systems), 2013
+
+
+!!!Sponsored articles for  2012
+- Fernando Olivero, Michele Lanza, Marco D'Ambros and Romain Robbes,"Tracking Human-Centric Controlled Experiments with Biscuit", Proceedings of the Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU) at the ACM Onward! and SPLASH Conferences. October, 2012.
+- Jorge Ressia, Alexandre Bergel, and Oscar Nierstrasz, "Object-Centric Debugging", Proceedings of ICSE 2012, 485-495, 2012
+- Alberto Bacchelli, Tommaso dal Sasso, Marco D'Ambros, and Michele Lanza, "Content Classification of Development Emails", Proceedings of ICSE 2012, 375-385, 2012
+- Oscar Callau, "Do Objects need Occurrence Typing?", JCC 2012 (Jornadas Chilenas de Computación), 2012
+
+
+!!!Sponsored articles for 2011
+- Fernando Olivero, Michele Lanza, Marco D'Ambros, and Romain Robbes, "Enabling Program Comprehension through a Visual Object-focused Development Environment", Proceedings of VL/HCC 2011, 2011
+- Alberto Bacchelli, Michele Lanza, and Marco D’Ambros, "Miler: A Toolset for Exploring Email Data", demonstration at ICSE 2011, 2011
+- Alexandre Bergel, "Counting Messages as a Proxy for Average Execution Time in Pharo", Proceedings ECOOP 2011, 2011
+- Richard Wettel, Michele Lanza, and Romain Robbes, "Software Systems as Cities: A Controlled Experiment", Proceedings of ICSE 2011, 551-560, 2011.
+
+!!!Sponsored articles for 2010
+- Jean-Baptiste Arnaud, Marcus Denker, Stéphane Ducasse, Damien Pollet, Alexandre Bergel and Mathieu Suen, “Read-Only Execution for Dynamic Languages,” Proceedings of TOOLS EUROPE 2010, LNCS 6141 p. 117-136, Springer, 2010.
+
+!!!Sponsored articles for 2009
+- David Röthlisberger, Oscar Nierstrasz and Stéphane Ducasse, "Autumn Leaves: Curing the Window Plangue in IDEs", WCRE 2009
+- Lukas Renggli, Marcus Denker and Oscar Nierstrasz, "Language Boxes: Bending the Host Language with Modular Language Changes", 2nd International Conference on Software Language Engineering (SLE 2009)
+- Jannik Laval, Simon Denier, Stephane Ducasse, Alexandre Bergel, "Identifying cycle causes with Enriched Dependency Structural Matrix", WCRE 2009
+- Le Van Tuan and Noury Bouraqadi and Victor Moraru and Serge Stinckwich and Arnaud Doniec (*ICRA 2009>http://www.icra2009.org/*), Making Networked Robot Connectivity-Aware (UMMISCO UMI 209 (IRD/UPMC/MSI), Ecole des Mines de Douai)
+- David Röthlisberger, Oscar Nierstrasz, Stéphane Ducasse (Working Conference on Reverse Engineering 2009, Autumn Leaves: Curing the Window Plague in IDEs, (Software Composition Group, University Bern)
+- Marco D'Ambros, Michele Lanza (11th IEEE International Symposium on Web Systems Evolution), Promises and Perils of Porting Software Visualization Tools to the Web, University of Lugano
+
+!!!Sponsored articles for 2008
+- Damien Picard, Loïc Lagadec (*ReCoSoC 2008>http://www-eel.upc.edu/recosoc/*), Multi-level simulation of Heterogeneous Reconfigurable Platforms, (STICC - Université de Bretagne Occidentale).
+- Richard Wettel, Michele Lanza (*Softvis 2008>http://www.st.uni-trier.de/~diehl/softvis/org/softvis08/*), Visually Localizing Design Problems with Disharmony Maps, (REVEAL - University of Lugano)
+- Hani Abdeen, (*CSMR 2008>http://csmr2008.uwaterloo.ca/*), Package Reference Fingerprint: a Rich and Compact Visualization to Understand Package Relationship, (RMOD INRIA Lille Nord Europ)
+- Marco D'Ambros (*CSMR 2008>http://csmr2008.uwaterloo.ca/*), A Flexible Framework to Support Collaborative Software Evolution Analysis, (REVEAL - University of Lugano)
+- Adrian Lienhard (*ECOOP 2008>http://2008.ecoop.org/*), Practical Object-Oriented Back-in-Time Debugging, (Software Composition Group, University Bern)
+- Adrian Lienhard (*CSMR 2008>http://csmr2008.uwaterloo.ca/*) Test Blueprints, Exposing Side Effects in Execution Traces to Support Writing Unit Tests, (Software Composition Group, University Bern)
+- Guillermo Adrián Molina (*S3 Workshop>http://www.swa.hpi.uni-potsdam.de/s3/program/index.html*), Huemul, a Smalltalk Implementation
+- David Röthlisberger (*ICPC 2008>http://www.cs.vu.nl/icpc2008/*), Exploiting Runtime Information in the IDE, (Software Composition Group, University Bern)

@@ -1,0 +1,15 @@
+! P2P communication via MQTT endpoints
+
+John McIntosh(johnmci@smalltalkconsulting.com)
+
+""Abstract:"" 
+LabWare has for 30 years worked in the laboratory information management system space (LIMS). Their system is written in VSE Smalltalk and has accumulated decades of business logic written in Smalltalk.
+
+Two years ago the requirement for a robust communications path between a mobile device and a cloud based VSE server was identified. The solution was to use MQTT which required writing a pure Smalltalk server side MQTT broker, and utilizing platform side MQTT clients.
+
+MQTT is the communications protocol, but required the additional layering of another protocol to simplify the complexity of the communications pipe.
+
+This talk will present the basic concepts of how LabWare's MQTT/Endpoints provide asynchronous or synchronous point to point communications in an environment where the JavaScript client is single threaded and talks to a VSE server that supports multiple mobile sessions.
+
+""Bio:"" 
+John McIntosh is the lead iOS and platform architect at LabWare. He has been working with Smalltalk since the mid 90's and was responsible for the maintenance of the early Macintosh Squeak VM, and the creation of the iPhone Squeak VM & current Macintosh VM. He has work on various large Smalltalk projects such as Sprint ION, Sophie, and Kapital @ JP Morgan. For most of this decade he been involved in building various iOS applications, from pure ObjC/Swift to LabWare's Smalltalk/Swift hybrid solution now found in Apple's App Store, and the Google Play Store.

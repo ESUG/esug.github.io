@@ -1,0 +1,38 @@
+{
+"title": "Press"
+}
+
+!Press
+
+!!!Articles about Smalltalk, published in various magazines
+
+See also the list of *promoted articles>article.pillar*
+
+
+!!!2008
+-Heinz Roggenkemper, Ralf Ehret, Andreas Tönne, "Capture accurate solution requirements the first time with exploratory modeling (xM): How to nearly eliminate post-go-live application design failures", SAP Professional Journal, Volume 10 (2008), Issue 01 (January and February), *Abstract>http://www.sappro.com/archive/Volume_10_(2008)/Issue_01_(January_and_February)/V10I1A4.cfm*
+-Thorsten Seitz, "Smalltalk at the Seaside": Shootout der dynamischen Sprachen auf der OOP 2008", OBJEKTspektrum 03/2008, Mai/Juni 2008
+
+
+!!!2007
+-Helge K. Nowak, "Let’s talk about Smalltalk", Entwicklermagazin 3.2007, April 2007
+-Andreas Tönne, "Exploratives Modellieren für "SAP Netweaver" ", OBJEKTspektrum 03/2007, Mai/Juni 2007
+
+
+!!!2006
+-Serge Stinckwich, Stéphane Ducasse, "Les structures de contrôle en Smalltalk", Linux Pratique 33, January-February 2006,
+-Hilaire Fernandes, Stéphane Ducasse, "Smalltalk : Le pouvoir et la simplicité du tout objet", Linux Magazine 82, April 2006,
+-Hilaire Fernandes, Stéphane Ducasse, "La syntaxe Smalltalk par la pratique", Linux Magazine 83, May 2006
+-Serge Stinckwich, Hilaire Fernandes, "Nos premières classes en Smalltalk", Linux Magazine 84, June 2006
+-Hilaire Fernandes, Serge Stinckwich, "Environnement de développement Smalltalk", Linux Magazine 85, July-August 2006,
+-Stéphane Ducasse, Serge Stinckwich, "Seaside : développement d'applications Web avec Smalltalk", Linux Magazine 85, September 2006.
+-*Smalltalk for Everyone Else>http://www.onlamp.com/pub/a/onlamp/2006/09/21/learning_smalltalk.html* article by *Keith Fieldhouse>http://www.oreillynet.com/pub/au/2584* (*ONLamp.com>http://www.onlamp.com/*), introduces Smalltalk for non-Smalltalkers, 21st September 2006.
+
+
+
+!!!2005
+-Squeak - Un Smalltalk libre Multimédia (pdf, 2,010 kB) Article by Hilaire Fernandes, Stéphane Ducasse, published in *Linux Pratique>http://www.linux-pratique.com/* 28, Mar-Apr 2005.
+-Mon premier programme (pdf, 690 kB) Article by Hilaire Fernandes, Stéphane Ducasse, published in *Linux Pratique>http://www.linux-pratique.com/* 31, Sep-Oct 2005.
+-Mehr als ein Spiel (pdf, 192kB) (More than a game) German article by Frank Müller featuring *Croquet>http://www.opencroquet.org/*, published in *IX>http://www.heise.de/ix/*, Oct 2005.
+-Squeak - La Syntaxe De Smalltalk (pdf, 880 kB) Article by Serge Stinckwich, Stéphane Ducasse, published in *Linux Pratique>http://www.linux-pratique.com/* 32, Nov-Dec 2005.
+-Partytime (pdf, 127kB) German article by Frank Müller about 25 years of Smalltalking, published in *IX>http://www.heise.de/ix/*, Nov 2005.

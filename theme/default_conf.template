@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head profile="http://www.w3.org/2005/10/profile">
+	<link rel="icon" 
+      type="image/png" 
+      href="{{baseurl}}images/favicon.png">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    <title>{{{title}}}</title>
+    <!--<link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <!--<link rel="stylesheet" type="text/css" href="{{baseurl}}/theme/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{baseurl}}/theme/print.css" media="print">-->
+	<!--<script src="{{baseurl}}theme/highlight/highlight.pack.js"></script>-->
+	<!-- Latest compiled and minified CSS -->
+	<!--<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/style.css">-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  
+  <body>
+  
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>                        
+                </button>
+                <a class="navbar-brand" href="{{baseurl}}">
+                    <img alt="{{site_name}}" src="{{site_logo}}" width="50" height="30">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                    {{# menu_conf }}
+                    <li role="presentation" id="{{title}}" {{# has_subfiles }}class="dropdown"{{/ has_subfiles }}>
+                        <!--<div>-->
+						<a href="{{url}}" {{# has_subfiles }}class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"{{/ has_subfiles }}>
+                            {{ title }}
+							{{# has_subfiles }}<span class="caret"></span>{{/ has_subfiles }}
+                        </a>
+						
+                        {{# has_subfiles }}
+                            <ul class="dropdown-menu" role="menu">
+                                {{# submenu }}
+                                    <li role="presentation"><a href="{{url}}">{{ title }}</a></li>
+                                {{/ submenu }}
+                            </ul>
+                        {{/ has_subfiles }}
+						<!--</div>-->
+                   </li>
+	               {{/ menu_conf }}
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="container-fluid" id="main_content">
+		<div class="row">
+            <!--<div class="panel panel-default col-md-6">
+            <div class="panel-body">Something</div>
+            </div>-->
+            <!--<div class="panel panel-default col-md-6">-->
+            <div class="panel-body">{{{content}}}</div>
+            <!--</div>-->
+        </div>
+    </div>
+    
+    <footer class="container-fluid fixed-bottom">
+        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and Ecstatic<br>
+        Organ theme by <a href="https://github.com/samakhov">Asbath</a>.
+    </footer>
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!--<script>
+	hljs.initHighlightingOnLoad();
+	$("#{{title}}").addClass('active');
+	function transformAnnotatedParagraphs(pClass) {
+	    $("p." + pClass).wrap("<div class='alert alert-" + pClass + "' role='alert'/>" );
+	};
+	transformAnnotatedParagraphs('success');
+	transformAnnotatedParagraphs('info');
+	transformAnnotatedParagraphs('warning');
+	transformAnnotatedParagraphs('danger');
+	</script>-->
+    
+  </body>
+</html>

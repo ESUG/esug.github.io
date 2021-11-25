@@ -1,0 +1,14 @@
+! Probabilistic Modeling APIs
+
+Guillermo Amaral (guillermo.amaral@aucerna.com)
+
+""Abstract:""
+We've been working on a set of RESTful APIs to support the definition and simulation of probabilistic models. 
+Among others, they include support for probability distribution validation, correlated and uncorrelated sampling, 
+unit conversion, dimensional analysis, unit inference, expressions (via FML, Functional Modeling Language), 
+mathematical representation of expressions, etc.
+We will visit the main aspects of these APIs while using an example web application built on top of them.
+
+""Bio:"" I live in Buenos Aires, Argentina. I have been devoted to Smalltalk for many years. 
+I have used it and enjoyed it throughout my entire professional career. 
+I am currently working at Aucerna, an international company of software development for the oil and gas industry.

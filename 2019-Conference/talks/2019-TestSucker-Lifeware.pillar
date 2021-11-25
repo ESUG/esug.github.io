@@ -1,0 +1,32 @@
+! Test Sucker: How to Convert Real Production Objects to Automated Test Cases?
+
+Vincent Blondeau ( Vincent.Blondeau@lifeware.ch / https://www.lifeware.ch/](https://www.lifeware.ch/))
+Mohamed Ahdach ( Mohamed.Ahdach@lifeware.ch / [https://www.lifeware.ch/](https://www.lifeware.ch/))
+
+""Abstract:""
+Most of the time, the creation of test cases to replicate failures that happens in the production environment is 
+complex and fails to replicate the exact behavior. At Lifeware, we use a tool called the "Test Sucker",
+that allows one to "sucks" domain specific objects from the Gemstone production envriroment to a Visualworks
+envrionement where the bug can be reproduced and all the palette of tools used. Such a test will allow to be
+part of the more than 90,000 automated tests that Lifeware runs continuously.
+
+
+""Bio:"" 
+Vincent Blondeau: 
+
+After graduating in from Polytech Lille in 2014 with a Software Engineering and Statistics degree,
+he received his Ph.D. in Software Engineering at the University of Lille, 
+with a dissertation on the ways to select software tests related to changes that have occurred on the source code. 
+He also spent one year in Lam Research, CA, USA, as an industrial Postdoc to create some tooling to improve the 
+usability of the company software. 
+He joined Lifeware in March 2019 where one of his roles is to support the migration to Pharo of the Lifeware tools.
+Vincent is also an active open source developer in the Pharo community.
+More information is available here: https://vincentblondeau.github.io/
+
+Mohamed Ahdach:
+
+Mohamed is a father of two daughters and a life insurance practitioner. 
+He was previously a freelance consultant specialized in actuarial and risk management. 
+Mohamed is engineer in applied mathematics and holds a master's degree in actuarial sciences 
+from the Catholic University of Louvain. He speaks French, English, Dutch, and Tachelhit.
+He joined Lifeware in October 2017.

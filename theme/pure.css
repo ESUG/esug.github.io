@@ -1,0 +1,472 @@
+/* magritte */
+th { background: none }
+td.required:after { color: #8a1f11; margin-left: 0.5em; font-weight: bold; content: "*"; }
+tr.error, th.error, td.error { border: none }
+
+/* pier */
+.broken { color: #8a1f11; }
+.protected { color: #514721; }
+ 
+/* basics */
+.toright {
+  float: right;
+}
+
+html, body{
+		height: 100%;
+        margin: 0px;
+        padding: 0px;
+        font-family: helvetica neue, helvetica;
+        color: #333333;
+        text-align: justify;
+		background-color: white;
+}
+.container {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	padding-bottom: 150px;
+	margin: 0 auto -150px;
+}
+h1 {
+      font-size: 2.5em;
+      text-align: none;
+}
+
+h1 a{
+      color: Black;
+}
+
+h2 {
+      font-size: 1.7em;
+      text-align: none;
+}
+
+ul, p{
+    list-style-type: square;
+    margin-bottom: 0.3em;
+}
+
+a{
+       color: #002299; //#003366;
+       text-decoration: none;
+}
+a:hover{
+        color: grey;
+}
+a:focus.page, a:active {               
+          color: red;
+}
+.clear{
+        clear: both;
+}
+/*header*/
+
+.header{
+ 	margin: auto;
+	min-height: 120px;
+}
+.title {
+	position: absolute;
+	width: 100%;
+    height: 100px;
+   	padding-top: 10px;
+}
+
+.title h2 {
+	margin-top: 0px;
+}
+
+.title img {
+	height: 100px;
+}
+
+.header .title a.page{
+       height: 100px;
+       outline: 0px;
+       display: block;
+       text-indent: -1000px;
+       background:url("http://esug.org/design/logo.png");
+       background-repeat: no-repeat;
+}
+.header .search input {
+	width: 140px;
+	outline: none;
+}
+.search{
+         float: right;
+         padding-top: 20px;
+}
+.header .search ul {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	list-style-type: none;
+	border: 1px solid #666;
+	border-top: none;
+}
+.header .search li.selected {
+	background-color: #009;
+}
+.header .search li {
+	margin: 0;
+	display: block;
+	padding: 0.2em;
+	cursor: pointer;
+	list-style-type: none;
+}
+.header .search a {
+	text-decoration: none;
+}
+.header .search li.selected a {
+	color: #fff;
+}
+#id11{
+        z-index:3;
+}
+
+figure{
+	margin: 0px;
+}
+
+/* children Menue (Main) */
+
+.header .children a{
+        height: 40px;
+}
+.header .children a.page{		
+        color: black;
+        text-decoration: none;
+        font-size: 1.8em;
+}
+.header .children a:hover.page{				
+	color: grey;
+}
+.header .children a:focus.page{                   
+	color: red;
+}
+.header .children a.active {
+        color: grey;
+}
+.children{
+	float: right;
+	position: relative;
+	padding-top: 70px;
+	font-family: helvetica neue, helvetica;
+        font-size: smaller;
+	width: auto;
+        margin: auto;
+}
+.children ul{
+        margin: auto;
+        text-align: center;
+}
+.children ul li{
+	
+	list-style-type: none;
+	height: 40px;
+	display: inline;  
+        margin: 15px;       
+}
+
+/* submenue */
+
+.submenue{
+	float: right;
+	position: relative;
+	top: 60px;
+        left: 160px;
+	font-family: helvetica neue, helvetica;
+	width: auto;
+	display: inline-block;
+        margin: auto;
+}
+.header .submenue a{		
+        text-decoration: none;
+        font-size: 1.2em;
+        color: black;
+}
+.header .submenue a:hover{
+        color: grey;
+}
+.header .submenue a.active {
+        color: grey;
+}
+.submenue ul{
+        margin: auto;
+        text-align: center;
+}
+.submenue ul li{
+	display: inline;
+	height: 40px;
+	float: left;
+    margin: 8px;
+}
+/*content*/
+
+.body {
+	height: auto;
+	margin: auto;
+}
+.contents{
+        padding-top: 20px;
+}
+/*first site (Home)*/
+
+/*first site (Home) - BLOG*/
+
+.rssfeedbox{
+         height: 24px;
+         width: 340px;
+}     
+a.rssfeed {
+       background:url("http://esug.org/design/rssfeed.png");
+       background-repeat: no-repeat;
+       outline: 0px;
+       display: block;
+       text-indent: -1000px;
+       height: 24px;
+       width: 24px;
+       float: right;
+}
+
+.blogbox{
+        float: left;
+        width: 380px;
+       padding-top: 30px;
+}
+.postticker li{
+        margin: 5px;
+}
+a.post{
+        font-size: 1.5em;
+}
+
+.boxesnodot {
+      padding: 15px;
+       width: 320px;
+       height: auto;
+}
+
+.boxes{
+       border: 1px dotted;
+       padding: 15px;
+       width: 320px;
+       height: auto;
+      
+}
+.boxes p,ul{
+        padding: 5px;
+}
+
+/* sidebar in footer (login) */
+
+.sidebar{
+        float: right;
+        right: 20px;
+        padding-top: 15px;
+        position: absolute;
+}
+.sidebar ul {
+	padding-top: 0;
+	padding-left: 0;
+	list-style-type: none;
+}
+.sidebar ul ul {
+	padding-bottom: 0;
+	padding-left: 1.5em;
+}
+.sidebar ul li{
+         float: left;
+         margin-left: 10px;
+         margin-right: 10px;
+         font-size: 10pt;
+}
+.sidebar .active {
+	 font-weight: bold;
+}
+
+/* footer */
+
+.colums{
+      height: 105px;
+      margin: auto;
+      width: 500px;}
+.footer a {
+         color: grey;
+}
+.footer a:hover{
+         color: black;
+}
+.donate{
+         position: absolute;
+         left: 400px;
+         top: 11px;
+         width: 200px;
+}
+.push {
+           height: 160px;
+           width: 100%;
+           float: right;
+           }
+.footer {
+        height: 150px;
+        width: 100%;
+        background-image: url("http://esug.org/design/footer2.png"); 
+        background-repeat: x;
+}
+.madeby {
+        float: left;
+        padding-left: 30px;
+        font-size: 1em;
+        position: absolute;
+        color: #666666;
+        width: 400px;
+        padding-top: 80px;
+        padding-bottom: 10px;
+}
+
+div.frontpagemessage {
+  font-size: 150%;
+}
+
+img.picturecentered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*About Us | Promo | Smalltalk*/
+
+.dot {
+   border-left: 1px dotted;
+   border-right: 1px dotted;
+    }
+.quad {
+       float: left;
+      margin-top: 30px;
+      margin-bottom: 30px;
+       width: 229px;
+       height: 170px;
+       padding: 15px;
+       text-align: justify;
+        }
+.quad h1{
+       font-size: 2em;
+}
+.promo {
+          background-image: url("http://esug.org/design/Promotion.jpg"); 
+          background-repeat: no-repeat;
+          background-color: black;
+          width: 780px;
+          height: 260px;
+          margin-bottom: 30px;
+          margin-top: 20px;
+}
+.about {
+          background-image: url("http://esug.org/design/Aboutus.jpg"); 
+          background-repeat: no-repeat;
+          background-color: black;
+          width: 780px;
+          height: 260px;
+          margin-bottom: 30px;
+          margin-top: 20px;
+}
+.small {
+          background-image: url("http://esug.org/design/Smalltalk.jpg"); 
+          background-repeat: no-repeat;
+          background-color: black;
+          width: 780px;
+          height: 260px;
+          margin-bottom: 30px;
+          margin-top: 20px;
+}
+ .conf {
+          background-image: url("http://esug.org/design/Conferences.jpg"); 
+          background-color: black;
+          background-repeat: no-repeat;
+          width: 780px;
+          height: 260px;  
+          margin-bottom: 30px;
+          margin-top: 20px;     
+          }
+
+/*blogsite (/ESUGblog)*/
+
+.post h1 {
+          font-size: 1.5em;
+}
+
+.alert { color: red; }
+.visible {font-weight: bold; }
+
+
+/* ADMIN */
+.admin {padding-top: 40px;}
+.admin ul {list-style: none;}
+
+/* Pins, from http://cssdeck.com/labs/css-only-pinterest-style-columns-layout */
+
+.columnswrapper {
+	margin: 50px auto;
+	max-width: 1100px;
+	min-width: 800px;
+}
+
+.columns {
+	-webkit-column-count: 3;
+	-webkit-column-gap: 10px;
+	-webkit-column-fill: balance;
+	-moz-column-count: 3;
+	-moz-column-gap: 10px;
+	-moz-column-fill: balance;
+	column-count: 3;
+	column-gap: 10px;
+	column-fill: balance;
+	/*column-rule: 1px solid #000;
+	-moz-column-rule: 1px solid #000;
+	-webkit-column-rule: 1px solid #999;*/
+}
+
+.pin {
+	display: inline-block;
+	height: 240px;
+	background: #FEFEFE;
+	border: 2px solid #FAFAFA;
+	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+	margin: 0 2px 15px;
+	-webkit-column-break-inside: avoid;
+	-moz-column-break-inside: avoid;
+	column-break-inside: avoid;
+	padding: 15px;
+	padding-bottom: 5px;
+	background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
+	opacity: 1;
+	
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;
+}
+
+.pin img {
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+
+.pin p {
+	font: 12px/18px Arial, sans-serif;
+	color: #333;
+	margin: 0;
+}
+
+
+/* Multirows */
+/* clear first in row in ie 8 or lower */
+.multi-columns-row .first-in-row {
+	clear: left;
+}
+
+.multi-columns-row .col-md-4:nth-child(3n + 4) { clear: left; }

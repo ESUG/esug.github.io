@@ -1,0 +1,8 @@
+! Teaching ICT trends in Pharo
+
+Béler Cédrik (cbeler@enit.fr)
+
+""Abstract:"" This presentation is an experience report on using Pharo to teach Information and Communication Technology Trends to engineering students. More than 75\% of the students (Semester 8) use Pharo to develop simple servers interacting with self made and simple IoT (usage of Raspberry and micro controller ESP32). It’s also used on other subjects like « deep learning », Mashable application based on API or webscrapping techniques.
+
+""Bio:"" I’m an assistant professor in a French engineering school since 2010. Mechanical engineer, I felt in love with Smalltalk during my PhD and I’m now responsible of a general lecture on ICT trends. My main research field is about universal information system (for people, objets, cyber-physical systems…).
+Keywords: IoT, CPS, digital twin, Information system, ...

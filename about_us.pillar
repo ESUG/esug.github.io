@@ -1,0 +1,58 @@
+{
+"title": "About Us"
+}
+
+! About Us
+
++file://images/Aboutus.jpg|width=70|label=aboutus+
+
+!!Board
+The ESUG Board as elected 2010
+-President: *Stéphane Ducasse>http://stephane.ducasse.free.fr/* (Inria)
+-Treasurer: *Luc Fabresse>http://car.mines-douai.fr/luc* (EMD)
+-*Damien Cassou>http://damiencassou.seasidehosting.st/* (Univ. Lille 1)
+-*Jordi Delgado>http://smalltalk.cat/* (Politecnica Catalunya)
+-*Marcus Denker>http://www.marcusdenker.de/* (Inria)
+-*Alain Plantec>http://www.lisyc.univ-brest.fr/pages_perso/plantec* (UBO)
+-*Serge Stinckwich>http://doesnotunderstand.org/* (IRD)
+
+
+!!Contact ESUG
+
+-You can reach the ESUG board at *board@esug.org*
+
+
+!!Legal Information
+ESUG is a french-law association, and hence it is not subject to the VAT. It does not have a siret number but is registered under the number W751167780.
+- *CreditCard>http://www.esug.org/wiki/pier/About/CreditCard?_s=SWBep7RcK9EHbR2m&_k=-xlOIQmbHmdZ7XyB&_n&22*
+{{{html:
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="esug-info@esug.org">
+<input type="hidden" name="item_name" value="Donation to Support ESUG">
+<input type="hidden" name="item_number" value="Donation to Support ESUG">
+<input type="hidden" name="cn" value="Comments">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+</form>
+}}}
+
+
+!!Our Goals
+ESUG is a non-profit association that gathers all European users of all dialects of Smalltalk. It was registered in 1991 under French status "Association de Loi 1901".
+
+Its goals are to:
+-promote use of the Smalltalk programming language
+-promote communication between Smalltalk users through meetings, periodic newsletter, software exchange, electronic mail, etc., and by organizing events like the Smalltalk Yearly Conference
+-help and link local Smalltalk users groups
+-help the creation of local Smalltalk users groups
+-identify Smalltalk users and their needs and represent them towards discussions with vendors.
+
+ESUG users usually meets at Object-Oriented Conferences, such as ECOOP and SPLASH, and the ESUG users conference. Board members can be reached through e-mail at *esug-info@esug.org* (which broadcasts to all board members) for information.
+
+For mailings to members and everybody who subscribed directly to the mailing list you can send a mail to *esug-list@lists.esug.org*. To visit the mailing list go to *http://lists.esug.org/mailman/listinfo/esug-list_lists.esug.org*, currently more than 500 Smalltalkers all over Europe and beyond!.
+
+Info on the ESUG board members is also available. If you want to become an ESUG member, you can check out the Membership page.
+
+

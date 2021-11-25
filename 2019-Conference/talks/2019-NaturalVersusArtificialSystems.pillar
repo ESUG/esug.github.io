@@ -1,0 +1,18 @@
+! Natural System Development
+
+David West (dwest@objectguild.com / [https://objectguild.com](https://objectguild.com))
+
+""Abstract:""
+For sixty years we have become very skilled at creating "artificial" systems 
+using the techniques and methods of advanced programming and software engineering. 
+The challenge of today and the future is posed by "ultra-large scale complex 
+adaptive (ULSCAS)" or "natural" systems. Software engineering cannot help us 
+with these challenges. This talk will pose five specific challenges that arise 
+from natural systems and show how and why Object Design and Smalltalk 
+implementation offer powerful tools for meeting those challenges.
+
+""Bio:""
+Dave West has been in the profession since its inception and has held positions 
+ranging from programmer to Chief Information Officer. He is also a Professor of 
+Computer Science and Software Development and creator of award-winning programs 
+in software development apprenticeship education.

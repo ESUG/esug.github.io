@@ -1,0 +1,21 @@
+! Pharo IoT: Present and Future
+
+Allex Oliveira <allex.oliveira@msn.com>
+Nobert Hartl (norbert@2denker.de)
+Marcus Denker (marcus.denker@inria.fr)
+
+""Abstract:""
+We will present the current state of PharoIoT with a focus on the improvements done related to simplifying the installation of PharoIoT, the new website and the new tutorials for starting with PharoIoT.
+We will show some examples of projects that were done using PharoIoT and then give an overview what is planned for the future.
+
+""Bio:""
+Allex Oliveira is an IoT engineer at INRIA Lille Nord Europe in RMoD team (http://rmod.inria.fr).
+His interests are wireless networks, cybersecurity, internet of things, and management & monitoring systems. 
+Allex participates in the Pharo community since 2018 and he works with Pharo IoT coding new tools. 
+He helped to give the Pharo IoT workshops in Germany and Vietnam, for which he wrote the booklet "A PharoThings Tutorial" and improved the process for installing and using PharoThings IDE/Runtime.
+
+Marcus Denker is a permanent researcher (CR1, with tenure) at INRIA Lille - Nord Europe. Before, he was a postdoc at the PLEIAD lab/DCC University of Chile and the Software Composition Group, University of Bern. His research focuses on reflection and meta-programming for dynamic languages. He is an active participant in the Squeak and Pharo open source communities for many years. Marcus Denker received a PhD in Computer Science from the University of Bern/Switzerland in 2008 and a Dipl.-Inform. (MSc) from the University of Karlsruhe/Germany in 2004. He co-founded 2Denker GmbH in 2009. He is a member of ACM, GI and a board-member of ESUG.
+
+Norbert is CEO/CTO of ZWEIDENKER GmbH, a software company that focusses on modern user interface concepts and IoT. Norbert is a self taught software developer with over 25 years of experience in the fields of software development, corporate IT and media arts. He is interested in new approaches to software development and in bridging the gap between enterprise IT and small computers. He has been member of the pharo community from day one and currently he is a member of the pharo board
+
+

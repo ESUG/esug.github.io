@@ -1,0 +1,38 @@
+{
+"title": "SummerTalk"
+}
+
+!Welcome to SummerTalk
+
+This program is to help students work on open-source Smalltalk projects. The European Smalltalk User Group funds some students during the summer. Each student (in sync with his supporting organization and project leader) receives 2500 euros. Each student will work under the guidance of a mentor accredited by ESUG.
+
+Please send us your idea at board@esug.org (with '[SummerTalk]' as the head of the mail subject). ESUG will fund up to five projects.
+
+!SummerTalk rules
+
+-The code developed during this program has to be released under the MIT Licence.
+-A web site describing the project and how to install or use the code must be setup.
+-The web site must contain the ESUG logo and explicitely advertize that the project has been selected for the SummerTalk action.
+-During the project development, students must make public their progress monthly.
+
+!How we proceed
+
+We proceed the following way:
+
+-The mentor should acknowledge that he/she agrees to start working with the students.
+-A month after the start of the project, after the mentor has given his acknowledgement, the student receives 500 Euros.
+-Then, at the end of the project, the mentor gives its acknowledgement and the student receives its fund in two parts:
+-#1000 Euros immediately,
+-#1000 Euros once the code is publicly available and other parties can load it from the project web site and can read clear instructions on how to install it.
+
+Some quality points:
+-The project should be advertized on popular mailing-lists so that other people may provide input.
+-We would like to have Unit tests and class comments.
+-We would like to have design documentation for the project.
+-The projects should be published in an open repository such as http://www.squeaksource.com or Cincom Store
+-A monthly report of activity should be sent to the ESUG board.
+-A presentation to the ESUG conference should be planned.
+
+
+!Previous years
+

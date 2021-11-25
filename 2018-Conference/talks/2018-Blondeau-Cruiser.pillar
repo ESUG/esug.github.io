@@ -1,0 +1,8 @@
+! Cruiser: A Pharo packaging tool
+
+Name: Vincent Blondeau
+Email: Vincent.blondeau@lamresearch.con
+
+""Abstract:"" Desktop Pharo applications are nowadays difficult to configure and to package for production. To lower this burden, we created Cruiser, a tool to package Pharo applications. The idea is to quickly convert an application from a development environment to a production one. A production environment means: (1) No writing on the disk, (2) No access to the source code (by the shortcuts, debugger,...), (3) No error display on the interface, (4) Nothing else except the user application.
+
+""Bio:"" Vincent Blondeau is a postdoc working for Lam Research Corporation in tight relation with the RMoD research team where he just finished his PhD named: "Test Selection Practices in a Large IT Company". His primary work revolves around dealing with improvement of the development processes using VisualWorks. He is also active in the Pharo community.

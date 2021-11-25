@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head profile="http://www.w3.org/2005/10/profile">
+  	<link rel="icon" type="image/png" href="{{baseurl}}/images/favicon.png">
+  	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    	<title>ESUG: {{{title}}}</title>
+    	<link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="{{baseurl}}theme/style.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  
+  <body>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+	<a class="navbar-brand" href="{{baseurl}}">
+             <img alt="{{site_name}}" src="{{baseurl}}{{site_logo}}">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
+    		<span class="navbar-toggler-icon"></span>
+  	</button>
+        <!--<div class="container-fluid">-->
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="navbar-nav ml-auto">
+                    {{# menu }}
+                    <li id="{{title}}" {{# has_subfiles }}class="nav-item dropdown disabled"{{/ has_subfiles }}>
+			<a href="{{url}}" {{# has_subfiles }}class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"{{/ has_subfiles }}>
+                            {{ title }}
+                        </a>
+						
+                        {{# has_subfiles }}
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                             {{# submenu }}
+                             <a class="dropdown-item" href="{{url}}">{{ title }}</a>
+                             {{/ submenu }}
+                        </div>
+                        {{/ has_subfiles }}
+                   </li>
+	           {{/ menu }}
+		   
+                </ul>
+            </div>
+    </nav>
+    
+    <div class="row justify-content-center">
+        <div class="panel-body col-12" style="margin-top: 30px;">{{{content}}}</div>
+    </div>
+   </div> 
+    <footer class="footer">
+        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and <a href="https://github.com/guillep/ecstatic">Ecstatic</a><br/>
+		Source Code and <a href="https://github.com/ESUG/esug.github.io/issues">Issue Tracker</a> hosted on <a href="https://github.com/ESUG/esug.github.io">Github</a>
+    </footer>
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script>
+		var table = document.getElementsByTagName("table");
+		for (i=0; i<table.length; i++) {
+			table[i].style.border = "";
+			table[i].setAttribute("class", "table");		
+		}
+
+		var captions = document.getElementsByTagName("figcaption");
+		for (i=0; i<captions.length; i++) {
+			captions[i].innerHTML=""
+		}
+	</script>
+    
+  </body>
+</html>
