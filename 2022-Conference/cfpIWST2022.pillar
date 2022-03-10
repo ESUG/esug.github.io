@@ -34,10 +34,9 @@ We will not enforce any length restriction.
 
 ""Important Dates""
 
-to be announced
-%- Submission deadline: June 15th, 2022
-%- Notification deadline: July 20th, 2022
-%- Workshop: August 24th-26th, 2022
+- Submission deadline: May 15th, 2022
+- Notification deadline: June 20th, 2022
+- Workshop: August 24th-26th, 2022
 
 
 ""Topics""
@@ -51,6 +50,7 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 - Implementation, new dialects or languages implemented in Smalltalk,
 - Interaction with other languages,
 - Meta-programming and Meta-modeling,
+- Virtual Machine,
 - Tools
 
 
@@ -69,15 +69,25 @@ The Best Paper Award will take place only with a minimum of six submissions. Not
 
 Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
 
-All submissions must be sent via easychair
-%: *https://easychair.org/conferences/?conf=iwst22*
+All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst22*
 
 
 ""Program chairs""
-to be announced
 
-%Vincent ARANEGA, University of Lille, France
-%Loïc LAGADEC, ENSTA Bretagne, France
+- Vincent ARANEGA, University of Lille, France
+- Loïc LAGADEC, ENSTA Bretagne, France
 
 ""Program committee""
-to be announced
+
+- Isabelle Borne
+- Andrei Chiș
+- Steven Costiou
+- Christophe Dony
+- Zoé Drey
+- Luc Fabresse
+- Jannick Laval
+- Nevena Milojković
+- Kasper Østerbye
+- Gordana Rakic
+- Serge Stinckwich
+- Hernan Wilkinson
