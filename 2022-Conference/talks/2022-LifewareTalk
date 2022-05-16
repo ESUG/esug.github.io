@@ -1,10 +1,29 @@
-! A wonderfull Lifeware talk
+! eXtreme Programing: How a strong test suite can strenghten the relationship with the customer?
 
-Dupont  (dupont@lifeware.ch)
-Dupond  (dupond@herge.fr)
+Vincent Blondeau  (vincent.blondeau@lifeware.ch)
+XXX  (xxx@lifeware.ch)
 
 ""Abstract:""
-Super nice abstract
+Lifeware, founded in 1998 in Switzerland, provides a web based solution for the management of life insurance products accross more than 15 customers.
+Since its start, Lifeware adopted the eXtreme Programing mindset: any new feature is specified, designed, coded, tested in a very short cycle. 
+Testing is strongly automated. The full suite runs more than 100.000 tests.
+On the other hand, customers are mostly used to a waterfall approach, making working with Lifeware not easy for them.
+We designed some processes and tools to strenghten this interaction. This talk will present some of them.
+
 
 ""Bio:""
-Dupont and Dupond are characters in Tintin adventures.
+Vincent Blondeau: 
+
+After graduating in from Polytech Lille in 2014 with a Software Engineering and Statistics degree,
+he received his Ph.D. in Software Engineering at the University of Lille, 
+with a dissertation on the ways to select software tests related to changes that have occurred on the source code. 
+He also spent one year in Lam Research, CA, USA, as an industrial Postdoc to create some tooling to improve the 
+usability of the company software. 
+He joined Lifeware in March 2019 where one of his roles is to support the migration to Pharo of the Lifeware tools.
+Vincent is also an active open source developer in the Pharo community.
+More information is available here: https://vincentblondeau.github.io/
+
+
+XXX:
+
+XXXXXXX
