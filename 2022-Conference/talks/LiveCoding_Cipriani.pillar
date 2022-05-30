@@ -1,0 +1,22 @@
+
+!Live Coding
+
+Domenico Cipriani mspgate@gmail.com
+
+""Abstract:""
+Live Coding is an increasingly popular creative practice for audio-visual creation, in which the process of writing source code is made visible by projecting the computer screen in the audience space, with ways of visualising the code
+I have designed the LiveCoding Package for Pharo with the aim of allow musicians and live coders to write their composition in Smalltalk, exploiting its simplicity and its easiness to learn.
+The package (at the moment) does not produce any sound by itself, but it is a OpenSoundControl (OSC) and MIDI server that can control other client software or programming languages capable of real-time audio synthesis (i.e. ChucK, PureData, MaxMSP) or MIDI devices throughout the connection to a MIDI interface.
+The LiveCoding package for Pharo has been developed with youngsters and novice programmers in mind, but it can of course be fruitfully used and expanded by skilful music programmers.
+I will discuss the principle of iconicity and polysemy behind its development and I will sketch out its implementation, its syntax and semantics together with future plans and I will describe the improvements made after its first presentation at the Pharo Days 2022 and together with the Pharo team.
+
+!! Performance
+I would love to have the possibility to perform also an audio/visual piece using the LiveCoding Package for Pharo and SymbolicSound Kyma for a 100% Smalltalk musical experience. The visual graphics will be produced with Roassal inside the Pharo world.
+
+Title of the A/V (60 min) performance: "Know Thy Code " -  an audiovisual performance for Kyma and Pharo.
+
+
+""Bio:""
+
+Domenico Cipriani a.k.a. Lucretio has been releasing  raw minimalist dance music for more than a decade and with his label Restoration  has played an active role in the vinyl resurgence of the late 2000.
+After his graduation at the S.A.E. Institute of Barcelona, he has further developed his research on social semiotic with an M.A. in Linguistics at the University of Padova, focusing on an evolutionary approach to explaining language change. He has discovered Smalltalk with Symbolic Sound Kyma in 2016. In 2019, he presented at the >>Sonic Experiments<< festival at the ZKM an interactive performance based on network distributed Open Sound Control. He has been live coding with Kyma and Pharo since April 20
