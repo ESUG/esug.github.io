@@ -1,0 +1,14 @@
+! pharo-ai Workshop
+
+Sebastian JORDAN MONTAÑO sebastian.jordan@inria.fr
+Oleksandr ZAITSEV oleksandr.zaitsev@inria.fr
+
+""Abstract:""
+In this workshop we will use pharo-ai algorithms in real-life problems. One of the things, will be to use the k-means algorithm to do
+image segmentation (for example: https://image.slidesharecdn.com/2012mdsp-pr12kmeansmixtureofgaussian-130701022427-phpapp02/95/2012mdsp-pr12-k-means-mixture-of-gaussian-10-638.jpg?cb=1372645583)
+We will provide all the code already in a package ready to be use and we will explain the code. Also, we will show how to apply the pharo-ai
+to solve your own problems.
+
+""Bio:""
+Sebastian JORDAN MONTAÑO is a research engineer for the RMoD team at INRIA Lille.
+Oleksandr ZAITSEV is a CIFRE PhD student between the RMoD team at Inria Lille - Nord Europe and the Arolla software company.
