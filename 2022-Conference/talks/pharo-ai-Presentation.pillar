@@ -1,0 +1,13 @@
+! Presenting pharo-ai
+
+Sebastian JORDAN MONTAÑO sebastian.jordan@inria.fr
+Oleksandr ZAITSEV oleksandr.zaitsev@inria.fr
+
+""Abstract:""
+In this talk we will to present the first version of pharo-ai: A Pharo library for doing Machine Learning, Graph Algorithms and
+other artificial inteligence related topics. We will explain the modular architecture of the library. Show the algorithms that we have implemented.
+Also, we will show the wiki and the learning resources that are available and we will give an inside of how to start working with the library.
+
+""Bio:""
+Sebastian JORDAN MONTAÑO is a research engineer for the RMoD team at INRIA Lille.
+Oleksandr ZAITSEV is a CIFRE PhD student between the RMoD team at Inria Lille - Nord Europe and the Arolla software company.
