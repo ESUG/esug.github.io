@@ -1,0 +1,20 @@
+! Improving Snapshots on Pharo
+
+P. Tesone  (pablo.tesone@inria.fr)
+G. Polito  (guillermo.polito@inria.fr)
+
+""Abstract:""
+Snapshotting a Pharo image efficiently is challenging. Current implementations discard all optimizations done by the VM: compiled machine code, native stack representation, young generation identification. This requires a new warm-up phase every time the image is saved. This problem is aggravated when using large images. We present how introducing a semi-permanent generation of objects improves the current state, and what emerging projects arise. 
+	
+""Bio:""
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
+He is interested in improving development tools and the daily development process. 
+He is an enthusiast of the object oriented programming and their tools. 
+He collaborates with different open source projects like the ones in the Pharo Community [http://pharo.org/] and the Uqbar Foundation [http://www.uqbar-project.org/].
+
+Guille Polito is research engineer at the CRIStAL laboratory in the University of Lille, working in tight relation with the RMoD team.
+He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
+Guille's main research interests are modularity and development tools.
+Guille participates in the Pharo community since 2010 and is now board member.
+His most noticeable contributions to the community are the Pharo Bootstrap process and Iceberg.

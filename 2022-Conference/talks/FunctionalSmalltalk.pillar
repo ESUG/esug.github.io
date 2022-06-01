@@ -1,0 +1,17 @@
+! Functional Smalltalk
+
+Dave Mason (dmason@ryerson.ca)
+Conor Hoekstra (choekstra@ryerson.ca)
+
+""Abstract:""
+Smalltalk is the quintessential OO language, and is sometimes also described as a functional language - blocks are, after all, closures and were introduced in Smalltalk shortly after being popularized in Scheme.
+
+However, ANSI-Smalltalk lacks several useful syntactic features that are common in more conventional functional languages.
+Pharo-Functional [https://github.com/dvmason/Pharo-Functional] has numerous syntactic extensions that support much more idiomatic functional programming.
+
+In this talk, we will introduce these features and attempt to demonstrate their utility.
+
+""Bio:""
+Dr. Dave Mason has been teaching and researching programming languages at Ryerson University in Toronto for over 40 years.
+
+Conor Hoekstra serves on the ISO-C++ committee, has become a fan of functional, array, and combinator programming over the last few years, and recently received his MSc. from Ryerson University.
