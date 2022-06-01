@@ -1,0 +1,12 @@
+! Working with Remote Images
+
+Alistair Grant (alistair.grant@feenk.com)
+
+""Abstract:""
+While Gt & Pharo support multiple processes within the image (green threads), this is still managed within a single operating system thread, limiting the performance of the system in multi-core machines, which are the norm.
+
+This talk will discuss how we hand off tasks to worker images, tested with up to 800 workers, to allow tests, code analysis and other reflective operations to be performed in parallel, all while keeping the code in sync.
+
+
+""Bio:""
+Alistair Grant is a developer experience crafter at feenk (feenk.com) building tools and techniques for making software systems explainable.  Alistair is also a contributor to Pharo, and has previously managed software development in diverse areas including scientific systems, enterprise security and real-time control systems.
