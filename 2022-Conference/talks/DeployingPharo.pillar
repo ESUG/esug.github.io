@@ -1,0 +1,18 @@
+! Deploying and Scaling Pharo with a Database in Practice
+
+Norbert Hartl Norbert Hartl <norbert@2denker.de>
+
+""Abstract:""
+
+How do you deploy Pharo with a database in practice? This talk shows how 
+ApptiveGrid is deployed with a focus on scaling a database server application 
+over multiple servers.
+
+We show how ApptiveGrid uses Docker, and how deployment is scripted with 
+Ansible to allow us to run multiple deployed versions for Continuous Integration.
+
+The second part focuses on how ApptiveGrid leverages the simplicity of an all-Pharo 
+solution for persistency that scales over mutliple servers.
+
+""Bio:""
+Nobert Hartl is the CTO and Founder of ApptiveGrid GmbH
