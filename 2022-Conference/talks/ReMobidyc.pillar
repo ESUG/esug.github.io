@@ -1,0 +1,12 @@
+!re:mobidyc
+
+Tomohiro Oda tomohiro@sra.co.jp
+
+""Abstract:""
+Multi-agent simulation (MAS) is one of research fields of computer science pioneered by LOGO and Smalltalk variants.
+re:mobidyc, built on top of Pharo, is a MAS language/environment dedicated to the study of biology.
+Despite the host language Smalltalk, re:mobidyc rather aims at less dynamic features: declarative definitions, synchronized updates on memory, reproducibility including pseudo random generators, static typing with measuring units, and loops.
+The objectives, design principles, current implementation of re:mobidyc will be introduced with demos.
+
+""Bio:""
+Tomohiro Oda is a researcher and programmer at Software Research Associates, Inc. Japan
