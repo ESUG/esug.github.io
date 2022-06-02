@@ -1,0 +1,9 @@
+! Tuning the one rendering tree
+
+Aliaksei Syrel  (aliaksei.syrel@feenk.com)
+
+""Abstract:""
+Glamorous Toolkit is based on a highly flexible graphical stack that relies on a single rendering tree at all times. But flexibility poses performance challenges. In this talk we will review our work of improving the performance of the graphical stack and of the highl level interactions. We will talk about how we increased the general speed with more than 20x over the past two years, about how we fine tuned the editor, but also about how we added support for parallelism deep in the stack.
+
+""Bio:""
+Aliaksei Syrel works as a UI magician at feenk gmbh. He is a co-author of the Glamorous Toolkit (gtoolkit.org) and spends his energy rethinking its graphical stack.
