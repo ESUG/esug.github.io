@@ -1,0 +1,27 @@
+! How to improve yourself while having fun improving Pharo
+
+Stéphane Ducasse ( stephane.ducasse@inria.fr / [http://stephane.ducasse.free.fr](http://stephane.ducasse.free.fr))
+
+""Abstract:"" 
+There is no magic. You rarely get born as a super coder and great system designer. 
+No! You may be a bit talented but you have to learn. 
+The point is how to learn what is not written in books or taught. 
+The solution is simple: gets exposed!
+
+In this talk I will show that 
+- contributing to Pharo is easy
+- you can be proud about participating
+- you can learn ***a lot*** doing it
+
+And I will show that it is addictive and that you can get an impact building a better system.
+
+""Bio:"" 
+I'm an Inria Research Director. I lead RMoD team http://rmod.lille.inria.fr. I'm  expert in language design and reengineering. 
+I worked on traits. Traits have been introduced in Pharo, Perl, PHP and  under a variant into Scala, Groovy and Fortress.  
+I'm expert on software quality, program understanding, program visualisations, reengineering and metamodeling.
+I'm one of the developer of Moose, an open-source software analysis platform http://www.moosetechnology.org/. 
+I created Synectique a company building dedicated tools for advanced software analyses. 
+I'm one of the leader of Pharo  http://www.pharo.org/ a dynamic reflective object-oriented language supporting live programming.  I built the industrial Pharo consortium http://consortium.pharo.org. 
+I work regularly with companies (Thales, Wordline, Siemens, Berger-Levrault, Arolla,...) on software evolution problems.
+I wrote couple hundred articles and several books.  According to google my h-index is 55 for more than 12900 citations. 
+I like to help people becoming what they want and building things.

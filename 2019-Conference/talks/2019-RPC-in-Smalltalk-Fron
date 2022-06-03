@@ -1,0 +1,8 @@
+RPC in Smalltalk
+
+RPC (Remote Procedure Call) allows applications to communicate between computers. 
+The talk will first expose a list of issues raised when connecting different memory spaces, 
+then will explore some solutions to handle it, by comparing their different merits: sockets, VW I3, web services 
+and more recently gRPC and web sockets.
+
+About Annick Fron : Annick has been using and teaching RPC for many years, and is author of the book « Applications Reparties en Java », Dunod 2015, 3rd edition.

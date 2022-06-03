@@ -1,0 +1,9 @@
+! SmaCC, parser generation and more
+
+Jason Lecerf (jason.clement.lecerf@gmail.com)
+
+""Abstract: ""
+The Smalltalk Compiler Compiler is a parser generator written in Smalltalk and generating Smalltalk code. From the grammar of a language, it will generate the parser, but also give access to a lot of useful features as well. We will discuss automatic generation of AST classes, visitors and the rewriting engine of SmaCC to perform pattern matching and code transformations. Upcoming features, such as refactorings and code critics of grammars, are on the menu too!
+
+""Bio:""
+needed

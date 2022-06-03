@@ -1,0 +1,16 @@
+! Docker and Pharo at ZWEIDENKER
+
+Marcus Denker (marcus@2denker.de)
+
+""Abstract:""
+Over the last year, we have setup a new infructure to host the applications developed by ZWEIDENKER.
+With now over 100 Pharo images running, the new setup has proven its flexibility and scalability.
+
+In this talk we will present the general setup with Pharo, Docker Swarm and the supporting software stack.
+We discuss specifically three topics:
+1) how we solve the problem of deploying a project for all three phases: development, testing and production.
+2) Integration of CI with automatic deployment (after each commit in case of development)
+3) the flexibility of running the whole stack locally on the development machine if needed (e.g. for debugging)
+
+""Bio: ""
+Marcus Denker is a permanent researcher (CR1, with tenure) at INRIA Lille - Nord Europe. Before, he was a postdoc at the PLEIAD lab/DCC University of Chile and the Software Composition Group, University of Bern. His research focuses on reflection and meta-programming for dynamic languages. He is an active participant in the Squeak and Pharo open source communities for many years. Marcus Denker received a PhD in Computer Science from the University of Bern/Switzerland in 2008 and a Dipl.-Inform. (MSc) from the University of Karlsruhe/Germany in 2004. He co-founded 2Denker GmbH in 2009

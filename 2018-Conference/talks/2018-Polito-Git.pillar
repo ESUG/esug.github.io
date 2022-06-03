@@ -1,0 +1,18 @@
+! Do you really understand git?
+
+Guillermo Polito (guillermo.polito@inria.fr)
+
+""Abstract:""
+In this session we will revise some git basics that are needed to become a git expert.
+
+ - Git as a graph: what are commits, branches and tags and how do they relate?
+ - Branching and merging. Conflict!? What does git tell me there?
+ - Remotes and upstream, are they the same?
+ - Github pull requests and branching.
+
+Come with your questions. We will try to find the answers in git's documentation ;).
+
+""Bio:"" Guille Polito is research engineer at the CRIStAL laboratory in the university of Lille, working in tight relation with the RMoD team.
+Guille's main research interests are techniques to develop modular systems and new development tools.
+Guille participates in the Pharo community since 2010.
+His most noticeable contributions in the past months are in the Pharo bootstrap process, Pharo stream management, Iceberg and OSSubprocess.

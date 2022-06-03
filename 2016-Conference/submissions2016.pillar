@@ -1,0 +1,170 @@
+{
+"title": "Submissions"
+}
+
+!! Submissions
+
+By alphabetical order
+
+
+!! Caffeine: web browsers as filesystems
+
+- Submitter: Craig Latta
+- Smalltalk Dialect: SqueakJS
+- Affiliation: Black Page Digital
+- Country: Netherlands
+- Download url: *http://blackpagedigital.com/caffeine*
+- Demo url: *http://blackpagedigital.com/caffeine*
+- Keywords: squeakjs webdav filesystem myfavoritetexteditor
+- Licence: MIT
+
+
+
+!! Educational Bureau
+
+- Submitter: Jannik Laval
+- Other Developers: Alexandre Bastos
+- Smalltalk Dialect: Pharo
+- Affiliation: Université de Lyon
+- Country: France
+- Download url: *http://www.phratch.com/*
+- Demo url: *http://www.faciltecnologias.com.br/Mesa_video.mp4*
+- Keywords: phratch, educational hardware, teaching
+- Licence: GPL2
+
+
+
+!! HoneyGinger and Jun
+
+- Submitter: Tomohiro Oda
+- Smalltalk Dialect: Pharo
+- Affiliation: Software Research Associates, Inc.
+- Country: Japan
+- Download url: *http://smalltalkhub.com/#!/~tomooda/HoneyGinger*, *http://smalltalkhub.com/#!/~tomooda/Jun4Pharo*
+- Demo url: *https://www.youtube.com/watch?v=Wq6APgF1ZHc*
+- Keywords: OpenGL, Fluid Dynamics, Interactive Simulation
+- Licence: Jun: BSD, HoneyGinger: MIT
+
+
+!! Kit (Programming for the rest of us)
+
+- Submitter: Dave Mason
+- Smalltalk Dialect: PharoJS
+- Affiliation: Ryerson University
+- Country: Canada
+- Download url: *http://programmingfortherestofus.com/*
+- Keywords: End-user programming
+- Licence: MIT
+
+
+!! Let it Bee
+
+- Submitter: Guillermo Leandro Amaral
+- Smalltalk Dialect: Bee Smalltalk
+- Affiliation: PetroVR
+- Country: Argentina
+- Download url: *https://www.dropbox.com/sh/9q9s7oksonl0i7x/AAAriwzJBet-E4ZHxQSOZMzIa?dl=0*
+- Demo url: *https://youtu.be/3RpLxCXKYRQ*
+- Keywords: music, algorithm composition, smalltalk
+- Licence: free
+
+
+!! MacroRecorder
+
+- Submitter: Gustavo Santos
+- Smalltalk Dialect: Pharo
+- Affiliation: Author
+- Country: France
+- Download url:  *http://smalltalkhub.com/#!/~GustavoSantos/MacroRecorder*
+- Demo url: *https://www.youtube.com/watch?v=gW3l4O-WEGs*
+- Keywords: Automated Code Transformations, Software Maintenance, Refactoring
+- Licence: MIT
+
+
+
+!! MatchTool
+
+- Submitter: Yuriy Tymchuk
+- Smalltalk Dialect: Pharo
+- Affiliation: Software Composition Group
+- Country: Switzerland
+- Download url: *https://github.com/Uko/MatchTool/files/428549/PharoWithMatchTool.zip*
+- Demo url: *https://youtu.be/0atr28iccAw*
+- Keywords: pattern code, matching, rewrite, transformation, refactoring
+- Licence: MIT
+
+!! Pillar
+
+- Submitter: Thibault Arloing
+- Other Developers: Yann Dubois Damien Cassou
+- Smalltalk Dialect: Pharo
+- Affiliation: Inria RMOD
+- Country: France
+- Download url: *https://raw.githubusercontent.com/pillar-markup/pillar/master/download.sh*
+- Demo url: *https://youtu.be/dCJOCKqF3ZI*
+- Keywords: Pillar Pharo Markup Document
+- Licence: MIT
+
+!! RemoteDebugger
+
+- Submitter: Denis Kudriashov
+- Smalltalk Dialect: Pharo
+- Affiliation: Inria Rmod
+- Country: France
+- Download url: *http://smalltalkhub.com/#!/~Pharo/RemoteDebuggingTools*
+- Demo url: *https://www.youtube.com/watch?v=SgFjgQpo_nU*
+- Keywords: RemoteDebugger, remoting
+- Licence: MIT
+
+
+!! smalltalkCI
+
+- Submitter: Fabio Niephaus
+- Other Developers: Dale Henrichs; *All contributors>https://github.com/hpi-swa/smalltalkCI/graphs/contributors*
+- Smalltalk Dialect: Squeak, Pharo, and GemStone
+- Affiliation: Hasso Plattner Institute
+- Country: Germany
+- Download url: *https://github.com/hpi-swa/smalltalkCI*
+- Demo url: *https://www.youtube.com/watch?v=SgFjgQpo_nU*
+- Keywords: Continuous Integration, Deployment, Travis CI, Coverage Testing
+- Licence: MIT
+
+
+
+!! Sparta
+
+- Submitter: Aliaksei Syrel
+- Smalltalk Dialect: Pharo
+- Affiliation: University of Bern
+- Country: Switzerland
+- Download url: *http://scg.unibe.ch/research/sparta#download*
+- Keywords: vector graphics, 2d
+- Licence: MIT
+
+
+
+!! The OpenPonk modeling platform
+
+- Submitter: Peter Uhnák
+- Other Developers: *https://github.com/OpenPonk/openponk/graphs/contributors*
+- Smalltalk Dialect: Pharo
+- Affiliation: Czech Technical University - Faculty of Information Technology (CCMi)
+- Country: Czech Republic
+- Download url: *https://openponk.github.io/*
+- Demo url: *https://openponk.github.io/*
+- Keywords: modeling, uml, borm, fsm
+- Licence: MIT
+
+
+
+!! Woden 2 Game System
+
+- Submitter: Ronie Salgado
+- Smalltalk Dialect: Pharo
+- Affiliation: Author
+- Country: Chile
+- Download url: *https://github.com/ronsaldo/woden2*
+- Demo url: *https://youtu.be/o5Fadz6prTw*
+- Keywords: 3D Woden Level Editor Vulkan Bloc
+- Licence: MIT
+

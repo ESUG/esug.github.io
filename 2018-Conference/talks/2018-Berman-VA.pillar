@@ -1,0 +1,9 @@
+! VA Smalltalk Product Update
+
+Seth Berman (sberman@instantiations.com)
+
+""Abstract:""
+VA Smalltalk is continuing to push aggressively into the future with new virtual machine platforms and numerous features.  I'm going to talk about the success story of our VA Smalltalk 64-bit launch last September, cover all the new capability in the current release, and discuss what's coming up next for the VA Smalltalk product.
+
+""Bio:""
+Seth is the President/CEO of Instantiations, as well as a member of the technical staff. During his time as a developer with Instantiations he has been primarily involved with developing the VA Smalltalk code editor, code completion and live type inference capability, cryptography support, compression support, 64-bit virtual machine and Smalltalk's FFI library enhancements. Before joining Instantiations in May of 2011, Seth spent 10 years developing software for the U.S. government.  During this time he worked in a variety of domains to include stochastic simulation, operations research, grid computing and link analysis.  He has a B.S. in Computer Science and an M.S. in Software Engineering.

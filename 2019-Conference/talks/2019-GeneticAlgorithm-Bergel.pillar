@@ -1,0 +1,16 @@
+! Genetic Algorithms in the Artificial Intelligence Spectrum
+
+Alexandre Bergel (alexandre.bergel@me.com / [http://bergel.eu](http://bergel.eu))
+
+""Abstract:"" 
+Genetic Algorithm (GA) is a simulation of evolution often considered a pillar in the field of artificial intelligence. 
+GA is used to solve optimization problems, withing the domain of robotics, video games, and aerospace. 
+This presentation will presents a Smalltalk implementation of a genetic algorithm and many examples, including 
+zoomorphic creatures and flight mission generation for constellation of satellites.
+
+""Bio:"" 
+Alexandre Bergel is Associate Professor and researcher at the University of Chile. Alexandre Bergel and his 
+collaborators carry out research in software engineering. His focus is on designing tools and methodologies to 
+improve the overall performance and internal quality of software systems, by employing profiling, visualization, 
+and artificial intelligence techniques. Alexandre authored the book Agile Visualization and co-authored the book Deep 
+Into Pharo.

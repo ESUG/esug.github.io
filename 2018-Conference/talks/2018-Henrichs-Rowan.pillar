@@ -1,0 +1,42 @@
+! Rowan: A new project/package manager
+
+Dale Henrichs (dale.henrichs@gemtalksystems.com)
+
+""Abstract:""
+Rowan is a new take on project/package management for Smalltalk.
+
+Last year GemTalk Systems decided to incorporate a git-based source code
+management system into our base product.
+
+With Monticello nearly 15 years old, Metacello almost 10 years old, and
+FileTree over 5 years old the plan was to build a project/package
+management system for GemStone/S from the ground up.
+
+Martin McClure began by designing a file per class disk format as an alternative to FileTree, which eventually became the basis for Tonel.
+
+This year we are building the project loader and in-image project management.
+
+Features include:
+- atomic project loading
+- first class projects and packages:
+- definition-based from top to bottom with project, package, class and method definitions
+- a complete "tools" API for working with definitions as well as loaded entities (projects, packages, classes and methods)
+
+Metacello functionality (conditional package loading and project dependencies)
+is being handled by disk-based (Rowan) configuration objects.
+
+Jadite is the development GUI for Rowan. The initial version of Jadite is an
+adaptation of Jade, a Dolphin-based development environment for GemStone/S that
+has been maintained by James Foster for many years.
+
+We are currently working on expanding the functionality of Jadeite to
+incorporate Rowan projects and configurations. We also plan on starting work on
+a Pharo-based Rowan client later this year.
+
+""Bio:""
+Dale Henrichs is a Principal Engineer at GemTalk Systems and has been working
+in Smalltalk since 1985. For the last decade Dale has focused on the development
+and support of open source projects for both GemTalk Systems and the Smalltalk
+community. His contributions to the Smalltalk community include Metacello,
+FileTree, and the GemStone port of Seaside. Recently Dale completed work on a
+major rewrite of the GemStone/S indexing system.

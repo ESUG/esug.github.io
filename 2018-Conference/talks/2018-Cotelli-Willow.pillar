@@ -1,0 +1,10 @@
+! Willow, the interaction tour
+
+Gabriel Omar Cotelli (g.cotelli@gmail.com)
+
+""Abstract:"" This talk presents Willow, a Web Interaction Library that provides all the components and tools to create an interactive AJAX-based web application, without leaving the comfort of your Smalltalk environment.
+After years of refinement and with a growing ecosystem of related projects, Willow is currently used by software development companies, personal commercial products and university research projects.
+We will focus on presenting the user interaction affordances, while also showcasing its features and the most relevant reifications for web commands and components.
+
+
+""Bio:"" Bachelor in CS, Smalltalker since 2004, autodidact, free-thinker. Supporter of libre knowledge, human intelligence augmentation and open source software. Works at Mercap Software developing financial software and contributes to several open source projects.

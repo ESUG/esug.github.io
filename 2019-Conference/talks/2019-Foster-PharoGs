@@ -1,0 +1,23 @@
+! Running Pharo in GemStone
+
+James Foster (esug@jgfoster.net)
+
+""Abstract:""
+While many Smalltalk libraries and frameworks (such as Seaside) are intentionally portable across dialects maintaining 
+fidelity to a portability layer (such as Grease) is somewhat challenging since it is easy to write code that accidentally 
+bypasses the portability layer and not discover it till the port is attempted. Also, a portability layer by definition 
+contains only things that exist in all dialects, so is a subset and cannot include unique features. 
+
+An alternative approach is to emulate another dialect's virtual machine. For example, a Pharo8.0 "Minimal Image" has 
+over 1500 classes with over 26,000 methods, yet "only" (!) 533 of the methods are primitives. Since GemStone 
+has a unique ability to host multiple class hierarchies and alternate implementations for the same selector 
+in the same class, we will explore how much of Pharo can be run in GemStone. 
+
+If you have a package that run in a Pharo8.0 minimal image, and you want to see it run in GemStone, 
+send me instructions for loading it into Pharo and running tests and I'll include it in my presentation!
+
+""Bio:""
+As a junior-high student in 1971, James discovered the local university’s computer center and a life-long obsession 
+with computers began. He was introduced to Smalltalk/V for the Mac in the mid-90s, and became a Smalltalk bigot. 
+James is teaching undergraduate computer science classes and also serves as VP of Finance & Operations for GemTalk 
+Systems. He is a passionate advocate for GemStone and all things Smalltalk.

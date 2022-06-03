@@ -1,0 +1,20 @@
+! Onion and Swiss Cheese - Security Revisited
+
+Name: Jerry Kott
+
+Email: jkott@image-ware.com
+
+Abstract:
+In this presentation, Jerry will explore two popular metaphors in Information Security and their applicability to 
+Smalltalk environments. What are the unique challenges we face in image-based applications as compared to other 
+languages? How do we look for potential vulnerabilities in our code? Jerry will also share his experience in 
+using Pharo on Kali Linux, the most advanced penetration testing OS distribution.
+
+Bio:
+Jerry has been a Smalltalk developer and advocate for over 25 years. Throughout his career, he has worked as 
+a Smalltalk consultant in a variety of industries including finance, insurance, telecommunications, manufacturing, 
+entertainment, as well as Smalltalk frameworks and development tools. Jerry’s interest in cybersecurity led him 
+to pursue advanced cybersecurity training. He is an Offensive Security Certified Professional, with additional 
+training in Enterprise Incident Response and Advanced Threat Hunting from leading security firms. In his quest 
+for understanding all aspects of security, he developed a deep appreciation for the human side of cybersecurity and 
+learning of the attacker mindset.

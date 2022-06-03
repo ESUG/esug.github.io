@@ -1,0 +1,10 @@
+! Porting of VisualWorks code to Pharo
+
+Pavel Krivanek ( krivanek@nidea.cz / [http://http://nidea.cz](http://http://nidea.cz))
+
+""Abstract:"" 
+Porting of a big business application between Smalltalk dialects is an interesting challenge, especially when the original code is still under active development. In this talk, the easy parts, as well as many pitfalls of such process, will be discussed and demonstrated on examples of the aPart and Glorp frameworks. We will show how the Pharo Consortium can provide tremendous support for such a project and what it means for the next Pharo development.
+
+
+""Bio:"" 
+Pavel Krivanek is a software engineer at Nidea s.r.o. that focuses on software consulting. The former member of the INRIA RMoD team. He actively participates in the Pharo open source community with the primary focus on Pharo modularization, bootstrapping and cleaning and meta-modelling infrastructure.

@@ -1,0 +1,44 @@
+! CORMAS, a participatory and interdisc​iplinary modeling platform
+
+
+Pierre Bommel (pierre.bommel@cirad.fr) and Etienne Delay (etienne.delay@cirad.fr)
+
+""Abstract:""
+CORMAS (for COmmon-pool Resources and Multi-Agent Systems) is an Agent-Based Modeling (ABM) platform runing on Pharo, dedicated to natural and common-pool resources management. As an open-source
+ software, it is used by an international community of researchers
+willing to understand the relationships between human societies and
+their environment. From recent years, the development of CORMAS has taken an
+innovative direction more oriented towards participatory modeling,
+i.e. the collective design of models as an appropriate medium for
+fostering interdisciplinary and interactive simulation
+involving several stakeholders who interact with a simulation by
+acting directly on it. 
+
+As our intention is to involve more deeply, various types of
+stakeholders (from farmers to scientists and from technicians to
+decision makers) into the modeling process, it is necessary to
+have an easily adaptable tool to act on the simulation and to
+modify the conceptual model on the fly.
+
+CORMAS benefits from all the functionalities offered by Smalltalk,
+which opens a space of potentialities much richer than the other
+ABM platforms. Its minimalist syntax enables fast
+language learning even for non-computer users. As an
+immersive OO system, that enables concept reification,
+introspection and intercession, Smalltalk promotes rapid and
+efficient model prototyping. The power of its debugger allows a
+novice modeler to check finely the functioning of his model, but
+also to code directly during the execution of a simulation. Thus, 
+participatory design of models and interactive simulations
+enable to collectively explore medium and long-term scenarios to
+better understand how a desired situation may be reached on the
+field.
+
+""Bio:""
+Pierre Bommel (pierre.bommel@cirad.fr):
+I am a modeler scientist at CIRAD. I contribute to promoting the Companion Modeling approach. Through the development of CORMAS, I have been focusing on the development and the use of Multi-Agent Systems for the simulation of renewable resource management issues. Since 2010, I am based in Costa Rica, at the University.
+I develop models related to environmental management, such as breeding adaptation of drought in Uruguay or as breeding and deforestation in the Amazon. Nowadays, I am especially interested in collective design of ABM and interactive simulation for assisting role-playing games.
+
+Etienne Delay (etienne.delay@cirad.fr):
+I'm a researcher in social geography and spatial modeling. To tackle the scientific challenges proposed by landscape dynamics and cooperation processes, I have developed a research methodology based on field work and companion modeling combined with the formalization of the observed processes and agents based models.
+This approach offers the possibility to understand: spatial, social, cultural and / or economic conditions that take place in territories, and to provide prospective scenarios. My technical expertise grew and evolved through investment in several workgroups: MAPS Team (Modeling Applied to Space Phenomena), OpenMole, OSGeo-international, various initiatives around modeling, exploration and sensibility analysis of spatial patterns behaviors, and more generally in Free Software communities.

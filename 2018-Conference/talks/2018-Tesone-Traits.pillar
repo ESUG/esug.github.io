@@ -1,0 +1,14 @@
+! Stateful Traits in Pharo 7
+
+Pablo Tesone (tesonep@gmail.com)
+
+""Abstract:""
+This talk presents the new implementation of Stateful Traits included in Pharo 7.
+We will include a brief description of the new implementation, and changes and the improvements compared with the old implementation.
+Also, we will introduce how to use the included stateful support and the integration with complex slots.
+
+""Bio:"" Pablo Tesone is a PhD student at IMT Lille Douai, France. 
+He is studying Dynamic Software Update Solutions applied to Live programming environments, distributed systems and robotic applications. 
+He is interested in improving the tools and the daily development process. 
+He is an enthusiast of the object oriented programming and their tools. 
+He collaborates with different open source projects like the ones in the Pharo Community [http://pharo.org/] and the Uqbar Foundation [http://www.uqbar-project.org/].

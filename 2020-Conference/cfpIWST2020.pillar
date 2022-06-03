@@ -1,0 +1,134 @@
+{
+"title": "IWST 2020"
+}
+
+!IWST 20 Information and Call For Papers
+
+IWST20 — International Workshop on Smalltalk Technologies --Novi Sad, Serbia-- ""Virtual Event""; November 18th-19th, 2020 from 4pm Paris hours.
+
+%""Awards""
+
+%- First Prize: ''"Title"'' by Author.
+%- Second Prize: ''"Title"'' by Author.
+%- Third Prize: ''"Title"'' by Author.
+
+!! List of Accepted Articles
+
+%All the articles can be found at *http://esug.github.io/2020-Conference/articles/2020-09-26-IWST19.zip*.
+
+
+!! Session: Language and Software
+
+- Pierre Laborde, Steven Costiou, Alain Plantec and Eric Le Pors, ''Molecule: live prototyping with component-oriented programming''
+- Stéphane Ducasse, Laurine Dargaud and Guillermo Polito, ''Microdown: a clean and extensible Markdown to support Pharo documentation''
+- Ronie Salgado, Marcus Denker, Stéphane Ducasse, Anne Etien and Vincent Aranega, ''Towards a Smart Data Processing and Storage Model''
+
+
+!!! Session: Debug and Tests
+
+- Steven Costiou, Thomas Dupriez and Damien Pollet, ''Handling Error-Handling Errors: dealing with debugger bugs in Pharo''
+- Mehrdad Abdi, Henrique Rocha and Serge Demeyer, ''Reproducible Crashes: Fuzzing Pharo by Mutating the Test Methods''
+- Thomas Dupriez, Steven Costiou and Stéphane Ducasse, ''First Infrastructure and Experimentation in Echo-debugging''
+
+
+!! Virtual Event
+
+This year event of IWST will be held remotely during two days with one session each day:
+
+- Session: Debug and Tests - Wednesday 18th of November, starting at ""4pm Paris hours""
+- Session: Langage and Software - Thursday 19th of November, starting at ""4pm Paris hours""
+
+The video of the presentations followed by Q&A will be broadcast via Zoom.
+If you want to attend to the sessions, you can *register here>https://univ-lille-fr.zoom.us/webinar/register/WN_V_0iv-joSzeBXppaDDmEWw* (registration is free).
+
+Vidéos of the presentations of this year edition are *available here>https://www.youtube.com/playlist?list=PLLDCKIQIizc25pnrIJZv-NsbbT4_Go-du*
+
+
+!! Call for Papers
+
+""Goals and scopes""
+The goals of the workshop is to create a forum around advances or experience in Smalltalk and to trigger discussions and exchanges of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Participants are invited to submit research articles or industrial papers. This year we want to open two different tracks: one research track and one industrial track with less scientific constraints.
+
+We expect papers of three kinds:
+
+- Short position papers describing emerging ideas
+- Long research papers with deeper description of experiments and of research results.
+- Industrial papers with presentation of real and innovative Smalltalk applications; this kind of paper should enlighten why Smalltalk is really appropriate for your application.
+
+We will not enforce any length restriction.
+
+""Important Dates""
+
+% - Submission deadline: July 15th, 2020
+- Submission deadline: July 28th, 2020
+- Notification deadline: September 8th, 2020
+- Workshop: November 18th and 19th, 2020, virtual event, 4pm Paris hours.
+
+
+""Topics""
+
+We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
+
+- Aspect-oriented programming,
+- Design patterns,
+- Experience reports,
+- Frameworks,
+- Implementation, new dialects or languages implemented in Smalltalk,
+- Interaction with other languages,
+- Meta-programming and Meta-modeling,
+- Tools
+
+
+%""Best Paper Award""
+
+%To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST.
+
+%We thank the Lam Research Corporation for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
+
+%The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
+
+%The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
+
+
+""Publication""
+
+Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
+
+All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst20*
+
+
+""Important Note""
+
+In light of the continued uncertainty surrounding the Covid-19 situation, to guarantee the safety and well-being of all, the IWST Steering Committee has decided to move to a virtual event format for this year. The global idea is to collect all required material a week ahead of schedule to prevent any live technical issue: slides, but also video. Only the post presentation Q&A sessions will be interactive.
+
+
+""Program chairs""
+
+- Vincent ARANEGA, University of Lille, France
+- Loïc LAGADEC, ENSTA Bretagne, France
+
+""Program committee""
+
+- Gabriela Arevalo
+- Jean-Baptiste Arnaud
+- Alexandre Bergel
+- Vincent Blondeau
+- Isabelle Borne
+- Steven Costiou
+- Andrei Chiș
+- Julien Delplanque
+- Igor Dejanovic
+- Christophe Dony
+- Zoé Drey
+- Anne Etien
+- Luc Fabresse
+- Annick Fron
+- Tudor Girba
+- Caroline Landry
+- Nevena Lazarevic
+%- Dave Mason
+- Kasper Østerbye
+- Damien Pollet
+- Gordana Rakic
+- Serge Stinckwich
+- Hernan Wilkinson

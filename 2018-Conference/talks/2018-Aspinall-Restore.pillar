@@ -1,0 +1,18 @@
+! ReStore for Dolphin – Improved Query Block Analyser
+
+John Aspinall (john.aspinall@gmail.com)
+
+""Abstract: ""
+ReStore is an object-relational database interface for Dolphin Smalltalk. A key design philosophy behind ReStore is the use of familiar Smalltalk expressions in preference to relational database terminology. This is particularly evident in the querying subsystem which uses standard Collection expressions, for example:
+
+[[[
+Employee storedInstances select: [ :each | each office city = ‘London’]
+]]]
+
+
+Translation of the select block to a SQL query uses the familiar technique of evaluating the block with an analysis object, tracking each message send via doesNotUnderstand:. A shortcoming of this approach is the inability to handle commonly-used optimised/inlined expressions such as isNil, and: etc. This forces the use of less common or non-standard equivalents, compromising the design philosophy and leading to errors where code uses the more familiar expressions.
+
+This presentation describes improvements to ReStore’s query block analyser, using the reflective capabilities of Smalltalk to track optimised expressions via examination and manipulation of the execution stack.
+
+""Bio:""
+I have been working with Smalltalk since 1992, initially in academia and subsequently in a variety of employed and self-employed positions. From 2000 to 2005 I ran my own company creating bespoke systems for SMEs using Dolphin Smalltalk; this was the original impetus behind the creation of ReStore. Following ten years at JPMorgan working with VisualWorks and GemStone, in 2015 I relocated with my family to rural France and resumed working with Dolphin and ReStore.

@@ -1,0 +1,7 @@
+! Pharo Consortium: A roadmap to solid evolution.
+
+Esteban Lorenzano (estebanlm@gmail.com)
+
+""Abstract: "" The Pharo Consortium takes action to guarantee the growth of Pharo as a community organisation as well as supports its development into ever-changing requirements of today’s computing needs. In this talk I will present the current status of Pharo Consortium, its consolidation as Pharo governance structure and the actions taken to make Pharo a more robust environment. I will also review the Pharo 7 development and direction for Pharo 8 and beyond.
+
+""Bio:"" Esteban Lorenzano studied Computer Sciences at Universidad de Buenos Aires, and worked since 1994 in several object-oriented and low-level technologies, in different software companies, serving in various positions from programmer to senior architect. In 2007 he co-founded Smallworks to offer Pharo-based agile development projects. Since 2012 he dedicated full time to developing the Pharo code and community. He works with the INRIA-RMoD team in Lille, France, as core developer for Pharo, being responsible with the coordination of new releases, the implementation and maintenance of Pharo libraries and the maintenance of the Pharo flavour of the Cog Virtual Machine, FFI integration and plugins in all major platforms (OSX, Linux and Windows).

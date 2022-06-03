@@ -1,0 +1,18 @@
+{{=<% %>=}}
+!!*<%title%>><%sourceFile%>*
+	{{{html:
+	<div>
+		<em><%date%><%#hasAuthor%> - <%/hasAuthor%><%author%></em>
+		<div class="pull-right">
+		<%#tags%>
+		 	<span class="label label-default"><%yourself%></span>
+		<%/tags%>
+		</div>
+	</div>
+	
+	<p>
+		<img src="<%image%>" style="max-height: 200px; float: right;margin: 0px 0px 0px 15px" />
+		<%description%>
+	</p>
+}}}
+<%={{ }}=%>

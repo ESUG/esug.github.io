@@ -1,0 +1,20 @@
+! Impovements inPharo 10
+
+S. Ducasse  (stephane.ducasse@inria.fr)
+
+
+""Abstract:""
+In this presentation we will present the key features of Pharo X. Pharo X saw
+- the enhancement of Spec2, 
+- removal of Spec1, 
+- rewriting of most tools in Spec2
+- a massive amount of classes removal (GT tools, Glamour, Spec1)
+- new fluid class syntax ephemeron fixes many many bugs and enhancements
+
+In addition we will sketch the possible roadmap for Pharo 11 and the current development effort for this future version of Pharo. 
+During this talk you will discover the new features of Pharo X and the vision for Pharo XI.
+
+Also we are presenting the Pharo Consortium, the benefits of participating, and the relationship with the community.
+
+""Bio:""
+S. Ducasse is the head of the Pharo consortium

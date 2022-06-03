@@ -1,0 +1,14 @@
+! The Future of Testing in Pharo
+
+Julien Delplanque ( julien.delplanque@inria.fr / [http://juliendelplanque.be](http://juliendelplanque.be))
+
+""Abstract:"" 
+Pharo's testing infrastructure is great and makes test-driven development process easy to set-up.
+However, some things can still be improved to make the testing experiment even better.
+This talk presents enhancements made on the test infrastructure over the last 6 month and explores new directions to be taken in the future.
+
+""Bio:"" 
+Julien Delplanque is hacking Pharo around many aspects for 5 years now.
+He started a PhD in RMoD team 2 years ago and, in the meantime, got hit by testing topic.
+He is one of the co-authors of the first paper describing [Rotten Green Tests](https://hal.inria.fr/hal-02002346v2).
+Also, Julien maintain and supervise the development of [DrTests](https://github.com/juliendelplanque/DrTests), the next-generation tool to manage tests in Pharo.

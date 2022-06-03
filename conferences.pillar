@@ -1,0 +1,49 @@
+{
+"title": "Conferences"
+}
+
+!Conferences
+
++file://images/Conferences.jpg|width=70|label=conferences+
+
+
+Since 1993, the International Smalltalk Conference is organised by ESUG every year, with tutorials, workshops and demonstrations on various subjects. Inactive links below on past summer schools will gradually be activated.
+
+
+!Hosting the Conference
+If you would like to organise the ESUG event please send all *required information>host_esug_events.pillar* to esug-info@esug.org
+
+
+!International Smalltalk Conferences
+-*28th International Smalltalk Joint Conference 2022>2022-Conference/conf2022.pillar* in Novi Sad, Serbia
+-*27th International Smalltalk Joint Conference 2019>2019-Conference/conf2019.pillar* in Cologne, Germany
+-*26th International Smalltalk Joint Conference 2018>2018-Conference/conf2018.pillar* in Cagliari, Italia
+-*25th International Smalltalk Joint Conference 2017>2017-Conference/conf2017.pillar* in Maribor, Slovenia
+-*24th International Smalltalk Joint Conference 2016>2016-Conference/conf2016.pillar* in Prague, Czech Republic
+-*23th International Smalltalk Joint Conference 2015>2015-Conference/conf2015.pillar* in Brescia, Italy (*report>http://www.esug.org/data/ReportsFromNiallRoss/ESUG2015Report-NiallRoss.pdf*)
+-*22th International Smalltalk Joint Conference 2014>2014-Conference/conf2014.pillar* in Cambridge, England.
+-21th International Smalltalk Joint Conference 2013 in Annecy, France.
+-20th International Smalltalk Joint Conference 2012 in Gent, Belgium. (report)
+-19th International Smalltalk Joint Conference 2011 in Edinburgh, UK.
+-18th International Smalltalk Joint Conference 2010 in Barcelona, Spain. (report includes London Camp Smalltalk)
+-17th International Smalltalk Joint Conference 2009 in Brest, France. (report includes vendor conferences)
+-16th International Smalltalk Joint Conference 2008 in Amsterdam, The Netherlands. (report includes StS2008 report)
+-15th International Smalltalk Joint Conference 2007 in Lugano Switzerland. (report) 
+-14th International Smalltalk Conference 2006 in Prague, Czech Republic. (report)
+-Thirteenth International Conference 2005 in Brussels, Belgium. (report)
+-Twelfth Smalltalk Joint Event 2004 in Koethen, Germany (report)
+-Eleventh Smalltalk Joint Event 2003 in Bled, Slovenia (report)
+-Tenth Smalltalk Joint Event 2002 in Douai, France (report)
+-Ninth Summer School 2001 in Essen, Germany (report)
+-Eighth Summer School 2000 in Southampton, UK (report)
+-Seventh Summer School 1999 in Gent, Belgium (report)
+-Sixth Summer School 1998 in Brescia, Italy
+-Fifth Summer School 1997 in Sophia-Antipolis, France
+-Fourth Summer School 1996 in Lausanne, Switzerland
+-Third Summer School 1995 in Utrecht, The Netherlands
+-Second Summer School 1994 in Cork, Ireland
+-First Summer School 1993 in Brest, France
+
+{{{html:
+<p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;output=embed"></iframe><br /><small>Display <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;source=embed" style="color:#0000FF;text-align:left">ESUG conferences</a> on a bigger map</small></p>
+}}}

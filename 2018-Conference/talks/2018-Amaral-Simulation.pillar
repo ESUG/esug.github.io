@@ -1,0 +1,8 @@
+! Toward a Simulation Server
+
+Guillermo Amaral ( gamaral@palantirsolutions.com)
+
+""Abstract:"" About a year ago, we started to promote PetroVR as a full simulation server. Throughout the process, we analyzed different approaches, and, developed different layers of what had become our web application framework in Bee smalltalk. We want to share a bit of this process, the current state, and, the future work.
+
+""Bio:"" I live in Buenos Aires, Argentina. I have been devoted to Smalltalk for many years. I have used it and enjoyed it
+throughout my entire professional career. I am currently working at Palantir Solutions, an international company of software development for the oil and gas industry.

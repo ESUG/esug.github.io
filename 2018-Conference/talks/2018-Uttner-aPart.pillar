@@ -1,0 +1,7 @@
+! The aPart Framework: Separation of Use Cases and GUI in Business Applications
+
+Richard Uttner (r.uttner@projector.de)
+
+""Abstract:"" Based on the need of totally refactoring an existing business application written in VisualWorks, the light-weight framework aPart introduces several layers for separation like parts and clients. Thus it provides usage patterns and framework classes to significantly reduce redundancy in the glue of typical application code (e.g. dealing with prompts, headless testing, recording of interface activities to replay in tests, nesting parts to provide reusable components, expressing aspects of business logic, safe initialize and shutdown cycles etc.). The talk will present the most interesting results already achieved by now and finally will give a preview of the upcoming open source edition for other Smalltalk platforms.
+
+""Bio:"" Starting as a freelancer in 1980, Richard has been involved in numerous software projects where he worked together closely with more than 600 developers overall. His experience covers business applications as well as tool development in Smalltalk, which he started working with in 1992 and where his focus is still on.

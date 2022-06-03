@@ -1,0 +1,15 @@
+! Smalltalk Application Playground
+
+Adriaan van Os (a.vanos@ohra.nl)
+Wouter van Zuilen (w.van.zuilen@ohra.nl)
+
+""Abstract:"" 
+StAP (Smalltalk Application Playground) is a newly developed insurance platform for market experiments. The goal of StAP is to try out new products in a fast and flexible but compliant manner in a highly regulated market.
+It is developed using VA Smalltalk and offers REST API's for front-end applications, a Seaside web application for managing policies and a back-end.
+We will present the creation of StAP in the historical context of developing Smalltalk applications for decades at OHRA and discuss the choices we made. 
+
+
+""Bio:""
+Adriaan van Os is a software engineer at OHRA. Adriaan has been developing with various Smalltalk dialects since 1995. Adriaan is also the creator and maintainer of VAStGoodies.com, a code sharing platform for VA Smalltalk.
+
+Wouter van Zuilen is a product owner at OHRA by day. Loves experimenting with Smalltalk by night.
