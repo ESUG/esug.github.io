@@ -4,7 +4,8 @@ P. Tesone  (pablo.tesone@inria.fr)
 G. Polito  (guillermo.polito@inria.fr)
 
 ""Abstract:""
-In This talk we present the benefits of using Pharo for the development of applications of different kinds and usages. Ranging from modern desktop applications, IoT Applications, deployments in containers, REST Servers, Web applications. Also, we show our flexibility to connect to other systems, databases and existing libraries.
+In this talk we present the benefits of using Pharo for the development of applications of different kinds and usages. Ranging from modern desktop applications, IoT Applications, deployments in containers, REST Servers, Web applications.
+Also, we show our flexibility to connect to other systems, databases and existing libraries.
 
 ""Bio:""
 Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
