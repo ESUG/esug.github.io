@@ -46,7 +46,7 @@ Videos will be on *youtube>https://www.youtube.com/*
 
 %let us hope this one will work
 {{{
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&showTabs=0&showCalendars=0&mode=WEEK&src=a3FtczdwZ2w4bzdhbTdxdGZoMWdzcmtoNnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&dates=20220823%2F20220826&bgcolor=%23ffffff&ctz=Europe%2FParis&showTabs=0&showCalendars=0&mode=WEEK&src=a3FtczdwZ2w4bzdhbTdxdGZoMWdzcmtoNnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 }}}
 
 
