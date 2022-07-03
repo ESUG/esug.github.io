@@ -1,0 +1,14 @@
+! Moose: a modular software analysis environment
+
+Soufyane LABSARI (soufyane.labsari@inria.fr)
+
+""Abstract:""
+Moose is a Pharo based platform for software and data analysis.
+It allows to represent software system (static data, i.e., the code) in a model.
+Moose provides a set of tools to query, visualise and manipulate this model.
+Moose is modular and is often used to craft specific tools that help developers in understanding software system, making proper decisions, identifying anomalies, refactoring, etc..
+In this talk we will present Moose, its philosophy, its evolution and some of its tools.
+
+""Bio:""
+Soufyane LABSARI is an engineer, working for the RMoD team at INRIA - Lille.
+
