@@ -51,6 +51,9 @@ jobs:
         name: agenda
         path: _site/2022-Conference/agenda
 
+    - name: debug
+      run: ls -R
+
     # needed by JamesIves/github-pages-deploy-action
     - uses: actions/checkout@v2
     
