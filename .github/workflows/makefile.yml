@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  ecstatic_build:
 
     runs-on: ubuntu-18.04
 
@@ -24,16 +24,32 @@ jobs:
       
     - name: Generate
       run: make generate
-      
-    - name: Generate agenda
-      uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
-      with:
-        agenda_filename: agenda.md
 
-    - name: prepare agenda deployment
-      run: mv generared _site/agenda
-        
-    - name: Deploy
+    - uses: actions/upload-artifact@v3
+      with:
+        name: ecstatic_site
+        path: |
+          _site
+          !path/**/*.pillar
+        retention-days: 5
+
+  agenda_build:      
+    uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
+    with:
+      agenda_filename: agenda.md
+
+  deploy:
+    steps:
+    - uses: actions/download-artifact@v3
+      with:
+        name: ecstatic_site
+
+    - uses: actions/download-artifact@v3
+      with:
+        name: agenda
+        path: _site/2022-Conference/agenda
+
+    - name: deploy
       uses: JamesIves/github-pages-deploy-action@4.1.6
       with:
         branch: gh-pages # The branch the action should deploy to.
