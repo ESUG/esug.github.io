@@ -51,6 +51,9 @@ jobs:
         name: agenda
         path: _site/2022-Conference/agenda
 
+    # needed by JamesIves/github-pages-deploy-action
+    - uses: actions/checkout@v2
+    
     - name: deploy
       uses: JamesIves/github-pages-deploy-action@4.1.6
       with:
