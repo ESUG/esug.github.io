@@ -39,6 +39,7 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
+    needs: [ecstatic_build, agenda_build]
     
     steps:
     - uses: actions/download-artifact@v3
