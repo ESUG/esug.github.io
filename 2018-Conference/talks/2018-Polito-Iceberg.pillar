@@ -1,0 +1,16 @@
+! Iceberg 2018: bringing Pharo to git, or git to Pharo?
+
+Guillermo Polito (guillermo.polito@inria.fr)
+
+""Abstract: ""
+In 2016, Iceberg was born so people could host their Pharo projects on git repositories.
+Since 2017, Pharo is hosted in git and bootstrapped from sources on each new commit.
+Iceberg is then not only important for private projects but also crucial in Pharo's contribution process.
+
+Today, more than two years since the project started, we have learnt some lessons: not everybody understands git, and Pharo projects are not simple git projects. This talk gives an overview of the challenges we had to overcome, such as dual working copies, in-memory merge strategies, external resources and performance issues arising from big Pharo projects (e.g., Pharo itself).
+
+
+""Bio:"" Guille Polito is research engineer at the CRIStAL laboratory in the university of Lille, working in tight relation with the RMoD team.
+Guille's main research interests are techniques to develop modular systems and new development tools.
+Guille participates in the Pharo community since 2010.
+His most noticeable contributions in the past months are in the Pharo bootstrap process, Pharo stream management, Iceberg and OSSubprocess.

@@ -1,0 +1,17 @@
+! How to persist data with Pharo?  Mongo/Voyage, Postgres, ODBC
+
+Marcus Denker <marcus.denker@inria.fr>
+Norbert Hartl Norbert Hartl <norbert@2denker.de>
+
+
+""Abstract:""
+
+This presentation gives an overview of persistence solutions for Pharo.
+
+We will show  Mongo/Voyage and the different solutions for SQL support.
+
+
+""Bio:""
+Nobert Hartl is the CTO and Founder of ApptiveGrid GmbH and a member of the Pharo Board.
+
+Marcus Denker is a Researcher at Inria Lille and a member of the Pharo Board.

@@ -1,0 +1,16 @@
+! Microdown: All documentation everywhere
+
+S. Ducasse  (stephane.ducasse@inria.fr)
+K. Osterbye  (kasper.osterbye@gmail.com)
+
+""Abstract:""
+In this presentation we will show Microdown an extended, extensible, partly backward compatible with markdown. 
+We will show how it is used to support
+- project documentation on github and inside Pharo
+- support books as documentation
+- tool support 
+*http://github.com/pillar-markup/microdown*
+
+""Bio:""
+Kasper and Stef are involved in Microdown design and implementation.
+

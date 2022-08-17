@@ -1,0 +1,18 @@
+! Threads, Critical Sections, and Termination
+
+Martin McClure ( martin.mcclure@gemtalksystems.com )
+
+""Abstract:"" 
+Correctness of a multi-threaded program is much more difficult to achieve than correctness of a 
+single-threaded program, but in some situations we can't avoid using more than one thread, and 
+therefore have to deal with the resulting complexity. In this talk, Martin will present some of
+the threading problems he's seen and solutions to those problems, with a focus on the additional
+problems that arise when threads are terminated.
+
+""Bio:"" 
+Martin has been interested in Smalltalk since he first heard about it in
+1975. After a frustrating ten-year wait he finally got his hands on a
+running Smalltalk system and hasn't let go since. He is a senior
+engineer at GemTalk, working on the GemStone Smalltalk product line. In
+his spare time, he works on Mist, a Smalltalk variant with improved
+modularity and security and no virtual machine.

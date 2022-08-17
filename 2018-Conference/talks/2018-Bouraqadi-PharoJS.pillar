@@ -1,0 +1,22 @@
+! PharoJS: Pharo-Based TDD for Javascript Applications
+
+Noury Bouraqadi (noury.bouraqadi@imt-lille-douai.fr), Dave Mason (dmason@ryerson.ca)
+
+""Abstract:""
+This talk is an update on PharoJS (http://pharojs.org). It covers the current status of the PharoJS development process, as well as its tools. 
+Through an example, we will describe how to use PharoJS, and how it supports TDD, starting with a Pharo code, and ultimately compiling it to Javascript that runs on a JS interpreter (Web browser, NodeJS...). 
+The talk will also give a glimpse of some recent applications developed using PharoJS, and draw a roadmap for the future of PharoJS.
+
+""Bio:"" 
+Noury Bouraqadi is a full professor in Software Engineering and Robotics at IMT Lille Douai (France).
+His research aims at easing development of complex software using dynamic languages, in the context of distributed systems.
+He specifically focuses on mobile autonomous robots and multi-robot systems.
+More at: *http://car.imt-lille-douai.fr/noury*
+
+Dave Mason is a full professor at Ryerson University (Canada).
+His is interested in:
+- "Programming for the rest of us" - a programming language/environment to make programming - particularly of dynamic or large datasets - accessible to the non-programmers of the world.
+- up-front optimizing Java compiler called OptiJava
+- issues relating to software reliability engineering, particularly Probabilistic Program Execution using Smalltalk,
+- programming languages, particularly pure object-oriented languages like Smalltalk, Self and Ruby and mostly-functional languages like Scheme and Clojure,
+More at: *http://sarg.ryerson.ca/dmason/*

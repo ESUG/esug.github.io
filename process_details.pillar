@@ -1,0 +1,15 @@
+{
+"title": "Process Details"
+}
+
+! Process Details
+
+Let #(x y z) be a collection of votes for every candidate.
+
+-x is the number of votes in first place
+-y is the number of votes in second place
+-z is the number of votes in third place
+
+Then, You should compute:
+
+= (Array with: #(3 x) with: #(2 y) with: #(1 z)) inject: 0 into: [ :result :item | (item at: 1) * (item at: 2) + result]

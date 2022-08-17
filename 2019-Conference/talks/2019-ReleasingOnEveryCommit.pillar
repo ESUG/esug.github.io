@@ -1,0 +1,9 @@
+! Releasing on every commit
+
+George Ganea (georgeganea@gmail.com)
+
+""Abstract:"" 
+Glamorous Toolkit is developed on trunk and gets released on every commit that leaves the build green. For every release, we tag all Git repositories and publish the modified baselines to ensure reproducibility of the release. This works with a deeply nested structure, which in the case of Glamorous Toolkit consists of 53 different projects. In this talk, we detail the Releaser infrastructure and how it can be used for any other Pharo project.
+
+""Bio:"" 
+George has been writing development tools since 2009. Even though he started with Java and Eclipse, he has now graduated to Pharo Smalltalk :). During the past year and a half he's working at Feenk on almost anything from Gtoolkit to setting up ssl certificates for Jenkins servers.

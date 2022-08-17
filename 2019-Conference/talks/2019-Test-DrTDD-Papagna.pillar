@@ -1,0 +1,16 @@
+! Diagnosing bad TDD habits with Dr. TDD
+
+Nicolás Papagna Maldonado ( nicolas.papagna@10pines.com / [http://www.10pines.com](http://www.10pines.com))
+
+""Abstract:""
+Test-Driven Development (TDD) is a technique that helps developing software in an iterative and incremental way with a strong emphasis on immediate feedback. Though simple at first sight, it challenges students since it implies a strong cultural change in software development.
+
+In this talk, I will present Dr. TDD, a real-time advisor that aims to give immediate feedback (in the same spirit as TDD) to students about how well they know and apply this technique together with recommendations to correct deviations from it. I will also show how a live programming environment such as Pharo provides an excellent canvas for developing it, a few implementation details and some interesting findings about what happens when we deviate from the red-green-refactor cycle. Finally, I'll go over some of the common mistakes made while practicing TDD, how severe they are, and how Dr. TDD helps you fixing and preventing them.
+As a bonus, I'll comment on my experience using Dr. TDD to develop the tool itself.
+
+""Bio:""
+Nicolas Papagna Maldonado is a developer who believes the computer revolution hasn't happened yet.
+Loves learning and sharing anything OO & TDD related.
+He's been TA for OO at FCEN, University of Buenos Aires.
+Happily grows software at 10Pines.
+Chat with him on Twitter at @NicolasPapagna.

@@ -1,0 +1,43 @@
+! Counting sheeps
+
+Kasper Østerbye  kasper.osterbye@maarumlam.dk
+
+""Abstract:""
+My wife and I run a hobby farm with around 30 ewes and a yearly production of 60 lambs. We mostly sell lamb meat to friends and colleagues, as well as en gross through a dealer. We started in 2005, and we have since then rounded more than 700 births over the years.
+
+Each year we say goodbye to some ewes, and we pick some of the lambs to join the ranks of motherhood. I have build a sheep administration system - Ovina - in Pharo. 
+
+The system helps us in performing the following tasks:
+
+- Selecting which lambs to pick for further breeding
+- Selecting which ewes to wave bye to
+- Registering of location (we use some animals for grasing in natural reserves)
+- Registration of weight of lambs 3-4 times a season
+- Registration of medication and minerals - some vaccines are mandatory
+- Registration of births
+
+For selecting lambs for further breeding we compute a number of statistics aggregated to the individual ewes, for example:
+
+- What is the average number of lambs born
+- Are they all healthy - do we have to feed them for example
+- How fast do her lambs grow
+- How fast her litter grow in total
+- What is the grow rate over the last three years
+- How many lambs died in birth (a reasonable rare event fortunately)
+
+In this talk I would like to present a few selected aspects of the Ovina system. In particular:
+
+- Statistics. Basically there is no end to the questions we find interesting. Hence it is necessary with a simple way in which statistics can be added to the application, and to be included in the user interface automatically.
+- Registrations. Similarly, it must be simple to add new kinds of registrations - and use these in statistics. Again, it should not change the user interface code to add a new registration.
+- Consistency One of the key design issues in a user interface is to make sure a change in a value in one field is reflected in all the necessary parts of the gui. Also, changing a value might influence the statistics of other animals.
+
+!! Demo
+In the demo I plan to focus in particular on:
+
+- Data structure for Registrations, and the interface to define new kinds of Registrations.
+- The collumn handling 
+
+
+""Bio:""
+Kasper Østerbye is an independent sheepfarmer and former computer science professor from Denmark.
+Kasper has been active in Pharo, and in particular in the Microdown project.

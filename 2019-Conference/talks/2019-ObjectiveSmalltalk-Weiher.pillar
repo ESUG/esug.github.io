@@ -1,0 +1,15 @@
+! ObjectiveSmalltalk
+
+Marcel Weiher ( marcel@metaobject.com )
+
+""Abstract:"" 
+Objective-Smalltalk is a reworking of Smalltalk from first principles, taking into account
+both the vastly changed computing landscape and what we have learned in the almost 40 years
+since Smalltalk's release.
+
+http://objective.st
+
+
+""Bio:"" 
+Marcel is a researcher, author, long time Objective-C developer and early Squeak 
+contributor who created the first Cocoa VM.

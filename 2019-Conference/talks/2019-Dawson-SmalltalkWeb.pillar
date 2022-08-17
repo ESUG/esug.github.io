@@ -1,0 +1,10 @@
+! Polyglot Web Programming, Inspired by Smalltalk
+
+Ewan Dawson <ewan@lazygun.net> [https://www.linkedin.com/in/ewandawson/](https://www.linkedin.com/in/ewandawson/)
+
+""Abstract:""
+Smalltalk has a number of features that make it stand out from other popular languages: minimal syntax; simple object model; a unified build, test, execution and debugging environment. These features help make Smalltalk an extremely productive and easy to use programming tool.
+I this talk I will present a system that attempts to bring these principles to distributed programming, where objects, implemented in a variety of programming languages (including Smalltalk!) can communicate with each other over the web, treating the web as a giant Smalltalk image.
+
+""Bio:""
+Ewan Dawson is Head of Engineering at Symphonic Software. He is interested in finding ways to build software systems in human-centric ways, minimising the distance between idea conception and implementation in software. He has 15 years of experience building software using a variety of JVM languages and technologies, and is a newcomer to the Smalltalk language and community.

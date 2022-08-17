@@ -1,0 +1,25 @@
+! Developing the Seaside ecosystem to increase its productivity
+
+Cyril Ferlicot-delbecque (cyril@ferlicot.me)
+
+""Abstract:""
+Seaside is a heretic web framework with an unique design that have the
+advantage of been more productive than most web framework. One of its
+current downside is the fact that it has only few known libraries built
+on top of it to be even more productive. To correct this problem, some
+developers try to build reusable libraries to covers some common needs.
+This presentation will cover some of those recent projects:
+- Material Design Lite
+- Telescope-Cytoscape
+- ChartJs for Seaside
+- Prism code displayer for seaside
+- Heimdall
+
+""Bio:""
+Cyril is currently a research and development engineer at Synectique, a
+company specialized in software analysis, after obtaining a Master of
+Business Informatics at the University of Lille. He is building tools to
+reduce maintenance cost of applications.
+
+He likes participation to open sources projects on its free time such has
+Pharo, Moose, Telescope, Material Design Lite...

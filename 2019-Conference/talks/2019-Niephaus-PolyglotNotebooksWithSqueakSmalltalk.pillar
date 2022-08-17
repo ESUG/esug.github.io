@@ -1,0 +1,12 @@
+! Polyglot Notebooks With Squeak/Smalltalk on the GraalVM
+
+Fabio Niephaus (fabio.niephaus@hpi.uni-potsdam.de / [https://fniephaus.com](https://fniephaus.com))
+
+""Abstract:"" 
+We present our Squeak/Smalltalk-based polyglot notebook system for the GraalVM. 
+Our platform enables data analysts to use multiple programming languages, allowing them to use mature software libraries and frameworks 
+without being constrained by a particular language.
+
+""Bio:"" 
+Fabio Niephaus is with the Software Architecture Group at the Hasso Plattner Institute, University of Potsdam, Germany. 
+He has strong interests in dynamic programming languages, virtual execution environments, and software development tools. He focuses on advancing the polyglot programming experience.

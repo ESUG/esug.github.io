@@ -1,0 +1,43 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	height: 100%;
+	margin: 0 0 70px 0;
+	padding: 0;
+	font-family: helvetica neue, helvetica, sans-serif;
+	text-align: justify;
+	background-color: white;
+}
+
+footer {
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	height: 70px;
+	bottom: 0;
+	background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.1));
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.boxesnodot {
+	padding: 15px;
+	width: 320px;
+	height: auto;
+}
+
+.boxes {
+	border: 1px dotted;
+}
+
+.blogbox {
+	width: 800px;
+	padding-top: 30px;
+}

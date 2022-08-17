@@ -1,0 +1,21 @@
+!Smalltalk Development of Radiographic Software
+
+Aik-Siong Koh (askoh@lanl.gov)
+
+Abstract: Bayes Inference Engine (BIE) is used to analyze X-Ray or Proton radiation images of test objects. 
+It is able to use physics to predict the transmission images and compare with the real images taken. 
+The parameters of the forward model are varied by an optimizer to minimize the differences between the predicted and real images. 
+Hence, internal shapes and densities of the test objects are inferred non-destructively. 
+BIE uses a dataflow visual programming paradigm like LabView or Simulink. 
+Icons called glyphs represent data, geometries or operators. 
+They are connected by edges which determine the order and direction of computation.
+The glyphs can be inspected anytime to see the results of computation which are always up to date.
+Users are encouraged to run BIE in the development environment. 
+Hence BIE offers the combined power of dataflow, text and GUI programming.
+
+Bio: For the past 30 years Aik-Siong Koh has been in academia, industry and national laboratory. 
+He has degrees from Cambridge University, Princeton University and The University of Texas at Austin. 
+He has taught, conducted research and supervised graduate students at Texas Tech University and Nanyang Technological University. 
+Using Smalltalk, he developed a Multibody Dynamics software which was commercialized with partners. 
+The software was embedded in popular CAD systems like AutoCAD, Alibre and SpaceClaim. 
+He is currently in Los Alamos National Laboratory and is interested in using Smalltalk in High Performance Computing.

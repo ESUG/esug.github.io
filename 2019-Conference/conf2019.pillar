@@ -1,0 +1,147 @@
+{
+"title": "Conference 2019"
+}
+
+!2019
+
+The ESUG board is pleased to announce that the 27th ESUG conference/summer-school will be held in Cologne, Germany 26-30 August 2019 (with Camp Smalltalk 24/25). The conference is co-organised by *ZWEIDENKER>https://zweidenker.de/en/pharo/*.
+
+!!!Conference calls
+
+- *Call for Presentations>call2019.pillar*
+- *Call for Student Volunteers>callForStudents2019.pillar*
+- *IWST19>cfpIWST2019.pillar* 
+- *Innovation award call: Submissions and Winners>awardsSubmissions.pillar*
+- *Camp Smalltalk>camp2019.pillar*
+
+
+!!! Conference registration
+@registration
+
+The conference registration: *Register here>http://registration.esug.org*.
+
+Early registration deadline: July 25th 2019
+
+Conference prices in Euros:
+
+- Early Registration Fee: 500€ (all days) / 180€ (per day)
+- Late Registration Fee: 660€ (all days) / 210€ (per day)
+- Extra person to social dinner: 60€
+- Payment by bank transfer: free of charge
+- Payment by credit card: \+6\% fees
+
+
+!!!Conference Program
+
+- Slides in the *ESUG Archive>http://esug.org/data/ESUG2019/*
+- Slides on *Slideshare>https://www.slideshare.net/esug/presentations*
+
+Videos were recorded for Room A:
+
+- Playlist *on Youtube>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi8DPNpy1jCkjE4yE0WUtDP2*
+
+
+{{{
+<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;dates=20190826%2F20190826&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ig10lofudd61hoar0fapgfnjao%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FParis" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+}}}
+
+{{{
+<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&amp;dates=20190826%2F20190826&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ig10lofudd61hoar0fapgfnjao%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FParis" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+}}}
+
+- Here you can find the *ESUG Main Track iCal>https://calendar.google.com/calendar/ical/ig10lofudd61hoar0fapgfnjao%40group.calendar.google.com/public/basic.ics*
+
+!!!International Workshop IWST
+
+- CfP: *IWST19>cfpIWST2019.pillar*
+- The workshop will be published in *ACM Digital Library>http://dl.acm.org/citation.cfm?id=2991041&preflayout=flat*
+- Download IWST-Proceedings (to be announced)
+
+{{{
+<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;dates=20190826%2F20190826&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=1e715enbd1ni8ugls0ui9jv4jo%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FParis" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+}}}
+
+
+{{{
+<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&amp;dates=20190826%2F20190826&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=1e715enbd1ni8ugls0ui9jv4jo%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FParis" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+}}}
+
+- Here you can find the *IWST Track iCal>https://calendar.google.com/calendar/ical/1e715enbd1ni8ugls0ui9jv4jo%40group.calendar.google.com/public/basic.ics*
+
+
+
+!!!Innovation Technology Awards - 16th Edition
+Share your Smalltalk related code with the community, and enter the contest to win up to 500 Euros! All you have to do is submit your project along with  a 3-5 min videos and post it to youtube!
+
+- *2019 Innovation award call>awardsCall2019.pillar*
+- *list of submitted Projects: Winners Inside!>awardsSubmissions.pillar*
+- Dates:
+-- Demos: Monday, August 26th, evening.
+-- Results Announcement Ceremony: Wednesday, August 28th, during the social event dinner
+
+
+!!!Student volunteer call
+See *Call for Student Volunteers>callForStudents2019.pillar*
+
+!!!Conference live
+
+- Videos will be on Youtube
+- SlideShare: *http://www.slideshare.net/esug/presentations*
+- Archive: *http://www.esug.org/data/ESUG2019/*
+
+!!!Cologne
+
+- *https://www.cologne.de*
+- *https://www.lonelyplanet.com/germany/north-rhine-westphalia/cologne*
+- *https://rausgegangen.de/locations*
+
+!!!! Bus / Tram / Subway
+General Information: *https://www.cologne-tourism.com/plan-inform/arrival-mobility/public-transport/*
+
+The nearest station to the Conference Venue (Stadtgarten Köln) is HANS-BÖCKLER-PLATZ (Tram / Subway) and BAHNHOF WEST (Train).
+*Trip planner>https://auskunft.kvb-koeln.de/kvb/cgi?lang=UK*
+
+!!!Venue and Maps
+
+!!!!Conference venue
+
+The conference will be held at the Stadtgarten Music Venue.
+
+[[[
+Stadtgarten, Venloer Strasse 40, 
+Venloer Strasse 40
+50672 Köln / Germany
+]]]
+
+*Going to the conference center>https://www.stadtgarten.de/en/stadtgarten/anfahrt*
+
+!!!! Social Event
+@social
+
+The social event is will take place at *Herbrand's>https://herbrands.de*, on Wednesday evening, August 28th, 19:30
+During the diner, results of the various ESUG awards will be announced.
+
+[[[
+Herbrand’s ehrenfeld
+Herbrandstr. 21
+50825 Köln / Germany
+]]]
+*Google Maps>https://www.google.de/maps/place/Herbrandstraße+21,+50825+Köln/@50.9514084,6.909679,17z/data=%213m1%214b1%214m2%213m1%211s0x47bf2539b6a87997:0xa102440f82e6cea3*
+
+If you want to attend the social event with your partner you can pay an extra fee for him/her directly during your registration for the conference.
+
+
+!!!! Staying in Cologne
+
+Here is a list of hotels that would allow you to easily reach the conference venue.
+
+- *HRS English>http://www.hrs.de/web3?clientId=ZW5fX2VzdWc,1*
+- *HRS German>http://www.hrs.de/web3?clientId=ZGVfX2VzdWc,1*
+
+There are also many Bed & Breakfasts and short let flats.
+Look for them on sites such as *Booking.com>http://booking.com* or *Airbnb>http://airbnb.com*.
+
+!!!!Student volunteer hosting
+Student Volunteer rooms are booked at *SMARTY COLOGNE>https://www.smarty-hotels.com/CologneCityCenter*. If you are student volunteer, do not book yourself, we have arranged the booking already!
+
+

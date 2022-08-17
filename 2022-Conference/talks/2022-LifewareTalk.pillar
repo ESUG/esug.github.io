@@ -1,0 +1,34 @@
+! eXtreme Programming: How a strong test suite can strengthen the relationship with the customer?
+
+Vincent Blondeau  (vincent.blondeau@lifeware.ch)
+Fabiana Canipa  (fabiana.canipa@lifeware.ch)
+
+""Abstract:""
+Lifeware, founded in 1998 in Switzerland, provides a web based solution for the management of life insurance products accross more than 15 customers. Since its start, Lifeware adopted the eXtreme Programming mindset: any new feature is specified, designed, coded, tested in a very short cycle. 
+Testing is strongly automated. The full suite runs more than 100.000 tests.
+On the other hand, customers are mostly used to a waterfall approach, making working with Lifeware not easy for them.
+We designed some processes and tools to strenghten this interaction. This talk will present some of them.
+
+
+""Bio:""
+Vincent Blondeau: 
+
+After graduating in from Polytech Lille in 2014 with a Software Engineering and Statistics degree,
+he received his Ph.D. in Software Engineering at the University of Lille, 
+with a dissertation on the ways to select software tests related to changes that have occurred on the source code. 
+He also spent one year in Lam Research, CA, USA, as an industrial Postdoc to create some tooling to improve the 
+usability of the company software. 
+He joined Lifeware in March 2019 where one of his roles is to support the migration to Pharo of the Lifeware tools.
+Vincent is also an active open source developer in the Pharo community.
+More information is available here: *https://vincentblondeau.github.io/*
+
+
+Fabiana Canipa:
+
+Fabiana has a very diverse background, with a bachelor in Electromechanical Engineering obtained in Bolivia, 
+she then pursued a Master degree with a focus on Machine Learning in Switzerland. Her master thesis on models
+for river Flow forecasting based on machine learning was awarded the best thesis of her cohort for its focus
+on sustainability. She’s worked as a research assistant and has been a fellow in many international programs
+likes YSI (Norway), ELAP (Canada) and RETECA (Switzerland). 
+
+She joined Lifeware in October 2021 as a software engineer and thus began her Smalltalk journey.

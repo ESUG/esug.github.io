@@ -1,0 +1,18 @@
+! Total refactoring of a 25 years old desktop application
+
+Name: Richard Uttner Email: r.uttner@projector.de
+Abstract: PDM is a document management system focused on the special needs of civil engineering having been 
+continuously developed in VisualWorks®since 1994 by the product owner, Schmidt Ingenieurbüro für Bauwesen, 
+supported by several external teams. 
+After a long time of productive use and constant further development, the product had to deal with sincere issues: 
+database performance, maintainability, OS portability, GUI style, modularity, still incomplete features. 
+Instead of trying to improve the existing code base step-by-step, Schmidt now decided to follow a resolute approach: 
+full redesign of the database scheme; restart with an application core for document handling only that meets the 
+requirements of performance and modularity; immediate migration to Pharo 8 to base the new GUI on Spec2/GTK.
+As Pharo was new to the remaining core team of Schmidt and Pharo 8 is still under development, Schmidt contracted 
+several parties with deep know-how in special areas to support the whole process. 
+This talk will present the most important results of the chosen technical and organizational approach.
+
+Bio: Starting as a freelancer in 1980, Richard has been involved in numerous software projects where he worked 
+together closely with more than 600 developers overall. His experience covers business applications as well as tool 
+development in Smalltalk, which he started working with in 1992 and where his focus is still on.

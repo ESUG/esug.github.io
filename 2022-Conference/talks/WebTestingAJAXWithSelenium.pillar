@@ -1,0 +1,13 @@
+! GUI-Testing Smalltalk-AJAX web applications with Selenium 4
+
+Carsten Härle (carsten.haerle@straightec.de)
+
+""Abstract:""
+Using AJAX in web applications becomes more and more popular, however GUI-testing these applications is quite difficult using standard web testing tools. The inherent problem of missing page loads, generated ids, rich AJAX client controls, and generated HTML-code often leads to complicated test code, synchronizations problems and slow test execution.
+
+The presentation shows how these problems were solved by building a test framework based on the Selenium web test tool. The test code can be easily read and written by humans and doesn't need the usual artefacts necessary in other tools, like explicit waits for page elements, artificals delays or testing for modal dialog boxes. Even though the test execution time is nearly optimal and therefore usually much faster then in many other web test tools.
+
+The base framework for selenium is an revived and enhanced port of Beach Parasol to VisualWorks.
+
+""Bio:""
+Carsten Härle is the head and founder of straightec, a consulting company with focus on Agile development processes, Test-Driven-Development, OO-architecture and Smalltalk development. He has been using many Smalltalk dialects including PocketSmalltalk, VisualWorks and Dolphin Smalltalk since 1986 and is the main developer educational Smalltalk-based product "beno".
