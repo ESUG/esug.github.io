@@ -1,4 +1,4 @@
-<!agenda|title=ESUG 2022 agenda
+<!agenda|title=ESUG 2022
 
 <!day|start=22 aout 2022
 
@@ -44,7 +44,7 @@
 
 <!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!talk|subject=Deploying and Scaling Pharo with a Database in pratice&length=45&author=N. HARTI&room=Amphi!>
+<!talk|subject=Deploying and Scaling Pharo with a Database in pratice&length=45&author=N. HARTL&room=Amphi!>
 <!break|subject=Show us your projects&length=60&room=Amphi!>
 !>
 !>
