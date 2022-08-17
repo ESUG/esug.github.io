@@ -10,7 +10,6 @@ on:
 
 jobs:
   ecstatic_build:
-
     runs-on: ubuntu-18.04
 
     steps:
@@ -39,6 +38,8 @@ jobs:
       agenda_filename: agenda.md
 
   deploy:
+    runs-on: ubuntu-latest
+    
     steps:
     - uses: actions/download-artifact@v3
       with:
