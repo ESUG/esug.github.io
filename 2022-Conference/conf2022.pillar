@@ -8,6 +8,7 @@ The ESUG board is pleased to announce that the 28th ESUG conference/summer-schoo
 
 !!!Conference calls
 
+- *Check the program>https://esug.github.io/2022-Conference/agenda/agenda.html*
 - *Call for Presentations>call2022.pillar*
 - *Call for Student Volunteers>callForStudents2022.pillar*
 - *IWST22>cfpIWST2022.pillar*
@@ -15,29 +16,11 @@ The ESUG board is pleased to announce that the 28th ESUG conference/summer-schoo
 - *Camp Smalltalk>camp2022.pillar*
 
 
-!!! Conference registration
-@registration
-
-%The conference registration will be open soon on our portal.
-
-The conference registration: *Register here>http://registration.esug.org*.
-
-Early registration deadline: July 5th
-
-Conference prices for ESUG 2022 in Euros:
-
-- Early Registration Fee: 500€ (all days) / 150€ (per day)
-- Late Registration Fee: 700€ (all days) / 250€ (per day)
-- Extra person to social dinner: 60€
-- Payment by bank transfer: free of charge
-- Payment by credit card: \+6\% fees
-
-
 !!!Conference Program
 
-Slides will be uploaded *here>https://github.com/ESUG/esug.github.io/tree/source/2022-Conference/slides/*
-
-Videos will be on *youtube>https://www.youtube.com/*
+- *Conference program is available>https://esug.github.io/2022-Conference/agenda/agenda.html*.
+- Slides will be uploaded *here>https://github.com/ESUG/esug.github.io/tree/source/2022-Conference/slides/*
+- Videos will be on *youtube>https://www.youtube.com/*
 
 %this one did not have calendar and customization.
 %{{{
@@ -49,7 +32,7 @@ Videos will be on *youtube>https://www.youtube.com/*
 %<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&dates=20220823%2F20220826&bgcolor=%23ffffff&ctz=Europe%2FParis&showTabs=0&showCalendars=0&mode=WEEK&src=a3FtczdwZ2w4bzdhbTdxdGZoMWdzcmtoNnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 %}}}
 
-*Conference program is available>https://esug.github.io/2022-Conference/agenda/agenda.html*.
+
 
 
 %Old ones from then on.
@@ -80,6 +63,22 @@ Here you can find the *ESUG Main Track iCal>https://calendar.google.com/calendar
 
 %- Here you can find the *IWST Track iCal>https://calendar.google.com/calendar/ical/1e715enbd1ni8ugls0ui9jv4jo%40group.calendar.google.com/public/basic.ics*
 
+!!! Conference registration
+@registration
+
+%The conference registration will be open soon on our portal.
+
+The conference registration: *Register here>http://registration.esug.org*.
+
+Early registration deadline: July 5th
+
+Conference prices for ESUG 2022 in Euros:
+
+- Early Registration Fee: 500€ (all days) / 150€ (per day)
+- Late Registration Fee: 700€ (all days) / 250€ (per day)
+- Extra person to social dinner: 60€
+- Payment by bank transfer: free of charge
+- Payment by credit card: \+6\% fees
 
 
 !!!Innovation Technology Awards - 17th Edition
@@ -97,7 +96,6 @@ See *Call for Student Volunteers>callForStudents2022.pillar*
 
 !!!Conference live
 
-- Videos will be on Youtube
 - SlideShare: *http://www.slideshare.net/esug/presentations*
 - Archive: *http://www.esug.org/data/ESUG2022/*
 
