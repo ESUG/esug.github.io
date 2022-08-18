@@ -35,8 +35,8 @@ jobs:
   agenda_build:      
     uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
     with:
-      agenda_filename: agenda.md
-
+      agenda_filenames: agenda.md, agenda-workshop.md
+      
   deploy:
     runs-on: ubuntu-latest
     needs: [ecstatic_build, agenda_build]
