@@ -36,7 +36,7 @@ jobs:
     uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
     with:
       agenda_filename: agenda.md
-      abstract_link: ./esug2022-abstracts.pdf
+      abstract_link: ../esug2022-abstracts.pdf
       
   workshop_agenda_build:      
     uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
