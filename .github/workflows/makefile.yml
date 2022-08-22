@@ -35,11 +35,18 @@ jobs:
   agenda_build:      
     uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
     with:
-      agenda_filenames: agenda.md, agenda-workshop.md
+      agenda_filename: agenda.md
+      abstract_link: ./esug2022-abstracts.pdf
       
+  workshop_agenda_build:      
+    uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
+    with:
+      agenda_filename: agenda-workshop.md
+    needs: agenda_build # avoid concurent write to the agenda artifact
+
   deploy:
     runs-on: ubuntu-latest
-    needs: [ecstatic_build, agenda_build]
+    needs: [ecstatic_build, agenda_build, workshop_agenda_build]
     
     steps:
     # needed by JamesIves/github-pages-deploy-action
