@@ -2,7 +2,7 @@
 
 <!agenda|title=International Workshop on Smalltalk Technologies
 
-<!day|start=24 / 08 / 2022
+<!day|start=23 / 08 / 2022
 
 <!segment|start=10:30
 
@@ -14,7 +14,7 @@
 !>
 !>
 
-<!day|start=26 / 08 / 2022
+<!day|start=25 / 08 / 2022
 
 <!segment|start=10:30
 

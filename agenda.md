@@ -8,7 +8,7 @@
 
 <!talk|subject=PharoJS&length=45&author=N. BOURAQADI and D. MASON&room=Amphi!>
 <!talk|subject=eXtreme Programming&length=45&author=V. BLONDEAU and F. CANIPA&room=Amphi!>
-<!talk|subject=Grafoscopio&length=30&author=O. LUNA&room=Amphi!>
+<!talk|subject=?Late bound?&length=30&author= S.Ducasse&room=Amphi!>
 
 <!break|subject=Lunch&length=120&room=Amphi!>
 
@@ -20,9 +20,9 @@
 
 <!talk|subject=Lepiter: Moldable Knowledge platform&length=45&author=A. CHIS&room=Amphi!>
 
-<!break|subject=Award Competition&length=120&room=Amphi!>
-<!break|subject=Live Music Show&length=60&room=Amphi!>
 
+<!break|subject=Live Music Show&length=60&room=Amphi!>
+<!break|subject=Award Competition&length=120&room=Amphi!>
 !>
 !>
 
