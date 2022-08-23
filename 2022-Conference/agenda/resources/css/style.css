@@ -1359,19 +1359,9 @@ select.form-control:not([size]):not([multiple]) {
 .schedule .schedule-contents .schedule-item ul li .speaker {
   width: 30%;
 }
-@media (max-width: 991px) {
-  .schedule .schedule-contents .schedule-item ul li .speaker {
-    width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .schedule .schedule-contents .schedule-item ul li .speaker {
-    width: 60%;
-  }
-}
 @media (max-width: 575px) {
   .schedule .schedule-contents .schedule-item ul li .speaker {
-    width: 50%;
+    display: none;
   }
 }
 @media (max-width: 575px) {
@@ -1382,11 +1372,7 @@ select.form-control:not([size]):not([multiple]) {
 .schedule .schedule-contents .schedule-item ul li .subject {
   width: 30%;
 }
-@media (max-width: 1200px) {
-  .schedule .schedule-contents .schedule-item ul li .subject {
-    display: none;
-  }
-}
+
 @media (max-width: 767px) {
   .schedule .schedule-contents .schedule-item ul li .venue {
     display: none;
