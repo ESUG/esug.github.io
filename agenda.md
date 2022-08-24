@@ -57,8 +57,8 @@
 <!break|subject=Coffee Break&length=30&room=Amphi A5!>
 
 <!talk|subject=Digitize your process with Apptive Grid&length=30&author=N. HARTL&room=Amphi A5!>
-<!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A5!>
 <!talk|subject=Moose: Modular Analyses&length=30&author=S. LABSARI&room=Amphi A5!>
+<!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A5!>
 
 <!break|subject=Lunch&length=120&room=Amphi A5!>
 
