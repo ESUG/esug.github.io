@@ -63,7 +63,7 @@
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 
 <!talk|subject=Functional Smalltalk&length=30&author=D. MASON&room=Amphi A1!>
-<!talk|subject=Pharo-IA hands-on: object-oriented UI foundations&length=180&author=S. JORDAN MONTANO and O. ZAYSTEV&room=Amphi A1!>
+<!talk|subject=Pharo-IA hands-on: object-oriented UI foundations&length=90&author=S. JORDAN MONTANO and O. ZAYSTEV&room=Amphi A1!>
 
 <!break|subject=Social Event&length=300&room=Amphi A1!>
 !>
