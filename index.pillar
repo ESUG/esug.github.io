@@ -12,31 +12,27 @@ The European Smalltalk User Group (ESUG) is a non-profit users organization that
 - Support students and researchers to meet and collaborate
 - Organize a yearly conference and sponsor other Smalltalk conferences
 
-!! ESUG 2022 froom 22 to 26/08/2022.
+!! ESUG 2022 [22 - 26/08/2022]
 
 We are happy to announce that ESUG will happen in Novi Sad, Serbia from 22. - 26.8.2022.
-
-- *Call for presentations > 2022-Conference/call2022.pillar*
-- International workshop on Smalltalk Technologies (IWST 2022) will be located in Novi Sad. *more info>2022-Conference/conf2022.pillar*
-- *Call for students volunteers > 2022-Conference/callForStudents2022.pillar*
+- *ESUG 22 > 2022-Conference/conf2022.pillar* - Check the *program>https://esug.github.io/2022-Conference/agenda/agenda.html*.
+- *International workshop on Smalltalk Technologies (IWST 2022) > 2022-Conference/conf2022.pillar*.
+- *Innovation Technology Awards - 17th Edition>2022-Conference/awardsSubmissions.pillar*
 
 !!! Important Dates
 
-- Deadline for presentations: 1st of June
-- Early registration limit: 15 of July
+- Deadline for presentation submission: 1st of June
+- Early registration limit: 5 of July. 
+- *REGISTER HERE>http://registration.esug.org*
 
 !!!Call for Innovation Technology Awards
 Developers are invited to submit their Smalltalk-related project to the ESUG Innovation Technology Awards.
 The top 3 teams with the most innovative software will receive, respectively, 500 Euros, 300 Euros and 200 Euros.
-Submit now!
 
-Instructions will be available soon (previous link was *https://esug.github.io/2019-Conference/awardsCall2019.html*)
+*Submit now!>2022-Conference/awardsCall2022.pillar*
 
 
 !! Past Events
-!!!! ESUG 2020 (Cancelled)
-
-- ESUG Novi Sad 2020 is cancelled, but IWST happens virtually! *more info>2020-Conference/conf2020.pillar*
 
 !!!! ESUG19: Videos and Slides
 
@@ -67,8 +63,6 @@ The Slides and Videos for ESUG19 are finally online:
 <input type="hidden" name="tax" value="0">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form>
-<a href="http://flattr.com/thing/40240/European-Smalltalk-UserGroup" target="_blank">
-<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
 <br>
 }}}
 

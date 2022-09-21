@@ -1,0 +1,9 @@
+! From Raw Data To Roassal Via Reflection
+
+Richard Uttner (r.uttner@projector.de)
+
+""Abstract:""
+Our new implementation of a document management system needs many different visual representations of the same persistent business data. Roassal GUIs are generated based on configurable descriptions over several layers of abstraction. In the presentation we introduce a reflective approach as lowest layer directly above of all application data. Configuration of this layer does not only support formatting of plain data according to specific needs, but also includes control of handling references between the different main types. Examples show the variety of data views that can be created without need to extend application code.
+
+""Bio:""
+Starting as a freelancer in 1980, Richard has been involved in numerous software projects where he worked together closely with more than 600 developers overall. His experience covers business applications as well as tool development in Smalltalk, which he started working with in 1992 and where his focus is still on.

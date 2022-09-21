@@ -1,4 +1,4 @@
-! How to persist data with Pharo?  Mongo/Voyage, Postgres, ODBC, OmniBase
+! How to persist data with Pharo?  Mongo/Voyage, Postgres, ODBC
 
 Marcus Denker <marcus.denker@inria.fr>
 Norbert Hartl Norbert Hartl <norbert@2denker.de>
@@ -8,9 +8,7 @@ Norbert Hartl Norbert Hartl <norbert@2denker.de>
 
 This presentation gives an overview of persistence solutions for Pharo.
 
-We start by showing Mongo/Voyage and the different solutions for SQL support.
-The second part of the talk will present an old "Smalltalk only" solution. MoniBase, 
-the Pharo version of the OmniBase Object Database.
+We will show  Mongo/Voyage and the different solutions for SQL support.
 
 
 ""Bio:""
