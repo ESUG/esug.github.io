@@ -1,0 +1,14 @@
+! Webside
+
+Guille Amaral  (guillermoamaral@gmail.com)
+
+""Abstract:""
+Webside is both the specification of an API to interact with a Smalltalk system (back-end), and a web IDE (front-end) built on top of such API.
+
+Having started as a personal React/JavaScript training and being a passionate smalltalker who have worked with many different domains, (some of them involving web APIs), I decided to expose Smalltalk itself thru a web API and see how far I could go by implementing the classical Smalltalk IDE tools using React.
+
+In this presentation, I we will show Webside in action on at least two Smalltalk dialects, and share some ideas, insights and mainly questions gathered along this project.  
+
+""Bio:""
+Guille has been devoted to Smalltalk for more than 20 years, using and enjoying it throughout his entire academic and professional career.
+He currently works for Quorum Software, a solution provider for the oil & gas industry.

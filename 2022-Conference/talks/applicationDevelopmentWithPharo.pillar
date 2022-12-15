@@ -1,0 +1,21 @@
+! Application Development with Pharo
+
+P. Tesone  (pablo.tesone@inria.fr)
+G. Polito  (guillermo.polito@inria.fr)
+
+""Abstract:""
+In this talk we present the benefits of using Pharo for the development of applications of different kinds and usages. Ranging from modern desktop applications, IoT Applications, deployments in containers, REST Servers, Web applications.
+Also, we show our flexibility to connect to other systems, databases and existing libraries.
+
+""Bio:""
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
+He is interested in improving development tools and the daily development process. 
+He is an enthusiast of the object oriented programming and their tools. 
+He collaborates with different open source projects like the ones in the Pharo Community [http://pharo.org/] and the Uqbar Foundation *http://www.uqbar-project.org/*.
+
+Guille Polito is research engineer at the CRIStAL laboratory in the University of Lille, working in tight relation with the RMoD team.
+He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
+Guille's main research interests are modularity and development tools.
+Guille participates in the Pharo community since 2010 and is now board member.
+His most noticeable contributions to the community are the Pharo Bootstrap process and Iceberg.

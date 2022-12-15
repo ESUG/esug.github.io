@@ -1,0 +1,9 @@
+! Lepiter: moldable knowledge platform
+
+Andrei Chiș (andrei.chis@feenk.com)
+
+""Abstract:""
+Lepiter is a programmable knowledge management platform. It is presently shipped with Glamorous Toolkit and can be deeply embedded in the development workflow. This lends itself to a variety of use cases like personal note taking, documenting systems, exploring data or expressing computation in multi-language notebooks. In this talk we show live demos of using this technology in real life projects.
+
+""Bio:""
+Andrei Chiș acts as a tool crafter at feenk (feenk.com) building tools and techniques for improving software development and is a co-author of Glamorous Toolkit (gtoolkit.org) platform. Andrei holds a PhD from the University of Bern. In his PhD he maintained that integrated development environments have to be moldable, that is, they have to be aware of the application under development and enable rapid customizations to new applications and tasks, and explored solutions to make this vision possible.

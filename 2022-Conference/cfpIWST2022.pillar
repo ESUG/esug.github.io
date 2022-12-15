@@ -12,12 +12,20 @@ IWST22 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; Au
 %- Second Prize: ''"Title"'' by Author.
 %- Third Prize: ''"Title"'' by Author.
 
-%!! List of Accepted Articles
+!! List of Accepted Articles
+
+- "Transformation-based Refactorings: a First Analysis", Nicolas Anquetil, Miguel Campero, Stéphane Ducasse, Juan-Pablo Sandoval Alcocer and Pablo Tesone
+- "Design Principles for a High-performance Smalltalk", Dave Mason
+- "Towards Object-centric Time-traveling Debuggers", Maximilian Ignacio Willembrinck Santander, Steven Costiou, Adrien Vanègue and Anne Etien
+- "Using Moose platform for the implementation of a Software Product Line according to model-based Delta-Oriented Programming", Boubou Thiam Niang, Giacomo Kahn, Nawel Amokrane, Yacine Ouzrout, Mustapha Derras and Jannik Laval
+- "How Fast is AI in Pharo? Benchmarking Linear Regression", Oleksandr Zaitsev, Sebastian Jordan Montaño and Stéphane Ducasse
+- "Can We Automatically Generate Class Comments in Pharo?", Pooja Rani, Alexandre Bergel, Lino Hess, Timo Kehrer and Oscar Nierstrasz
 
 %All the articles can be found at ... %*http://esug.github.io/2022-Conference/articles/*.
 
-%!!! Session: Title
-%-paper
+!!! Sessions
+- *Conference program is available>https://esug.github.io/2022-Conference/agenda/agenda-workshop.html*.
+
 
 !! Call for Papers
 
@@ -34,10 +42,9 @@ We will not enforce any length restriction.
 
 ""Important Dates""
 
-to be announced
-%- Submission deadline: June 15th, 2022
-%- Notification deadline: July 20th, 2022
-%- Workshop: August 24th-26th, 2022
+- Submission deadline: --May 15th, 2022--, June 1st, 2022
+- Notification deadline: --June 20th, 2022--, July 1st, 2022
+- Workshop: August 24th-26th, 2022
 
 
 ""Topics""
@@ -51,6 +58,7 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 - Implementation, new dialects or languages implemented in Smalltalk,
 - Interaction with other languages,
 - Meta-programming and Meta-modeling,
+- Virtual Machine,
 - Tools
 
 
@@ -67,17 +75,29 @@ The Best Paper Award will take place only with a minimum of six submissions. Not
 
 ""Publication""
 
-Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
+Contributions must be written in English, adhere to the *CEUR Style single column>https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk*, and be submitted through *EasyChair>https://easychair.org/conferences/?conf=iwst22*.
+All submissions must be original work and must not have been previously published or being under review elsewhere.
 
-All submissions must be sent via easychair
-%: *https://easychair.org/conferences/?conf=iwst22*
+% Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
+% All submissions must be sent via easychair: *https://easychair.org/conferences/?conf=iwst22*
 
 
 ""Program chairs""
-to be announced
 
-%Vincent ARANEGA, University of Lille, France
-%Loïc LAGADEC, ENSTA Bretagne, France
+- Vincent ARANEGA, University of Lille, France
+- Loïc LAGADEC, ENSTA Bretagne, France
 
 ""Program committee""
-to be announced
+
+- Isabelle Borne
+- Andrei Chiș
+- Steven Costiou
+- Christophe Dony
+- Zoé Drey
+- Luc Fabresse
+- Jannick Laval
+- Nevena Milojković
+- Kasper Østerbye
+- Gordana Rakic
+- Serge Stinckwich
+- Hernan Wilkinson

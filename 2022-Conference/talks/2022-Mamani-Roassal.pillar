@@ -1,0 +1,11 @@
+! Roassal3 updates: Current status and next step
+
+Milton Mamani Torres (akevalion@gmail.com)
+
+""Abstract:"" Roassal has become the standard platform to visualize data in Pharo. Roassal contains numerous tunable and interactive visualizations. This presentation highlights the latest progress of Roassal and outline its performance with users, new layouts and scalability process.
+
+More information about Roassal: 
+- *http://AgileVisualization.com*
+- *https://link.springer.com/book/10.1007/978-1-4842-7161-2*
+
+""Bio:"" Milton Mamani is a software engineer from Cochabamba Bolivia, Milton Mamani has worked with Alexandre Bergel in the creation and maintenance of Roassal3. Creating interactive and scalable visualizations. Milton Mamani currently works for Inria on the Rmod team.
