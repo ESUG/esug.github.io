@@ -5,7 +5,11 @@
 Have you written cool Smalltalk project you want to share? 
 Developers of any Smalltalk-based software can participate by submitting a 3-5min video about their software. 
 
+<<<<<<< HEAD
 ""Submission Deadline: Sunday August 20"" 
+=======
+""Submission Deadline: Sunday August 13"" 
+>>>>>>> refs/remotes/origin/source
 
 Participants demonstrate their systems in a session at the end of Monday, after which the conference attendees vote. A vote consists in providing a sorted list of 3 preferred pieces of software.
 
