@@ -1,10 +1,11 @@
 {
-"title": "IWST 2022"
+"title": "IWST 2023"
 }
 
-!IWST 22 Information and Call For Papers
+!IWST 23 Information and Call For Papers
 
-IWST22 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; August 24th-26th, 2022
+IWST 23 — International Workshop on Smalltalk Technologies 
+Lyon, France; August 29th-31th, 2023
 
 %""Awards""
 
@@ -21,26 +22,10 @@ IWST22 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; Au
 
 !! Call for Papers
 
-""Goals and scopes""
-The goals of the workshop is to create a forum around advances or experience in Smalltalk and to trigger discussions and exchanges of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Participants are invited to submit research articles or industrial papers. This year we want to open two different tracks: one research track and one industrial track with less scientific constraints.
+!!! Goals and scope""
+The goals of the workshop is to create a forum around contributions and experiences in building or using technologies related to Smalltalk. While maturity ofprsented ideas and results is not crucial, it is expected that their presentation trigger discussion and exchange of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Authors are invited to submit research articles or industrial papers. 
 
-We expect papers of three kinds:
-
-- Short position papers describing emerging ideas
-- Long research papers with deeper description of experiments and of research results.
-- Industrial papers with presentation of real and innovative Smalltalk applications; this kind of paper should enlighten why Smalltalk is really appropriate for your application.
-
-We will not enforce any length restriction.
-
-""Important Dates""
-
-to be announced
-%- Submission deadline: June 15th, 2022
-%- Notification deadline: July 20th, 2022
-%- Workshop: August 24th-26th, 2022
-
-
-""Topics""
+!!!!Topics
 
 We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
 
@@ -53,6 +38,22 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 - Meta-programming and Meta-modeling,
 - Tools
 
+!!! Submissions, reviews, and selection
+
+We  papers of three kinds:
+
+- Short position papers (5 to 10 pages) describing fresh ideas and early results. 
+- Long research papers (more than 10 pages) with deeper description of experiments and of research results.
+
+Both submissions and final papers must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
+
+All submissions must be sent via EasyChair submission page
+%:*https://easychair.org/conferences/?conf=iwst23*
+
+!!!! Reviewing
+Submissions will be reviewed by at least 3 reviewers. Selected papers will be invited to be presented at the workshop in Lyon and published in the *CEUR-WS Proceedings>https://ceur-ws.org/.
+
+As the workshop form ecourage bringing fresh ideas and early results to be presented and discuessed, and aims for giving a chance to young community members to learn and grow, it may happen that submissions with discussion potential be conditionally accepted. In this case authors are expected to strictly follow the reccommendation of the reviewers and resubmit a new version for the second fast review by the chairs in collaboration with assigned reviewers, and for making the final decision.
 
 ""Best Paper Award""
 
@@ -65,19 +66,17 @@ The ranking will be decided by the program committee during the review process. 
 The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
 
 
-""Publication""
 
-Both submissions and final papers must be prepared using the ACM SIGPLAN 10 point format. Templates for Word and LaTeX are available at *http://www.sigplan.org/Resources/Author/*. This site also contains links to useful informations on how to write effective submissions. Submission
+!!! Important Dates
 
-All submissions must be sent via easychair
-%: *https://easychair.org/conferences/?conf=iwst22*
+- Submission deadline: May 14th, 2023
+- Notification deadline: June 11th, 2023
+- Resubmission deadline: July 1st, 2023
+- Workshop: August 24th-26th, 2022
 
 
-""Program chairs""
-to be announced
-
-%Vincent ARANEGA, University of Lille, France
+!!! Program committee
+""GORDANA Rakic, University of Novi Sad, Serbia (chair)""
 %Loïc LAGADEC, ENSTA Bretagne, France
 
-""Program committee""
-to be announced
+to be extended
