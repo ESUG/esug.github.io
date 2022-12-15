@@ -2,17 +2,17 @@
 "title": "Conference 2022"
 }
 
-!2022
+!2023
 
-The ESUG board is pleased to announce that the 28th ESUG conference/summer-school will be held in Novi Sad, Serbia from 22.8.2022. to 26.8.2022 (with Camp Smalltalk 20/21.8.). The conference is organised by the Faculty of Sciences, University of Novi Sad.
+The ESUG board is pleased to announce that the 29th ESUG conference/summer-school will be held in Lyon, France from 28.8.2023. to 01.9.2023 (with Camp Smalltalk 26/27.8.). The conference is organised by ...
 
 !!!Conference calls
 
-- *Call for Presentations>call2022.pillar*
+- *Call for Presentations>call2023.pillar*
 - *Call for Student Volunteers>callForStudents2022.pillar*
-- *IWST22>cfpIWST2022.pillar* 
-- *Innovation award call: Submissions and Winners>awardsSubmissions.pillar*
-- *Camp Smalltalk>camp2022.pillar*
+- *IWST22>cfpIWST2023.pillar* 
+- *Innovation award call>awardsSubmissions.pillar*
+- *Camp Smalltalk>camp2023.pillar*
 
 
 !!! Conference registration
@@ -35,7 +35,7 @@ Orientational conference prices from ESUG 2022 in Euros:
 
 !!!Conference Program
 
-Slides will be uploaded *here>https://github.com/ESUG/esug.github.io/tree/source/2022-Conference/slides/* 
+Slides will be uploaded *here>https://github.com/ESUG/esug.github.io/tree/source/2023-Conference/slides/* 
 
 Videos will be on *youtube>https://www.youtube.com/*
 
@@ -51,9 +51,8 @@ Videos will be on *youtube>https://www.youtube.com/*
 
 !!!International Workshop on Smalltalk Technologies IWST
 
-- CfP: *IWST22>cfpIWST2022.pillar*
-- The workshop proceedings will be published in *ACM Digital Library>http://dl.acm.org/citation.cfm?id=2991041&preflayout=flat*
-%- Download IWST-Proceedings (to be announced)
+- CfP: *IWST23>cfpIWST2023.pillar*
+- The workshop proceedings will be published in *CEUR-WS Proceedings>https://ceur-ws.org/*
 
 %{{{
 %<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;dates=20190826%2F20190826&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=1e715enbd1ni8ugls0ui9jv4jo%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FParis" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -68,27 +67,27 @@ Videos will be on *youtube>https://www.youtube.com/*
 
 
 
-!!!Innovation Technology Awards - 18th Edition
+!!!Innovation Technology Awards - 19th Edition
 Share your Smalltalk related code with the community, and enter the contest to win up to 500 Euros! All you have to do is submit your project along with  a 3-5 min videos and post it to youtube!
 
-- *2022 Innovation award call>awardsCall2022.pillar*
+- *2023 Innovation award call>awardsCall2023.pillar*
 - *list of submitted Projects: Winners Inside!>awardsSubmissions.pillar*
 - Dates:
--- Demos: Monday, XXX evening.
--- Results Announcement Ceremony: Wednesday, XXX, during the social event dinner
+-- Demos: Monday, 28.8., late afternoon.
+-- Results Announcement Ceremony: Wednesday, 30.8., during the social event dinner
 
 
 !!!Student volunteer call
-See *Call for Student Volunteers>callForStudents2022.pillar*
+See *Call for Student Volunteers>callForStudents2023.pillar*
 
 !!!Conference live
 
 - Videos will be on Youtube
 - SlideShare: *http://www.slideshare.net/esug/presentations*
-- Archive: *http://www.esug.org/data/ESUG2022/*
+- Archive: *http://www.esug.org/data/ESUG2023/*
 
-!!!NoviSad
-*General (tourist) Information>https://novisad.travel/en/*
+!!!Lyon
+...
 
 
 !!!Venue and Maps
@@ -96,46 +95,20 @@ See *Call for Student Volunteers>callForStudents2022.pillar*
 
 !!!!Conference venue
 
-The conference will be held at the *building of the Department of Matehmatics and Informatics, Faculty of Sciences, University of Novi Sad>https://goo.gl/maps/b3RAqZYXtvsFGx2h7*.
 
 
 !!!! Social Event
 @social
 
-%The social event is will take place at (to be announced)
+The social event is will take place at (to be announced)
 
 
 During the diner, results of the various ESUG awards will be announced.
 
-%[[[
-%xxxx
-%]]]
-
-%*Google Maps>https://www.google.de/maps/place/Herbrandstraße+21,+50825+Köln/@50.9514084,6.909679,17z/data=%213m1%214b1%214m2%213m1%211s0x47bf2539b6a87997:0xa102440f82e6cea3*
-
-If you want to attend the social event with your partner you can pay an extra fee for him/her directly during your registration for the conference.
+If you want to attend the social event with an additional person, you can pay an extra fee for the person directly during your registration for the conference.
 
 
-!!!! Staying in Novi Sad
-
-Here is a list of hotels that would allow you to easily reach the conference venue, with the walking distance.
-- *Voyager B&B>http://www.voyagerns.co.rs/index.html*, 5 minutes
-- *Zenit>https://hotelzenit.co.rs/en/*, 15 minutes
-- *Putnik>https://www.hotelputnik.rs/index.php?langiso3=GBR*, 15 minutes
-- *Mediteraneo>https://hotelmediteraneo.rs/*, 15 minutes
-- *Centar>https://hotel-centar.rs/homepage-1/*, 20 minutes
-- *Pupin>https://hotelpupin.rs/en/*, 20 minutes
-- *Veliki>https://hotelvelikinovisad.com/en/*, 20 minutes
-- *Fontana>https://www.restoranfontana.com/en/prenociste-smestaj-apartmani-novi-sad/*, 20 minutes
-- *Leopold I>http://www.leopoldns.com/*, 25 minutes \+ stairs to the fortress
-- *Planeta Inn>http://en.planetainn.com/*, 25 minutes
-- *Park>https://www.hotelparkns.com/en/*, 30 minutes
-- *Vila Park>https://vila-park-novi-sad-rs.book.direct/en-gb*, 30 minutes 
-
-
-
-There are also many Bed & Breakfasts and short let flats.
-Look for them on sites such as *Booking.com>http://booking.com* or *Airbnb>http://airbnb.com*.
+!!!! Staying in Lyon
 
 !!!!Student volunteer hosting
 %Student Volunteer rooms are booked at XXX. 
