@@ -47,15 +47,14 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 
 !!! Submissions, reviews, and selection
 
-We  papers of three kinds:
+We are looking for papers of two kinds:
 
 - Short position papers (5 to 10 pages) describing fresh ideas and early results. 
 - Long research papers (more than 10 pages) with deeper description of experiments and of research results.
 
 Both submissions and final papers must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
 
-All submissions must be sent via EasyChair submission page
-%:*https://easychair.org/conferences/?conf=iwst23*
+All submissions must be sent via *EasyChair submission page>https://easychair.org/conferences/?conf=iwst23*.
 
 !!!! Reviewing
 Submissions will be reviewed by at least 3 reviewers. Selected papers will be invited to be presented at the workshop in Lyon and published in the *CEUR-WS Proceedings>https://ceur-ws.org/*.
@@ -70,11 +69,28 @@ We thank the Lam Research Corporation for its financial contribution which makes
 
 The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
 
-The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
+The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, 
+a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
 
+!!! Program chairs
+- Stephane Ducasse, Inria Lille, France (chair),
+- Gordana Rakic, University of Novi Sad, Serbia (chair)
 
-!!! Program committee
-""GORDANA Rakic, University of Novi Sad, Serbia (chair)""
-%Loïc LAGADEC, ENSTA Bretagne, France
+!!!! Program committee
+- Nour Agouf, Inria Lille, France,
+- Vincent Blondeau, Lifeware, Switzerland,
+- Cedrick Beler, Ecole Nationale d Ingenieurs de Tarbes, Hautes-Pyrenees, France,
+- Nicolas Cardozo, Universidad de los Andes, Bogota, Colombia,
+- Celine Deknop, Universite catholique de Louvain (UCL), Belgium,
+- Michele Lanza, Software Institute, Universita della Svizzera italiana, Lugano, Switzerland,
+- Eric Lepors, Thales DMS, France,
+- Dave Mason, Ryerson University, Toronto, Canada,
+- Kim Mens, Universite catholique de Louvain (UCL), Belgium,
+- Ana-Maria Oprescu, University of Amsterdam, Neatherlands,
+- Jean Privat, University of Quebec in Montreal, Canada,
+- Pooja	Rani, University of Bern, Switzerland,
+- Larisa Safina, Inria Lille, France,
+- Joao Saraiva, University of Minho, Portugal,
+- Benoît Verhaeghe, Berger-Levrault, Lyon, France,
+- Oleksandr Zaytsev, Cirad, UMR SENS, France
 
-to be extended
