@@ -18,9 +18,9 @@ All the articles can be found at *http://esug.github.io/2019-Conference/articles
 
 !!! Session: Domain specific tools
 - Serge Stinckwich and Konrad Hinsen, Building a scientific workbench in Pharo 
-- Jan Blizničenko and Robert Pergl Generating UML models with inferred types from Pharo code
 - Tomohiro Oda, Yasuhiro Yamamoto and Kumiyo Nakakoji PintGlas - A Live Mobility Framework for Pharo
 - Sebastijan Kaplar, Miroslav Zarić and Gordana Milosavljević NewWave Workflow Engine
+%- Jan Blizničenko and Robert Pergl Generating UML models with inferred types from Pharo code
 
 !!! Session: Tests, Smells and Refactoring
 
