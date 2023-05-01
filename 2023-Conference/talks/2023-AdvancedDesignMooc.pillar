@@ -1,0 +1,34 @@
+! Advanced Design Mooc
+
+Stéphane Ducasse
+
+""Abstract:""
+Since a couple of years, I have been designing a new lectures on Advanced Object-Oriented Design.
+
+That you are either a beginner or an expert in object-oriented programming and design 
+you will not develop the same way after following this unique lecture.
+
+This mooc will immerge you in advanced object-oriented design. It is built on more than 60 years
+of expert teaching object-oriented design.
+
+This mooc invites you to a journey around 10 modules (with over 60 videos) covering the following topics
+- test-driven design
+- essential object-oriented concepts
+- foundational elements
+- advanced idioms such as double dispatch
+- advanced principles (registration, Law of Demeter, )
+- selected design patterns
+- type perspectives
+- language idioms
+- It also illustrates the topics on concrete case studies taken from Pharo. 
+
+This lectures uses Pharo as a pedagogical vehicule but all the concepts you will learn
+are applicable to other object-oriented languages. We use Pharo because it is a pure object-oriented programming language. It offers a unique developing experience in constant interaction with live objects. Pharo is elegant, fun to use and very powerful. It is very easy to learn and enables to understand advanced concept in a natural way. When programming in Pharo, you are immersed in a world of live objects. You have immediate feedback at any moment of your development on objects representing web applications, code itself, graphics, network. More…
+	
+If you like the Pharo mooc *http://mooc.pharo.org*, you will just love "Advanced Object-Oriented Design".
+It will bring you to the next level.
+
+The learners will be proposed several design exercises ranging from little interpreters to games and quizes. 
+
+""Bio:""
+Stéphane is one of the authors of the Pharo Mooc *http://mooc.pharo.org*. He is authors of several books on Pharo and more *http://books.pharo.org*.
