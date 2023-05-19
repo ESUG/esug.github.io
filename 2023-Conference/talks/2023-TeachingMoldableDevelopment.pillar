@@ -1,0 +1,13 @@
+! Teaching Moldable Development
+
+Oscar Nierstrasz
+
+""Abstract:""
+
+Moldable Development is a way of developing software in which you build many, small custom tools to solve problems. This implies new tools and new associated skills. As with any new way of thinking, teaching can be challenging. In this session we go draw lessons from our experience of teaching Moldable Development in practice, including how it changes the teaching experience itself.
+
+""Bio:""
+
+Oscar is Professor emeritus of Computer Science at the University of Bern, where he ran the Software Composition Group from 1994-2021. 
+Since then he has been working at feenk.com, producing teaching material on Moldable Development, and onboarding developers to work with the Glamourous Toolkit.
+Oscar is co-author of over 400 publications, including the open-source books Object-Oriented Reengineering Patterns and Pharo by Example.
