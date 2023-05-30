@@ -1,17 +1,16 @@
 ! Supporting Collaboration: supporting the Interacting Users
 
-Erik Stel (erik@objectguild.nl / [https://objectguild.com](https://objectguild.com))
-Jonathan van Alteren (jonathan@objectguild.nl / [https://objectguild.com](https://objectguild.com))
+Erik Stel (erik@objectguild.com / [https://objectguild.com](https://objectguild.com))
+Jonathan van Alteren (jonathan@objectguild.com / [https://objectguild.com](https://objectguild.com))
 
 ""Abstract:""
-Enterprise Software's main purpose is to support the user in her work or task to reach the enterprise's
-goal(s). In our opinion this support should not be limited to the indivdual users, but also support the
+The main purpose of Enterprise Software is to support the user in her activities to reach the goals of the enterprise.
+In our opinion this support should not be limited to the indivdual users, but also support the
 interactions between multiple users. Allowing co-operation between humans in situations where they are
-not working in close vicinity of each other. The Synthesist framework of Object Guild offers a number
-of features to support users in their interactions. It puts the power of collaboration inside the basic
-building blocks of an application. This talk will show some of the features and/or ideas for such
-features for collaboration and the current implementation in the Synthesist framework (formerly known
-as Expressive Systems framework).
+not working in close vicinity of each other. Our Synthesist framework offers a number
+of features to support users in their interactions. It adds the power of collaboration to the basic
+building blocks of any application. This talk will show some of the collaboration features and/or ideas
+and the current implementation in the Synthesist framework (formerly known as Expressive Systems).
 
 ""Bio:""
 Erik has developed both technical as well as business applications in a 
