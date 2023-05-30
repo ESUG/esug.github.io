@@ -1,6 +1,6 @@
 !Improving the compiler infrastructure of Pharo
 
-Marcus Denker <marcus.denker@inria.fr> and Jean Privat <privat.jean@uqam.cam>
+Marcus Denker <marcus.denker@inria.fr> and Jean Privat <privat.jean@uqam.ca>
 
 ""Abstract:""
 This talk will present the current state of improving OpalCompiler in Pharo and discusses possible future work.
