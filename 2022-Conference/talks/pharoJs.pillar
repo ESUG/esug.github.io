@@ -1,0 +1,20 @@
+! PharoJS for Real!
+
+Noury Bouraqadi (noury.bouraqadi@imt-nord-europe.fr)
+Dave Mason (dmason@ryerson.ca)
+
+""Abstract:""
+PharoJS dates back to 2015. True to Pharo's philosophy, it was started to build real world software. 
+Actually, the initial motivation behind PharoJS was building mobile applications based Web technologies using Cordova (formaly PhoneGap). 
+This means that for production, Pharo code is transpiled to Javascript to benefit from JS's portability and speed. 
+But, for development, we wanted to benefit from Pharo's unique set of features and IDE.
+To do so, PharoJS provides a framework and a toolset that supports integrating Pharo code with third-party JS libraries.
+It also enables testing and debugging applications running on a JS interpreter.
+We'll discuss these features, and how they were successfully used to produce real world software.
+
+""Bio:""
+Noury Bouraqadi is a software developer, maker, repair hobbyist, environment/technology/robots lover [https://nootrix.com]. 
+Currently, Noury works part-time as a university professor at IMT Nord Europe, in the Autonomous and ResilienT Systems group. 
+His remaining work time is dedicated to a startup that uses PharoJS [https://pharojs.org] to build a SAS for teaching PLC programming & factory automation: PLC3000 [https://plc3000.com].
+
+Dave Mason is Professor in, and currently Chair of, the School of Computer Science at Ryerson University [https://sarg.ryerson.ca/dmason/]. He is member of the Software Analysis Research Group. Dave is interested in topics such as environments and tools to support developing code in the highly-productive, Smalltalk language and environment while deploying in other contexts such as in web browsers and nodeJS (PharoJS [https://pharojs.org]), the Java Virtural Machine (PharoJVM) and others (Universal Export). 

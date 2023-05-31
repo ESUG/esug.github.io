@@ -1,10 +1,78 @@
 {
 "title": "Projects Submitted to the Innovation Technology Awards 2022"
 }
-!Projects Submitted to the *Innovation Technology Awards 18th Edition>https://esug.github.io/2020-Conference/awardsCall2022.html*
+!Projects Submitted to the *Innovation Technology Awards 17th Edition>https://esug.github.io/2020-Conference/awardsCall2022.html*
 
-!!!1st: Name
-%+file://Medailles2019-01.png|width=30+
-- ''Submitted by'': ""Author name""
-- ''Download'': ""*https://github.com/*""
-- ''Demo'': ""*https://youtu.be/*""
+!! Winners
+!!! 1st Time-Traveling Queries for Faster Debugging And Program Comprehension
++file://esugAwards1stGoldRoundMedal.png+
+- ''Keywords'': ""Time-traveling Queries Debugging""
+- ''Submitted by'': ""Maximilian Ignacio Willembrinck Santander, Steven Costiou, Anne Etien, Stéphane Ducasse""
+- ''Affiliation'': Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL F-59000 Lille
+- ''Country'': France
+- ''Download'': ""*https://github.com/Willembrinck/ESUG-2022-TTQs*""
+- ''Demo'': ""*https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing*""
+
+!!! 2nd IoT with Pharo and Riot OS
++file://esugAwards2ndSilverRoundMedal.png+
+- ''Keywords'': ""Internet of Things""
+- ''Submitted by'': ""Chia Ling Bragagnolo Angela""
+- ''Affiliation'': Univ. Lille
+- ''Country'': France
+- ''Download'': *https://youtu.be/yFcoatBqMYU*
+
+!!! 3rd Pharo Language Server
++file://esugAwards3rdBronzeRoundMedal.png+
+- ''Keywords'':  Language Server Protocol (LSP), IDE interface
+- ''Submitted by'': ""Benoît Verhaeghe""
+- ''Affiliation'': Berger-Levrault
+- ''Country'': France
+- ''Download'': *https://github.com/badetitou/Pharo-LanguageServer*
+- ''Demo'': *https://marketplace.visualstudio.com/items?itemName=badetitou.pharo-language-server*
+
+
+!! Other Entries by Submission Order
+
+!!! Webside
+- ''Keywords'':  ""IDE, Web API, React, Material-UI""
+- ''Submitted by'': ""Guille Amaral""
+- ''Affiliation'': Personal project
+- ''Country'': Argentina
+- ''Download'': *https://github.com/guillermoamaral/*
+- ''Demo'': *https://websideserver.azurewebsites.net/*
+
+!!! Zag Smalltalk
+- ''Keywords'': ""Smalltalk and pluggable Dynamic Language runtime""
+- ''Submitted by'': ""Dave Mason""
+- ''Affiliation'': Toronto Metropolitan University
+- ''Country'': Canada
+- ''Download'': *https://github.com/dvmason/Zag-Smalltalk*
+
+!!! Polyphemus
+- ''Keywords'': ""VM, Image, visualisation, image recover""
+- ''Submitted by'': ""Soufyane Labsari, Pierre Misse-Chanabier, Théo Rogliano""
+- ''Affiliation'':Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL F-59000 Lille
+- ''Country'': France
+- ''Download'': *https://filesender.renater.fr/?s=download&token=342cc563-fc5e-4d01-91c3-50d6015e39c0*
+
+!!! Microdown 
+- ''Keywords'': ""document browser""
+- ''Submitted by'': ""Kasper Østerbye & Stéphane Ducasse""
+- ''Affiliation'': Independent
+- ''Country'': Denmark
+- ''Demo'': *https://www.youtube.com/watch?v=tAFskQ1zVmA*
+
+!!! PLC3000
+- ''Keywords'': ""Factory Automation, Simulation, Teaching, Education, Programming""
+- ''Submitted by'': ""Noury Bouraqadi""
+- ''Affiliation'': Nootrix
+- ''Country'': France
+- ''Demo'': *https://plc3000.com*
+
+!!! Pharo-AI
+- ''Keywords'': ""AI, Machine Learning""
+- ''Submitted by'': ""Oleksandr Zaitsev and Sebastian Jordan""
+- ''Affiliation'': Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL F-59000 Lille
+- ''Country'': France
+- ''Download'': *https://github.com/pharo-ai/wiki*
+

@@ -12,12 +12,20 @@ IWST22 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; Au
 %- Second Prize: ''"Title"'' by Author.
 %- Third Prize: ''"Title"'' by Author.
 
-%!! List of Accepted Articles
+!! List of Accepted Articles
+
+- "Transformation-based Refactorings: a First Analysis", Nicolas Anquetil, Miguel Campero, Stéphane Ducasse, Juan-Pablo Sandoval Alcocer and Pablo Tesone
+- "Design Principles for a High-performance Smalltalk", Dave Mason
+- "Towards Object-centric Time-traveling Debuggers", Maximilian Ignacio Willembrinck Santander, Steven Costiou, Adrien Vanègue and Anne Etien
+- "Using Moose platform for the implementation of a Software Product Line according to model-based Delta-Oriented Programming", Boubou Thiam Niang, Giacomo Kahn, Nawel Amokrane, Yacine Ouzrout, Mustapha Derras and Jannik Laval
+- "How Fast is AI in Pharo? Benchmarking Linear Regression", Oleksandr Zaitsev, Sebastian Jordan Montaño and Stéphane Ducasse
+- "Can We Automatically Generate Class Comments in Pharo?", Pooja Rani, Alexandre Bergel, Lino Hess, Timo Kehrer and Oscar Nierstrasz
 
 %All the articles can be found at ... %*http://esug.github.io/2022-Conference/articles/*.
 
-%!!! Session: Title
-%-paper
+!!! Sessions
+- *Conference program is available>https://esug.github.io/2022-Conference/agenda/agenda-workshop.html*.
+
 
 !! Call for Papers
 

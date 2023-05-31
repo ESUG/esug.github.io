@@ -1,0 +1,12 @@
+! Visual Studio Code as a Smalltalk IDE
+
+James Foster  (smalltalk@jgfoster.net)
+
+""Abstract:""
+Most Smalltalk IDEs have followed the layout and usage patterns dating to the dawn of (Smalltalk) time—and have proven very productive. Unfortunately, these IDEs create a barrier for the "unwashed masses" who are used to editing text files in a separate IDE such as Visual Studio Code.
+
+In this presentation we will look at what it takes to use VS Code as a Smalltalk IDE. Along the way we will also (1) demonstrate the use of GemStone as a server for a Single Page (web) Application using the Flutter framework (and Dart language) and (2) peek at side projects that translate Python and Dart to GemStone Smalltalk.  
+
+
+""Bio:""
+As a junior-high student in 1971, James discovered the local university’s computer center and a life-long obsession with computers began. He was introduced to Smalltalk/V for the Mac in the mid-90s, and became a Smalltalk fan. James is teaching undergraduate computer science classes and also serves as VP of Finance & Operations for GemTalk Systems. He is a passionate advocate for GemStone and all things Smalltalk.

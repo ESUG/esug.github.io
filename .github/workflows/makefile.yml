@@ -9,24 +9,64 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-
-    runs-on: ubuntu-18.04
+  ecstatic_build:
+    runs-on: ubuntu-20.04
 
     steps:
     - name: Install dependencies
       run: |
         sudo dpkg --add-architecture i386
         sudo apt-get update
-        sudo apt-get install -y libasound2:i386 libssl1.0.0:i386 libfreetype6:i386
+        sudo apt-get install -y libasound2:i386 libssl1.1:i386 libfreetype6:i386
 
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
       
     - name: Generate
       run: make generate
+
+    - uses: actions/upload-artifact@v3
+      with:
+        name: ecstatic_site
+        path: |
+          _site
+          !path/**/*.pillar
+        retention-days: 5
+
+  agenda_build:      
+    uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
+    with:
+      agenda_filename: agenda.md
+      abstract_link: ../esug2022-abstracts.pdf
       
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@4.1.6
+  workshop_agenda_build:      
+    uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
+    with:
+      agenda_filename: agenda-workshop.md
+    needs: agenda_build # avoid concurent write to the agenda artifact
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [ecstatic_build, agenda_build, workshop_agenda_build]
+    
+    steps:
+    # needed by JamesIves/github-pages-deploy-action
+    - uses: actions/checkout@v3
+    
+    - uses: actions/download-artifact@v3
+      with:
+        name: ecstatic_site
+        path: _site
+
+    - uses: actions/download-artifact@v3
+      with:
+        name: agenda
+        path: _site/2022-Conference/agenda
+
+    - name: debug
+      run: ls -R
+
+    - name: deploy
+      uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
         branch: gh-pages # The branch the action should deploy to.
         folder: _site # The folder the action should deploy.

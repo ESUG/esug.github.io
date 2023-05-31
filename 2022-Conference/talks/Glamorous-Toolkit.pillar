@@ -1,0 +1,14 @@
+! Glamorous Toolkit in 2022
+
+Andrei Chiș (andrei.chis@feenk.com)
+Veit Heller  (veit.heller@feenk.com)
+
+""Abstract:""
+Glamorous Toolkit is the moldable development environment. In this talk we show live what is new in the glamorous world and how the idea of moldability affects and unifies otherwise seemingly distinct activities like programming, data science or knowledge management.
+
+""Bio:""
+Andrei Chiș acts as a tool crafter at feenk (feenk.com) building tools and techniques for improving software development and is a co-author of Glamorous Toolkit (gtoolkit.org) platform. Andrei holds a PhD from the University of Bern. In his PhD he maintained that integrated development environments have to be moldable, that is, they have to be aware of the application under development and enable rapid customizations to new applications and tasks, and explored solutions to make this vision possible.
+
+Veit tries to be a jack of all trades, but a master of none. As his day job he
+works as a DX Crafter at feenk, helping to build Glamorous Toolkit, a project
+he is truly excited about.

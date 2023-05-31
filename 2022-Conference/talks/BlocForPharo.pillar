@@ -1,0 +1,24 @@
+! Bloc for Pharo: object-oriented UI foundations
+
+Martín Dias (tinchodias@gmail.com)
+Pablo Tesone (pablo.tesone@inria.fr)
+
+
+""Abstract:""
+
+Bloc is a graphical UI library that provides a foundations for building widget and visualization libraries. This library has several years of development. Since 2021, we started to work on a version of Bloc to be included in Pharo. This version requires clean core features, and stability.
+
+We created Alexandrie, a new low-level canvas that uses Cairo with focus on performance. It achieves its goal by calling the Cairo API as it is recommended by industry. Alexandrie requires few dependencies and uses Cairo which is stable and widely (e.g. Gnome, GTK+4).
+
+We will demo the library, and present its current state and the future perpective.
+
+
+""Bio:""
+
+Martín Dias worked as an engineer for many years, and got a Ph.D in 2015. He loves Pharo and the Smalltalk community. His first ESUG was in 2010, but before that assisted to Smalltalks 2009 (Argentina).
+
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
+He is interested in improving development tools and the daily development process. 
+He is an enthusiast of the object oriented programming and their tools. 
+He collaborates with different open source projects like the ones in the Pharo Community [http://pharo.org/] and the Uqbar Foundation *http://www.uqbar-project.org/*.

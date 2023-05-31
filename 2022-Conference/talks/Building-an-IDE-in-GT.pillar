@@ -1,0 +1,18 @@
+! Building an IDE in GT
+
+Veit Heller  (veit.heller@feenk.com)
+
+""Abstract:""
+Glamorous Toolkit is self-described as a "multi-language notebook". But what is
+the process of adding a new language actually like, and what does it entail?
+
+In this talk, we will explore the process of adding the capability of working
+with a statically compiled language—Carp, a borrow-checked, type-inferred
+language with Lisp-like macros—to GT, and see whether by combining two very
+different worlds we can learn something new about both of them.
+
+""Bio:""
+Veit is one of the core maintainers of Carp. As his day job he works as a DX
+Crafter at feenk, helping to build Glamorous Toolkit. For as long as he has
+been involved with both worlds he has dreamed of combining the two just to see
+what happens.
