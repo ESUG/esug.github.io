@@ -1,0 +1,16 @@
+! Seaside Hotwired
+
+Johan Brichau  (johan@yesplan.be)
+
+""Abstract:""
+
+Seaside Hotwired is the integration of the Hotwire front-end framework of our Ruby-on-Rails colleagues into Seaside.
+Hotwire provides an alternative approach to implement a dynamic front-end using the Seaside back-end framework without 
+resorting to other Javascript front-end frameworks. 
+
+""Bio:""
+Johan Brichau is CTO of Yesplan (www.yesplan.be), an online venue management application. 
+He has more than 20 years experience with various Smalltalk environments, of which he spent
+the past 14 years happily building Yesplan with Pharo, Seaside, GemStone and various 
+front-end frameworks such as ReactJs.
+In the past 10 years, Johan is part of the core team maintaining Seaside.
