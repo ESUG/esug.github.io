@@ -1,0 +1,25 @@
+! Supporting Collaboration: Interaction Between Users
+
+Erik Stel (erik@objectguild.com / [https://objectguild.com](https://objectguild.com))
+Jonathan van Alteren (jonathan@objectguild.com / [https://objectguild.com](https://objectguild.com))
+
+""Abstract:""
+The main purpose of Enterprise Software is to support the user in her activities to reach the goals of the enterprise.
+In our opinion this support should not be limited to the indivdual users, but also support the
+interactions between multiple users. Allowing co-operation between humans in situations where they are
+not working in close vicinity of each other. Our Synthesist framework offers a number
+of features to support users in their interactions. It adds the power of collaboration to the basic
+building blocks of any application. This talk will show some of the collaboration features and/or ideas
+and the current implementation in the Synthesist framework (formerly known as Expressive Systems).
+
+""Bio:""
+Erik has developed both technical as well as business applications in a 
+variety of areas using a broad range of technologies. He’s been a Smalltalk 
+addict since using VisualAge in the late 1990’s.
+
+Jonathan has been developing business applications for various Dutch 
+companies since 2001, in roles varying from programmer to solution 
+architect. In 2018, he got hooked on Pharo/Smalltalk and never looked back.
+
+Object Guild is a Dutch software development company founded in 2019. Their mission is developing 
+human-friendly enterprise software applications for purpose-driven organisations.
