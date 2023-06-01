@@ -1,0 +1,24 @@
+! The Pharo Debugger and Debugging Tools: Advances and Roadmap
+
+Steven Costiou  (steven.costiou@inria.fr)
+Valentin Bourcier  (valentin.bourcier@oinria.fr)
+
+""Abstract:""
+In the past three years, the Pharo debugger has evolved and improved a lot.
+We have worked towards improving its features and stability, as well as building a solid infrastructure to conduct scientific and technological research on top of it.
+In return, we transfer our most stable and promising tools back into the debugger, therefore, we hope, improving user experience.
+
+In this talk, we describe the debugger infrastructure and the new tools we recently integrated.
+We also present examples of research prototypes that we are currently working on.
+Finally, we propose a roadmap for the next years.
+
+""Bio:""
+Steven is an Inria researcher and works in the EVREF team. 
+He builds and studies debugging tools to help developers understand their programs and fix bugs.
+In this context, his research interests span reflection and meta-programming, object-centric instrumentation, dynamic software adaptation and dynamic languages.
+Website: https://kloum.io/costiou
+
+Valentin Bourcier is a PhD student at Inria in the EVREF team since October 2022. 
+He studies object-centric debugging, a novel debugging technique that aims at lowering the cost of debugging object-oriented programs. 
+In this context, Valentin's main interests are debugging methodologies, debugging techniques, especially object-centric instrumentation 
+but also other techniques based on language analysis or language features such as reflection. 
