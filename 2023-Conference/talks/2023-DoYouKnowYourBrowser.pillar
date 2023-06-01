@@ -1,0 +1,9 @@
+! Do you know your browser?
+
+Koen De Hondt  (koen@all-objects-all-the-time.st)
+
+""Abstract:""
+You use the Pharo system browser every day. Therefore you know it inside-out. But do you, really? In this session you will learn things that some Smalltalkers do not know about their browser. The presentation will start with the results of a survey on the Pharo system browser (https://forms.gle/cBYs7DRwZvAVAyQb9), and then it will highlight some lesser known aspects of the browser. The objective of the presentation is to let you take away at least one aspect of the browser that you did not know before.
+
+""Bio:""
+Koen De Hondt uses Smalltalk since 1988, first as a student, then as an academic researcher, and then in industry. In the ninetees and the early nillies, he was one of the driving forces behind the Belgian Smalltalk User Group (BSUG). In that time frame, he presented at ESUG conferences several times. In 2003 he left the Smalltalk community for other adventures. This year, after 20 years, he returned to Smalltalk. Software development tools are still his main interest.
