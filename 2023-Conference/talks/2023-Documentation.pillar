@@ -1,0 +1,9 @@
+! Documentation as a first-class citizen
+
+Pavel Krivanek (krivanek@nidea.cz)
+
+""Abstract:""
+Maintaining up-to-date documentation is a critical, yet often overlooked component of software systems. In this presentation, we will discuss our methodology for generating documentation during the development process or when exploring unfamiliar codebases. We will also introduce the tools we have designed for this purpose, developed in collaboration with the INRIA RMoD team. Finally, we will examine the potential implications of our approach on the Pharo metamodel.
+
+""Bio:""
+Pavel Krivanek is a software engineer at Nidea s.r.o. that focuses on software consulting. The former member of the INRIA RMoD team. He actively participates in the Pharo open-source community with the primary focus on Pharo modularization, bootstrapping and cleaning and meta-modelling infrastructure.
