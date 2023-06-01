@@ -1,0 +1,11 @@
+! WebGS: Building a Backend for Modern Web Applications
+
+James Foster  (James.Foster@GemTalkSystems.com)
+
+""Abstract:""
+A modern web application is typically implemented as a Single Page Application (SPA) in JavaScript (or something that translates to JavaScript), using a framework such as Angular, Flutter, React, or Vue. These applications often use AJAX (with Json rather than XML) to make calls to a server that supports REST or a similar API over HTTP.
+
+In this tutorial we walk through the steps to install GemStone/S 64 Bit on your machine and use WebGS to serve data. We will look at a variety of use cases, including Web Sockets, for the front-end and the backend. 
+
+""Bio:""
+As a junior-high student in 1971, James discovered the local university’s computer center and a life-long obsession with computers began. He was introduced to Smalltalk/V for the Mac in the mid-90s, and became a Smalltalk fan. James teaches undergraduate computer science classes and serves as VP of Finance & Operations for GemTalk Systems. He is a passionate advocate for GemStone and all things Smalltalk.
