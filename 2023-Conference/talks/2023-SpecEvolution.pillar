@@ -1,0 +1,17 @@
+! Unlocking Potential: The Spec Framework's Evolution
+
+E. Lorenzano  (esteban.lorenzano@inria.fr) and P. Tesone (pablo.tesone@inria.fr)
+
+""Abstract:""
+In this talk, we will discuss the evolution of the Spec framework, which is used by Pharo to build its IDE 
+and is also proposed as a solution for building desktop applications. Starting from its early beginnings 
+in Spec 1.0, the framework has undergone significant changes, ultimately reaching a level of maturity that 
+enables us to envision the next step while maintaining compatibility..
+
+""Bio:""
+Esteban Lorenzano studied Computer Sciences at Universidad de Buenos Aires, and worked since 1994 in 
+several object-oriented and low-level technologies, in different software companies, serving in various 
+positions from programmer to senior architect. In 2007 he co-founded Smallworks to offer Pharo-based 
+agile development projects. Since 2012 he dedicated full time to developing the Pharo code and community. 
+He works with the INRIA-RMoD (now Evred) team in Lille, France, as core developer for Pharo, being responsible 
+with the coordination of new releases and the implementation and maintenance of Pharo libraries.
