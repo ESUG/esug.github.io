@@ -1,0 +1,16 @@
+! Building Applications for Desktop
+
+P. Tesone  (pablo.tesone@inria.fr)
+
+""Abstract:""
+Pharo is a great environment to develop desktop applications. 
+The Pharo Ecosystem is rich in frameworks and libraries to implement nice looking (and behaving) applications.
+In this talk, we are going to present how to take those applications and generates a package that we can distribute to our users.
+We need to handle the build of them, the packaging and the integration with the operating system.
+
+""Bio:""
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications. 
+He is interested in improving development tools and the daily development process. 
+He is an enthusiast of the object oriented programming and their tools. 
+He collaborates with different open source projects like the ones in the Pharo Community [http://pharo.org/] and the Uqbar Foundation [http://www.uqbar-project.org/].
