@@ -9,4 +9,4 @@ In this presentation, I showcase a series of bioinformatics workflows that have 
 ""Bio:""
 Hernán Morales Durand is a software developer which uses Smalltalk technologies since 1998, in academic research and industry contexts. He worked with multiple Smalltalk implementations, including VA Smalltalk, VisualWorks, Dolphin, Squeak, and Pharo. He was the original author of BioSmalltalk, and worked last years in building tools for agent-based modelling at Cirad (https://www.cirad.fr/), contributing to PolyMath, pharo-ai and other Pharo libraries. He actively participates in the Pharo open-source community.
 
-Today, Hernán is working in compiler development and enhacements for the Pharo virtual machine with the RMoD team at Lille, France.
+Today, Hernán is working in compiler development and enhacements for the Pharo virtual machine with the RMoD team (https://rmod.gitlabpages.inria.fr/website/) at Lille, France.
