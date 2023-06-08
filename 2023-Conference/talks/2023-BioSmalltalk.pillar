@@ -1,0 +1,12 @@
+! BioSmalltalk
+
+Hernán Morales (hernan-federico.morales@inria.fr)
+
+""Abstract:""
+
+In this presentation, I showcase a series of bioinformatics workflows that have been developed using BioSmalltalk, a collection of libraries and tools tailored to the needs of bioinformatics research and analysis, implemented in Pharo. We explore the applications of BioSmalltalk in various domains, including population genetics, structural variation analysis, genotype imputation, transcriptome profiling, traceability analysis, and bioinformatics software classification.
+
+""Bio:""
+Hernán Morales Durand is a software developer which uses Smalltalk technologies since 1998, in academic research and industry contexts. He worked with multiple Smalltalk implementations, including VA Smalltalk, VisualWorks, Dolphin, Squeak, and Pharo. He was the original author of BioSmalltalk, and worked last years in building tools for agent-based modelling at Cirad (https://www.cirad.fr/), contributing to PolyMath, pharo-ai and other Pharo libraries. He actively participates in the Pharo open-source community.
+
+Today, Hernán is working in compiler development and enhacements for the Pharo virtual machine with the RMoD team (https://rmod.gitlabpages.inria.fr/website/) at Lille, France.
