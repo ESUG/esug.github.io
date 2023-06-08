@@ -1,0 +1,29 @@
+! Hands-on Multiagent Modelling in Pharo: A Cormas Workshop
+
+Oleksandr Zaitsev  (oleksandr.zaitsev@cirad.fr)
+
+""Abstract:""
+In addition to my talk on Cormas, in this hands-on workshop, I will teach you how to build multi-agent models in Pharo. We will run different simulations together, explore their parameters, generate and analyse the simulation data.
+
+Below is the list of models that we will explore:
+- Bushmeat hunting
+- Shepherds and shrubs
+- Sheep movements
+- Mice-olifants river system
+- Locusts
+- Hide and share
+- Flu virus
+- Evacuation
+- Driftwood self-regulation
+- Dengue fever spreading
+- Butterfly coloration evolution
+
+(TODO: Choose 4-5 most interesting models from this list)
+
+""Bio:""
+Oleksandr Zaitsev is a computer science researcher at Cirad (https://www.cirad.fr/)
+He was the original author of DataFrame and pharo-ai libraries, contributor to PolyMath and other Pharo libraries.
+Today, Oleksandr is doing research on machine learning & human-machine interaction and building tools for agent-based modelling.
+He is in charge of the Cormas platform for multi-agent modelling.
+In 2022, Oleksandr defended his PhD in the RMoD team.
+His thesis was about data mining-based tools to support the evolution of software libraries.
