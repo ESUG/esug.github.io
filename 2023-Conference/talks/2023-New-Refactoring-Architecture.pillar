@@ -1,0 +1,16 @@
+! New architecture of the refactoring engine
+
+Balša Šarenac  (balsasarenac@uns.ac.rs)
+
+""Abstract:""
+
+In this talk, a new architecture of the refactoring engine will be presented.
+Talk will include improvements to the refactoring code, including:
+- Introduction of driver object responsible for UI interaction
+- Composing refactorings out of transformations
+- Handling errors and warnings in the new architecture
+
+""Bio:""
+Balša Šarenac is a PhD student at the Faculty of Technical Sciences, University of Novi Sad.
+His research topic is based on composable refactorings.
+He's primarily focused on the Pharo language and its refactoring engine.
