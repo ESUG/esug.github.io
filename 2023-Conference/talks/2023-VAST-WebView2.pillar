@@ -1,0 +1,9 @@
+! Building Hybrid Applications with VAST and WebView2
+
+Mariano Martinez Peck  (mpeck@instantiations.com)
+
+""Abstract:""
+It’s no longer a binary choice between native and web applications. Get the best of both worlds with VAST's latest integration with Microsoft Edge’s WebView2 framework. We’ll show you how to embed web content into VAST native applications and build hybrid systems with a number of interesting examples to guide you.
+
+""Bio:""
+Mariano Martinez Peck is a senior systems engineer specializing in dynamic programming language software.  In 2018, he joined Instantiations to further develop the VAST Platform through the addition of new frameworks, libraries and tools, as well as improving the existing code base of VAST. He is active in the Smalltalk development community, and has used his expertise to co-author numerous open source projects. Mariano has a PhD in Computer Science, and his academic research has been published across various international journals.
