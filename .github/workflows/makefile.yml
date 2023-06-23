@@ -35,13 +35,13 @@ jobs:
   agenda_build:      
     uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
     with:
-      agenda_filename: agenda.md
+      agenda_filename: 2022-Conference/agenda.md
       abstract_link: ../esug2022-abstracts.pdf
       
   workshop_agenda_build:      
     uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
     with:
-      agenda_filename: agenda-workshop.md
+      agenda_filename: 2022-Conference/agenda-workshop.md
     needs: agenda_build # avoid concurent write to the agenda artifact
 
   deploy:
