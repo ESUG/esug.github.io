@@ -1,0 +1,15 @@
+! gt4atproto: A programmable environment for social media
+
+Veit Heller  (veit.heller@feenk.com)
+
+""Abstract:""
+gt4atproto is a dedicated environment for AT Protocol, an open protocol for social media. gt4atproto is implemented in Glamorous Toolkit. In this talk we show how a single environment can serve a range of needs, from what can be considered end-user needs to deeply technical needs. Some examples:
+- Creating posts and threads from inside the knowledge management system. 
+- Working programmatically with a server through AT Protocol.
+- Code generation from lexicons to Smalltalk code.
+- Dedicated editing of lexicon JSON files.
+
+""Bio:""
+Veit is a developer experience crafter at feenk (feenk.com) building tools and techniques for making software systems
+explainable. He self-identifies as a bit of a Luddite and a non-user of socia media, although the dissection and
+reassembly of the algorithms and data behind a social network fascinate him more than he would like to admit.

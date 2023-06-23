@@ -1,0 +1,9 @@
+! Visual user-driven database queries
+
+Norbert Hartl (norbert@hartl.name)
+
+""Abstract:""
+Visual database queries is a show case about how ApptiveGrid enables users on the web to define custom database queries and how they are executed. Instead of having micro-DSLs for a lot of individual actions we use a small DSL as ubiqituous execution layer from web frontend to database record on disk.
+
+""Bio:""
+Norbert Hartl is co-founder of ApptiveGrid. ApptiveGrid is a nocode/lowcode-platfrom for collaboration and process automation where he works on less common ways to enable users to do custom and powerful things. 

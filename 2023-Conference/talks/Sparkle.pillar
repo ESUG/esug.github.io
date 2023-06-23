@@ -1,0 +1,10 @@
+! Sparkle -- Let's Annoy Users Differently
+
+Martin McClure  (martin.mcclure@gemtalksystems.com)
+
+""Abstract:""
+If you're setting out to develop a Smalltalk IDE from scratch, what design decisions do you make? You'd love to "fix" the things that have long annoyed you in existing IDEs, but new designs risk creating their own novel annoyances.
+The Sparkle project-in-progress is creating a new and not entirely conventional development environment for GemStone Smalltalk. Come see factors that have influenced its design, get a demo of the current state of the tools, and learn about the project's next steps.
+
+""Bio:""
+Martin heard about Smalltalk in 1975, ''finally'' got his hands on a running Smalltalk system ten years later, and hasn't let go since. In his 25 years on the GemStone team, Martin has worked on many aspects -- some VM internals, some user interface design, but mostly all the things that go in between. In his rare spare time, he works on Mist, a Smalltalk variant with improved modularity and no virtual machine. When not sitting in front of a computer, he does a lot of contra and country dancing.

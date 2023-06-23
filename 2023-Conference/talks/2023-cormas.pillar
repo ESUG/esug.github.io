@@ -1,0 +1,17 @@
+! Agent-based Modelling in Pharo using Cormas
+
+Oleksandr Zaitsev  (oleksandr.zaitsev@cirad.fr)
+
+""Abstract:""
+Cormas is an agent-based modelling platform developed in the late 90s by the Green research unit of Cirad to support the management of natural resources and understand the interactions between natural and social dynamics.
+This platform is well-suited for a participatory simulation approach that empowers local stakeholders by including them in all modelling and knowledge-sharing steps.
+In my talk, I will present the Cormas platform, discuss its unique features and their importance for the participatory simulation approach.
+I will also teach you to build simple models in Cormas and demonstrate several real-world applications of Cormas for managing natural resources in Africa and South America.
+
+""Bio:""
+Oleksandr Zaitsev is a computer science researcher at Cirad (https://www.cirad.fr/)
+He was the original author of DataFrame and pharo-ai libraries, contributor to PolyMath and other Pharo libraries.
+Today, Oleksandr is doing research on machine learning & human-machine interaction and building tools for agent-based modelling.
+He is in charge of the Cormas platform for multi-agent modelling.
+In 2022, Oleksandr defended his PhD in the RMoD team.
+His thesis was about data mining-based tools to support the evolution of software libraries.

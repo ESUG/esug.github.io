@@ -1,0 +1,11 @@
+! Working with GemStone from Glamorous Toolkit
+
+Alistair Grant (alistair.grant@feenk.com)
+
+
+""Abstract:""
+This talk will provide an update on the integration between GT (Glamorous Toolkit) and GemStone, demonstrating proxy objects, inspection, debugging and lepiter integration.
+
+
+""Bio:""
+Alistair Grant is a developer experience crafter at feenk (feenk.com) building tools and techniques for making software systems explainable.  Alistair is also a contributor to Pharo, and has previously managed software development in diverse areas including scientific systems, enterprise security and real-time control systems.
