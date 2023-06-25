@@ -1,0 +1,18 @@
+! Agile Dials, a tool for project management
+
+Gregory Anthony Bittar (email@fastdrizzle.com)
+
+""Abstract:""
+
+	Fast Drizzle Inc. is a graphics company specializing in software generated designs. Its Central Dials (TM) framework, constructed on Pharo Bloc, generates digitally rendered dashboards featuring sets of digital dials. Central Dials technology is borrowed by Agile Dials (TM), a specific effort using dial technology to shed project management light on development affairs.
+
+	The presentation will focus on Agile Dials product rather than construction, however this is a product very much of its construction. Smalltalk in the development community is the great unicorn, and yet for those who want to find it, it is everywhere. It left its imprint on the 1990s, and would contribute intellectual capital toward Agile. It's acknowledged that this effort has landed slightly askew of its target, but Agile Dials re-articulates the matter in a way that should help give the methodology balance and make whole. Granted, we're not in the 1990s anymore. Things have changed, and we need fresh solutions that are good enough.
+
+	The presentation will examine each of the Agile dials before moving on to interpretating dashboards. Finally, dashboards will be compared to get a sense for patterns amongst teams of developers.
+
+	The presentation will make passing mention of Miami as a technology hub linking the Americas to each other and both to a nearby space port. 
+
+	This presentation will make use of audio visual devices.
+	
+""Bio:""
+Gregory Anthony Bittar has been running full stack development since 1995 for JP Morgan Investment Bank, JP Morgan Private Bank, among others. More recently, Gregory has applied himself to private enterprise.
