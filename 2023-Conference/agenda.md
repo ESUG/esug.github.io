@@ -10,20 +10,22 @@
 <!talk|subject=The Pharo Debugger and Debugging Tools: Advances and Roadmap&length=30&author=S. COSTIOU&room=Amphi A1!>
 
 <!talk|subject=PDM command line reinvented&length=30&author=R. Uttner&room=Amphi A1!>
-<!talk|subject=VM testing&length=30&author= G. Polito&room=Amphi A1!>
+<!talk|subject=Phuzzing: a Pharo toolkit for automatic fuzz testing&length=30&author=G. POLITO&room=Amphi A1!>
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 
 <!talk|subject=Memory Profiler&length=30&author=S. JORDAN MONTANO&room=Amphi A1!>
 
-<!talk|subject=Pharo-IA&length=30&author=S. MONTANO and O. ZAITSEV&room=Amphi A1!>
+
 <!talk|subject=WebGS: Building a Backend for Modern Web Applications&length=30&author=J. FOSTER&room=Amphi A1!>
+<!talk|subject=Agile Dials, a tool for project management&length=30&author=G. BITTAR&room=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 
-<!talk|subject=Agile Dials, a tool for project management&length=30&author=G. BITTAR&room=Amphi A1!>
+
 <!talk|subject=Teaching Moldable Development&length=30&author=O. NIERSTRASZ&room=Amphi A1!>
 <!talk|subject=Agile Artificial Intelligence&length=30&author=A. BERGEL&room=Amphi A1!>
+<!talk|subject=Pharo-IA&length=30&author=S. MONTANO and O. ZAITSEV&room=Amphi A1!>
 
 
 
@@ -42,10 +44,9 @@
 
 <!talk|subject=Application in Pharo&length=30&author=P. TESONE&room=Amphi A1!>
 <!talk|subject=Supporting Collaboration: Interaction Between Users&length=30&author=E. Stel&room=Amphi A1!>
-<!talk|subject=Phuzzing: a Pharo toolkit for automatic fuzz testing&length=30&author=G. POLITO&room=Amphi A1!>
+<!talk|subject=Advanced object-oriented design Mooc &Inventory Concepts&length=15&author=S. DUCASSE&room=Amphi A1!>
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
-
 
 <!talk|subject=Seaside Hotwired&length=30&author=J. BRICHAU&room=Amphi A1!>
 <!talk|subject=Building Hybrid Applications with VAST and WebView2&length=30&author=M MARTINEZ-PECK&room=Amphi A1!>
@@ -76,7 +77,7 @@
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 <!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
 <!talk|subject=Opal compiler and Block&length=30&author=M. DENKER&room=Amphi A1!>
-<!talk|subject=Advanced object-oriented design Mooc&length=15&author=S. DUCASSE&room=Amphi A1!>
+
 <!talk|subject=Workshop on Inventory Concepts&length=120&author=C. FURHMAN and S. DUCASSE&room=Amphi A1!>
 
 <!talk|subject=Cormas hands-on: object-oriented UI foundations&length=90&author=S. JORDAN MONTANO and O. ZAYSTEV&room=Amphi A2!>
@@ -95,19 +96,19 @@
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 
 <!talk|subject=Documentation&length=30&author=P. KRIVANEK&room=Amphi A1!>
-<!talk|subject=Application in Pharo&length=30&author=G. AMARAL&room=Amphi A1!>
+<!talk|subject=Working with GemStone from Glamorous Toolkit&length=30&author=A. GRANT&room=Amphi A1!>
 <!talk|subject=Your questions about Git&length=30&author=G. POLITO&room=Amphi A1!>
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 
-<!talk|subject=Working with GemStone from Glamorous Toolkit&length=30&author=A. GRANT&room=Amphi A1!>
 <!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
 <!talk|subject=Agent-based Modelling in Pharo using Cormas&length=30&author=O. ZAYTSEV&room=Amphi A1!>
+<!talk|subject= Visual user-driven database queries&length=30&author=N. HARTLm=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 <!talk|subject=Sparkle -- Let's Annoy Users Differently&length=30&author=M McClure&room=Amphi A1!>
 <!talk|subject=Do you know your browser?&length=30&author=K. DE HONDT&room=Amphi A1!>
-<!talk|subject= Visual user-driven database queries&length=30&author=N. HARTLm=Amphi A1!>
+<!talk|subject=VASER Control&length=30&author=T. and F. STALZER&room=Amphi A1!>
 
 
 <!break|subject=Show us your projects&length=60&room=Amphi A1!>
@@ -125,10 +126,8 @@
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 <!talk|subject=gt4atproto: A programmable environment for social media&length=30&author=V. HELLER&room=Amphi A1!>
 <!talk|subject=Bio Smalltalk&length=30&author=H. MORALES&room=Amphi A1!>
-<!talk|subject=VASER Control&length=30&author=T. and F. STALZER&room=Amphi A1!>
 <!talk|subject=New refactoring architecture&length=30&author=B. SARENAC and S. DUCASSE&room=Amphi A1!>
 <!talk|subject=Contributing to Pharo&length=15&author=S. DUCASSE&room=Amphi A1!>
-
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 !>
 !>
