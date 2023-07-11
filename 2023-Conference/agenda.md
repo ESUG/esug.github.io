@@ -8,8 +8,8 @@
 
 <!talk|subject=PharoJS'23&length=30&author=N. BOURAQADI and D. MASON&room=Amphi A1!>
 <!talk|subject=The Pharo Debugger and Debugging Tools: Advances and Roadmap&length=30&author=S. COSTIOU&room=Amphi A1!>
+<!talk|subject=Supporting Collaboration: Interaction Between Users&length=30&author=E. Stel&room=Amphi A1!>
 
-<!talk|subject=PDM command line reinvented&length=30&author=R. Uttner&room=Amphi A1!>
 <!talk|subject=Phuzzing: a Pharo toolkit for automatic fuzz testing&length=30&author=G. POLITO&room=Amphi A1!>
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
@@ -25,7 +25,7 @@
 
 <!talk|subject=Teaching Moldable Development&length=30&author=O. NIERSTRASZ&room=Amphi A1!>
 <!talk|subject=Agile Artificial Intelligence&length=30&author=A. BERGEL&room=Amphi A1!>
-<!talk|subject=Pharo-IA&length=30&author=S. MONTANO and O. ZAITSEV&room=Amphi A1!>
+<!talk|subject=Pharo-IA&length=30&author=C. FERLICOT and O. ZAITSEV&room=Amphi A1!>
 
 
 
@@ -43,7 +43,8 @@
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 <!talk|subject=Native desktop modern applications&length=30&author=P. LABORDE&room=Amphi A1!>
 <!talk|subject=Application in Pharo&length=30&author=P. TESONE&room=Amphi A1!>
-<!talk|subject=Supporting Collaboration: Interaction Between Users&length=30&author=E. Stel&room=Amphi A1!>
+<!talk|subject=PDM command line reinvented&length=30&author=R. Uttner&room=Amphi A1!>
+
 
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
