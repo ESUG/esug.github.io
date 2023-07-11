@@ -41,10 +41,10 @@
 <!talk|subject=Pharo 11 and more&length=45&author=S. DUCASSE&room=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
-
+<!talk|subject=Native desktop modern applications&length=30&author=P. LABORDE&room=Amphi A1!>
 <!talk|subject=Application in Pharo&length=30&author=P. TESONE&room=Amphi A1!>
 <!talk|subject=Supporting Collaboration: Interaction Between Users&length=30&author=E. Stel&room=Amphi A1!>
-<!talk|subject=Advanced object-oriented design Mooc &Inventory Concepts&length=15&author=S. DUCASSE&room=Amphi A1!>
+
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 
@@ -71,12 +71,12 @@
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 
 <!talk|subject=Soil - a fresh look on OO databases&length=30&author=N. HARTL and M. DENKER&room=Amphi A1!>
-<!talk|subject=Native desktop modern applications&length=30&author=P. LABORDE&room=Amphi A1!>
+<!talk|subject=Opal compiler and Block&length=30&author=M. DENKER&room=Amphi A1!>
 <!talk|subject=Grafoscopio: Civic tech and how we change the tools that change us&length=30&author=O. LUNA&room=Amphi A1!>
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 <!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
-<!talk|subject=Opal compiler and Block&length=30&author=M. DENKER&room=Amphi A1!>
+
 
 <!talk|subject=Workshop on Inventory Concepts&length=120&author=C. FURHMAN and S. DUCASSE&room=Amphi A1!>
 
