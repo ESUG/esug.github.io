@@ -104,7 +104,7 @@
 
 <!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
 <!talk|subject=Agent-based Modelling in Pharo using Cormas&length=30&author=O. ZAYTSEV&room=Amphi A1!>
-<!talk|subject= Visual user-driven database queries&length=30&author=N. HARTLm=Amphi A1!>
+<!talk|subject= Visual user-driven database queries&length=30&author=N. HARTL&room=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 <!talk|subject=Sparkle -- Let's Annoy Users Differently&length=30&author=M McClure&room=Amphi A1!>
