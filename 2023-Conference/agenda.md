@@ -8,7 +8,7 @@
 
 <!talk|subject=PharoJS'23&length=30&author=N. BOURAQADI and D. MASON&room=Amphi A1!>
 <!talk|subject=The Pharo Debugger and Debugging Tools: Advances and Roadmap&length=30&author=S. COSTIOU&room=Amphi A1!>
-<!talk|subject=Supporting Collaboration: Interaction Between Users&length=30&author=E. Stel&room=Amphi A1!>
+<!talk|subject=Music With Pharo&length=30&author=D. CIPRIANI&room=Amphi A1!>
 
 <!talk|subject=Phuzzing: a Pharo toolkit for automatic fuzz testing&length=30&author=G. POLITO&room=Amphi A1!>
 
@@ -38,7 +38,7 @@
 <!day|start=2023 August 29th
 
 <!segment|start=9:15
-<!talk|subject=Pharo 11 and more&length=45&author=S. DUCASSE&room=Amphi A1!>
+<!talk|subject=Pharo 11&length=45&author=S. DUCASSE&room=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 <!talk|subject=Native desktop modern applications&length=30&author=P. LABORDE&room=Amphi A1!>
@@ -51,7 +51,7 @@
 
 <!talk|subject=Seaside Hotwired&length=30&author=J. BRICHAU&room=Amphi A1!>
 <!talk|subject=Building Hybrid Applications with VAST and WebView2&length=30&author=M MARTINEZ-PECK&room=Amphi A1!>
-<!talk|subject=Live Deployment of Pharo Web Applications&length=30&author= J. VAN ALTEREN&room=Amphi A1!>
+<!talk|subject=Empty for now&length=30&author=ghosty&room=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 
@@ -81,7 +81,7 @@
 
 <!talk|subject=Workshop on Inventory Concepts&length=120&author=C. FURHMAN and S. DUCASSE&room=Amphi A1!>
 
-<!talk|subject=Cormas hands-on: object-oriented UI foundations&length=90&author=S. JORDAN MONTANO and O. ZAYSTEV&room=Amphi A2!>
+<!talk|subject=Cormas hands-on: object-oriented UI foundations&length=90&author=S. JORDAN MONTANO and O. ZAYTSEV&room=Amphi A2!>
 
 <!break|subject=Social Event&length=300&room=Amphi A1!>
 !>
