@@ -1,6 +1,6 @@
-# esug.github.io
+# http://esug.github.io
 
-This repository hosts Esug's website. This repository contains two branches:
+This repository hosts Esug's website [https://esug.github.io](). This repository contains two branches:
  - source: contains the website source code, written in Pillar, plus the used html templates
  - master: contains the generated website. Do not touch manually this branch, since this branch is automatically overwritten on every commit to "source". See the next section.
 
