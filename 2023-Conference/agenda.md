@@ -16,12 +16,10 @@
 
 <!talk|subject=Memory Profiler&length=30&author=S. JORDAN MONTANO&room=Amphi A1!>
 
-
 <!talk|subject=WebGS: Building a Backend for Modern Web Applications&length=30&author=J. FOSTER&room=Amphi A1!>
 <!talk|subject=Agile Dials, a tool for project management&length=30&author=G. BITTAR&room=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
-
 
 <!talk|subject=Teaching Moldable Development&length=30&author=O. NIERSTRASZ&room=Amphi A1!>
 <!talk|subject=Agile Artificial Intelligence&length=30&author=A. BERGEL&room=Amphi A1!>
@@ -106,7 +104,8 @@
 
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
-<!talk|subject=Sparkle -- Let's Annoy Users Differently&length=30&author=M McClure&room=Amphi A1!>
+<!talk|subject=Advanced Object-Oriented Design: a new Mooc&length=30&author=S. DUCASSE and L. FABRESSE&room=Amphi A1!>
+%<!talk|subject=Sparkle -- Let's Annoy Users Differently&length=30&author=M McClure&room=Amphi A1!>
 <!talk|subject=Do you know your browser?&length=30&author=K. DE HONDT&room=Amphi A1!>
 <!talk|subject=VASER Control&length=30&author=T. and F. STALZER&room=Amphi A1!>
 
