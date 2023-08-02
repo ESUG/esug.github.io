@@ -23,7 +23,7 @@
 
 <!talk|subject=Teaching Moldable Development&length=30&author=O. NIERSTRASZ&room=Amphi A1!>
 <!talk|subject=Agile Artificial Intelligence&length=30&author=A. BERGEL&room=Amphi A1!>
-<!talk|subject=Pharo-IA&length=30&author=O. ZAYTSEV and S. JORDAN-MONTANO&room=Amphi A1!>
+<!talk|subject=PolyMath / Pharo-AI / DataFrame &length=30&author=O. ZAYTSEV, S. JORDAN-MONTANO, C. FERLICOT-DELBECQUE&room=Amphi A1!>
 
 
 
@@ -78,7 +78,7 @@
 
 <!talk|subject=Workshop on Inventory Concepts&length=120&author=C. FURHMAN and S. DUCASSE&room=Amphi A1!>
 
-<!talk|subject=Cormas hands-on: object-oriented UI foundations&length=90&author=S. JORDAN MONTANO and O. ZAYTSEV&room=Amphi A2!>
+<!talk|subject=Cormas hands-on: object-oriented UI foundations&length=90&author=O. ZAYTSEV&room=Amphi A2!>
 
 <!break|subject=Social Event&length=300&room=Amphi A1!>
 !>
@@ -99,7 +99,7 @@
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 
-<!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
+<!talk|subject=Google Summer of Code with Pharo&length=30&author=O. ZAITSEV and G. Rakic&room=Amphi A1!>
 <!talk|subject=Documentation&length=30&author=P. KRIVANEK&room=Amphi A1!>
 
 
