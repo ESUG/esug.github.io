@@ -25,7 +25,8 @@
 
 <!talk|subject=Teaching Moldable Development&length=30&author=O. NIERSTRASZ&room=Amphi A1!>
 <!talk|subject=Agile Artificial Intelligence&length=30&author=A. BERGEL&room=Amphi A1!>
-<!talk|subject=Pharo-IA&length=30&author=C. FERLICOT and O. ZAITSEV&room=Amphi A1!>
+<!talk|subject=Agent-based Modelling in Pharo using Cormas&length=30&author=O. ZAYTSEV&room=Amphi A1!>
+
 
 
 
@@ -76,8 +77,6 @@
 <!talk|subject=Grafoscopio: Civic tech and how we change the tools that change us&length=30&author=O. LUNA&room=Amphi A1!>
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
-<!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
-
 
 <!talk|subject=Workshop on Inventory Concepts&length=120&author=C. FURHMAN and S. DUCASSE&room=Amphi A1!>
 
@@ -103,7 +102,7 @@
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 
 <!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
-<!talk|subject=Agent-based Modelling in Pharo using Cormas&length=30&author=O. ZAYTSEV&room=Amphi A1!>
+<!talk|subject=Pharo-IA and Polymath&length=30&author=C. FERLICOT and O. ZAITSEV&room=Amphi A1!>
 <!talk|subject= Visual user-driven database queries&length=30&author=N. HARTL&room=Amphi A1!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
