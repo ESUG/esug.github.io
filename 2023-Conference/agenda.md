@@ -95,7 +95,7 @@
 <!talk|subject=Instantiations Company Update & VAST 2024 Preview&length=45&author=Greg Schultz&room=Amphi A1!>
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 
-<!talk|subject=Documentation&length=30&author=P. KRIVANEK&room=Amphi A1!>
+<!talk|subject= Visual user-driven database queries&length=30&author=N. HARTL&room=Amphi A1!>
 <!talk|subject=Working with GemStone from Glamorous Toolkit&length=30&author=A. GRANT&room=Amphi A1!>
 <!talk|subject=Your questions about Git&length=30&author=G. POLITO&room=Amphi A1!>
 
@@ -103,7 +103,8 @@
 
 <!talk|subject=Polymath&length=30&author=O. ZAITSEV&room=Amphi A1!>
 <!talk|subject=Pharo-IA and Polymath&length=30&author=C. FERLICOT and O. ZAITSEV&room=Amphi A1!>
-<!talk|subject= Visual user-driven database queries&length=30&author=N. HARTL&room=Amphi A1!>
+<!talk|subject=Documentation&length=30&author=P. KRIVANEK&room=Amphi A1!>
+
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
 <!talk|subject=Sparkle -- Let's Annoy Users Differently&length=30&author=M McClure&room=Amphi A1!>
