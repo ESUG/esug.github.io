@@ -104,7 +104,7 @@
 
 
 <!break|subject=Coffee Break&length=30&room=Amphi A1!>
-<!talk|subject=Advanced Object-Oriented Design: a new Mooc&length=30&author=S. DUCASSE and L. FABRESSE&room=Amphi A1!>
+<!talk|subject=News from Bloc&length=30&author=M. DIAS and P. TESONE&room=Amphi A1!>
 %<!talk|subject=Sparkle -- Let's Annoy Users Differently&length=30&author=M McClure&room=Amphi A1!>
 <!talk|subject=Do you know your browser?&length=30&author=K. DE HONDT&room=Amphi A1!>
 <!talk|subject=VASER Control&length=30&author=T. and F. STALZER&room=Amphi A1!>
@@ -126,7 +126,7 @@
 <!talk|subject=gt4atproto: A programmable environment for social media&length=30&author=V. HELLER&room=Amphi A1!>
 <!talk|subject=Bio Smalltalk&length=30&author=H. MORALES&room=Amphi A1!>
 <!talk|subject=New refactoring architecture&length=30&author=B. SARENAC and S. DUCASSE&room=Amphi A1!>
-<!talk|subject=Contributing to Pharo&length=15&author=S. DUCASSE&room=Amphi A1!>
+<!talk|subject=Advanced Object-Oriented Design: a new Mooc&length=30&author=S. DUCASSE and L. FABRESSE&room=Amphi A1!>
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 !>
 !>
