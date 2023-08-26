@@ -16,18 +16,18 @@
 
 <!talk|subject=Pharo: a reflective language – A first systematic analysis of reflective APIs&length=30&author=Thomas, Ducasse, Tesone and Polito&room=Room B!>
 <!talk|subject=Pattern matching in Pharo&length=30&author=Hosry, Anquetil, Ducasse and Aranega&room=Room B!>
-<!talk|subject=Exploring GitHub Actions through EGAD: An Experience Report&length=30&author=Palumbo, Jordan-Montaño, Polito, Tesone and Ducasse&room=Room B!>
+<!talk|subject=Exploring GitHub Actions through EGAD: An Experience Report&length=30&author=Valenzuela,  Bergel, Kehrer and Nierstrasze&room=Room B!>
 
 !>
 
 !>
 
-<!day|start=2023 August 31th
+<!day|start=2023 August 31st
 
 <!segment|start=10:30
 
 <!talk|subject=SmallEvoTest: Genetically Created Unit Tests in Pharo&length=30&author=Bergel, Fernandez-Blanco, Sandoval-Alcocer and Galindo-Gutierrez&room=Room B!>
-<!talk|subject=A Unit Test Metamodel for Test Generation&length=30&author=Etien, Anquetil, Verhaeghe and Derras&room=Room B!>
+<!talk|subject=A Unit Test Metamodel for Test Generation&length=30&author=Darbord, Etien, Anquetil, Verhaeghe and Derras&room=Room B!>
 <!talk|subject=Threaded-Execution and CPS Provide Smooth Switching Among Execution Modes&length=30&author=Mason&room=Room A5!>
 
 !>
