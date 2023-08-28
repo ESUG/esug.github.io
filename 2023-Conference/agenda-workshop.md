@@ -6,20 +6,38 @@
 
 <!segment|start=10:30
 
-<!talk|subject=Using Moose platform for the implementation of a Software Product Line according to model-based Delta-Oriented Programming&length=30&author=Boubou Thiam Niang, Giacomo Kahn, Nawel Amokrane, Yacine Ouzrout, Mustapha Derras and Jannik Laval&room=Room A5!>
-<!talk|subject=Towards Object-centric Time-traveling Debuggers&length=30&author=Maximilian Ignacio Willembrinck Santander, Steven Costiou, Adrien Vanègue and Anne Etien&room=Room A5!>
-<!talk|subject=Transformation-based Refactorings: a First Analysis&length=30&author=Nicolas Anquetil, Miguel Campero, Stéphane Ducasse, Juan-Pablo Sandoval Alcocer and Pablo Tesone&room=Room A5!>
+<!talk|subject=Pharo DataFrame: Past, Present, and Future&length=30&author=Safina, Zaitsev, Ferlicot-Delbecque and Sow&room=Room B!>
+<!talk|subject=Improving Performance Through Object Lifetime Profiling: the DataFrame Case&length=30&author=Jordan-Montaño, Palumbo, Polito, Ducasse and Tesone&room=Room B!>
+<!talk|subject=Garbage Collector Tuning in Pathological Allocation Pattern Applications&length=30&author=Palumbo, Jordan-Montaño, Polito, Tesone and Ducasse&room=Room B!>
 
 !>
+
+<!segment|start=14:00
+
+<!talk|subject=Pharo: a reflective language – A first systematic analysis of reflective APIs&length=30&author=Thomas, Ducasse, Tesone and Polito&room=Room B!>
+<!talk|subject=Pattern matching in Pharo&length=30&author=Hosry, Anquetil, Ducasse and Aranega&room=Room B!>
+<!talk|subject=Exploring GitHub Actions through EGAD: An Experience Report&length=30&author=Valenzuela,  Bergel, Kehrer and Nierstrasze&room=Room B!>
+
 !>
 
-<!day|start=2023 August 30th
+!>
+
+<!day|start=2023 August 31st
 
 <!segment|start=10:30
 
-<!talk|subject=Design Principles for a High-performance Smalltalk&length=30&author=D. Mason&room=Room A5!>
-<!talk|subject=How Fast is AI in Pharo? Benchmarking Linear Regression&length=30&author=Oleksandr Zaitsev, Sebastian Jordan Montaño and Stéphane Ducasse&room=Room A5!>
-<!talk|subject=Can We Automatically Generate Class Comments in Pharo?&length=30&author=Pooja Rani, Alexandre Bergel, Lino Hess, Timo Kehrer and Oscar Nierstrasz&room=Room A5!>
+<!talk|subject=SmallEvoTest: Genetically Created Unit Tests in Pharo&length=30&author=Bergel, Fernandez-Blanco, Sandoval-Alcocer and Galindo-Gutierrez&room=Room B!>
+<!talk|subject=A Unit Test Metamodel for Test Generation&length=30&author=Darbord, Etien, Anquetil, Verhaeghe and Derras&room=Room B!>
+<!talk|subject=Threaded-Execution and CPS Provide Smooth Switching Among Execution Modes&length=30&author=Mason&room=Room A5!>
 
 !>
+
+<!segment|start=14:00
+
+<!talk|subject=PharoJS: Transpiling Pharo Classes to JS - ECMAScript 5 versus ECMAScript 6&length=30&author=Bouraqadi and Mason&room=Room B!>
+<!talk|subject=Analyzing Dart Language with Pharo: Report and early results&length=30&author=Hlad, Verhaeghe, Capdepon, Seriai and Derras&room=Room B!>
+<!talk|subject=Migration process from monolithic to micro frontend architecture in mobile applications&length=30&author=Capdepon, Hlad, Seriai and Derras&room=Room B!>
+<!talk|subject=Sequence: Pipeline modelling in Pharo&length=30&author=Matveev&room=Room B!>
+!>
+
 !>
