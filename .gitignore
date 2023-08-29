@@ -1,3 +1,4 @@
 .ecstatic
 _site/
 *~
+**/.DS_Store
