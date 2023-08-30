@@ -24,12 +24,12 @@
 
 <!day|start=2023 August 31st
 
-<!segment|start=10:30
-
+<!segment|start=9:15
+<!talk|subject=Threaded-Execution and CPS Provide Smooth Switching Among Execution Modes&length=30&author=Mason&room=Room B!>
+<!break|subject=Break&length=15&room=Room B!>
+<!break|subject=Coffee Break&length=30&room=Room B!>
 <!talk|subject=SmallEvoTest: Genetically Created Unit Tests in Pharo&length=30&author=Bergel, Fernandez-Blanco, Sandoval-Alcocer and Galindo-Gutierrez&room=Room B!>
 <!talk|subject=A Unit Test Metamodel for Test Generation&length=30&author=Darbord, Etien, Anquetil, Verhaeghe and Derras&room=Room B!>
-<!talk|subject=Threaded-Execution and CPS Provide Smooth Switching Among Execution Modes&length=30&author=Mason&room=Room A5!>
-
 !>
 
 <!segment|start=14:00
