@@ -10,12 +10,16 @@ Lyon, France; August 29th-31st, 2023
 
 *Program>https://esug.github.io/2023-Conference/agenda/agenda-workshop.html*
 
-The articles are available: *PDFs>https://github.com/ESUG/esug.github.io/tree/source/2023-Conference/iwst*
-%""Awards""
+Slides are available: *PDFs>https://github.com/ESUG/esug.github.io/tree/source/2023-Conference/iwst/slides*
 
-%- First Prize: ''"Title"'' by Author.
-%- Second Prize: ''"Title"'' by Author.
-%- Third Prize: ''"Title"'' by Author.
+This year we have a special issue in the COLA Journal. Submission deadline the 15th of november 2023.
+More info in: *special issue>https://www.sciencedirect.com/journal/journal-of-computer-languages/about/call-for-papers#smalltalk-technologies*
+
+""Awards""
+
+- First Prize: Nahuel Palumbo, Sebastian Jordan Montaño, Guillermo Polito, Pablo Tesone and Stéphane Ducasse. Garbage Collector Tuning in Pathological Allocation Pattern Applications.
+- Second Prize: Pablo Valenzuela, Alexandre Bergel, Timo Kehrer and Oscar Nierstrasz. Exploring GitHub Actions through EGAD: An Experience Report.
+- Third Prize: Noury Bouraqadi and Dave Mason. PharoJS: Transpiling Pharo Classes to JS - ECMAScript 5 versus ECMAScript 6.
 
 %!! List of Accepted Articles
 
