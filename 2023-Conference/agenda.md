@@ -76,7 +76,7 @@
 
 <!break|subject=Lunch&length=120&room=Amphi A1!>
 
-<!talk|subject=Workshop on Inventory Concepts&length=120&author=C. FURHMAN and S. DUCASSE&room=Amphi A1!>
+<!talk|subject=Workshop on Concept Inventories&length=120&author=C. FUHRMAN and S. DUCASSE&room=Amphi A1!>
 
 <!talk|subject=Cormas hands-on: object-oriented UI foundations&length=90&author=O. ZAYTSEV&room=Amphi A2!>
 
