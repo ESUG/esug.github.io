@@ -1,0 +1,11 @@
+! Pharo 11
+
+S. Ducasse  (stephane.ducasse@inria.fr) and P. Tesone (pablo.tesone@inria.fr)
+
+""Abstract:""
+In this talk I will present the Pharo 11 release. Pharo 11 got released in May 2023. It includes many improvements.
+I will also develop the vision around Pharo architecture in terms of new UI.
+
+""Bio:""
+Stéphane Ducasse is one of the creator of Pharo. He leads Pharo development with a special attention to make sure that while 
+Pharo delivers exciting new features, it can be used by companies to deliver business values.

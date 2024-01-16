@@ -1,0 +1,13 @@
+! Moose: a modular software analysis environment
+
+Clotilde Toullec (clotilde.toullec@inria.fr)
+
+""Abstract:""
+Moose is a platform for software and data analysis, based on Pharo. 
+It allows the representation of software systems in a model. 
+The platform provides a diverse set of tools to query, visualize, and manipulate this model. 
+Moose is modular and is utilized for crafting specialized tools that aid developers in comprehending software systems, making informed decisions, identifying anomalies, and performing refactoring tasks.
+During this presentation, we will introduce Moose, discuss its philosophy and evolution, and present a selection of its tools.
+
+""Bio:""
+Clotilde Toullec is a software engineerin the Evref team at Inria Lille. She maintains and develop Moose.

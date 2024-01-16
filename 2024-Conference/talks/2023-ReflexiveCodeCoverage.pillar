@@ -1,0 +1,21 @@
+! Building a reflexive code-coverage tool
+
+Nicolas Papagna Maldonado (nicolas.papagna@10pines.com)
+
+""Abstract:""
+In this talk, I'll walk you through a journey to build a code-coverage tool that can analyze itself.
+
+We'll do a quick recap on the types of code-coverage levels that can be implemented and review the current state of the tools available.
+Then I'll show you how to build a code-coverage tool, requiring no support from the VM, from scratch.
+After that we'll see how easy it is to build a code-coverage tool that can give you more information than most of the tools out there.
+
+Finally, I'll show how to make this tool reflexive to allow it to analyze itself.
+
+The talk will present the tool not as a finished product, but as a platform to run your own code-coverage experiments, inviting you to expand or even improve what we know about coverage so far.
+
+""Bio:""
+Nicolas Papagna Maldonado is a developer who believes the computer revolution hasn't happened yet.
+Loves learning and sharing anything OO & TDD related.
+He's been TA for OO at FCEN, University of Buenos Aires.
+Happily grows software at 10Pines.
+Chat with him on Twitter at @NicolasPapagna.

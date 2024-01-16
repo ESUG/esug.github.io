@@ -1,0 +1,20 @@
+! Phuzzing: a Pharo toolkit for automatic fuzz testing
+
+Guillermo Polito (guillermo.polito@inria.fr)
+
+""Abstract:""
+In this talk I will present the first steps on an (ongoing) fuzz testing toolkit for Pharo.
+
+Fuzz testing is a testing technique that automatically generates inputs for programs, with the objective of challenging their implementations and find bugs.
+There are, however, different ways to apply fuzz testing, ranging from completely random generation, to profile-guided generation.
+
+In this presentation we will showcase the library by using real cases, and generating real test scenarios for them.
+Who knows? Maybe we find a bug.
+
+
+""Bio:""
+Guille Polito is chargé de recherche at INRIA and the CRIStAL laboratory in the University of Lille, within the Evref team.
+He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
+Guille's main research interests are compilers, modularity, tooling and automated testing.
+Guille participates in the Pharo community since 2010 and is now board member.
+His most noticeable contributions to the community are the Pharo Bootstrap process and Iceberg.

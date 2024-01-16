@@ -1,0 +1,14 @@
+! PDM command line reinvented
+
+Richard Uttner (r.uttner@projector.de)
+
+""Abstract:""
+Based on Pharo 11 with GTK and Roassal3, PDM is a graphical desktop application for document management which will go 
+productive in 2024. Recently it has been redesigned to represent every use case of the application as named command with 
+named parameters on typed values. This talk shows how the application can now be driven either by auto-completed typing, 
+speech recognition or serialized commands passed in from other modules.
+
+""Bio:""
+Starting as a freelancer in 1980, Richard has been involved in numerous software projects where he worked together closely 
+with more than 600 developers overall. His experience covers business applications as well as tool development in Smalltalk, 
+which he started working with in 1992 and where his focus is still on.

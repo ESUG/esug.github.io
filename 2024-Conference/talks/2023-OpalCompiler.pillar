@@ -1,0 +1,13 @@
+!Improving the compiler infrastructure of Pharo
+
+Marcus Denker <marcus.denker@inria.fr> and Jean Privat <privat.jean@uqam.ca>
+
+""Abstract:""
+This talk will present the current state of improving OpalCompiler in Pharo and discusses possible future work.
+
+
+""Bio:""
+
+Marcus Denker is a permanent researcher at INRIA Lille He is an active participant in the Pharo open source communities for many years. Marcus Denker received a PhD in Computer Science from the University of Bern/Switzerland in 2008 and a Dipl.-Inform. (MSc) from the University of Karlsruhe/Germany in 2004. He co-founded ZWEIDENKER in 2009. 
+
+Jean Privat is a Professor in Computer Science at Université du Québec à Montréal (Canada). He received his Ph.D. in Computer Science from Université de Montpellier (France) and did a postdoc at Purdue University (USA). His research interests lie in the area of programming languages, ranging from design to implementation.

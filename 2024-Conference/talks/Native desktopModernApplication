@@ -1,0 +1,13 @@
+Titre
+Native desktop modern application demo at Thales, using the last UI capacities in Pharo and our open-source tools
+ 
+Resume
+We present a demonstration of a fully graphical application written in Pharo and presented at the Paris Air Show 2023 for working with Thales customers. Through this application, we will present some user-interface open-source design tools for building modern native desktop applications for Windows, Linux, and MacOS. Our application uses Bloc 2D library, Toplo widget library with a custom look & feel, Molecule component based-architecture framework, etc. The opportunity for us to tell you a few words about our "WYSIWYG" open-source editor Pyramid. It allows for the possibility to build Bloc/Toplo applications easily. We have added a way to instantiate Block elements from external design tools such as FIGMA by a Pyramid plugin and we present also a little demo of the result.
+ 
+Bio
+Pierre Laborde - Senior User Experience designer and engineer at Thales Defence Mission System France in the city of Brest
+Eric Le Pors - User Experience Lead at Thales Defence Mission System France in the city of Brest
+ 
+ 
+Pierre
+ 

@@ -1,0 +1,15 @@
+! Illimani: a Memory Profiler
+
+Sebastian Jordan Montaño  (sebastian.jordan@inria.fr)
+
+""Abstract:""
+
+Illimani is a memory profiler for Pharo. It gives information about the objects lifetime, the memory usage of an application.
+It has a rich model that allows the user to query the profiler to extract information about the allocation context, such as the allocator class, method or the reified stack.
+In this talk Sebastian will present Illimani.
+
+""Bio:""
+
+Sebastian Jordan Montaño is a software engineer that works in the RMoD team.
+He worked for one year on pharo-ai and he is working with Pharo since three years in different projects.
+Now he is finishing his master in which he works on profilers. He will later start his PhD in the RMoD team.

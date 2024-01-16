@@ -1,0 +1,23 @@
+! Live Deployment of Pharo Web Applications
+
+Jonathan van Alteren (jonathan@objectguild.com / [https://objectguild.com](https://objectguild.com))
+Erik Stel (erik@objectguild.com / [https://objectguild.com](https://objectguild.com))
+
+""Abstract:""
+Pharo is known for its live programming features, which are great for developers to work with. What if 
+we could extend this to include live deployment of enterprise applications and features? In this talk, 
+we will explore this vision together, show you what (we think) is possible and what this could mean for 
+businesses and developer. Who knows, we might even give a live demonstration ;-)
+
+
+""Bio:""
+Jonathan has been developing business applications for various Dutch 
+companies since 2001, in roles varying from programmer to solution 
+architect. In 2018, he got hooked on Pharo/Smalltalk and never looked back.
+
+Erik has developed both technical as well as business applications in a 
+variety of areas using a broad range of technologies. He’s been a Smalltalk 
+addict since using VisualAge in the late 1990’s.
+
+Object Guild is a Dutch software development company founded in 2019. Their mission is developing 
+human-friendly enterprise software applications for purpose-driven organisations.
