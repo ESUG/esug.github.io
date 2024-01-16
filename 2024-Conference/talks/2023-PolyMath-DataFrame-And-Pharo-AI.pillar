@@ -1,0 +1,24 @@
+! DataFrame, PolyMath, Pharo-AI: State of data science in Pharo
+
+Cyril Ferlicot-Delbecque (cyril@ferlicot.fr), Sebastian Jordan Montaño (sebastian.jordan@inria.fr), Oleksandr Zaitsev (oleksandr.zaitsev@cirad.fr)
+
+""Abstract:""
+
+Over the past few year, support for machine learning, data science, and numerical computing in Pharo has improved. 3 projects are the leader of this improvements:
+- PolyMath, a mathematical library in Pharo that implements various algorithms and data structure for algebra, matrix-vector operations, numerical analysis, differential equations, etc. It is similar to NumPy and SciPy in Python or SciRuby in Ruby
+- DataFrame, a tabular data structure for data analysis
+- Pharo-AI, a collection of artificial intelligence (AI) algorithms, including machine learning and graph algorithms
+
+This presentation aim to explain the latest improvements over those 3 projects and their relation to each other.
+
+""Bio:""
+
+Cyril Ferlicot-Delbecque is a research and development engineer working in the Inria Rmod team.
+He works since 2015 on divers project around Pharo and on Pharo itself. He's currently working on pharo-ai, DataFrame and Polymath.
+
+Sebastian Jordan Montaño is a software engineer that works in the RMoD team.
+He worked for one year on pharo-ai and he is working with Pharo since three years in different projects.
+Now he is finishing his master in which he works on profilers. He will later start his PhD in the RMoD team.
+
+Oleksandr Zaitsev is a computer science researcher at Cirad (https://www.cirad.fr/)
+He was the original author of DataFrame and pharo-ai libraries and has been closely following their development ever since. Today, Oleksandr is doing research on machine learning & human-machine interaction and building tools for agent-based modelling. In 2022, Oleksandr defended his PhD in the RMoD team. His thesis was about data mining-based tools to support the evolution of software libraries.

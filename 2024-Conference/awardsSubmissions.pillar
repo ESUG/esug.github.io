@@ -1,0 +1,75 @@
+{
+"title": "Projects Submitted to the Innovation Technology Awards 2023"
+}
+!Projects Submitted to the *Innovation Technology Awards 19th Edition>https://esug.github.io/2023-Conference/awardsCall2023.html*
+
+!!! 1st: Pyramid : a User-Interface editor
++file://esugAwards1stGoldRoundMedal.png+
+- ''Submitted by'': ""Yann Le Goff (Thales), 
+Pierre Laborde (Thales), 
+Eric Le Pors (Thales)""
+- ''Download'': ""*https://github.com/OpenSmock/Pyramid*""
+
+!!! 2nd: Soil object oriented database
++file://esugAwards2ndSilverRoundMedal.png+
+- ''Submitted by'': ""Norbert Hartl, Marcus Denker""
+- ''Country'': Germany France
+- ''Download'': ""*https://github.com/ApptiveGrid/Soil*""
+
+!!! 3rd: Two winners tied
+!! The Pharo Debugger and Debugging Tools
++file://esugAwards3rdBronzeRoundMedal.png+
+- ''Submitted by'': ""Steven Costiou, Adrien Vanègue, Valentin Bourcier, and the Pharo team""
+- ''Country'': France
+- ''Web'': *https://thepharo.dev/category/debugging/*
+
+!! PLC3000 Solution for Teaching Factory Automation
++file://esugAwards3rdBronzeRoundMedal.png+
+- ''Submitted by'': ""Noury Bouraqadi""
+- ''Country'': France
+- ''Web'': ""*https://plc3000.com/*""
+
+!!! Illimani Memory Profiler
+- ''Submitted by'': ""Sebastian Jordan Montano""
+- ''Country'': France
+- ''Download'': ""*https://github.com/jordanmontt/illimani-memory-profiler*""
+
+!!! Myg Games 
+- ''Submitted by'': ""Enzo Demeulenaere""
+- ''Country'': France
+
+!!! Grafoscopio: a metatool and community about how can we change the digital tools that change us
+- ''Keywords'': grassroots innovation, civic tech, data hacktivism, data storytelling, data visualization, reproducible research and publishing, indie web
+- ''Submitted by'': Offray Luna-Cárdenas (mutabiT / HackBo / Javeriana University), 
+Diego Herrera (mutabiT / HackBo)
+- ''Country'': Colombia
+- ''Web'': *https://mutabit.com/grafoscopio/en.html*, *https://mutabit.com/grafoscopio/* (Spanish)
+- ''Video'': *https://archive.org/details/vokoscreenNG-2023-07-28_14-36-57/socialmetrica1.mp4*
+
+!!! Gnocco (DSL, grammars)
+- ''Submitted by'': "Adrien Mathieu"
+- ''Country'': France
+- ''Download'': ""*https://github.com/alamvic/gnocco*""
+- ''Video'': *https://youtu.be/bbNOLinaNEQ*
+
+!!! Installing GemStone and WebGS
+- ''Submitted by'': "James Foster (GemTalk Systems LLC)"
+- ''Country'': USA
+- ''Video'': *https://youtu.be/ogSrDgNbSRs*
+- ''Web'': *http://alpha-ppa.gemtalksystems.com*
+- ''Download'': *https://github.com/jgfoster/WebGS*
+
+!!! DROpal: An inlining Pharo compiler optimising bytecode compiler, inlining, customisation
+- ''Submitted by'': ""Nahuel Palumbo (Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL)""
+- ''Country'': France
+- ''Download'': ""*https://github.com/Alamvic/druid*""
+
+!!! BioSmalltalk: bioinformatics, sequencing, sequence alignment, dna, genomics, phylogenetics
+- ''Submitted by'': ""Hernán Morales (CONICET, Argentina - INRIA, France)""
+- ''Web'': ""*https://biosmalltalk.github.io/*""
+- ''Demo'': ""*https://vimeo.com/858366325?share=copy*""
+
+!!! Agile Dials: a tool for project management
+- ''Submitted by'': ""Gregory Anthony Bittar (Fast Drizzle Inc, Florida, USA)""
+- ''Web'': ""*http://agiledials.com/*""
+

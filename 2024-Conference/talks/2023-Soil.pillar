@@ -1,0 +1,12 @@
+! Soil - a fresh look on OO databases
+
+Norbert Hartl (norbert@hartl.name)
+Marcus Denker  (marcus.denker@inria.fr)
+
+""Abstract:""
+Soil is a new and light-weight object-oriented database for pharo. It turns a pharo image into a database instance that supports state-of-the-art abilities like ACID-transactions, MVCC and more. It aims to be a small and comprehensible database library that can be adjusted to individual use cases. 
+In this talk we will give an introduction to Soil, its usage and how it can be extended. We will also show how pharo might be using Soil for its own data to manage.
+
+""Bio:""
+Norbert Hartl has a long history with databases and their shortcomings, which made him kind-of an expert. He co-founded ApptiveGrid where he is working at the moment. He also co-founded PharoPro. 
+Marcus Denker is a permanent researcher at INRIA Lille He is an active participant in the Pharo open source communities for many years. Marcus Denker received a PhD in Computer Science from the University of Bern/Switzerland in 2008 and a Dipl.-Inform. (MSc) from the University of Karlsruhe/Germany in 2004. He co-founded ZWEIDENKER in 2009. 

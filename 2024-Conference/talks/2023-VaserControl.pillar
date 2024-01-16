@@ -1,0 +1,14 @@
+! VASERControl - Building advanced building automation software
+
+Felix Stalzer
+Thomas Stalzer
+
+""Abstract:""
+Providing an environment for building automation specialist, VASERControl focuses on the challenges of interface various low level protocols like Modbus, KNX, http, etc. The talk will focus on interfacing these system and making them compatible with each other on an easy level.
+
+""Bio:""
+Felix is an informatics student at the university of Passau, Germany. He has been in contact with VASERControl all his life, and since 2021, his contact with Smalltalk has become alot deeper.  In 2014 he presentated his project, which used the VaserControl light controls to build a more natural lighting dimming solution for aquariums and terrariums, at the ESUG in Cambridge.
+Thomas has been working with Smalltalk since 1989 starting with ENFIN (now ObjectStudio) and developing with VisualAge Smalltalk since 1994. After co-developing the VASER frameworks for business applications, the VASERControl system development started in 2006. Projects using the VASERControl system have won various awards.
+
+""Email:""
+dev_labs@natural-software.eu

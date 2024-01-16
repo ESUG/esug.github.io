@@ -1,0 +1,75 @@
+!!ESUG 2024 Call for Participation
+
+Call-for-Presentations 30th International Smalltalk Joint Conference
+The ESUG board is pleased to announce that the 30th ESUG conference/summer-school 
+will be held in Lille, France 8 - 11 July 2024.
+
+%Registration is available at: *https://registration.esug.org*
+
+This call includes:
+
+- Developer forum main conference (deadline is 1st of April 2024 - Acceptance by 14 of April 2024)
+- Smalltalk Technology Award *Link>awardsCall2024.pillar*
+- International Workshop *Link>IWST2024.pillar*
+- Student Volunteer *Link>callForStudents2024.pillar*
+
+Additionally, we invite all attendies to announce their fresh work in any of Smalltalk technologies and to show it shortly during the dedicated sessions during the conference. We will collect the show topics during the conference at the student volunteer desk.
+
+
+!!!You can support the ESUG conference in many different ways:
+
+- Sponsor the conference. New sponsoring packages are described at *here>../become_sponsor.pillar*
+- Submit a talk, a software or a paper to one of the events. See below.
+- Attend the conference. We'd like to beat the previous record of attendance.
+
+Students can get free registration and hosting if they enroll into the Student Volunteers program. See below.
+
+!!Call for presentations
+
+We are looking for YOUR experience on using Smalltalk. You will have 30 min for presentations and 45-60 min for hand-ons tutorial.
+
+The list of topics for the normal talks and tutorials includes, but is not limited to the following:
+
+- Micro Services, Container, Cloud, Big Data,
+- XP practices, Development tools, Experience reports
+- Model driven development, Web development, Team management
+- Meta-Modeling, Security, New libraries and frameworks
+- Educational material, Embedded systems and robotics
+- SOA and Web services, Interaction with other programming languages
+- Teaching Pearls and Show us Your Business
+- Show your business 10 min session (Get prepared!!)
+
+!!How to submit?
+
+- Submission deadline is 1st of April 2024
+- Notification of acceptance will be on done on the fly.
+
+Pay attention: the places are limited so do not wait till the last minute to apply. 
+Prospective presenters should submit a PR *https://github.com/ESUG/esug.github.io/tree/source/2024-Conference/talks>https://github.com/ESUG/esug.github.io/tree/source/2024-Conference/talks*
+If you do not succeed to do a PR you can send an email to stephane.ducasse@inria.fr with [ESUG2024] in the title
+= Title: Please follow the template below the email will be automatically processed!
+= Name:
+= Email:
+= Abstract:
+= Bio:
+
+Any presentation not respecting this form will be discarded automatically.
+
+!!International Workshop on Smalltalk Technologies
+
+IWST is an inspirative venue for sharing early ideas, preliminary results, tool demonstration, and any other more-or less inmature form of innovation and research contribution published in an academic manner. Read the page for more information: *Call for IWST 2024>cfpIWST2024.pillar*
+
+
+!!Technology Award Competition
+
+The top 3 teams with the most innovative software will receive, respectively, 500 Euros, 300 Euros and 200 Euros during an awards 
+ceremony at the conference. Developers of any Smalltalk-based software are welcome to compete. Read more at: 
+*2024 Innovation award call>awardsCall2024.pillar*
+
+!!Student Volunteer Program
+
+If you are a student wanting to attend ESUG, have you considered being a student volunteer? Student volunteers help keep the 
+conference running smoothly; in return, they have free accommodations, while still having most of the time to enjoy the conference.
+*More information>callForStudents2024.pillar*.
+
+We hope to see you there and have fun together.

@@ -1,0 +1,17 @@
+! Workshop on Concept Inventories in OOP
+
+Stéphane Ducasse
+
+""Abstract:""
+Concept inventories started in the domain of Newtonian physics. The Force Concept Inventory is a multiple-choice test designed to measure students’ understanding of kinematics. It has proven to be a powerful tool for improving the teaching and learning of mechanics.
+The goal of identifying a concept inventory in object-oriented (OO) and agile development is to improve the learning and teaching of concepts in agile development in the domain of software engineering and software development. OO software development is a popular development approach today in the industry. Agile methods have been taught in universities for at least 20 years. They are popular in industry because of how they manage complexity and risk, compared to traditional strategies (e.g., so-called waterfall methodology). Agile includes test-driven development and iterative and incremental design. These approaches are very popular today in industry, especially with continuous integration (CI) and continuous deployment (CD) allowing companies to deliver robust, new functionalities frequently. It is pertinent that students grasp these concepts and be able to meet the needs of industry. C. Fuhrman and S. Ducasse are experts in these areas and have been teaching and practicing them for more than 20 years.
+
+Concept inventories have been applied to computer science. An important step in identifying a concept inventory is identifying misconceptions, which are essentially common minunderstandings. A good example of a misconception is the common belief that the seasons on Earth are caused by the change in distance between the Earth and the Sun during the year. Work in identifying misconceptions in programming languages has been done, e.g., by Caceffo et al.. The added value of concept inventories in physics has been shown, but in computer science, more work needs to be done. The domain presents challenges, because — unlike physics — computing methodologies, languages, tools, and technologies can evolve relatively quickly. Universities struggle to maintain their quality course offerings in the face of constant modernization, to focus on and keep the core essential elements, but also to be sure they are being properly taught using modern languages and environments.
+
+During this workshop participants will 
+- learn about concept inventories
+- gather some concepts based on their teaching experience on tests and OOD. 
+
+""Bio:""
+Stéphane is one of the authors of the Pharo Mooc *http://mooc.pharo.org*. He is author of several books on Pharo and more *http://books.pharo.org*.
+Guillermo is an expert on OOD. Pablo has been teaching for several years object-oriented design. 

@@ -1,0 +1,15 @@
+! Roassal3 new features
+
+M. Mamani Torres  (milton.mamani-torres@inria.fr>)
+
+""Abstract:""
+Roassal3 is a powerful open-source visualization engine for Pharo. It provides a flexible and easy-to-use framework for creating interactive and dynamic visualizations. Here are some of the updates and new features that have been added to Roassal3 recently:
+
+- RTree mouse control: Roassal3 now includes RTree, which allows for faster and smoother rendering of large and complex visualizations.
+- Improved Styling: Roassal3 now includes more styling options, allowing developers to customize the appearance of visual elements such as fonts, colors, and shapes.
+- layouts: Roassal3 has worked in a new layout studio to edit and create new layouts.
+
+""Bio:""
+Milton Mamani is a software engineer from Cochabamba Bolivia, he lived in Santiago Chile working with ObjectProfile Spa. 
+He currently works for Inria on the Rmod team since 2022 until the end of 2023.
+He is working in the creation and maintenance of Roassal3.
