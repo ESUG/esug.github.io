@@ -34,59 +34,78 @@ The goals of the workshop is to create a forum around contributions and experien
 
 !!! Important Dates
 
-- Submission deadline: --April 15th, 2024-- 
-- Notification deadline:
-- Resubmission deadline: 
+- Extended abstract submission deadline: --March 31st, 2024-- 
+- Extended abstract notification deadline: --April 7th, 2024--
+- Full/short paper submission deadline: --May 19th, 2024--
+- Full/short paper first-round notification deadline: --June 30th, 2024--
+
 - Workshop: July 9-10, 2024
+
+- Full/short paper resubmission deadline: --July 21st, 2024--
+- Full/short paper final notification deadline: --July 31st, 2024--
+- Camera ready package submission deadline: --August 25th, 2024--  
+
 
 
 !!!Topics
 
 We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
 
-- Aspect-oriented programming,
 - Design patterns,
 - Experience reports,
-- Frameworks,
-- Implementation, new dialects or languages implemented in Smalltalk,
+- Libraries and frameworks,
+- New dialects or languages implemented in Smalltalk,
 - Interaction with other languages,
 - Meta-programming and Meta-modeling,
 - Tools
 
 !!! Submissions, reviews, and selection
 
+Authors interetsed to present their work at the IWST 2024 are invited to submit an abstract of the intended talk before the extended abstract submission deadline. The extended abstarct should be not longer than 2 pages following the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
+
+Author of the submitted extended abstratcs will be notified and invited to present their work by the extended abstratc notification deadline which enables presenters to register at the early registration prices.
+
+Authors of the accepted abstracts are also invited to submit a paper to be subject of the review and a potential acceptance for publishing in the IWST 2024 Proceedings.
+
 We are looking for papers of two kinds:
 
 - Short position papers (5 to 10 pages) describing fresh ideas and early results. 
-- Long research papers (more than 10 pages) with deeper description of experiments and of research results.
+- Full research papers (more than 10 pages) with deeper description of experiments and of research results.
 
-Both submissions and final papers must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
+Paper accepted for publishing will be published within a *CEUR-WS Proceedings>https://ceur-ws.org/*. Hence, both submissions and final papers must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
 
 All submissions must be sent via *EasyChair submission page>https://easychair.org/conferences/?conf=iwst2024*.
 
-Pay attention, for organisation constraints, when submitting your article you are expected to register to the conference and pay the conference fees. If your article is not accepted ESUG will fully reimburse you.
+Pay attention, for organisation constraints, when submitting your article you are expected to register to the conference and pay the conference fees. 
+
 
 !!!! Reviewing
-Submissions will be reviewed by at least 3 reviewers. Selected papers will be invited to be presented at the workshop in Lyon and published in the *CEUR-WS Proceedings>https://ceur-ws.org/*.
 
-As the workshop format encourages bringing fresh ideas and early results to be presented and discussed, and aims for giving a chance to young community members to learn and grow, it may happen that submissions with discussion potential are conditionally accepted. In this case, authors are expected to strictly follow the reccommendation of the reviewers and resubmit a new version for the second quick review by the chairs in collaboration with assigned reviewers, and for making the final decision.
+As the workshop format encourages bringing fresh ideas and early results to be presented and discussed, and aims for giving a chance to young community members to learn and grow, we will allow a submissions with a discussion potential to be conditionally accepted. In this case, authors are expected to strictly follow the reccommendation of the reviewers.
 
+Consequently, the reviewing process will be organized in two rounds:
+-in the first round, all the submissions will be reviewed by at least 3 reviewers. Based on these reviews authors will receive a notiffication with rviewers comments, advises, and requirements and papers that are not rejected will be invited to be resubmitted in an improved form together with change log and answrers to the rviewers.
+- in the second round, PC chiars in collaboration with the reviewers where needed and possible, will evaluate the improved paper version and notifiy authors about final decision on acceptance/rejection.
+
+ 
 ""Best Paper Award""
 
-To encourage the submission of high-quality papers, the IWST organizing committee is very proud to announce a Best Paper Award for this edition of IWST.
+To encourage the submission of high-quality ideas, contributions, and papers, the IWST organizing committee is very proud to announce a Award competion in the categories of *best idea*, *best contribution to the community* and *best paper for this edition of IWST*.
 
-We thank the Lam Research Corporation for its financial contribution which makes it possible for prizes for the three best papers: 1000 USD for first place, 600 USD for second place and 400 USD for third place.
+The ranking will be decided by the program committee during the review process and by the audience votind during the conference. 
 
-The ranking will be decided by the program committee during the review process. The awards will be given during the ESUG conference social event.
+The awards will be given during the ESUG conference social event.
 
-The Best Paper Award will take place only with a minimum of six submissions. Notice also that to be eligible, 
-a paper must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
+The Awards will take place only with a minimum of six submissions. Notice also that to be eligible, a paper/abstract must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
 
 !!! Program chairs
-- Stephane Ducasse, Inria Lille, France (chair),
+- Steven Costou, Inria Lille, France (chair),
+- Guille Polito, Inria Lille, France (chair),
 - Gordana Rakic, University of Novi Sad, Serbia (chair)
 
 !!!! Program committee
+
+to be published ...
 %- Nour Agouf, Inria Lille, France,
 %- Vincent Blondeau, Lifeware, Switzerland,
 %- Cedrick Beler, Ecole Nationale d Ingenieurs de Tarbes, Hautes-Pyrenees, France,
