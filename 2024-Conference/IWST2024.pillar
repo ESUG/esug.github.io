@@ -7,43 +7,22 @@
 IWST 24 — International Workshop on Smalltalk Technologies 
 Lille, France; July 8th to 11th, 2024
 
-
-%*Program>https://esug.github.io/2024-Conference/agenda/agenda-workshop.html*
-
-%Slides are available: *PDFs>https://github.com/ESUG/esug.github.io/tree/source/2024-Conference/iwst/slides*
-
-%This year we have a special issue in the COLA Journal. Submission deadline the 15th of november 2023.
-%More info in: *special issue>https://www.sciencedirect.com/journal/journal-of-computer-languages/about/call-for-papers#smalltalk-technologies*
-
-%""Awards""
-
-%- First Prize: Nahuel Palumbo, Sebastian Jordan Montaño, Guillermo Polito, Pablo Tesone and Stéphane Ducasse. Garbage Collector Tuning in Pathological Allocation Pattern Applications.
-%- Second Prize: Pablo Valenzuela, Alexandre Bergel, Timo Kehrer and Oscar Nierstrasz. Exploring GitHub Actions through EGAD: An Experience Report.
-%- Third Prize: Noury Bouraqadi and Dave Mason. PharoJS: Transpiling Pharo Classes to JS - ECMAScript 5 versus ECMAScript 6.
-
-%!! List of Accepted Articles
-
-%All the articles can be found at ... %*http://esug.github.io/2022-Conference/articles/*.
-
-%!!! Session: Title
-%-paper
-
 !!! Goals and scope
 The goals of the workshop is to create a forum around contributions and experiences in building or using technologies related to Smalltalk. While maturity of presented ideas and results is not crucial, it is expected that their presentation trigger discussion and exchange of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Authors are invited to submit research articles or industrial papers. 
 
 
 !!! Important Dates
 
-- Extended abstract submission deadline: --March 31st, 2024-- 
-- Extended abstract notification deadline: --April 7th, 2024--
-- Full/short paper submission deadline: --May 19th, 2024--
-- Full/short paper first-round notification deadline: --June 30th, 2024--
+- Extended abstract submission deadline: *March 31st, 2024* 
+- Extended abstract notification deadline: April 7th, 2024
+- Full/short paper submission deadline: May 19th, 2024
+- Full/short paper first-round notification deadline: June 30th, 2024
 
 - Workshop: July 9-10, 2024
 
-- Full/short paper resubmission deadline: --July 21st, 2024--
-- Full/short paper final notification deadline: --July 31st, 2024--
-- Camera ready package submission deadline: --August 25th, 2024--  
+- Full/short paper resubmission deadline: July 21st, 2024
+- Full/short paper final notification deadline: July 31st, 2024
+- Camera ready package submission deadline: August 25th, 2024 
 
 
 
@@ -109,16 +88,14 @@ to be published ...
 %- Nour Agouf, Inria Lille, France,
 %- Vincent Blondeau, Lifeware, Switzerland,
 %- Cedrick Beler, Ecole Nationale d Ingenieurs de Tarbes, Hautes-Pyrenees, France,
-%- Nicolas Cardozo, Universidad de los Andes, Bogota, Colombia,
 %- Celine Deknop, Universite catholique de Louvain (UCL), Belgium,
 %- Michele Lanza, Software Institute, Universita della Svizzera italiana, Lugano, Switzerland,
 %- Eric Lepors, Thales DMS, France,
 %- Dave Mason, Ryerson University, Toronto, Canada,
-%- Kim Mens, Universite catholique de Louvain (UCL), Belgium,
 %- Ana-Maria Oprescu, University of Amsterdam, Neatherlands,
 %- Jean Privat, University of Quebec in Montreal, Canada,
 %- Pooja	Rani, University of Bern, Switzerland,
 %- Larisa Safina, Inria Lille, France,
 %- Joao Saraiva, University of Minho, Portugal,
 %- Benoît Verhaeghe, Berger-Levrault, Lyon, France,
-% Oleksandr Zaytsev, Cirad, UMR SENS, France
+%- Oleksandr Zaytsev, Cirad, UMR SENS, France
