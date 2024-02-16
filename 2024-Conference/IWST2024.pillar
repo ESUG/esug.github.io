@@ -30,12 +30,17 @@ The goals of the workshop is to create a forum around contributions and experien
 
 We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
 
-- Design patterns,
-- Experience reports,
-- Libraries and frameworks,
-- New dialects or languages implemented in Smalltalk,
-- Interaction with other languages,
-- Meta-programming and Meta-modeling,
+- Code Analysis
+- Automated Testing
+- Debugging
+- Compilers, Virtual Machines and Language implementations
+- Meta-programming and Meta-modeling
+- Refactorings
+- Design patterns
+- Experience reports
+- Libraries and frameworks
+- New dialects or languages implemented in Smalltalk
+- Interaction and integration with other languages
 - Tools
 
 !!! Submissions, reviews, and selection
