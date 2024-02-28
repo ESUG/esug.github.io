@@ -2,36 +2,51 @@
 "title": "ESUG 2024 @ Lille, FR"
 }
 
+!!! About Lille
+
+||{ *Lille>https://en.wikipedia.org/wiki/Lille* is a vibrant city located in northern France, near the border with Belgium. It serves as the capital of the *Hauts-de-France>https://en.wikipedia.org/wiki/Hauts-de-France* region and is renowned for its rich history, cultural diversity, and dynamic atmosphere. With its strategic location, Lille has evolved into a bustling hub of commerce, education, and tourism. The city boasts stunning architecture, lively streets, and a thriving arts scene, making it a captivating destination for visitors from around the world || +Lille Vue Grand Place>file://images/512/Lille_vue_gd_place.JPG+ Lille view of Grand Place ||
+
+!!! Getting to Lille
+
+Lille is conveniently accessible by various modes of transportation. The city is well-connected by train, with two train stations, 400 meters away, the *Lille-Europe>https://en.wikipedia.org/wiki/Lille-Europe_station* and *Lille-Flandres>https://en.wikipedia.org/wiki/Lille-Flandres_station* serving as major hubs for domestic and international rail travel. Additionally, Lille is easily accessible by car via the extensive French motorway network, making it a convenient destination for road travelers. For those arriving by air, *Lille-Lesquin Airport>https://en.wikipedia.org/wiki/Lille_Airport* offers domestic and international flights, providing easy access to the city and its surroundings.
+
+!!! Description
+
+Lille is characterized by its charming blend of old-world charm and modernity. The city's historic center, known as Vieux Lille, features picturesque cobblestone streets, grand squares, and elegant Flemish architecture. Visitors can explore iconic landmarks such as the Palais des Beaux-Arts, one of France's largest museums, and the stunning Vieille Bourse, a masterpiece of 17th-century architecture.
+
 !! Conference venue
 
-The conference will take place at Inria.  
-
-[[[
-Inria 
-40 avenue de Halley
-59650 Villeneuve d'ascq
-France
-]]]
-Villeneuve d'ascq is a city at 15-20 min of metro from Lille center (downtown).
-There are metro every couple of minutes in rush hours.
-
+The conference will take place at *Inria>https://www.inria.fr/en*.  
+||{ {{{html: <pre>Inria<br />40 avenue de Halley.<br />59650 Villeneuve d'ascq.<br />France<br /></pre>}}}Villeneuve d'ascq is a city at 15-20 min of metro from Lille center (downtown). *Ilévia>https://www.ilevia.fr/* is the public transport operator for the Lille Métropole. There are metro every couple of minutes in rush hours. Take the metro Line 1 (Yellow) to the last stop, 4 Cantons. From there you can walk to Building B of the Inria or take Bus 66 or 72 to the "Halley" stop (second stop) which has a frequency between 15 to 20 minutes. || {{{ <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d1266.083627908925!2d3.1457262033925493!3d50.605429561389855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x47c2d6521109b35b%3A0x283f2c5d6883466c!2s4%20Cantons%20Stade%2C%20Villeneuve-d&#39;Ascq!3m2!1d50.605239999999995!2d3.139122!4m3!3m2!1d50.605077699999995!2d3.1488592!5e0!3m2!1ses!2sfr!4v1709133165893!5m2!1ses!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> }}} ||
 
 !!! Hotel lists
 
 Here is a list of hotels offering supporting for rolling chair and others. 
 
-Close to inria (in Villeneuve d'ascq)
-- https://www.cowool.co/
-- https://www.ascotel.fr/fr/
+!!!! Close to Inria (in Villeneuve d'ascq):
+- *Cowool>https://www.cowool.co/cowool/villeneuve-dascq/* (stars: \*\*\* \| *reviews>https://www.tripadvisor.com/Hotel_Review-g196640-d483120-Reviews-COWOOL_Villeneuve_d_Ascq-Villeneuve_d_Ascq_Lille_Nord_Hauts_de_France.html*)
+- *Ascotel>https://www.ascotel.fr/en/* (stars: \*\*\* \| *reviews>https://www.tripadvisor.com/Hotel_Review-g196640-d237926-Reviews-The_Originals_City_Ascotel_Lille_Est_Grand_Stade-Villeneuve_d_Ascq_Lille_Nord_Hauts_de_.html*)
 
-At Lille:
-- https://www.hotellavaliz.com/
-- https://www.grandhotellille.com/
-- https://hotel-chagnot-lille.com/fr/
-- https://www.location-lille.fr/
-- https://www.hotel-lille-europe.com/fr/
-- https://www.hotel-brueghel-lille.com/
-- https://www.okkohotels.com/fr/page/lille/okko-hotels-lille-centre.3097.html
-- https://www.hotelkanai.com/
+!!!! At Lille:
+- *La VAliZ>https://www.hotellavaliz.com/* (stars: \*\*\* \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d238905-Reviews-Hotel_La_Valiz-Lille_Nord_Hauts_de_France.html*)
+- *Grand Hotel Lille>https://www.grandhotellille.com/* (stars: \*\* \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d605835-Reviews-Grand_Hotel_Lille-Lille_Nord_Hauts_de_France.html* )
+- *Chagnot>https://hotel-chagnot-lille.com/* (stars: \*\*\* \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d310382-Reviews-Hotel_Chagnot-Lille_Nord_Hauts_de_France.html*)
+- *Grand Hotel Lille>https://www.grandhotellille.com/* (stars: \*\* \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d605835-Reviews-Grand_Hotel_Lille-Lille_Nord_Hauts_de_France.html*)
+- *Location Lille>https://www.location-lille.fr/* (*reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d15641620-Reviews-Studios_De_Standing_Emeraude_Lille_Euralille-Lille_Nord_Hauts_de_France.html*)
+- *Hotel Lille Europe>https://www.hotel-lille-europe.com/fr/* (stars: \*\*\* \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d232404-Reviews-Hotel_Lille_Europe-Lille_Nord_Hauts_de_France.html*)
+- *Brueghel>https://www.hotel-brueghel-lille.com/* (stars: \*\*\* \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d236905-Reviews-Hotel_Brueghel-Lille_Nord_Hauts_de_France.html*)
+- *Okko>https://www.okkohotels.com/fr/page/lille/okko-hotels-lille-centre.3097.html* (stars: \*\*\*\*  \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d23300692-Reviews-OKKO_Hotels_Lille_Centre-Lille_Nord_Hauts_de_France.html*)
+- *Kanai>https://www.hotelkanai.com/* (stars: \*\*\* \| *reviews>https://www.tripadvisor.fr/Hotel_Review-g187178-d661884-Reviews-Kanai_Hotel-Lille_Nord_Hauts_de_France.html*)
 
+!!! Pictures
 
+||+Roubaix Piscine>file://images/512/Roubaix_piscine_1_bis.jpg+ Roubaix Piscine || +Citadelle View>file://images/512/Citadelle_vue_du_ciel.jpg+ Citadelle View
+||+Lille Maisons>file://images/512/Lille_maisons_4_a_16_rue_gounod.jpg+ Lille Maisons|| +Lille Place Oignons>file://images/512/Lille_place_oignons_ass.jpg+ Lille Place Oignons
+||+Cassonade-filled Waffles>file://images/512/Cassonade-filled_waffles.jpg+ Cassonade filled Waffles ||+Lille Hotel de Ville>file://images/512/Lille_hotel_de_ville.jpg+ Lille Hotel de Ville
+||+Lille Deule Peniches>file://images/512/Lille_deule_peniches_restaurants.jpg+ Lille Deule Peniches || +Lille Hospice Comtesse>file://images/512/Lille_Hospice_comtesse.jpg+ Lille Hospice Comtesse
+||+Fromages du Nord>file://images/512/Fromages_du_Nord_2185_2012-03-23_14561.jpg+ Fromages du Nord || +Cap Blanc Nez>file://images/512/Cap_Blanc_Nez_(before_sunset).jpg+ Cap Blanc Nez
+||+Louvre Lens>file://images/512/La_galerie_du_Temps_(Louvre_Lens)_(8550665335).jpg+ Louvre Lens || +Rozenhoedkaai Brugge>file://images/512/Rozenhoedkaai_Brugge.jpg+ Rozenhoedkaai Brugge
+
+!!! Fun
+
+Lille offers a wealth of cultural attractions, entertainment options, and culinary delights for visitors to enjoy. From exploring the historic *Citadelle>https://en.wikipedia.org/wiki/Citadel_of_Lille* to indulging in delicious local cuisine at traditional estaminets, there's something for everyone in Lille. The city is also renowned for its lively festivals and events, including the annual Braderie de Lille, Europe's largest flea market, which attracts millions of visitors each year.
