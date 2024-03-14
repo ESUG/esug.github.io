@@ -1,0 +1,16 @@
+Title: Beagle Smalltalk
+Name: David Buck
+Email: david@simberon.com
+Abstract:
+Beagle Smalltalk is a new dialect of Smalltalk destined to be open source.
+It's intended to be a vehicle to help new programmers explore the joy and adventure of programming.
+This presentation will include
+- the language and its implementation
+- the compiler and code generator
+- development tools and UIs using web browsers
+- sample "kits" for new programmers to build on
+
+Bio:
+David Buck is the president of Simberon Incorporated.  He has been doing Smalltalk consulting and training for
+over 30 years.  He has written games for iOS and Android using Smalltalk and has used Smalltalk to explore areas
+of software development from business applications to games and simulated physics.
