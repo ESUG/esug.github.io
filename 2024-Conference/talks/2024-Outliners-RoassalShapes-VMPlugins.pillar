@@ -1,0 +1,17 @@
+! Outliners, Roassal shapes and VM plugins.
+
+Massimo Nocentini  (massimo.nocentini@gmail.com)
+
+""Abstract:""
+In this talk I will present some tools and variations on objects inspection, Roassal shapes and VM:
+- Outliners: recursive visualization of objects driven by slot descriptors.
+- VM plugins: Lua, `cairo_t`, timsort, non layered tidy trees. Moreover, VM compilation using MSYS2 on the CI.
+- `treesitter` integration and using grammars for C, Lua and SQL.
+- Notebooks: lifting the Playground to the next level.
+- Pango: a new Roassal shape to render text given in gmarkup format.
+- A Roassal Microdown visitor, to render documentation via Roassal.
+- Wolfram, doing symbolic mathematics.
+- Poppler: a new Roassal shape to render PDF files directly in your own image.
+
+""Bio:""
+Massimo Nocentini
