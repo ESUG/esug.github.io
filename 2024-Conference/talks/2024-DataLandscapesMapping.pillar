@@ -1,14 +1,13 @@
-! Data Storytelling with Pharo
+! Mapping data commons extinction and blossoming
 
 Offray Luna  (offray.luna@javeriana.edu.co)
 
 ""Abstract:""
-This talk will present how data storytelling is used in a local hackerspace, since 2015, and with undergrad and post-grad
-in the Javeriana University, since 2022, to introduce non developers to computational thinking via several prototypes and experiences including: 
-- Interactive documentation.
-- Performative grassroots (re)publishing of books and booklets
-- (Inter)personal wikis and web sites for learning experiences and research projects.
-- "Data portraits" of presidential candidates as civic tech to innovate in polical participation.
+The current living generation of humans will be the last one to see some natural and data landscapes, due to climate change and API enclosures, respectively. 
+Considering such accelerated landscape changes, we are developing low computational and cognitive resource  mapping tools and techniques 
+to chart the decline of Twitter and the emergence of new open alternatives. 
+To do this, we combine what we call digital "pocket infrastructures", interstitial programming and data storytelling.
+This talk will give an overview of the project, its history and early prototypes.
 
 ""Bio:""
 Offray is a hacktivist, researcher and academician, 
