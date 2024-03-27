@@ -1,0 +1,23 @@
+! Notebooks
+
+Massimo Nocentini  (massimo.nocentini@gmail.com)
+
+""Abstract:""
+In this talk I will present my project called "Notebooks". It shows how to document
+Smalltalk software by combining documentation text with executable Playgrounds.
+The documentation can also include interfaces to foreign languages used.
+It can be navigated and edited from within Smalltalk allowing Playgrounds to be executed immediately. 
+The full documentation can be exported as either PDF or SVG files.
+
+Technologies used are:
+- Outliners: recursive visualization of objects driven by slot descriptors.
+- Treesitter: syntax coloring for C, Lua and SQL.
+- Pango: a new Roassal shape to render text given in gmarkup format.
+- A new Microdown visitor, to render documentation via Roassal.
+- Poppler: a new Roassal shape to render PDF files directly in your own image.
+
+""Bio:""
+Massimo Nocentini got his PhD in computer science at the University of Florence, Italy.
+Currently he works as freelancer using Smalltalk in his 9to5 job.
+He is interested in documentation and in the application of
+the functional approach to programming and design.
