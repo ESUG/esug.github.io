@@ -1,0 +1,9 @@
+! Glamorous Toolkit 
+
+Andrei Chiș  (andrei.chis@feenkc.com) 
+
+""Abstract:""
+Glamorous Toolkit is the Moldable Development environment. In this talk we provide an update of the environemt since version 1.0 and show through concrete practical cases how a single environment can be molded to many contexts.
+
+""Bio:""
+Andrei Chiș acts as a tool crafter at feenk (feenk.com) building tools and techniques for improving software development and is a co-author of Glamorous Toolkit (gtoolkit.org) platform. Andrei holds a PhD from the University of Bern. In his PhD he maintained that integrated development environments have to be moldable, that is, they have to be aware of the application under development and enable rapid customizations to new applications and tasks, and explored solutions to make this vision possible.
