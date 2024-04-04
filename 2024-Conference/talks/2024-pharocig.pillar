@@ -5,8 +5,8 @@ Bridging the Gap: Streamlining Pharo FFI Bindings
 Esteban Lorenzano
 
 ""Email"": 
-estebanlm@gmail.com
-
+esteban.lorenzano@inria.fr
+ 
 ""Abstract"":
 The Pharo FFI (Foreign Function Interface) system is an excellent tool that enables Pharo users to 
 create bindings with external C libraries. However, there's a significant drawback that often discourages 
