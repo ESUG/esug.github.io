@@ -1,0 +1,23 @@
+! Object-Centric Debugging
+Title:  Debug Points
+Name: Valentin Bourcier, Steven Costiou
+Email: valentin.bourcier@inria.fr, steven.costiou@inria.fr
+
+""Abstract:""
+Object-Centric Debugging is a technique that focuses debugging tools on objects rather than on the call stack.
+Object-centric breakpoints are already available in Pharo since 2019.
+Recently we conducted an empirical experiment to study the impact of object-centric breakpoints and the results are encouraging.
+In this talk, we will take the opportunity to present again the object-centric breakpoints, then we will discuss the preliminary findings of our experiment.
+Additionally, we aim to share our perspective on object-centric debugging, advocating for its expansion beyond breakpoints within Pharo and discussing why and how we should pursue this advancement.
+
+
+""Bio:""
+Steven is an Inria researcher and works in the EVREF team. 
+He builds and studies debugging tools to help developers understand their programs and fix bugs.
+In this context, his research interests span reflection and meta-programming, object-centric instrumentation, dynamic software adaptation and dynamic languages.
+Website: https://kloum.io/costiou
+
+Valentin Bourcier is a PhD student at Inria in the EVREF team since October 2022. 
+He studies object-centric debugging, a novel debugging technique that aims at lowering the cost of debugging object-oriented programs. 
+In this context, Valentin's main interests are debugging methodologies, debugging techniques, especially object-centric instrumentation 
+but also other techniques based on language analysis or language features such as reflection. 
