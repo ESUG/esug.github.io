@@ -1,0 +1,9 @@
+! Moldable Debugging
+
+Andrei Chiș  (andrei.chis@feenkc.com) 
+
+""Abstract:""
+Moldable Development is a way of programming through custom tools built for each development problem. One type of tool that is moldable in Glamorous Toolkit is the debugger. The Moldable Debugger provides explicit support for creating and working with domain-specific debuggers. In this talk we show practical examples of domain-specific debuggers, and explore the mechanisms for creating custom debuggers that go from simple extensions based on exceptions to elaborate debugger interfaces. The examples show both how the debugger can adapt to different Pharo code executions, but also how the same infrastructure can adapt seamlessly to other languages and runtimes.
+
+""Bio:""
+Andrei Chiș acts as a tool crafter at feenk (feenk.com) building tools and techniques for improving software development and is a co-author of Glamorous Toolkit (gtoolkit.org) platform. Andrei holds a PhD from the University of Bern. In his PhD he maintained that integrated development environments have to be moldable, that is, they have to be aware of the application under development and enable rapid customizations to new applications and tasks, and explored solutions to make this vision possible.

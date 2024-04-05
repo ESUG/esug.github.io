@@ -1,0 +1,19 @@
+! Who watches the tests? 
+
+G Polito (guillermo.polito@inria.fr)
+
+""Abstract:""
+Automated testing is a popular technique to validate the correctness of programs.
+Tests specify the expected behaviour of a program, are used to guide program design with techniques such as TDD.
+Once written, they work as regression detectors: they tell us when bugs are introduced.
+
+However, as developers can introduce bugs in a program, they can also introduce them in the tests.
+Who watches the watchmen?
+In this talk we will the new features in Mutalk v2 that make it practical for everyday use and far more interesting than code coverage.
+
+""Bio:""
+Guille Polito is chargé de recherche at INRIA and the CRIStAL laboratory in the University of Lille, within the Evref team.
+He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
+Guille's main research interests are compilers, modularity, tooling and automated testing.
+Guille participates in the Pharo community since 2010 and is now board member.
+His most noticeable contributions to the community are the Pharo Bootstrap process and Iceberg.
