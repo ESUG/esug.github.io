@@ -1,0 +1,8 @@
+Title: Webside 2.0
+Name: Guille Amaral
+Email: guillermo.amaral@quorumsoftware.com
+Abstract: Webside (https://github.com/guillermoamaral/Webside) is an API aimed at standarizing a way to talk to a Smalltalk system through HTTP. It also comes with one possible application: a fully operational IDE.
+During the presentation at ESUG 22 (NoviSad), questions around the extensibility of such IDE arose.
+In this talk, I'm going to present the progress in that regard, together with other improvements made since that presentation in the context a real development enviroment.
+Bio: Guille is the creator of Webside. He has been devoted to Smalltalk for more than 20 years, using and enjoying it throughout his entire academic and professional career.
+He is currently working for Quorum Software, a solution provider for the oil & gas industry.
