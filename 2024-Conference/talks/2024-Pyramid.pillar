@@ -1,0 +1,15 @@
+! Pyramid: a User Interface Editor for Bloc 
+
+Yann Le Goff  (y.legoff97@gmail.com)
+
+""Abstract:""
+Implementing or understanding the composition of User Interfaces can be tedious.
+At Thales-DMS, we implement Pyramid, a tool designed to edit Bloc UI.
+We use it to implement or change our prototype's UI even on a running application.
+
+In this talk we will present the different features of Pyramid based on demonstrations.
+
+""Bio:""
+Yann Le Goff is a PhD student in the University of Brest (FRANCE).
+He developped Pyramid during an internship at Thales DMS.
+He was introduced to Smalltalk and Pharo during his internship.
