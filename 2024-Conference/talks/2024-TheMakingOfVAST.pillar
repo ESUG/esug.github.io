@@ -1,0 +1,9 @@
+! Behind the scenes: The Making of VAST
+
+Mariano Martinez Peck  (mpeck@instantiations.com)
+
+""Abstract:""
+You've probably already heard much about how organizations develop and deploy Smalltalk applications, but how is a complete Smalltalk platform made? In this talk, get a behind-the-scenes look at how Instantiations creates the VAST Platform. We'll discuss how we successfully develop, test, benchmark, and build a commercial Smalltalk platform like VAST.
+
+""Bio:""
+Mariano Martinez Peck is a systems engineer specializing in dynamic programming language software. In 2018, he joined Instantiations to further develop the VAST Platform through the addition of new frameworks, libraries and tools, as well as improving the existing code base of VAST. He is active in the Smalltalk development community, and has used his expertise to co-author numerous open source projects. Mariano has a PhD in Computer Science, and his academic research has been published across various international journals. In addition to his development duties, he currently leads the VAST Platform engineering team at Instantiations. In his personal time, Mariano enjoys traveling as well as outdoor activities like camping and fishing.
