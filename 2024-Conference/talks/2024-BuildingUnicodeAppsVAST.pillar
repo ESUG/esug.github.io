@@ -1,0 +1,11 @@
+! Building Full-Stack Unicode Applications with VAST
+
+Esteban Maringolo  (emaringolo@instantiations.com)
+
+""Abstract:""
+The VAST Platform's extensive Unicode support enables the creation of applications that cater to global audiences with diverse language requirements. In this presentation, we'll walk you through the creation of a full-stack demo application that seamlessly integrates and reliably manages Unicode strings across its various layers. Starting from the user interface on the web, we will demonstrate how Unicode strings are handled on the Seaside server. Then, we'll show how these strings are manipulated within the development tools. Finally, we'll explore how Unicode text is stored and retrieved in the database storage layer.
+
+
+
+""Bio:""
+Esteban A. Maringolo is a senior software developer specializing in analysis, application development, and web architectures. Due to his experience with other Smalltalk dialects, he was keen to join the Instantiations team in 2019 to improve the extensibility of VAST and bridge the gap between it and other platforms. Esteban is involved in ongoing improvements to VAST’s new Unicode and Async frameworks, and he’s an active member of the Smalltalk development community with regular contributions to various open source projects.
