@@ -1,0 +1,9 @@
+! CodeParadise
+
+Erik Stel  (erik@codeparadise.nl)
+
+""Abstract:""
+CodeParadise is a framework which aids in developing web applications and Node.js applications using Pharo Smalltalk. This talk will explain how CodeParadise can be used. The talk is based on an application consisting of a web application, a mobile app and a backend server application running on Node.js. All created using Pharo Smalltalk and the CodeParadise framework. 
+
+""Bio:""
+Erik Stel (aka ErikOnBike) is creating software and cycling since he was a child. The Smalltalk virus got to him in the late 90's and still leaves its marks. Currently Erik works as an independent software engineer and consultant, building software or advising about software development. With a focus on software 'for a good cause' he tries to make his impact, doing the thing he likes most: creating useful software.
