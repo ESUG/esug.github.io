@@ -1,0 +1,11 @@
+! Unicode String Implementations - An Overview
+
+Henry Johansen  (hjohansen@instantiations.com)
+
+""Abstract:""
+Most Smalltalk dialects now include string classes that can represent Unicode codepoints. However, the way in which different dialects provide this can differ quite a bit. This presentation will give a general overview of the implementations in VAST, Pharo, GemStone, and Cuis, with an extra focus on Unicode string hashing, comparing the design choices and tradeoffs involved.
+
+
+
+""Bio:""
+Henry Johansen is a software developer with professional experience in most Smalltalk dialects. His passions include maintainable code, performance, and three-element lists. Since joining Instantiations, he's contributed to extending the use of Unicode strings in VAST’s development tools, and has started making improvements to the VM.
