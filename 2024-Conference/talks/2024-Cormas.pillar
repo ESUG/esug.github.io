@@ -1,0 +1,9 @@
+! Cormas: Progress and Roadmap
+
+Oleksandr Zaitsev (oleksandr.zaitsev@cirad.fr)
+
+"Abstract:"
+Cormas is an agent-based modelling platform developed in Pharo which is particularly well-suited for the companion modelling approach. In my presentation, I will talk about the recent progress in the development of Cormas: migration to Spec2 and Pharo 12, reducing the dependencies, better UI. I will also present the roadmap for improving Cormas by making it more accessible for researchers with limited programming skills and for local stakeholders.
+
+"Bio:"
+Oleksandr Zaitsev is a computer science researcher at CIRAD - a French agricultural research and international cooperation organization working for the sustainable development of tropical and Mediterranean regions. Oleksandr works on software engineering and AI techniques for participatory agent-based modelling and serious games. In 2022, he defended his PhD at Inria Lille; his thesis was about data mining-based tools to support software evolution. Oleksandr is  contributing to many open-source projecs (DataFrame, PolyMath, Pharo-AI). He is currently the lead developer of the Cormas modelling platform.
