@@ -8,7 +8,7 @@ This JavaScript API allows defining both the view of web components as well as t
 Web component custom tags can encapsulate the view in a "shadow" DOM tree.
 This support creating web pages combining different web components from different sources while avoiding collisions.
 
-This talk introduces *WebST>https://github.com/bouraqadi/PharoJsMisc)\*, a *PharoJS-based>https://pharojs.org* solution to seamlessly implement and test web components using the powerful Pharo Smalltalk IDE.
+This talk introduces *WebST>https://github.com/bouraqadi/WebST*, a *PharoJS-based>https://pharojs.org* solution to seamlessly implement and test web components using the powerful Pharo Smalltalk IDE.
 By delving into practical examples, we demonstrate how WebST facilitates the implementation and reuse of web components.
 Moreover, for production purposes, WebST generates web clients with standalone HTML and JavaScript code.
 
