@@ -1,2 +1,151 @@
-<h1>ESUG 2024 Program</h1>
-Coming soon...
+# ESUG 2024
+- defaultTalkLength: 30
+- defaultRoom: Amphi
+
+## 2023 July 8th
+### 9:15
+
+#### Welcome
+- speaker: S. Ducasse
+- length: 45
+#### Mutalk, Who watches the tests? 
+- speaker: G. Polito
+#### Virtual Reality in Pharo using WODEN Engine: Challenges and Demo
+- speaker: R. Salgado
+#### How to get more people onboard with Pharo ? Applying LLM as support for the onboarding of new developers
+- speaker: P. Zaragoza, M. Pingaud
+####  Phausto : the sound within Pharo
+- speaker: D. Cipriani
+#### break
+- label: Lunch
+- length: 120
+#### Gemtalk roadmap
+- speaker: N. Green, J. Foster
+#### Moldable Debugging
+- speaker: A. Chis
+#### Debug Points
+- speaker: S. Costiou
+#### break
+- label: Coffee Break
+#### Toplo
+- speaker: P. Tesone
+#### Building a GTK app with Spec
+- speaker: E. Lorenzano, C. Demarey
+#### Webside
+- speaker: G. Amaral
+#### break
+- label: Award Competition
+- length: 75
+
+
+## 2024 July 9th
+### 9:15
+#### Pharo 12
+- length: 45
+- speaker: S. Ducasse
+#### break
+- label: Coffee Break
+#### Unicode String Implementations - An Overview
+- speaker: H. Johansen
+#### Building Full-Stack Unicode Applications with VAST
+- speaker: E. Maringolo
+#### Cormas and Companion modelling and serious games
+- speaker: O. Zaitsev, P. Bommel
+
+#### break
+- label: Lunch
+- length: 120
+
+#### Glamorous Toolkit 
+- speaker: A. Chiș
+#### Manage your Pharo images from command line
+- speaker: C. Demarey
+#### Asynchronous Programming with Async and Await
+- speaker: J. Foster
+#### break
+- label: Coffee Break
+#### Notebooks
+- speaker: M. Nocentini
+#### Pyramid: a User Interface Editor for Bloc 
+- speaker: Y. Le Goff
+#### Runtime type collection and its usage in code transpiling
+- speaker: P. Krivanek
+#### break
+- label: Show us your projects
+- length: 60
+
+
+## 2024 July 10th
+### 9:15
+
+#### Instantiations Company Update & VAST 2025 Preview
+- length: 45
+- speaker: S. Berman
+#### Break
+- subject: Coffee Break
+#### How easy is to write a JIT compiler?
+- speaker: G. Polito
+#### Bridging the Gap: Streamlining Pharo FFI Bindings
+- speaker: E. Lorenzano
+#### From Development to Distribution: Packaging Pharo Applications
+- speaker: E. Lorenzano, P. Tesone
+
+#### break
+- label: Lunch
+- length: 120
+
+#### Beagle Smalltalk
+- speaker: D. Buck
+#### gt4gemstone
+- speaker: A. Chiș
+#### The Pharo Debugger and Debugging Tools: Advances and Roadmap
+- speaker: S. Costiou
+#### break
+- label: Coffee Break
+#### Communication patterns
+- speaker: S. Ducasse
+#### Code Paradise
+- speaker: E. Stel
+#### WebST: Web Components with PharoJS
+- speaker: N. Bouraqadi
+#### WebST:Detecting and preventing Pharo vulnerabilities
+- speaker: I. Sayar, S. Costiou
+#### break
+- label: Social Event
+- length: 300
+
+
+## 2024 July 11th
+### 9:30
+
+#### Object-Centric Debugging
+- speaker: V. Boursier, S+. Costiou
+#### break
+- label: Coffee Break
+#### gt4python: Moldable Development for Python
+- speaker: S. Van Caekenberghe
+#### gt4llm: A programmable environment for large language models
+- speaker: V. Heller
+#### A tale about scale
+- speaker: N. Hartl
+
+#### Break
+- label: Lunch
+- length: 120
+
+#### Getting more from your Pharo IDE
+- speaker: C. Ferlicot-Delbecque
+#### Behind the scenes: The Making of VAST
+- speaker: M. Martinez Peck
+#### Fluid Class Defintions In Pharo 12
+- speaker: M. Denker
+#### break
+- label: Coffee Break
+#### Mutants and refactoring bugs
+- speaker: B. Šarenac
+#### Data Storytelling with Pharo & Mapping data commons extinction and blossoming
+- speaker: O. Luna
+#### break
+- label: Show us your projects
+- length: 60
+
