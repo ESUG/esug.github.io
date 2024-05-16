@@ -35,7 +35,7 @@ jobs:
   agenda_build:      
     uses: pillar-markup/Microdown-Agenda/.github/workflows/main.yml@main
     with:
-      agenda_filename: 2024-Conference/agenda.pillar;2023-Conference/agenda.md;2023-Conference/agenda-workshop.md;2022-Conference/agenda.md;2022-Conference/agenda-workshop.md
+      agenda_filename: 2024-Conference/agenda.md;2023-Conference/agenda.md;2023-Conference/agenda-workshop.md;2022-Conference/agenda.md;2022-Conference/agenda-workshop.md
 
   deploy:
     runs-on: ubuntu-latest
