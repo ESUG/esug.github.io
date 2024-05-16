@@ -82,12 +82,13 @@
 <!day|start=2024 July 11th
 
 <!segment|start=09:30
-<!talk|subject=Object-Centric Debugging&author=V. Boursier, S+. Costiou&length=30&room=Amphi!>
+
+<!talk|subject=Community building&author=P. Krief&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi!>
-
+<!talk|subject=Object-Centric Debugging&author=V. Boursier, S+. Costiou&length=30&room=Amphi!>
 <!talk|subject=gt4python: Moldable Development for Python&author=S. Van Caekenberghe&length=30&room=Amphi!>
-<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
+
 <!talk|subject=A tale about scale&author=N. Hartl&length=30&room=Amphi!>
 
 <!break|subject=Lunch&length=120&room=Amphi!>
@@ -98,7 +99,7 @@
 
 <!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!talk|subject=Mutants and refactoring bugs&author=B. Šarenac&length=30&room=Amphi!>
+<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
 <!talk|subject=Data Storytelling with Pharo & Mapping data commons extinction and blossoming&author=O. Luna&length=30&room=Amphi!>
 
 <!break|subject=Show us your projects&length=60&room=Amphi!>
