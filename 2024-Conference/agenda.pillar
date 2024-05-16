@@ -1,11 +1,13 @@
 <!agenda|title=ESUG 2024
+
 <!day|start=2023 July 8th
 
 <!segment|start=09:15
+
 <!talk|subject=Welcome&author=S. Ducasse&length=45&room=Amphi!>
 <!talk|subject=Mutalk, Who watches the tests?&author=G. Polito&length=30&room=Amphi!>
 <!talk|subject=Virtual Reality in Pharo using WODEN Engine: Challenges and Demo&author=R. Salgado&length=30&room=Amphi!>
-<!talk|subject=How to get more people onboard with Pharo ? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
+<!talk|subject=How to get more people onboard with Pharo? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
 <!talk|subject=Phausto : the sound within Pharo&author=D. Cipriani&length=30&room=Amphi!>
 
 <!break|subject=Lunch&length=0&room=Amphi!>
@@ -21,9 +23,9 @@
 <!talk|subject=Webside&author=G. Amaral&length=30&room=Amphi!>
 
 <!break|subject=Award Competition&length=15&room=Amphi!>
+!>
+!>
 
-!>
-!>
 <!day|start=2024 July 9th
 
 <!segment|start=09:15

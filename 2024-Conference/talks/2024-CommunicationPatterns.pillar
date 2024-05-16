@@ -1,1 +1,11 @@
 
+! Patterns for Data Aquisition 
+
+Eric Lepors 
+
+""Abstract:""
+When building application s that you collect data from constrant source of information such as senosrs, it is challenging to design systems so that they do not lose data. 
+In this talk I will present some of the patterns that we use in out application.
+
+""Bio:""
+E. Lepors is 
