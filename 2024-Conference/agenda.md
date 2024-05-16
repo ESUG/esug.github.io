@@ -8,7 +8,7 @@
 <!talk|subject=How to get more people onboard with Pharo ? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
 <!talk|subject=Phausto : the sound within Pharo&author=D. Cipriani&length=30&room=Amphi!>
 
-<!break|subject=Lunch&length=0&room=Amphi!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
 <!talk|subject=Gemtalk roadmap&author=N. Green, J. Foster&length=30&room=Amphi!>
 <!talk|subject=Moldable Debugging&author=A. Chis&length=30&room=Amphi!>
@@ -20,7 +20,7 @@
 <!talk|subject=Building a GTK app with Spec&author=E. Lorenzano, C. Demarey&length=30&room=Amphi!>
 <!talk|subject=Webside&author=G. Amaral&length=30&room=Amphi!>
 
-<!break|subject=Award Competition&length=15&room=Amphi!>
+<!break|subject=Award Competition&length=75&room=Amphi!>
 
 !>
 !>
@@ -35,7 +35,7 @@
 <!talk|subject=Building Full-Stack Unicode Applications with VAST&author=E. Maringolo&length=30&room=Amphi!>
 <!talk|subject=Cormas and Companion modelling and serious games&author=O. Zaitsev, P. Bommel&length=30&room=Amphi!>
 
-<!break|subject=Lunch&length=0&room=Amphi!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
 <!talk|subject=Glamorous Toolkit&author=A. Chiș&length=30&room=Amphi!>
 <!talk|subject=Manage your Pharo images from command line&author=C. Demarey&length=30&room=Amphi!>
@@ -47,7 +47,7 @@
 <!talk|subject=Pyramid: a User Interface Editor for Bloc&author=Y. Le Goff&length=30&room=Amphi!>
 <!talk|subject=Runtime type collection and its usage in code transpiling&author=P. Krivanek&length=30&room=Amphi!>
 
-<!break|subject=Show us your projects&length=0&room=Amphi!>
+<!break|subject=Show us your projects&length=60&room=Amphi!>
 
 !>
 !>
@@ -62,7 +62,7 @@
 <!talk|subject=Bridging the Gap: Streamlining Pharo FFI Bindings&author=E. Lorenzano&length=30&room=Amphi!>
 <!talk|subject=From Development to Distribution: Packaging Pharo Applications&author=E. Lorenzano, P. Tesone&length=30&room=Amphi!>
 
-<!break|subject=Lunch&length=0&room=Amphi!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
 <!talk|subject=Beagle Smalltalk&author=D. Buck&length=30&room=Amphi!>
 <!talk|subject=gt4gemstone&author=A. Chiș&length=30&room=Amphi!>
@@ -75,7 +75,7 @@
 <!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
 <!talk|subject=WebST:Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
 
-<!break|subject=Social Event&length=0&room=Amphi!>
+<!break|subject=Social Event&length=300&room=Amphi!>
 
 !>
 !>
@@ -90,7 +90,7 @@
 <!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
 <!talk|subject=A tale about scale&author=N. Hartl&length=30&room=Amphi!>
 
-<!break|subject=Lunch&length=0&room=Amphi!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
 <!talk|subject=Getting more from your Pharo IDE&author=C. Ferlicot-Delbecque&length=30&room=Amphi!>
 <!talk|subject=Behind the scenes: The Making of VAST&author=M. Martinez Peck&length=30&room=Amphi!>
@@ -101,9 +101,8 @@
 <!talk|subject=Mutants and refactoring bugs&author=B. Šarenac&length=30&room=Amphi!>
 <!talk|subject=Data Storytelling with Pharo & Mapping data commons extinction and blossoming&author=O. Luna&length=30&room=Amphi!>
 
-<!break|subject=Show us your projects&length=0&room=Amphi!>
+<!break|subject=Show us your projects&length=60&room=Amphi!>
 
 !>
 !>
 !>
-
