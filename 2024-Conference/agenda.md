@@ -1,5 +1,5 @@
 <!agenda|title=ESUG 2024
-<!day|start=2023 July 8th
+<!day|start=2024 July 8th
 
 <!segment|start=09:15
 <!talk|subject=Welcome&author=S. Ducasse&length=45&room=Amphi!>
@@ -73,7 +73,7 @@
 <!talk|subject=Communication patterns&author=S. Ducasse&length=30&room=Amphi!>
 <!talk|subject=Code Paradise&author=E. Stel&length=30&room=Amphi!>
 <!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
-<!talk|subject=WebST:Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
+<!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
 
 <!break|subject=Social Event&length=300&room=Amphi!>
 
