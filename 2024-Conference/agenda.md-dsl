@@ -2,7 +2,7 @@
 - defaultTalkLength: 30
 - defaultRoom: Amphi
 
-## 2023 July 8th
+## 2024 July 8th
 ### 9:15
 
 #### Welcome
@@ -108,7 +108,7 @@
 - speaker: E. Stel
 #### WebST: Web Components with PharoJS
 - speaker: N. Bouraqadi
-#### WebST:Detecting and preventing Pharo vulnerabilities
+#### Detecting and preventing Pharo vulnerabilities
 - speaker: I. Sayar, S. Costiou
 #### break
 - label: Social Event
