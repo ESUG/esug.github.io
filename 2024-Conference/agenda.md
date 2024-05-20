@@ -1,8 +1,9 @@
 <!agenda|title=ESUG 2024
 <!day|start=2024 July 8th
 
-<!segment|start=09:15
-<!talk|subject=Welcome&author=S. Ducasse&length=45&room=Amphi!>
+<!segment|start=09:00
+<!talk|subject=Welcome&author=S. Ducasse&length=15&room=Amphi!>
+<!talk|subject=Strengthening our community&author=G. Rakic&length=15&room=Amphi!>
 <!talk|subject=Mutalk, Who watches the tests?&author=G. Polito&length=30&room=Amphi!>
 <!talk|subject=Virtual Reality in Pharo using WODEN Engine: Challenges and Demo&author=R. Salgado&length=30&room=Amphi!>
 <!talk|subject=How to get more people onboard with Pharo ? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
