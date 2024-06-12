@@ -61,8 +61,7 @@
 
 <!talk|subject=How easy is to write a JIT compiler?&author=G. Polito&length=30&room=Amphi!>
 <!talk|subject=Bridging the Gap: Streamlining Pharo FFI Bindings&author=E. Lorenzano&length=30&room=Amphi!>
-<!talk|subject=From Development to Distribution: Packaging Pharo Applications&author=E. Lorenzano, P. Tesone&length=30&room=Amphi!>
-
+<!talk|subject=Code Paradise&author=E. Stel&length=30&room=Amphi!>
 <!break|subject=Lunch&length=120&room=Amphi!>
 
 <!talk|subject=Beagle Smalltalk&author=D. Buck&length=30&room=Amphi!>
@@ -72,7 +71,6 @@
 <!break|subject=Coffee Break&length=30&room=Amphi!>
 
 <!talk|subject=Communication patterns&author=S. Ducasse&length=30&room=Amphi!>
-<!talk|subject=Code Paradise&author=E. Stel&length=30&room=Amphi!>
 <!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
 <!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
 
