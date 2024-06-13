@@ -73,7 +73,7 @@
 <!talk|subject=Communication patterns&author=S. Ducasse&length=30&room=Amphi!>
 <!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
 <!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
-
+<!talk|subject=Live Music Concert of DJ Lucretio&author=DJ Lucretio&length=60&room=Amphi!>
 <!break|subject=Social Event&length=300&room=Amphi!>
 
 !>
