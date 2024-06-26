@@ -1,5 +1,6 @@
 # Riding the MOOFLOD
 ## Domenico Cipriani a.k.a. Lucretio
+
 A 40 minutes experimental audio-visual live coding performance with  MOOFLOD (Music on-the-fly with Levels of Detail), a Pharo tool born from a joint research by the Evref group of INRIA and the MINT research team of CRIStAL.\
 The creative performing art known as live coding (or on-the-fly-programming) is an increasingly popular technique for computer music improvisation and algorithmic composition, that  has gained recently momentum worldwide, also thanks to the growing number of Algoraves (events that bled live coding with dance music in a club environment). However, audience of different types may find it difficult to understand the relationship between the code and the audio result and to fully appreciate the artists’ virtuosity on the computer keyboard.\
 MOOFLOD employs the Coypu package for programming music on-the-fly pairing a Playground with visualisation widgets made with Bloc, and generating sounds and processing audio within Pharo thigh the Phausto library.
