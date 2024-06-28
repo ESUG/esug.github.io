@@ -72,7 +72,7 @@
 
 <!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!talk|subject=Communication patterns&author=S. Ducasse&length=30&room=Amphi!>
+<!talk|subject=A tale about scale&author=N. Hartl&length=30&room=Amphi!>
 <!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
 <!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
 <!talk|subject=Live Music Concert of DJ Lucretio&author=DJ Lucretio&length=60&room=Amphi!>
@@ -90,7 +90,7 @@
 <!talk|subject=Object-Centric Debugging&author=V. Boursier, S+. Costiou&length=30&room=Amphi!>
 <!talk|subject=gt4python: Moldable Development for Python&author=S. Van Caekenberghe&length=30&room=Amphi!>
 
-<!talk|subject=A tale about scale&author=N. Hartl&length=30&room=Amphi!>
+<!talk|subject=Community discussion&author=G. Rakic and S. Ducasse&length=30&room=Amphi!>
 
 <!break|subject=Lunch&length=120&room=Amphi!>
 
