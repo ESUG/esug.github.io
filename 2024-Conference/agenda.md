@@ -23,7 +23,7 @@
 <!talk|subject=Building a GTK app with Spec&author=E. Lorenzano, C. Demarey&length=30&room=Amphi!>
 <!talk|subject=Webside&author=G. Amaral&length=30&room=Amphi!>
 
-<!break|subject=Award Competition&length=75&room=Amphi!>
+<!break|subject=Award Competition&length=200&room=Amphi!>
 
 !>
 !>
