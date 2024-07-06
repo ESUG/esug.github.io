@@ -23,7 +23,7 @@
 <!talk|subject=Building a GTK app with Spec&author=E. Lorenzano, C. Demarey&length=30&room=Amphi!>
 <!talk|subject=Webside&author=G. Amaral&length=30&room=Amphi!>
 
-<!break|subject=Award Competition&length=75&room=Amphi!>
+<!break|subject=Award Competition&length=200&room=Amphi!>
 
 !>
 !>
@@ -76,7 +76,8 @@
 <!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
 <!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
 <!talk|subject=Live Music Concert of DJ Lucretio&author=DJ Lucretio&length=60&room=Amphi!>
-<!break|subject=Social Event&length=300&room=Amphi!>
+<!talk|subject=going to social event&length=30&room=Walking happily!>
+<!break|subject=Social Event&length=300&room=ChaudBouillon!>
 
 !>
 !>
