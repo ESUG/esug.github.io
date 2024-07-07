@@ -13,15 +13,15 @@ List will be updated before the conference
 - Keywords: DSP audio music synthesis Pharo Faust
 - ''Submitted by'': ""Domenico Cipriani"", Independent Researcher, Italy
 - ''More Info'': 
-    - *https://github.com/lucretiomsp/phausto*
-    - *https://www.youtube.com/watch?v=pfBMVFc5mPs&t=23s*
-    - *https://www.youtube.com/watch?v=mcANQGwRTSI&t=71s*
+-- *https://github.com/lucretiomsp/phausto*
+-- *https://www.youtube.com/watch?v=pfBMVFc5mPs&t=23s*
+-- *https://www.youtube.com/watch?v=mcANQGwRTSI&t=71s*
 
 !!! Notebooks
 - ''Submitted by'': ""Massimo Nocentini"", freelancer, Italy
 - ''More Info'': 
-    - *https://github.com/massimo-nocentini/Booklet-DSst*
-    - *https://github.com/massimo-nocentini/pharo-vm*
+-- *https://github.com/massimo-nocentini/Booklet-DSst*
+-- *https://github.com/massimo-nocentini/pharo-vm*
 
 !!! Beagle Smalltalk
 - ''Submitted by'': ""David Buck"", Simberon Incorporated, Canada
@@ -30,35 +30,34 @@ List will be updated before the conference
 !!! CodeParadise: framework for developing Smalltalk applications running in a JavaScript environment
 - ''Submitted by'': ""Erik Stel"", The Netherlands
 - ''More Info'': 
-    - *src+docs>https://github.com/ErikOnBike/CodeParadise*
-    - *some videos>https://www.youtube.com/@erikstel9710*
-
+-- *src+docs>https://github.com/ErikOnBike/CodeParadise*
+-- *some videos>https://www.youtube.com/@erikstel9710*
 !!! Toplo: an UI framework on TOP of bLOc
-- ''Submitted by'': 
-    - Alain Plantec + UBO Lab-STICC + France
-    - Pierre Laborde + Thales DMS + France
-    - Eric Le Pors + Thales DMS + France
-    - Brendan Landais + Thales DMS + France
-    - Louise Plantec + Thales DMS + France
-    - Yann Le Goff + UBO Lab-STICC, Thales DMS + France
-    - Martin Tinchodias + INRIA Lille + Argentina
-    - Pablo Tesone + INRIA Lille + France
-    - Stéphane Ducasse + INRIA Lille + France
-- ''More Info'': *https://github.com/pharo-graphics/Toplo*
-    
+- 'Submitted by'': 
+-- Alain Plantec + UBO Lab-STICC + France
+-- Pierre Laborde + Thales DMS + France
+-- Eric Le Pors + Thales DMS + France
+-- Brendan Landais + Thales DMS + France
+-- Louise Plantec + Thales DMS + France
+-- Yann Le Goff + UBO Lab-STICC, Thales DMS + France
+-- Martin Tinchodias + INRIA Lille + Argentina
+-- Pablo Tesone + INRIA Lille + France
+-- Stéphane Ducasse + INRIA Lille + France
+- '-More Info'': *https://github.com/pharo-graphics/Toplo*
+
 !!! Inspecting Objects / Real-time round-trip GT views for industrial web-development
-- ''Submitted by'': 
-    - Kyla Kaplan (USI/Lifeware), 
-    - Andrei Chis (GT), 
-    - Vincent Blondeau (Lifeware), 
-    - Michele Lanza (USI)
+- ' Submitted by'': 
+-- Kyla Kaplan (USI/Lifeware), 
+-- Andrei Chis (GT), 
+-- Vincent Blondeau (Lifeware), 
+-- Michele Lanza (USI)
 - ''More Info'': Proprietary code of lifeware.ch. *Here is video demo>https://youtu.be/Xln7bNqJjVo*
     
 !!! Woden VR
 - ''Submitted by'': ""Ronie Salgado"", Desromech EIRL, Chile
 - ''More Info'':
-    - *GitHub>https://github.com/desromech/woden-core-examples*
-    - *Video>https://www.youtube.com/watch?v=9QjTQU3ePSE*
+-- *GitHub>https://github.com/desromech/woden-core-examples*
+-- *Video>https://www.youtube.com/watch?v=9QjTQU3ePSE*
     
 !!! Microdown the next language of Pillar
 - ''Submitted by'': Stephane Ducasse & Kasper Osterbye
