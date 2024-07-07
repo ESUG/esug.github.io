@@ -25,28 +25,29 @@ List will be updated before the conference
 
 !!! Beagle Smalltalk
 - ''Submitted by'': ""David Buck"", Simberon Incorporated, Canada
-- ''More Info'': *???*
+% - ''More Info'': **
     
 !!! CodeParadise: framework for developing Smalltalk applications running in a JavaScript environment
 - ''Submitted by'': ""Erik Stel"", The Netherlands
 - ''More Info'': 
 -- *src+docs>https://github.com/ErikOnBike/CodeParadise*
 -- *some videos>https://www.youtube.com/@erikstel9710*
+
 !!! Toplo: an UI framework on TOP of bLOc
 - 'Submitted by'': 
--- Alain Plantec + UBO Lab-STICC + France
--- Pierre Laborde + Thales DMS + France
--- Eric Le Pors + Thales DMS + France
--- Brendan Landais + Thales DMS + France
--- Louise Plantec + Thales DMS + France
--- Yann Le Goff + UBO Lab-STICC, Thales DMS + France
--- Martin Tinchodias + INRIA Lille + Argentina
--- Pablo Tesone + INRIA Lille + France
--- Stéphane Ducasse + INRIA Lille + France
+-- Alain Plantec, UBO Lab-STICC, France
+-- Pierre Laborde, Thales DMS, France
+-- Eric Le Pors, Thales DMS, France
+-- Brendan Landais, Thales DMS, France
+-- Louise Plantec, Thales DMS, France
+-- Yann Le Goff, UBO Lab-STICC, Thales DMS, France
+-- Martin Tinchodias, INRIA Lille, Argentina
+-- Pablo Tesone, INRIA Lille, France
+-- Stéphane Ducasse, INRIA Lille, France
 - '-More Info'': *https://github.com/pharo-graphics/Toplo*
 
 !!! Inspecting Objects / Real-time round-trip GT views for industrial web-development
-- ' Submitted by'': 
+- ''Submitted by'': 
 -- Kyla Kaplan (USI/Lifeware), 
 -- Andrei Chis (GT), 
 -- Vincent Blondeau (Lifeware), 
@@ -61,9 +62,9 @@ List will be updated before the conference
     
 !!! Microdown the next language of Pillar
 - ''Submitted by'': Stephane Ducasse & Kasper Osterbye
-- ''More Info'': *???*
+% - ''More Info'': *???*
     
-!!! Webside + IDE + AI
+!!! Webside, IDE, AI
 - ''Submitted by'': ""Guille Amaral"", Quorum Software, Argentina 
 - ''More Info'': *webside.app*
     
