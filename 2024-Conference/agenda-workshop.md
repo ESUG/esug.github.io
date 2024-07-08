@@ -16,7 +16,7 @@
 
 <!talk|subject=Runtime type collecting and transpilation to a static language&length=30&author=Richard Uttner and Pavel Krivanek&room=Room B!>
 <!talk|subject=MethodProxies: A Safe and Fast Message-Passing Control Library&length=30&author=Sebastian Jordan Montaño, Juan Pablo Sandoval Alcocer, Guillermo Polito, Stéphane Ducasse and Pablo Tesone&room=Room B!>
-<!talk|subject=Smalltalk JIT Compilation: LLVM Experimentation&length=30&author=Janat Baig and Dave Mason&room=Room B!>
+<!talk|subject=Intentional Benchmarking of Dynamic Languages&length=30&author= 	Maisha Labiba and Dave Mason&room=Room B!>
 
 !>
 
@@ -25,12 +25,11 @@
 <!day|start=2024 July 11th
 
 <!segment|start=9:30
-
-<!talk|subject=Modest-Pharo: Unit Test Generation for Pharo Based on Traces and Metamodels&length=30&author=Gabriel Darbord, Fabio Vandewaeter, Anne Etien, Nicolas Anquetil and Benoit Verhaeghe&room=Room B!>
+<!talk|subject=Pyramidion: a framework to develop domain specific views&length=30&author=Yann Le Goff, Alain Plantec, Pierre Laborde and Mickaël Kerboeuf&room=Room B!>
 <!talk|subject=SoSAF: A Pharo-Based Framework for Enhancing System-Of-Systems Dependencies Analysis&length=30&author=Mouhamadou Falilou Ball, Patrick Auger, Jannik Laval and Loïc Lagadec&room=Room B!>
 <!break|subject=Coffee Break &length=30&room=Amphi!>
 <!talk|subject=Towards resilience against highly dynamic challenges for Wireless Sensor Networks&length=30&author=Patrick Auger, Mouhamadou Ball, Loïc Lagadec and Jannik Laval&room=Room B!>
-<!talk|subject=Intentional Benchmarking of Dynamic Languages&length=30&author= 	Maisha Labiba and Dave Mason&room=Room B!>
+<!talk|subject=Smalltalk JIT Compilation: LLVM Experimentation&length=30&author=Janat Baig and Dave Mason&room=Room B!>
 
 !>
 
@@ -38,7 +37,7 @@
 
 <!talk|subject=Phausto: fast and accessible DSP programming for sound and music creation in Pharo&length=30&author=Domenico Cipriani&room=Room B!>
 <!talk|subject=A Graphical Language Server on the Smalltalk Platform&length=30&author=Graham McLeod and Gareth Cox&room=Room B!>
-<!talk|subject=Pyramidion: a framework to develop domain specific views&length=30&author=Yann Le Goff, Alain Plantec, Pierre Laborde and Mickaël Kerboeuf&room=Room B!>
+<!talk|subject=Modest-Pharo: Unit Test Generation for Pharo Based on Traces and Metamodels&length=30&author=Gabriel Darbord, Fabio Vandewaeter, Anne Etien, Nicolas Anquetil and Benoit Verhaeghe&room=Room B!>
 <!talk|subject=A Remote Browser Development Tool for Pharo&length=30&author=Mohammed Qasim Khan and Dave Mason&room=Room B!>
 
 !>
