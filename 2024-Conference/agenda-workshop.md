@@ -25,7 +25,7 @@
 <!day|start=2024 July 11th
 
 <!segment|start=9:30
-<!talk|subject=Pyramidion: a framework to develop domain specific views&length=30&author=Yann Le Goff, Alain Plantec, Pierre Laborde and Mickaël Kerboeuf&room=Room B!>
+<!talk|subject=Pyramidion: a framework for domain-specific editors&length=30&author=Yann Le Goff, Pierre Laborde, Alain Plantec and Éric Le Pors&room=Room B!>
 <!talk|subject=SoSAF: A Pharo-Based Framework for Enhancing System-Of-Systems Dependencies Analysis&length=30&author=Mouhamadou Falilou Ball, Patrick Auger, Jannik Laval and Loïc Lagadec&room=Room B!>
 <!break|subject=Coffee Break &length=30&room=Amphi!>
 <!talk|subject=Towards resilience against highly dynamic challenges for Wireless Sensor Networks&length=30&author=Patrick Auger, Mouhamadou Ball, Loïc Lagadec and Jannik Laval&room=Room B!>
