@@ -14,8 +14,8 @@
 <!break|subject=Lunch&length=120&room=Amphi!>
 
 <!talk|subject=Gemtalk roadmap&author=N. Green, J. Foster&length=30&room=Amphi!>
-<!talk|subject=Moldable Debugging&author=A. Chis&length=30&room=Amphi!>
 <!talk|subject=Debug Points&author=S. Costiou&length=30&room=Amphi!>
+<!talk|subject=Moldable Debugging&author=A. Chis&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Amphi!>
 
