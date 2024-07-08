@@ -76,6 +76,18 @@ List of participants in submission order. Winners will be displayed at the top.
 - ''Submitted by'': ""Guille Polito, Pol Durieux, Matéo Boury, Pavel Krivanek, and more!""
 - ''More Info'': *https://github.com/pharo-contributions/mutalk*
 
+!!! MooseBrain: generating better comment using Moose and LLM
+- ''Submitted by'': ""Nicolas Hlad"", Berger-Levrault, France 
+% - ''More Info'': *xxx*
+
+!!! Dundi Model in Cormas Pharo
+- ''Submitted by'': 
+-- François Vendel, CIRAD, UMR SENS, Dundi Ferlo, PPZS, ISRA CNRF, Senegal
+-- Oleksandr Zaitsev, CIRAD, UMR SENS, France
+-- Pierre Bommel, CIRAD, UMR SENS, France
+- ''Keywords'':  natural resource management, agent-based modelling, senegal, participatory modelling
+- ''More Info'': *https://github.com/panchovdl/DundiModel*
+
 % !!! Title
 % +file://picture.png+
 % - ''Submitted by'': ""Sponge Bob""
