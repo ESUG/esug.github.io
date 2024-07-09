@@ -24,8 +24,7 @@
 
 <!day|start=2024 July 11th
 
-<!segment|start=10:00
-<!break|subject=Coffee Break &length=30&room=Amphi!>
+<!segment|start=10:30
 <!talk|subject=Pyramidion: a framework for domain-specific editors&length=30&author=Yann Le Goff, Pierre Laborde, Alain Plantec and Éric Le Pors&room=Room B!>
 
 
@@ -34,7 +33,8 @@
 <!talk|subject=Towards resilience against highly dynamic challenges for Wireless Sensor Networks&length=30&author=Patrick Auger, Mouhamadou Ball, Loïc Lagadec and Jannik Laval&room=Room B!>
 
 
-<!segment|start=14:00
+<!break|subject=Lunch&length=120&room=Amphi!>
+
 
 <!talk|subject=Phausto: fast and accessible DSP programming for sound and music creation in Pharo&length=30&author=Domenico Cipriani&room=Room B!>
 <!talk|subject=A Graphical Language Server on the Smalltalk Platform&length=30&author=Graham McLeod and Gareth Cox&room=Room B!>
@@ -45,8 +45,6 @@
 <!talk|subject=Smalltalk JIT Compilation: LLVM Experimentation&length=30&author=Janat Baig and Dave Mason&room=Room B!>
 <!talk|subject=A Remote Browser Development Tool for Pharo&length=30&author=Mohammed Qasim Khan and Dave Mason&room=Room B!>
 
-!>
 
 !>
-
 !>
