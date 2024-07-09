@@ -5,25 +5,29 @@
 !ESUG 2024 International Conference
 
 The 30th ESUG conference/summer-school will be held in Lille, France from 8 to 11 of July 2024.
-*The conference program>agenda.pillar* is out!
 
-!!! Conference Info
+!! Program & Info
 
-- *Concert: Riding the Mooflod>Concert.pillar* 
-- *Call for Presentations>call2024.pillar*
-- *Call for Student Volunteers>callForStudents2024.pillar*
-- Call for IWST 2024 submissions
---*Call for IWST 2024 Workshop Paper submissions>IWST2024.pillar*
---*Call for IWST 2024 Previously Published Contribution Presentation submissions>IWST-24-preprints.pillar*
-- Innovation Technology Awards
--- *Tech Awards Submissions & Winners>awardsSubmissions.pillar*
--- *Tech Awards Call>awardsCall2024.pillar*
+- *Main Track Program>agenda.pillar*
+- *International Workshop of Smalltalk Technolgies (IWST)  Program>agenda-workshop.html*
+- *Innovation Technology Awards Submissions & Winners>awardsSubmissions.pillar*
+- *DJ Lucretio Live Coding Musical Performance>Concert.pillar* : ""Riding the Mooflod"", Wednesday 10th
 - *Camp Smalltalk>camp2024.pillar*
 - *Conference Venue and trip information>city2024.pillar*
 
+
+!! Calls for Contributions
+
+- *Main Track Call>call2024.pillar*
+- *Student Volunteers Call>callForStudents2024.pillar*
+- IWST 2024 Call
+--*Call for IWST 2024 Workshop Paper submissions>IWST2024.pillar*
+--*Call for IWST 2024 Previously Published Contribution Presentation submissions>IWST-24-preprints.pillar*
+- *Innovation Technology Awards Call>awardsCall2024.pillar*
+
 +ESUG 2024 Logo>file://ESUG2024LogoRed.png+
 
-!!! Conference registration
+!! Conference registration
 
 @registration
 
@@ -45,8 +49,8 @@ Conference prices ESUG 2024 in Euros:
 Stay tuned.
 
 
-!!! Conference organization
-!!!! ESUG 2024 organization committee
+!! Conference organization
+!!! ESUG 2024 organization committee
 - Stéphane Ducasse, Inria Lille
 - Pablo Tesone, Pharo Consortium
 - Marcus Denker, Inria Lille
@@ -57,7 +61,7 @@ Stay tuned.
 - Steven Costiou, Inria Lille
 - Aurore Dalle, Inria Lille
 
-!!!! IWST 2024 organization committee
+!!! IWST 2024 organization committee
 - Gordana Rakic, University of Novi Sad
 - Guille Polito, Inria Lille, France
 - Steven Costiou, Inria Lille, France
