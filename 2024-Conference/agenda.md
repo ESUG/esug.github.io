@@ -97,11 +97,10 @@
 
 <!talk|subject=Getting more from your Pharo IDE&author=C. Ferlicot-Delbecque&length=30&room=Amphi!>
 <!talk|subject=Behind the scenes: The Making of VAST&author=M. Martinez Peck&length=30&room=Amphi!>
-<!talk|subject=Fluid Class Defintions In Pharo 12&author=M. Denker&length=30&room=Amphi!>
+<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
 
-<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
 <!talk|subject=Data Storytelling with Pharo & Mapping data commons extinction and blossoming&author=O. Luna&length=30&room=Amphi!>
 
 <!break|subject=Show us your projects&length=60&room=Amphi!>
