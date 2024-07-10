@@ -8,7 +8,7 @@
 
 <!talk|subject=Mutalk, Who watches the tests?&author=G. Polito&length=30&room=Amphi!>
 <!talk|subject=Virtual Reality in Pharo using WODEN Engine: Challenges and Demo&author=R. Salgado&length=30&room=Amphi!>
-<!talk|subject=How to get more people onboard with Pharo ? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
+<!talk|subject=How to get more people onboard with Pharo? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
 <!talk|subject=Phausto : the sound within Pharo&author=D. Cipriani&length=30&room=Amphi!>
 
 <!break|subject=Lunch&length=120&room=Building A!>
@@ -74,7 +74,7 @@
 
 <!talk|subject=A tale about scale&author=N. Hartl&length=30&room=Amphi!>
 <!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
-<!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
+<!talk|subject=Job Opportunities/Internships&author=O. Zaitsev&length=30&room=Amphi!>
 <!talk|subject=Live Music Concert of DJ Lucretio&author=DJ Lucretio&length=60&room=Amphi!>
 <!talk|subject=going to social event&length=30&room=Walking happily!>
 <!break|subject=Social Event&length=300&room=ChaudBouillon!>
@@ -97,9 +97,10 @@
 
 <!talk|subject=Getting more from your Pharo IDE&author=C. Ferlicot-Delbecque&length=30&room=Amphi!>
 <!talk|subject=Behind the scenes: The Making of VAST&author=M. Martinez Peck&length=30&room=Amphi!>
-<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
+<!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
+<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
 
 <!talk|subject=Data Storytelling with Pharo & Mapping data commons extinction and blossoming&author=O. Luna&length=30&room=Amphi!>
 
