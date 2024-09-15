@@ -28,11 +28,9 @@ The goals of the workshop is to create a forum around contributions and experien
 
 - Workshop: July 9-10, 2024
 
-- Full/short paper resubmission deadline: July 21st, 2024
-- Full/short paper final notification deadline: July 31st, 2024
-- Camera ready package submission deadline: August 25th, 2024 
-
-
+- Full/short paper resubmission deadline: July 21st, 2024 
+- Full/short paper final notification deadline: --July 31st, 2024-- ""September 20th, 2024""
+- Camera-ready package submission deadline: --August 25th, 2024-- ""October 1st, 2024"" 
 
 !!!Topics
 
@@ -66,12 +64,38 @@ We are looking for papers of two kinds:
 
 Paper accepted for publishing will be published within a *CEUR-WS Proceedings>https://ceur-ws.org/*.
 Hence, both submissions and final papers must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
-We recommend to use the template in single column style, although you may use two colums.
-CEUR proceedings accepts papers in boths styles as soon as they use the template and have 5 or more pages.
+We recommend using the template in single-column style, although you may use two colums.
+CEUR proceedings accept papers in both styles as soon as they use the template and have 5 or more pages.
 
 All submissions must be sent via *EasyChair submission page>https://easychair.org/conferences/?conf=iwst2024*.
 
 Pay attention, for organisation constraints, when submitting your article you are expected to register to the conference and pay the conference fees. 
+
+
+!!!! Camera Ready Package Submission
+The camera-ready (CR) package should be submitted through EasyChair. CR package should contain:
+
+- Final version of the paper (PDF)
+- Source files of the paper (*Word/ODT/Latex, single column>https://ceur-ws.org/Vol-XXX/CEURART.zip*), as well as any figures, code listings, or additional materials needed. 
+
+Please make sure to update the info for this year's conference:
+
+For papers written in Latex, please replace the conference info in the preamble with:
+|| \conference{IWST 2024: International Workshop on Smalltalk Technologies, July 9--11, 2024, Lille, France}
+For papers written in Word or Libre Office, insert the following text in the footnotes of the first page, instead of the existing template text for the proceedings:
+|| IWST 2024: International Workshop on Smalltalk Technologies, July 9--11, 2024, Lille, France
+Please make the text italic to align with the formatting of the Latex template.
+
+- (Eventually) Log of changes addressing additional improvements potentially required after the second round of reviewing.
+- Signed copyright transfer form.
+
+For the publication of the proceedings, it is necessary to have an agreement from all the authors. Publication on *CEUR--WS>https://ceur-ws.org/* requires the usage of Creative Commons licences, to which you need to agree using one of the following documents (explanations copied from *CEUR--WS website>https://ceur-ws.org/*)
+
+- AUTHOR-AGREEMENT (NTP) (*PDF pre--filled in with IWST 2024 data>iwst-ceur-author-agreement-ccby-ntp.pdf* | *CEUR PDF>https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2024-06-04*) Authors shall use this form if they included no copyrighted third--party material in their paper text (or accompanying sources, datasets), and no material in the paper was produced with the help of Generative Artificial Intelligence tools including tools based on large language models (LLM). This is the right variant in most cases.
+- AUTHOR-AGREEMENT (TP) (*PDF pre--filled in with IWST 2024 data>iwst-ceur-author-agreement-ccby-tp.pdf* | *CEUR PDF>https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2024-06-04*) Authors shall use this form if they ""did"" include copyrighted third--party material in their paper or accompanying material or they used Generative Artificial Intelligence tools to produce material in the paper. 
+In case of third-party material, they must then append a copy of the permission(s) by the third parties to use this material to the signed author agreement! In the case of material produced by Generative Artificial Intelligence tools, they must fill in and sign a declaration on which elements of the paper was produced by AI tools, see *AI STATEMENT>https://ceur-ws.org/ceur-author-statement-AI-material.pdf?ver=2024-06-04*. This signed declaration must then be scanned and appended to the signed author agreement. Check *ACADEMIC-ETHICS>https://ceur-ws.org/ACADEMIC-ETHICS.html?ver=2024-06-04* for *CEUR--WS>https://ceur-ws.org/* rules on including such material.
+
+Either form used ""must be signed by hand"". Electronic signatures are not accepted by *CEUR--WS>https://ceur-ws.org/*, due to the lack of international laws that acknowledge them.
 
 
 !!!! Reviewing
