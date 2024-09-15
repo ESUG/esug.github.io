@@ -42,9 +42,9 @@ jobs:
     uses: yumemi-inc/changed-files@v3
     id: changed
       with:
-      patterns: '*agenda*.md'
-      if: steps.changed.outputs.exists == 'true' 
-      run: agenda_build
+        patterns: '*agenda*.md'
+        if: steps.changed.outputs.exists == 'true' 
+          run: agenda_build
     
   deploy:
     runs-on: ubuntu-latest
