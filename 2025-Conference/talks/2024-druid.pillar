@@ -1,0 +1,20 @@
+! How easy is to write a JIT compiler?
+
+G Polito (guillermo.polito@inria.fr)
+
+""Abstract:""
+JIT compilers are compilers that accelerate most-used methods by detecting them and compiling to machine code at runtime.
+However, the required expertise and the engineering cost to implement a JIT compiler cannot be ignored.
+
+In this talk we will showcase Druid: a meta-compiler that automatically generates part of a JIT compiler for you.
+Druid splits the maintenance of the JIT compiler from the maintenance of the language interpreter.
+This allows experts to focus on their own domain and brings clear interfaces between them.
+We will show that this auto-generated approach not only improves modularity but also improves interpreter performance, and presents nice perspectives for the future.
+
+
+""Bio:""
+Guille Polito is chargé de recherche at INRIA and the CRIStAL laboratory in the University of Lille, within the Evref team.
+He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
+Guille's main research interests are compilers, modularity, tooling and automated testing.
+Guille participates in the Pharo community since 2010 and is now board member.
+His most noticeable contributions to the community are the Pharo Bootstrap process and Iceberg.

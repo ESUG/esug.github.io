@@ -1,0 +1,18 @@
+! gt4llm: A programmable environment for large language models
+
+Veit Heller  (veit.heller@feenk.com)
+
+""Abstract:""
+Glamorous Toolkit (GT) is an environment for exploring systems, documenting
+them, and communicating about them. As such, views on objects, both technical
+and for the domain, are essential. And although GT aims to make creating views
+inexpensive and for them to be amortized as quickly as possible, it is still
+often repetitive work. So naturally, we explored how to generate that code using
+a large language model (LLM), a tool which is great at performing repetitive
+work quickly. While working on this, we also created an infrastructure for
+working with LLMs more generally, enabling a moldable approach to exploring the
+interaction with models.
+
+""Bio:""
+Veit is a developer experience crafter at feenk (feenk.com) building tools and
+techniques for making software systems explainable.

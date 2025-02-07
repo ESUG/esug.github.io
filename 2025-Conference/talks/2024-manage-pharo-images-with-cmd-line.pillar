@@ -1,0 +1,15 @@
+! Manage your Pharo images from command line
+
+Christophe Demarey, Inria research center of University of Lille
+
+""Abstract:""
+
+Dealing with Pharo images and their Virutal Machines is not always easy. Since some years, Pharo Launcher helps to organize your images and VMs nicely and be more productive.
+
+We will present this year a new way to manage your images through command-line.
+You will see that most actions available with Pharo Launcher UI are now available on command-line with the pharo-launcher command.
+You will also discover new features available only for command-line that will boost your productivity: create an image with code from your repository, list running images, spot a bug with bisection.
+
+
+""Bio:""
+Christophe Demarey is a research engineer at Inria Lille, working in tight relation with the Evref team. Christophe participates in the Pharo community since 2012. His most noticeable contributions in the past months are in the Pharo Launcher and contributing to the Pharo ecosystem. Christophe is interested in Software Craftsmanship and had initiated Inria Continuous Integration service. 

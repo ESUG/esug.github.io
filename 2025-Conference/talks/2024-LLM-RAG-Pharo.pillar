@@ -1,0 +1,26 @@
+""Title"": 
+How to get more people onboard with Pharo ? Applying LLM as support for the onboarding of new developers. 
+
+""Name"": 
+Pascal Zaragoza, Marius Pingaud
+
+""Email"": 
+pascal.zaragoza@berger-levrault.com, marius.pingaud@berger-levrault.com
+
+""Abstract"":
+Last year, Large Language Model (LLM) have taken  the spotlight in many fields with their ability to generate text in an intelligent manner. 
+In computer science, they are being used to generate code, documentation, and also to explain any code base. 
+These use cases rely on a technique called Retrieval Augmented Generation (RAG). 
+This technique relies on retrieving the relevant document or code just in time to perform the task. 
+In this work, we explore RAG to study their use in the onboarding of developers toward new technologies. 
+As beginner in Pharo ourselves, we have developped a RAG on the Pharo code base and tested it on a set of questions from the official Pharo Discord where many new developers go to seek answer from the community. 
+In this talk, we present a quick overview of LLM and how to build a RAG on any given documents (e.g., Pharo source code and public books of Pharo). 
+Then, we demonstrate the ability of RAG to automatically help onboarding pharo users, based on previous questions found in the Pharo Discord.  
+
+""Bio"": 
+Pascal Zaragoza has a PhD in computer science from the university of Montpellier. 
+His thesis was on the migration of monolithic architecture toward microservice using model driven engineering. 
+Since 2022, he works on integrating AI/LLM inside the workflow of Berger-Levrault products. 
+Marius Pingaud is a computer science student in this first year of master at the university of Sorbonne Paris. 
+He is also a part time intern at Berger-Levrault, under the supervision of Phd Pascal Zaragoza. 
+His work focuses on the development of a RAG platform for Berger-Levrault and he explores the RAG ability to accelerate the onboarding of new developers.

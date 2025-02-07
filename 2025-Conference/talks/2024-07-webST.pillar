@@ -1,0 +1,18 @@
+! WebST: Web Components with PharoJS
+
+Noury BOURAQADI  (https://nootrix.com/)
+
+""Abstract:""
+Web Components are standard web technologies that support the definition of reusable custom HTML elements.
+This JavaScript API allows defining both the view of web components as well as their behavior.
+Web component custom tags can encapsulate the view in a "shadow" DOM tree.
+This support creating web pages combining different web components from different sources while avoiding collisions.
+
+This talk introduces *WebST>https://github.com/bouraqadi/WebST*, a *PharoJS-based>https://pharojs.org* solution to seamlessly implement and test web components using the powerful Pharo Smalltalk IDE.
+By delving into practical examples, we demonstrate how WebST facilitates the implementation and reuse of web components.
+Moreover, for production purposes, WebST generates web clients with standalone HTML and JavaScript code.
+
+""Bio:""
+*Noury Bouraqadi>https://nootrix.com* is a software developer, maker, repair hobbyist, environment/technology/robots lover. 
+Noury works part-time as a university professor at IMT Nord Europe, in the Autonomous and ResilienT Systems group. 
+His remaining work time is dedicated to a startup that uses **PharoJS>https://pharojs.org* to build a SaaS for teaching PLC programming & factory automation: *PLC3000>https://plc3000.com.

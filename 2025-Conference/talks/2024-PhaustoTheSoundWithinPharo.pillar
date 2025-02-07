@@ -1,0 +1,13 @@
+! Phausto : the sound within Pharo
+
+Domenico Cipriani (mspgate@gmail.com)
+
+""Abstract:""
+Phausto is a Pharo library that enables the generation of audio directly from Pharo itself. It leverages  FFI calls to a dynamic library that exposes Faust’s standard library and Box API to developers and sound artists.
+It is  conceived to be lightweight, minimalist and multi-platform, by the use of the multi platform PortAudio open-source library for audio playback.
+The classes and methods in the Phausto package allow quick development and design of Digital Sound Processors (DSPs) such as synthesisers, physical models and audio effects and can be used both by Pharo developers (to add sounds to their applications) and by musicians and artists who want to approach computer music creation and DSP programming enjoying the easiness and the reflectiveness of Pharo.
+Furthermore, the integration of Phausto with  the Coypu package for programming music on-the-fly turns Pharo into a stand alone environment for live coding performances.
+
+""Bio:""
+Domenico Cipriani a.k.a. Lucretio has been releasing  raw minimalist dance music for more than a decade and with his label Restoration  has played an active role in the vinyl resurgence of the late 2000.
+After his graduation at the S.A.E. Institute of Barcelona, he has further developed his research on social semiotic with an M.A. in Linguistics at the University of Padova, focusing on an evolutionary approach to explaining language change. He has discovered Smalltalk with Symbolic Sound Kyma in 2016. In 2019, he presented at the >>Sonic Experiments<< festival at the ZKM an interactive performance based on network distributed Open Sound Control. He has been live coding with Kyma and Pharo since April 2020.

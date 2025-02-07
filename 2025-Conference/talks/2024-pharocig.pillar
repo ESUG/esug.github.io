@@ -1,0 +1,22 @@
+""Title"": 
+Bridging the Gap: Streamlining Pharo FFI Bindings
+
+""Name"": 
+Esteban Lorenzano
+
+""Email"": 
+esteban.lorenzano@inria.fr
+ 
+""Abstract"":
+The Pharo FFI (Foreign Function Interface) system is an excellent tool that enables Pharo users to 
+create bindings with external C libraries. However, there's a significant drawback that often discourages 
+its use: the bindings must be manually created, a process that can be slow and prone to crashes. 
+This talk presents a solution to bridge that gap.
+
+""Bio"": 
+Esteban Lorenzano studied Computer Sciences at Universidad de Buenos Aires, and worked since 1994 in 
+several object-oriented and low-level technologies, in different software companies, serving in various 
+positions from programmer to senior architect. In 2007 he co-founded Smallworks to offer Pharo-based 
+agile development projects. Since 2012 he dedicated full time to developing the Pharo code and community. 
+He works with the INRIA-RMoD (now Evred) team in Lille, France, as core developer for Pharo, being responsible 
+with the coordination of new releases and the implementation and maintenance of Pharo libraries.

@@ -1,0 +1,11 @@
+! Theme and Skins in Toplo
+
+Alain Plantec
+
+""Abstract:""
+Toplo: a gorgeous widget library for Pharo that is fully skinnable. 
+In this talk we will the design of the skins and theme in Toplo
+as inspired by http://ant.design.
+
+""Bio:""
+Alain is one of the creator of Bloc and the main designer and developer of Toplo

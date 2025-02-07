@@ -1,0 +1,10 @@
+! Virtual Reality in Pharo using WODEN Engine: Challenges and Demo. 
+
+Ronie Salgado (ronie@desromech.cl)
+
+""Abstract:""
+Virtual Reality is the new frontier for immersive user experiences. WODEN Engine is a 3D graphics engine with a focus on scientific and engineering applications, but it is also meant to be used for prototyping and designing 3D interactive video games. So far, Virtual Reality support in Pharo and WODEN Engine has been quite limited, but with recent changes. This talk presents the new challenges that involve supporting and constructing a 3D immersive experience in VR using Pharo and WODEN Engine, along with their solutions and the presentation of a demo in virtual reality.
+
+""Bio:""
+Ronie Salgado is a freelance software engineer and PhD Student at Universidad de Chile on programming languages and computer graphics. He is the main author of WODEN Engine, a 3D graphics engine in Pharo. He has been working on 3D graphics on Pharo since 2013 when he was still a computer science and software engineering undergrad student. He also has experience working on the Chilean videogame industry working on Omen of Sorrow for the PS4 and other videogames as a contractor at positions of software architect and senior software engineer.
+

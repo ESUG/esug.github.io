@@ -1,0 +1,9 @@
+! A tale about scale
+
+Norbert Hartl  (norbert@apptivegrid.de)
+
+""Abstract:""
+Scale is a term often used by people with very different meanings. In software development is one of the big causes for pre-mature optimizations and complexity. After a couple of years since the last talk about how to do projects with pharo here comes an updated version.  
+
+""Bio:""
+Norbert Hartl has a long track record of creating and building software projects. Currently he is on a mission to create projects with zero dependencies. He co-founded ApptiveGrid where he is working at the moment. He also co-founded PharoPro. 

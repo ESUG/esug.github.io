@@ -1,0 +1,30 @@
+""Title"": 
+From Development to Distribution: Packaging Pharo Applications
+
+""Name"": 
+Esteban Lorenzano, Pablo Tesone
+
+""Email"": 
+esteban.lorenzano@inria.fr, pablo.tesone@inria.fr
+
+""Abstract"":
+Pharo is an excellent environment for developing desktop applications. The Pharo ecosystem is 
+rich in frameworks and libraries for creating visually appealing and well-functioning applications. 
+In this talk, we will demonstrate how to transform these applications into distributable packages 
+for our users. This involves managing their build, packaging, and operating system integration, 
+all while ensuring the process remains straightforward enough to be practical.
+
+""Bio"": 
+Esteban Lorenzano studied Computer Sciences at Universidad de Buenos Aires, and worked since 1994 in 
+several object-oriented and low-level technologies, in different software companies, serving in various 
+positions from programmer to senior architect. In 2007 he co-founded Smallworks to offer Pharo-based 
+agile development projects. Since 2012 he dedicated full time to developing the Pharo code and community. 
+He works with the INRIA-RMoD (now Evred) team in Lille, France, as core developer for Pharo, being responsible 
+with the coordination of new releases and the implementation and maintenance of Pharo libraries.
+
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed 
+systems and robotic applications. He is interested in improving development tools and the daily development 
+process. He is an enthusiast of the object oriented programming and their tools. He collaborates with 
+different open source projects like the ones in the Pharo Community [http://pharo.org/] and the 
+Uqbar Foundation [http://www.uqbar-project.org/].

@@ -1,0 +1,15 @@
+! Getting more from your Pharo IDE
+
+Cyril Ferlicot-Delbecque (cyril@ferlicot.fr)
+
+""Abstract:""
+
+Pharo has the particularity to be at the same time a programing language and an IDE. This can make it easy to customize even further the IDE compared to other languages.
+
+It as hard for an IDE to cover everyone's perfect workflow, but it is possible to adapt the Pharo IDE to add those missing touches and increase our productivity.
+
+In this presentation I'll show what kind of customizations I am doing.
+
+""Bio:""
+Cyril Ferlicot-Delbecque is a research and development engineer working in the Inria Evref team.
+He works since 2015 on divers project around Pharo and on Pharo itself. He's currently working on software analysis to detect security vulnerabilities in software with the project Software Heritage Security (https://swhsec.github.io/).

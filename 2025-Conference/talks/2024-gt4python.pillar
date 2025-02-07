@@ -1,0 +1,21 @@
+! gt4python: Moldable Development for Python
+
+S. Van Caekenberghe (sven.van.caekenberghe@feenk.com)
+
+""Abstract:""
+Moldable Development is a way of programming through custom tools built for each development problem.
+Glamorous Toolkit is an environment for Moldable Development. 
+It is implemented in Pharo and, of course, it offers an experience for Pharo as well. 
+But it's made to work with arbitrary technologies.
+
+In this talk we show how it works when developing in Python.
+In particular, the talk shows demos of Python snippets that 
+work with object inspectors extensible through Python code, 
+a Python debugger that works seamlessly, 
+a coding experience including completion 
+and even a custom made profiler.
+
+""Bio:""
+Sven Van Caekenberghe is a veteran Smalltalk developer and longtime contributor to the Pharo ecosystem. 
+He is currently a developer experience crafter at feenk (feenk.com) building tools and techniques 
+for making software systems explainable.

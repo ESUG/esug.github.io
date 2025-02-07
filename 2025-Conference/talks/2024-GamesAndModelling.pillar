@@ -1,0 +1,11 @@
+! Companion modelling and serious games in Pharo and VisualWorks
+
+Oleksandr Zaitsev (oleksandr.zaitsev@cirad.fr), Pierre Bommel (bommel@cirad.fr)
+
+"Abstract:"
+This talk will present the lessons learned from 25 years of developing tools for companion agent-based modelling and serious games in Smalltalk. We will explain the companion modelling approach, the practices that researchers at CIRAD adopt, and the software tools that support those practices. We will then discuss our experience developing those tools in VisualWorks Smalltalk and their recent migration to Pharo. We will discuss the unique features that make Smalltalk programming environments well-suited for building accessible and interactive tools. We will also communicate the challenges we face when migrating to Pharo and adopting modern libraries (Spec2, Roassal3, Iceberg, etc.).
+
+"Bio:"
+Oleksandr Zaitsev is a computer science researcher at CIRAD - a French agricultural research and international cooperation organization working for the sustainable development of tropical and Mediterranean regions. Oleksandr works on software engineering and AI techniques for participatory agent-based modelling and serious games. In 2022, he defended his PhD at Inria Lille; his thesis was about data mining-based tools to support software evolution. Oleksandr is  contributing to many open-source projecs (DataFrame, PolyMath, Pharo-AI). He is currently the lead developer of the Cormas modelling platform.
+
+Pierre Bommel is a computer science and modelling researcher at CIRAD. He is specialist in participatory modelling and agent-based modelling. In 2020, he defended his HDR titled "Participatory modelling and interactive simulation to support the management of the commons". He was hosted as an associate professor at the University of Brasilia then at the University of Rio de Janeiro (PUC), where he worked on subjects such as the adaptation of livestock to drought in Uruguay or the relationships between livestock farming and deforestation in the Amazon. He was also a visiting professor at UCR (Costa Rica) where he worked on issues of adaptation to climate change in the Guanacaste region. He was also an associated researcher at CATIE for the establishment of an early warning system for coffee rust in Central America. He is currently based in Montpellier.

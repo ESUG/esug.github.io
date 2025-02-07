@@ -1,0 +1,14 @@
+! Building a GTK app with Spec
+
+Esteban Lorenzano, Pharo Consortium
+Christophe Demarey, Inria research center of University of Lille
+
+""Abstract:""
+
+In this talk, you will discover the power of designing your GUI with the SPEC framework. You can design your app as usual and render it with the Morphic backend inside the Pharo image or, you can choose to go to the GTK backend and use OS windows.
+
+We will present you how to design an app with Spec to be compatible with the GTK backend. You will also see how to package and distribute your app with GTK.
+
+""Bio:""
+Esteban Lorenzano studied Computer Sciences at Universidad de Buenos Aires, and worked since 1994 in several object-oriented and low-level technologies, in different software companies, serving in various positions from programmer to senior architect. In 2007 he co-founded Smallworks to offer Pharo-based agile development projects. Since 2012 he dedicated full time to developing the Pharo code and community. He works with the INRIA-RMoD team in Lille, France, as core developer for Pharo, being responsible with the coordination of new releases, the implementation and maintenance of Pharo libraries and the maintenance of the Pharo flavour of the Cog Virtual Machine, FFI integration and plugins in all major platforms (OSX, Linux and Windows).
+Christophe Demarey is a research engineer at Inria Lille, working in tight relation with the Evref team. Christophe participates in the Pharo community since 2012. His most noticeable contributions in the past months are in the Pharo Launcher and contributing to the Pharo ecosystem. Christophe is interested in Software Craftsmanship and had initiated Inria Continuous Integration service. 

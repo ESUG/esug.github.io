@@ -1,0 +1,11 @@
+! gt4gemstone 
+
+Andrei Chiș  (andrei.chis@feenkc.com) 
+
+""Abstract:""
+Moldable Development is a way of programming through custom tools built for each development problem. Glamorous Toolkit is an environment for Moldable Development. It is implemented in Pharo and, of course, it offers an experience for Pharo as well. But it's made to work with arbitrary technologies.
+
+In this talk we show how it works when developing in GemStone. In particular, the talk shows how tools like Lepiter, Coder and Debugger seamlessly work with GemStone and how extensions defined once can work with both local and remote objects.
+
+""Bio:""
+Andrei Chiș acts as a tool crafter at feenk (feenk.com) building tools and techniques for improving software development and is a co-author of Glamorous Toolkit (gtoolkit.org) platform. Andrei holds a PhD from the University of Bern. In his PhD he maintained that integrated development environments have to be moldable, that is, they have to be aware of the application under development and enable rapid customizations to new applications and tasks, and explored solutions to make this vision possible.

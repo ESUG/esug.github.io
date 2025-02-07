@@ -1,0 +1,14 @@
+! Mutants and refactoring bugs
+
+Balša Šarenac  (balsasarenac@uns.ac.rs)
+
+""Abstract:""
+Refactorings need to be reliable, and testing them is one of the most important ways to ensure that they are.
+Figuring out all possible edge cases for a given refactoring is not an easy task. 
+In this talk, we will present our approach to using automated testing to find bugs in refactorings. 
+The talk will cover the design of the approach and how it works in practice.
+
+""Bio:""
+Balša Šarenac is a PhD student at the Faculty of Technical Sciences, University of Novi Sad.
+His research topic is based on composable refactorings.
+He's primarily focused on the Pharo language and its refactoring engine.
