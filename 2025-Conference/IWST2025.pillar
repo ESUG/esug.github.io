@@ -30,6 +30,7 @@ The goals of the workshop is to create a forum around contributions and experien
 - Full/short paper final notification deadline: July 31st, 2025
 - Camera-ready package submission deadline: August 25th, 2025
 
+
 !!!Topics
 
 We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
@@ -52,7 +53,11 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 Authors interested to present their work at the IWST 2024 are invited to submit an abstract of the intended talk before the extended abstract submission deadline. The extended abstract should be not longer than 2 pages following the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*.
 Author of the submitted extended abstratcs will be notified and invited to present their work by the extended abstract notification deadline which enables presenters to register at the early registration prices.
 
+<<<<<<< HEAD
+IWST invites everybody to submit full/short papers to be considered to be plublished in the IWST 2024 Proceedings.
+=======
 IWST invites everybody to submit full/short papers to be considered to be plublished in the IWST 2025 Proceedings.
+>>>>>>> 00e9ad896e7235a842fab88dc49fe8d5df9d784d
 Papers can both be presented in the conference and appear in proceedings independently of the initially submitted abstracts.
 
 We are looking for papers of two kinds:
@@ -62,14 +67,23 @@ We are looking for papers of two kinds:
 
 Paper accepted for publishing will be published within a *CEUR-WS Proceedings>https://ceur-ws.org/*.
 Hence, both submissions and final papers must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
+<<<<<<< HEAD
+We recommend to use the template in single column style, although you may use two colums.
+CEUR proceedings accepts papers in boths styles as soon as they use the template and have 5 or more pages.
+
+All submissions must be sent via *EasyChair submission page>https://easychair.org/conferences/?conf=iwst2024*.
+=======
 We recommend using the template in single-column style, although you may use two colums.
 CEUR proceedings accept papers in both styles as soon as they use the template and have 5 or more pages.
 
 All submissions must be sent via EasyChair, link to be announced.
+>>>>>>> 00e9ad896e7235a842fab88dc49fe8d5df9d784d
 
 Pay attention, for organisation constraints, when submitting your article you are expected to register to the conference and pay the conference fees. 
 
 
+<<<<<<< HEAD
+=======
 !!!! Camera Ready Package Submission
 The camera-ready (CR) package should be submitted through EasyChair. CR package should contain:
 
@@ -90,6 +104,7 @@ In case of third-party material, they must then append a copy of the permission(
 Either form used ""must be signed by hand"". Electronic signatures are not accepted by *CEUR WS>https://ceur-ws.org/*, due to the lack of international laws that acknowledge them.
 
 
+>>>>>>> 00e9ad896e7235a842fab88dc49fe8d5df9d784d
 !!!! Reviewing
 
 As the workshop format encourages bringing fresh ideas and early results to be presented and discussed, and aims for giving a chance to young community members to learn and grow, we will allow  submissions with a discussion potential to be conditionally accepted. In this case, authors are expected to follow the recommendations of the reviewers.
@@ -116,4 +131,25 @@ The Awards will take place only with a minimum of six submissions. Notice also t
 
 !!!! Program committee
 
+<<<<<<< HEAD
+- Vincent Blondeau, Lifeware, Switzerland,
+%- Cedrick Beler, Ecole Nationale d Ingenieurs de Tarbes, Hautes-Pyrenees, France,
+%- Celine Deknop, Universite catholique de Louvain (UCL), Belgium,
+%- Michele Lanza, Software Institute, Universita della Svizzera italiana, Lugano, Switzerland,
+- Eric Lepors, Thales DMS, France,
+- Dave Mason, Toronto Metropolitan University, Toronto, Canada,
+- Ana-Maria Oprescu, University of Amsterdam, Netherlands,
+- Jean Privat, University of Quebec in Montreal, Canada,
+%- Pooja	Rani, University of Bern, Switzerland,
+- Larisa Safina, Inria Lille, France,
+%- Joao Saraiva, University of Minho, Portugal,
+- Benoît Verhaeghe, Berger-Levrault, Lyon, France,
+- Oleksandr Zaytsev, Cirad, UMR SENS, MUSE, Université de Montpellier, France
+- Marra Matteo, Nokia Bell Labs
+- Bragagnolo Santiago, Mosaic
+- Degiovanni Renzo, LIST, Luxembourg
+- Imen Sayar, University of Lille, France
+- Vincent Verbeque
+=======
 To be announced
+>>>>>>> 00e9ad896e7235a842fab88dc49fe8d5df9d784d
