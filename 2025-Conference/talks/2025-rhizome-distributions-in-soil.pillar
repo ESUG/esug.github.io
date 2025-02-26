@@ -1,0 +1,9 @@
+! Rhizome - distributions in soil
+
+Norbert Hartl  (norbert@apptivegrid.de)
+
+""Abstract:""
+Soil is an object-oriented database that provides object-oriented features which are missing in most other database systems. Currently it is limited to a single machine. The presentation gives an update to soil and the future plans how to escape the single machine and become more distributed. 
+
+""Bio:""
+Norbert Hartl has a long track record of creating and building software projects. Currently he is on a mission to create projects with zero dependencies. He co-founded ApptiveGrid where he is working at the moment. He also co-founded PharoPro. 
