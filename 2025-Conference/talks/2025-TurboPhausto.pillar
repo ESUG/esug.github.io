@@ -1,12 +1,10 @@
-! (Turbo)Phausto - news from the pit lane
+! The Code in the Corridor (Music Performance)
 
 Domenico Cipriani  (mspgate@gmail.com)
 
 
 ""Abstract:""
-Phausto is a library and API that enables sound generation and DSP programming in Pharo, powered by an embedded Faust compiler. After its first presentation at ESUG 2024, Phausto has been showcased at the International Faust Conference (through a workshop and performance) and at the Audio Developer Conference (as an online poster session).
-
-TurboPhausto is a collection of synthesizers and effects specifically designed for programming music on-the-fly, alongside Coypu, another Pharo package focused on algorithmic composition and interactive sound manipulation. In this presentation, after illustrating the advancements made in Phausto over the past year, including MIDI capabilities and the specialized Cmajor exporter that enables quick and accessible development of audio plugins, we will demonstrate how TurboPhausto objects can be used for a fully Pharo-based _algorave_ performance.
+"The Code in the Corridor" is an audiovisual live coding performance that merges synthetic sounds, drum samples, and the real-time processing of live external input, capturing organic sounds and noises. Using Coypu, (Turbo)Phausto, and Bloc, the performance combines algorithmic composition, live sampling, and looping. Bloc will be used to symbolically visualize the underlying processes, enhancing the audience’s understanding of the real-time creative flow. The performance explores the transformative potential of electronic music, reflecting on what happens when code intersects with pulsating waveforms to create a daunting and challenging sonic experience.
 
 ""Bio:""
 Domenico Cipriani, a.k.a. Lucretio, has been releasing raw minimalist dance music for more than a decade and, with his label Restoration, has played an active role in the vinyl resurgence of the late 2000s. He has performed all around the globe, from Hanoi to Detroit, and in some of the most prestigious clubs in Europe.
