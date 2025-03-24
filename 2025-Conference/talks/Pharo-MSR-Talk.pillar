@@ -1,0 +1,19 @@
+! Mining software repository with Pharo
+
+Nicolas Hlad  (nicolas.hlad@berger-levrault.com)
+
+""Abstract:""
+Git platforms like GitLab, GitHub, and Bitbucket offer valuable insights into team dynamics and project workflows. 
+In this regards, the field of Mining Software Repositories (MSR) works on techniques and tools to extract and analyze these data. 
+
+This presentation introduces GitProjectHealth (GPH), an framework to interact with Git platforms and analyze them. 
+We build GPH leveraging Moose metamodel platform to build an extensible metamodel of a Git platform. 
+Futhermore, we leverage the metamodel extension mecanism to connect Git platform and other social platform model, sush as Jira (ticket management).
+
+This talk develop 3 aspects of GPH: first, its ability to analyze open-source repository; second, its build-in metrics; and finaly, its metamodel connection demonstrat with Jira. 
+
+""Bio:""
+Nicolas Hlad is a PhD computer scientist at Berger-Levrault, France. He conducted his Phd in 2022, working on software product lines. 
+Since then, he focusing of software static analyse using metamodel technology built-in Pharo, and on how Generative Artificial Intelligence (GenAI) sush 
+as Large Language Model (LLM) can impact the work of developers. Recently, he used MSR as a mean to analyse the developer's activity when they benefits 
+from GenAI LLM tools in their workflow. 
