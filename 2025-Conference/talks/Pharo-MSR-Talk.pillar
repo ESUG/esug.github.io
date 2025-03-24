@@ -15,6 +15,8 @@ to navigate our models. Moreover, we use Roassal3 to visualize elements of our m
 This talk will cover three aspects of GPH: first, its ability to analyze Git repositories; second, 
 its built-in metrics; and finally, its metamodel connection demonstrated with Jira. 
 
+tool repository: https://github.com/moosetechnology/GitProjectHealth
+
 ""Bio:""
 Nicolas Hlad is a PhD in software engineering at Berger-Levrault, France. He completed his PhD in 2022, focusing on software product lines. 
 Since then, he has been working on software static analysis using metamodel technology built in Pharo, and on how Generative Artificial 
