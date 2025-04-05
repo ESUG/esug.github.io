@@ -10,16 +10,15 @@ Co-located with ESUG 2025
 
 !!! Program
 
-The goals of the workshop is to create a forum around contributions and experiences in building or using technologies related to Smalltalk. While maturity of presented ideas and results is not crucial, it is expected that their presentation triggers discussion and exchange of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical. Authors are invited to submit research articles or industrial papers. 
-
-""Already Published Papers Track:"" This year's IWST organizes a track on Already Published Papers. *More information>IWST-25-preprints.pillar*.
+The goals of the workshop is to create a forum around contributions and experiences in building or using technologies related to Smalltalk. While maturity of presented ideas and results is not crucial, it is expected that their presentation triggers discussion and exchange of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical.
+Authors are invited to submit research articles or industrial papers. 
 
 !!! Important Dates (All in AoE - Anywhere on Earth)
 
-- Extended abstract submission deadline: March 31st, 2025 AoE
-- Already Published Papers Abstract submission deadline: March 31st, 2025 AoE
-- Extended abstract notification deadline: April 7th, 2025 AoE
-%- Early *registration deadline>https://esug.org/2024-Conference/conf2024.html*: --April 15th, 2024-- April 19th, 2024
+- Extended abstract submission deadline: --March 31st, 2025-- ""April 7th, 2025""
+- Already Published Papers Abstract submission deadline: --March 31st, 2025-- ""April 7th, 2025""
+- Extended abstract notification deadline: --April 7th, 2025-- ""April 14th, 2025""
+- Early *registration deadline>https://esug.org/2025-Conference/conf2025.html*: --April 15th, 2025-- April 19th, 2025
 - Already Published Papers Abstract notifications: April 10th, 2025 AoE
 - Full/short paper submission deadline: May 19th, 2025 AoE
 - Full/short paper first-round notification deadline: June 30th, 2025 AoE
@@ -73,6 +72,19 @@ All submissions must be sent via EasyChair: *https://easychair.org/my/conference
 
 
 Pay attention, for organisation constraints, when submitting your article you are expected to register to the conference and pay the conference fees. 
+
+!!!! IWST 25 Pre-published Presentations
+
+IWST 2025 opens a Call for Presentations on previously published contributions.
+
+We invite authors of contributions related to IWST's topics, accepted for publication in Journals and Proceedings of top-rated international conferences within the previous 2 years, to submit an abstract and present their published results to the IWST workshop collocated with ESUG.
+
+Authors of publications that meet the above criteria are invited to submit a presentation proposal to IWST organizers by filling out the web form. The proposal will consist of (1) the presentation title, (2) authors, (3) the abstract,  (4) a pointer to the original journal paper (DOI) or pre-print, and (5) an acknowledgement that the paper meets the mentioned criteria and to not break any intellectual property limitations related to the previous publication.
+Authors will be invited to present their paper after checking that the submission meets the above criteria.
+Having the submissions already reviewed and accepted by the peers, they will not be reviewed again for technical content.
+We will tend to include in the program as many previously published contributions as possible; only in case an exceptionally high number of proposals is received, we will be forced to make a selection based on the quality and significance criteria.
+
+Submissions are expected in the following *online form> https://sondages.inria.fr/index.php/133442?lang=en*.
 
 
 !!!! Camera Ready Package Submission
