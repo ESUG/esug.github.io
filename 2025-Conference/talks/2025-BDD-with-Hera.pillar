@@ -1,0 +1,9 @@
+! Behaviour-driven development with Hera
+
+Koen De Hondt  (koen@all-objects-all-the-time.st)
+
+""Abstract:""
+Hera is a Behaviour Driven Development framework for Pharo. It allows for better communication of acceptance criteria between technical and non-technical people. The Hera Feature Browser allows writing Gherkin-style Given-When-Then scenarios. It translates them to classes and methods. In the presentation, a very short introduction to Gherkin will be given, and then the technical details of Hera will be highlighted. Several example scenarios will be given to show how the Hera Feature Browser can be used to describe behaviour in Gherkin-style scripts and to run them with the Hera Runner.
+
+""Bio:""
+Koen De Hondt has used Smalltalk since 1988, first as a student, then as an academic researcher, and then in industry. In the nineties and a few years after the turn of the century, he was one of the driving forces behind the Belgian Smalltalk User Group (BSUG). In that time frame, he presented at ESUG conferences several times. In 2003, he left the Smalltalk community for other adventures. In 2023, he returned to the Smalltalk scene and has been an active contributor to Pharo ever since. Software development tools are his main interest.
