@@ -1,0 +1,23 @@
+! Smalltalk for the Web and Beyond
+
+Noury Bouraqadi (noury.bouraqadi@imt-nord-europe.fr)
+Dave Mason (dmason@torontomu.ca)
+Richard Ronteltap (richardronteltap@hotmail.com)
+Erik Stel (erik@codeparadise.nl)
+
+""Abstract:""
+Smalltalk dynamic nature, pure object model, powerful reflection, and inherent simplicity are legendary. 
+It captivated developers fostering a dedicated and productive community renowned for continuous innovation. 
+While Smalltalk's core strengths remain compelling, we believe its potential can be further amplified. 
+This talk examines strategies for integrating Smalltalk with the vast wealth of libraries, frameworks, and tools available in other programming languages. 
+We will dive into specific examples from the web sphere (Code Paradise, PharoJS, SmallJS, WebST) extracting practical lessons learned from these projects. 
+We will discuss how these insights can be generalized beyond the web, opening new frontiers for Smalltalk development.
+
+""Bio:""
+*Noury Bouraqadi>https://nootrix.com* is a software developer, maker, repair hobbyist, environment/technology/robots lover. Noury works part-time as a university professor at IMT Nord Europe. His remaining work time is dedicated to a startup that leverages *PharoJS>https://pharojs.org* to build a SAS for teaching PLC programming & factory automation: *PLC3000>https://plc3000.com*.
+
+*Dave Mason>https://sarg.torontomu.ca/dmason/* is Professor in, and currently Chair of, the School of Computer Science at Toronto Metropolitan University. He is member of the Software Analysis Research Group. Dave is interested in topics such as environments and tools to support developing code in the highly-productive, Smalltalk language and environment while deploying in other contexts such as in web browsers and nodeJS with *PharoJS>https://pharojs.org*, the Java Virtural Machine (PharoJVM) and others (Universal Export).
+
+Richard studied Computer Science at the University of Amsterdam (UvA), where he used used Smalltalk-80 to write a query optimizer for a prototype OODBMS. He currently works in IT / Software Management within the IT department of the UvA. Richard is the developer of *SmallJS>https://small-js.org/Home/Home.html* is a free and open source implementation of the elegant and powerful Smalltalk-80 (ST) language. It compiles to JavaScript (JS) that runs in modern browsers or in Node.js.
+
+Erik Stel (aka ErikOnBike) is creating software and cycling since he was a child. The Smalltalk virus got to him in the late 90's and still leaves its marks. Currently Erik works as an independent software engineer and consultant, building software or advising about software development. With a focus on software 'for a good cause' he tries to make his impact, doing the thing he likes most: creating useful software. Erik is the developer of *CodeParadise>https://github.com/ErikOnBike/CodeParadise?tab=readme-ov-file* a framework and a future platform. CodeParadise as framework allows developing web applications, Node.js applications and mobile apps in Smalltalk only.
