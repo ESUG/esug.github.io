@@ -1,9 +1,0 @@
-! Seamless OAuth2.0 and OpenID Connect Integration in VAST
-
-Johan Brichau   (jbrichau@instantiations.com)
-
-""Abstract:""
-OAuth2.0 and OpenID Connect (OIDC) are essential protocols for secure user authorization and authentication in modern applications. This session will provide an overview of these frameworks and showcase VAST’s upcoming OAuth2.0 & OIDC client, which enables developers to effortlessly integrate single sign-on (SSO) with providers like Google and Microsoft. Learn how to streamline workflows and securely access OAuth2.0-protected APIs across web, desktop, and server applications in VAST.
-
-""Bio:""
-Johan Brichau is a seasoned software engineer with over 25 years of experience across a wide range of Smalltalk environments. He joined the VAST Platform development team at Instantiations in January 2025. Prior to that, he spent nearly 15 years as co-founder and CTO of Yesplan, a world-leading online venue management platform. Johan holds a PhD in computer science from the Vrije Universiteit Brussel (2005) and has actively contributed to several open source projects, most notably Seaside.
