@@ -1,0 +1,9 @@
+! Advancing Modern Web Architectures in Seaside
+
+Johan Brichau   (jbrichau@instantiations.com)
+
+""Abstract:""
+Seaside is Smalltalk’s versatile web application framework. While originally built to develop multi-page server-side-rendered applications, Seaside continues to evolve and integrate with other frameworks to support modern web architectures. We will showcase the recent advances in Seaside's core as well as its integration with client technologies such as Hotwire for building today's web applications.
+
+""Bio:""
+Johan Brichau is a seasoned software engineer with over 25 years of experience across a wide range of Smalltalk environments. He joined the VAST Platform development team at Instantiations in January 2025. Prior to that, he spent nearly 15 years as co-founder and CTO of Yesplan, a world-leading online venue management platform. Johan holds a PhD in computer science from the Vrije Universiteit Brussel (2005) and has actively contributed to several open source projects, most notably Seaside.
