@@ -1,0 +1,19 @@
+! Cavrois: an organic window manager that respects your flow
+Stéphane ducasse
+
+""Abstract:""
+While some IDEs forces you to follow the ridig frame that they impose to you, Cavrois is a new window manager available in Pharo 13. 
+Based on a deep analysis of development sections, we designed a window manager that is flexible and respect your OWN flow of development. 
+Since in general each of us has its own way of working we decide to support this by making your more efficient and to better support your own flow.
+Cavrois is based on the definition of profiles. In a profile you can place tools where you want and associate strategies for the displays to new tools. 
+Tools on opening will place themselves to the place your current profile indicates and follows the strategy. 
+You can easily switch between profiles. In addition you can also unclose the last closed windows :).
+
+""Bio:""
+I'm an expert in object design, object language design, reflective programming, and the maintenance and evolution of large applications (visualization, metrics, meta-modeling). My work on traits has been introduced in AmbientTalk, Slate, Pharo, Perl, PHP and Squeak. They have been ported to JavaScript. It has influenced the Scala and Fortress languages. I'm one of the founders of Pharo (http://www.pharo.org/), a new pure open-source object language inspired by Smalltalk. I head its industry consortium http://consortium.pharo.org. I'm one of the designers of Moose, an analysis platform (http://www.moosetechnology.org/). I was one of the founders of Synectique, a company offering dedicated analysis tools.
+I'm interested in virtual machines and language implementation.
+
+I have written several books on language-related subjects and other topics such as learning to program and web programming: some are available at http://books.pharo.org. I co-constructed a highly acclaimed Moocs on Pharo and object programming: http://mooc.pharo.org and https://advanced-design-mooc.pharo.org
+I regularly work with companies such as Arolla, Berger-Levrault, Thales, Framatome, Siemens, CIM, Worldline.
+I'm interested in understanding how to solve their challenges.
+According to Google scholar my h-index is 63 for about 17k citations.
