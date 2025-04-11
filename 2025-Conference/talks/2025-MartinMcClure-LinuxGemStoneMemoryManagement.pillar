@@ -1,0 +1,17 @@
+! Memory Management in Linux and GemStone
+
+Martin McClure  (martin.mcclure@gemtalksystems.com)
+
+""Abstract:""
+When you run large applications on expensive servers, you need to use memory effectively.
+And it can be hard to find reliable information about Linux memory management.
+Come to this talk to learn how Linux manages memory, how GemStone manages memory under Linux,
+and see tools that help you understand how memory is being used.
+
+""Bio:""
+Martin started his first Smalltalk user's group forty years ago this summer.
+The first meeting attracted five people, none of whom had actually used Smalltalk.
+That soon changed, and Martin has been writing Smalltalk professionally for
+over thirty years. He is a senior engineer at GemTalk, working on the GemStone
+Smalltalk product line. In his spare time, he does American Contra and English Country
+dancing, and works on remodeling an old house and church to be his home and dance hall.
