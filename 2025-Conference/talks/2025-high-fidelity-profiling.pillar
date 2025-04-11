@@ -1,0 +1,9 @@
+! High fidelity profiling for Pharo
+
+Aliaksei Syrel  (aliaksei.syrel@feenk.com)
+
+""Abstract:""
+Understanding the performance characteristics of modern applications requires precise, context-aware profiling tools. In this talk, we introduce advanced profiling techniques tailored for Pharo, with a particular focus on user interface frameworks and asynchronous computations. Traditional profilers often fall short in capturing the nuanced behavior of event-driven and non-linear execution flows. We present a high fidelity profiler that not only tracks execution with minimal overhead but also provides detailed insights into the dynamic behavior of UI interactions and asynchronous processes. By integrating with the reflective capabilities of Pharo, our approach enables developers to visualize bottlenecks, trace performance issues, and optimize complex workflows with confidence.
+
+""Bio:""
+Alaksei Syrel is a software engineer at feenk gmbh, where they work on the Glamorous Toolkit, a moldable development environment that reimagines how developers interact with their systems. Specializing in user interfaces and asynchronous computation, Aliaksei Syrel has played a key role in architecting the asynchronous UI infrastructure, designing high-fidelity profiling tools, and improving the responsiveness and debuggability of complex development tools. With a background in both Rust and Smalltalk, they bring a systems-oriented mindset to dynamic environments, building tools that are both introspective and efficient.
