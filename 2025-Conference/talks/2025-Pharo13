@@ -1,0 +1,15 @@
+! Pharo 13 and beyond
+
+Stephane Ducasse
+
+""Abstract:""
+This talk with present the key points about Pharo13 and discuss the roadmap.
+
+""Bio:""
+I'm an expert in object design, object language design, reflective programming, and the maintenance and evolution of large applications (visualization, metrics, meta-modeling). My work on traits has been introduced in AmbientTalk, Slate, Pharo, Perl, PHP and Squeak. They have been ported to JavaScript. It has influenced the Scala and Fortress languages. I'm one of the founders of Pharo (http://www.pharo.org/), a new pure open-source object language inspired by Smalltalk. I head its industry consortium http://consortium.pharo.org. I'm one of the designers of Moose, an analysis platform (http://www.moosetechnology.org/). I was one of the founders of Synectique, a company offering dedicated analysis tools.
+I'm interested in virtual machines and language implementation.
+
+I have written several books on language-related subjects and other topics such as learning to program and web programming: some are available at http://books.pharo.org. I co-constructed a highly acclaimed Moocs on Pharo and object programming: http://mooc.pharo.org and https://advanced-design-mooc.pharo.org
+I regularly work with companies such as Arolla, Berger-Levrault, Thales, Framatome, Siemens, CIM, Worldline.
+I'm interested in understanding how to solve their challenges.
+According to Google scholar my h-index is 63 for about 17k citations.
