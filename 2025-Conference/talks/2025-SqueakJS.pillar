@@ -1,0 +1,15 @@
+! SqueakJS: A Decade of Progress
+
+Vanessa Freudenberg (vanessa@codefrau.net)
+
+""Abstract:""
+SqueakJS is a Smalltalk VM written in pure JavaScript running in web browsers. 
+It is fully compatible with most Squeak images, including a variety of descendents of Squeak.
+Since its first release in 2014 a lot has improved, including JIT compilation, 64 bit support, SISTA bytecodes, and OpenGL support.
+The talk will highlight and demonstrate these advances.
+
+""Bio:""
+Vanessa Freudenberg has been a member of the Squeak Smalltalk community since 1997. 
+She was elected to its Oversight Board many times and is a current board member.
+While her day-job nowadays does not involve Smalltalk, her Smalltalk knowledge strongly influenced her other architectural designs.
+Vanessa maintains and keeps improving SqueakJS as the most compatible Squeak Smalltalk VM.
