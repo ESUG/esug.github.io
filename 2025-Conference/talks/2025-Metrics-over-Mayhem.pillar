@@ -1,0 +1,10 @@
+! Metrics over Mayhem – Pragmatic Analysis of Legacy VisualWorks Systems
+
+Stefan Krecher  (stefan.krecher@adesso-insurance-solutions.de)
+
+""Abstract:""
+Many VisualWorks projects have grown over decades – undocumented, complex, and hard to maintain. Traditional static analysis tools like the Java-guys do have? Nowhere to be found. Glamarous Toolkit/ moose? Not anavailable under Visual Works. In this talk, I’ll show how to build simple, custom metrics right in Smalltalk, with no external tooling. The goal: make complexity visible, identify hotspots, and reveal where to refactor first. I’ll share practical examples, code snippets, and real-world experience from taming a 6800-class legacy beast with a million lines of code. 
+
+
+""Bio:""
+Stefan is a principal software engineer at adesso insurance solutions GmbH with over 20 years of experience in large-scale enterprise systems. He started his career in the late ’90s with VisualAge Smalltalk and, after years in Java and Python, is now happily back in the Smalltalk world—working with VisualWorks and dabbling in Pharo on the side.
