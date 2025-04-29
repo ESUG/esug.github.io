@@ -16,8 +16,9 @@ jobs:
     - name: Install dependencies
       run: |
         sudo dpkg --add-architecture i386
-        sudo apt-get install -y libasound2:i386 libfreetype6:i386	
         sudo apt-get update
+        sudo apt-get install -y libasound2:i386 libfreetype6:i386	
+
         
     - uses: actions/checkout@v4
       
