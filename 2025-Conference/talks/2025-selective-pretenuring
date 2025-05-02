@@ -1,0 +1,20 @@
+!  Selective Pretenuring
+
+Sebastian Jordan Montaño (sebastian.jordan@inria.fr)
+
+""Abstract:""
+
+Following our 2023 presentation, we will present new work on object lifetime tracking and memory profiling.
+We attach ephemerons to objects to estimate their lifetimes while using sampling techniques to avoid memory bloat.
+After profiling, we build an allocation graph to identify allocation sites based on different algorithms.
+We then apply classification algorithms to detect whether these sites allocate old objects and to determine is they are statistically significant.
+Using this information, we generate code to pretenure allocations, but only for sites associated with old objects.
+For each allocation site and its complete sender chain, we rewrite the code by replacing selectors with unique names.
+This ensures that only allocations from paths associated with old objects are pretenured, leaving other allocations untouched.
+
+""Bio:""
+
+Sebastian Jordan Montaño is a Ph.D. student working on memory profiling and developing safe code instrumentation techniques.
+He earned his Bachelor's degree in Computer Science from Universidad Católica in Bolivia and a Master's in Software Engineering from Université de Lille in France.
+He has also contributed to projects in machine learning and scientific computing.
+When he is not programming, Sebastian enjoys lifting heavy weights and watching fast cars.
