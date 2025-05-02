@@ -1,0 +1,16 @@
+! Working with many AI assistants in Glamorous Toolkit
+
+Veit Heller  (veit.heller@feenk.com) 
+
+""Abstract:""
+Many IDEs either already have or are working towards integrating a LLM-powered
+assistant into their toolset. These assistants are opaque, acting as immutable
+oracles over your codebase, and provide a fixed set of interactions with your
+system.
+In this talk we show how we are building many such assistants, context-dependent
+and aware of their surroundings, with an open set of capabilities that are
+extensible and, of course, moldable, directly inside Glamorous Toolkit.
+
+""Bio:""
+Veit is a developer experience crafter at feenk (feenk.com) building tools and
+techniques for making software systems explainable.
