@@ -133,19 +133,29 @@
     
     <div class="row justify-content-center">
         <div class="panel-body col-12" style="margin-top: 30px;"><section>
-<h1> A wonderfull talk</h1>
+<h1> Fighting the Branch Predictor</h1>
 
 <p>
-Dupont  (dupont@herge.fr)
-Dupond  (dupond@herge.fr)
+Guille Polito  (guillermo.polito@inria.fr) 
 </p>
 <p>
 <strong>Abstract:</strong>
-Super nice abstract
+</p>
+<p>
+Inline caches speed up message sends by storing recent types and methods per call site.
+Traditionally such caches are implemented using code patching: message sends use a fixed sequence of machine instructions that is later rewritten.
+This design requires that machine code is not only executable but also writable, making patching expensive, preventing the sharing of machine code and being vulnerable to attacks.
+This talks explores a different design of inline caches avoiding code patching, and the fight to obtain decent performance against our arch enemy: the branch predictor.
 </p>
 <p>
 <strong>Bio:</strong>
-Dupont and Dupond are characters in Tintin adventures.
+</p>
+<p>
+Guille Polito is chargé de recherche at INRIA and the CRIStAL laboratory in the University of Lille, within the Evref team.
+He formerly worked on industry on service-oriented and mobile applications before doing a PhD on computer science.
+Guille's main research interests are compilers, modularity, tooling and automated testing.
+Guille participates in the Pharo community since 2010 and is now board member.
+His most noticeable contributions to the community are the Pharo Bootstrap process and Iceberg.
 </p></section></div>
     </div>
    </div> 

@@ -1,108 +1,108 @@
 <!agenda|title=ESUG 2024
-<!day|start=2024 July 8th
+<!day|start=2025 July 1th
 
 <!segment|start=09:00
-<!talk|subject=Welcome&author=S. Ducasse&length=15&room=Amphi!>
-<!talk|subject=Strengthening our community&author=G. Rakic&length=15&room=Amphi!>
+<!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=15&room=Amphi!>
+<!talk|subject=Smalltalk for the Web and Beyond&author=Noury Bouraqadi, Dave Mason, Richard Ronteltap, Erik Stel&length=15&room=Amphi!>
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
 
-<!talk|subject=Mutalk, Who watches the tests?&author=G. Polito&length=30&room=Amphi!>
-<!talk|subject=Virtual Reality in Pharo using WODEN Engine: Challenges and Demo&author=R. Salgado&length=30&room=Amphi!>
-<!talk|subject=How to get more people onboard with Pharo? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
-<!talk|subject=Phausto : the sound within Pharo&author=D. Cipriani&length=30&room=Amphi!>
+<!talk|subject=Seamless OAuth2.0 and OpenID Connect Integration in VAST&author=Johan Brichau&length=30&room=Amphi!>
+<!talk|subject=SqueakJS: A Decade of Progress&author=Vanessa Freudenberg&length=30&room=Amphi!>
+<!talk|subject=Behaviour-driven development with Hera&author=Koen De Hondt&length=30&room=Amphi!>
+<!talk|subject=Metrics over Mayhem – Pragmatic Analysis of Legacy VisualWorks Systems&author=Stefan Krecher&length=30&room=Amphi!>
 
 <!break|subject=Lunch&length=120&room=Building A!>
 
-<!talk|subject=Gemtalk roadmap&author=N. Green, J. Foster&length=30&room=Amphi!>
-<!talk|subject=Debug Points&author=S. Costiou&length=30&room=Amphi!>
-<!talk|subject=Moldable Debugging&author=A. Chis&length=30&room=Amphi!>
+<!talk|subject=Memory Management in Linux and GemStone&author=Martin McClure&length=30&room=Amphi!>
+<!talk|subject=Selective Pretenuring&author=Sebastian Jordan Montaño&length=30&room=Amphi!>
+<!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
 
-<!talk|subject=Toplo&author=P. Tesone&length=30&room=Amphi!>
-<!talk|subject=Building a GTK app with Spec&author=E. Lorenzano, C. Demarey&length=30&room=Amphi!>
-<!talk|subject=Webside&author=G. Amaral&length=30&room=Amphi!>
+<!talk|subject=Cavrois: an organic window manager that respects your flow&author=Erik Stel&length=30&room=Amphi!>
+<!talk|subject=Advancing Modern Web Architectures in Seaside&author=Johan Brichau&length=30&room=Amphi!>
+<!talk|subject=Pharo 13 and beyond&author=Stéphane Ducasse&length=30&room=Amphi!>
 
 <!break|subject=Award Competition&length=200&room=Amphi!>
 
 !>
 !>
-<!day|start=2024 July 9th
+<!day|start=2025 July 2th
 
 <!segment|start=09:15
-<!talk|subject=Pharo 12&author=S. Ducasse&length=45&room=Amphi!>
+<!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=45&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
 
-<!talk|subject=Unicode String Implementations - An Overview&author=H. Johansen&length=30&room=Amphi!>
-<!talk|subject=Building Full-Stack Unicode Applications with VAST&author=E. Maringolo&length=30&room=Amphi!>
-<!talk|subject=Cormas and Companion modelling and serious games&author=O. Zaitsev, P. Bommel&length=30&room=Amphi!>
+<!talk|subject=The Code in the Corridor&author=Domenico Cipriani&length=30&room=Amphi!>
+<!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=30&room=Amphi!>
+<!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=Amphi!>
 
 <!break|subject=Lunch&length=120&room=Building A!>
 
-<!talk|subject=Glamorous Toolkit&author=A. Chiș&length=30&room=Amphi!>
-<!talk|subject=Manage your Pharo images from command line&author=C. Demarey&length=30&room=Amphi!>
-<!talk|subject=Asynchronous Programming with Async and Await&author=J. Foster&length=30&room=Amphi!>
+<!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=Amphi!>
+<!talk|subject=Pharo 13 and beyond&author=Stéphane Ducasse&length=30&room=Amphi!>
+<!talk|subject=Mining software repository with Pharo&author=Nicolas Hlad&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
 
-<!talk|subject=Notebooks&author=M. Nocentini&length=30&room=Amphi!>
-<!talk|subject=Pyramid: a User Interface Editor for Bloc&author=Y. Le Goff&length=30&room=Amphi!>
-<!talk|subject=Runtime type collection and its usage in code transpiling&author=P. Krivanek&length=30&room=Amphi!>
+<!talk|subject=(Turbo)Phausto: news from the pit lane&author=Domenico Cipriani&length=30&room=Amphi!>
+<!talk|subject=Microservices: The Good, the Bad, and the Ugly&author=James Foster&length=30&room=Amphi!>
+<!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=Amphi!>
 
 <!break|subject=Show us your projects&length=60&room=Amphi!>
 
 !>
 !>
-<!day|start=2024 July 10th
+<!day|start=2025 July 3th
 
 <!segment|start=09:15
-<!talk|subject=Instantiations Company Update & VAST 2025 Preview&author=S. Berman&length=45&room=Amphi!>
+<!talk|subject=Enhancing Security in VAST: Towards Static Vulnerability Scanning&author=Mariano Martinez Peck, Josh Wyatt&length=45&room=Amphi!>
 
 <!break|subject=Break&length=30&room=Amphi!>
 
-<!talk|subject=How easy is to write a JIT compiler?&author=G. Polito&length=30&room=Amphi!>
-<!talk|subject=Bridging the Gap: Streamlining Pharo FFI Bindings&author=E. Lorenzano&length=30&room=Amphi!>
-<!talk|subject=Code Paradise&author=E. Stel&length=30&room=Amphi!>
+<!talk|subject=High fidelity profiling for Pharo&author=Aliaksei Syrel&length=30&room=Amphi!>
+<!talk|subject=GemTalk Update and Roadmap&author=Norm Green, James Foster&length=30&room=Amphi!>
+<!talk|subject=Fluid Class Defintions In Pharo&author=Marcus Denker&length=30&room=Amphi!>
 <!break|subject=Lunch&length=120&room=Building A!>
 
-<!talk|subject=Beagle Smalltalk&author=D. Buck&length=30&room=Amphi!>
-<!talk|subject=gt4gemstone&author=A. Chiș&length=30&room=Amphi!>
-<!talk|subject=The Pharo Debugger and Debugging Tools: Advances and Roadmap&author=S. Costiou&length=30&room=Amphi!>
+<!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=Amphi!>
+<!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=Amphi!>
+<!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
 
-<!talk|subject=A tale about scale&author=N. Hartl&length=30&room=Amphi!>
-<!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
-<!talk|subject=Job Opportunities/Internships&author=O. Zaitsev&length=30&room=Amphi!>
-<!talk|subject=Live Music Concert of DJ Lucretio&author=DJ Lucretio&length=60&room=Amphi!>
+<!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=30&room=Amphi!>
+<!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=Amphi!>
+<!talk|subject=Pharo 13 and beyond&author=Stéphane Ducasse&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=60&room=Amphi!>
 <!talk|subject=going to social event&length=30&room=Walking happily!>
 <!break|subject=Social Event&length=300&room=ChaudBouillon!>
 
 !>
 !>
-<!day|start=2024 July 11th
+<!day|start=2025 July4th
 
 <!segment|start=09:30
 
-<!talk|subject=Community building&author=P. Krief&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
-<!talk|subject=Object-Centric Debugging&author=V. Bourcier, S+. Costiou&length=30&room=Amphi!>
-<!talk|subject=gt4python: Moldable Development for Python&author=S. Van Caekenberghe&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
 
-<!talk|subject=Community discussion&author=G. Rakic and S. Ducasse&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
 
 <!break|subject=Lunch&length=120&room=Building A!>
 
-<!talk|subject=Getting more from your Pharo IDE&author=C. Ferlicot-Delbecque&length=30&room=Amphi!>
-<!talk|subject=Behind the scenes: The Making of VAST&author=M. Martinez Peck&length=30&room=Amphi!>
-<!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall, B Building!>
-<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
 
-<!talk|subject=Data Storytelling with Pharo & Mapping data commons extinction and blossoming&author=O. Luna&length=30&room=Amphi!>
+<!talk|subject=NIL&author=NONE&length=30&room=Amphi!>
 
 <!break|subject=Show us your projects&length=60&room=Amphi!>
 
