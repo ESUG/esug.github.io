@@ -1,5 +1,5 @@
 <!agenda|title=ESUG 2024
-<!day|start=2024 July 8th
+<!day|start=2025 July 1st
 
 <!segment|start=09:00
 <!break|subject=Coffee Break&length=15&room=Hall, B Building!>
@@ -25,7 +25,7 @@
 
 !>
 !>
-<!day|start=2024 July 9th
+<!day|start=2025 July 2nd
 
 <!segment|start=09:00
 <!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=Amphi!>
@@ -50,7 +50,7 @@
 
 !>
 !>
-<!day|start=2024 July 10th
+<!day|start=2025 July 3th
 
 <!segment|start=09:00
 <!talk|subject=Microservices: The Good, the Bad, and the Ugly&author=James Foster&length=30&room=Amphi!>
@@ -78,7 +78,7 @@
 
 !>
 !>
-<!day|start=2024 July 11th
+<!day|start=2025 July 4th
 
 <!segment|start=09:00
 <!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=Amphi!>
