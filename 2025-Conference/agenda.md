@@ -1,4 +1,4 @@
-<!agenda|title=ESUG 2024
+<!agenda|title=ESUG 2025
 <!day|start=2025 July 1st
 
 <!segment|start=09:00
@@ -104,7 +104,8 @@
 <!break|subject=Lunch&length=120&room=To define!>
 
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
-<!talk|subject=Show us your project&author=&length=90&room=To define!>
+<!talk|subject=Illimani Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
+<!talk|subject=Show us your project&author=&length=60&room=To define!>
 
 
 !>
