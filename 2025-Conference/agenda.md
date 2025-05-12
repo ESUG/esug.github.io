@@ -58,8 +58,8 @@
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
+<!talk|subject=Why Supporting Pharo is important&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Microservices: The Good, the Bad, and the Ugly&author=James Foster&length=30&room=To define!>
-<!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
 
 <!break|subject=Break&length=30&room=To define!>
 
@@ -86,18 +86,17 @@
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
+<!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
 <!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=To define!>
-<!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=30&room=To define!>
-<!talk|subject=NIL&author=NONE&length=30&room=To define!>
+<!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=To define!>
 <!talk|subject=NIL&author=NONE&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
-<!talk|subject=NIL&author=NONE&length=30&room=To define!>
+<!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
 <!talk|subject=NIL&author=NONE&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
