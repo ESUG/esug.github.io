@@ -23,7 +23,7 @@
 <!talk|subject=Metrics over Mayhem – Pragmatic Analysis of Legacy VisualWorks Systems&author=Stefan Krecher&length=30&room=To define!>
 <!talk|subject=Memory Management in Linux and GemStone&author=Martin McClure&length=30&room=To define!>
 
-<!talk|subject=Awards competition&author=&length=60&room=To define!>
+<!talk|subject=Awards competition&author=&length=120&room=To define!>
 
 
 !>
@@ -49,10 +49,10 @@
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=To define!>
+<!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
 <!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=To define!>
 
-<!talk|subject=Show us your project&author=&length=60&room=To define!>
+<!talk|subject=Show us your project&author=&length=90&room=To define!>
 
 
 !>
@@ -70,18 +70,18 @@
 
 <!talk|subject=(Turbo)Phausto: news from the pit lane&author=Domenico Cipriani&length=30&room=To define!>
 <!talk|subject=Enhancing Security in VAST: Towards Static Vulnerability Scanning&author=Mariano Martinez Peck, Josh Wyatt&length=30&room=To define!>
-<!talk|subject=High fidelity profiling for Pharo&author=Aliaksei Syrel&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
+<!talk|subject=High fidelity profiling for Pharo&author=Aliaksei Syrel&length=30&room=To define!>
 <!talk|subject=GemTalk Update and Roadmap&author=Norm Green, James Foster&length=30&room=To define!>
 <!talk|subject=Fluid Class Defintions In Pharo&author=Marcus Denker&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=60&room=To define!>
-<!talk|subject=Going to the social event&author=&length=30&room=Walking!>
-<!talk|subject=Social event&author=&length=180&room=Walking!>
+<!talk|subject=Going to the social event&author=&length=60&room=Walking!>
+<!talk|subject=Social event&author=&length=360&room=Walking!>
 
 
 
@@ -93,7 +93,7 @@
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
+<!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=To define!>
 <!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
@@ -104,7 +104,7 @@
 <!break|subject=Lunch&length=120&room=To define!>
 
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
-<!talk|subject=Show us your project&author=&length=60&room=To define!>
+<!talk|subject=Show us your project&author=&length=90&room=To define!>
 
 
 !>
