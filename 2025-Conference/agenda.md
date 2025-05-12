@@ -2,19 +2,19 @@
 <!day|start=2025 July 1st
 
 <!segment|start=09:00
-<!break|subject=Coffee Break&length=15&room=To define!>
+<!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Welcoming&author=Stéphane Ducasse&length=15&room=To define!>
+<!talk|subject=Welcoming&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Pharo 13 and beyond&author=Stéphane Ducasse&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=To define!>
 <!talk|subject=Smalltalk for the Web and Beyond&author=Noury Bouraqadi, Dave Mason, Richard Ronteltap, Erik Stel&length=30&room=To define!>
-<!talk|subject=Seamless OAuth2.0 and OpenID Connect Integration in VAST&author=Johan Brichau&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
+<!talk|subject=Seamless OAuth2.0 and OpenID Connect Integration in VAST&author=Johan Brichau&length=30&room=To define!>
 <!talk|subject=SqueakJS: A Decade of Progress&author=Vanessa Freudenberg&length=30&room=To define!>
 <!talk|subject=Behaviour-driven development with Hera&author=Koen De Hondt&length=30&room=To define!>
 
@@ -22,6 +22,9 @@
 
 <!talk|subject=Metrics over Mayhem – Pragmatic Analysis of Legacy VisualWorks Systems&author=Stefan Krecher&length=30&room=To define!>
 <!talk|subject=Memory Management in Linux and GemStone&author=Martin McClure&length=30&room=To define!>
+
+<!talk|subject=Awards competition&author=&length=60&room=To define!>
+
 
 !>
 !>
@@ -37,10 +40,10 @@
 
 <!talk|subject=Selective Pretenuring&author=Sebastian Jordan Montaño&length=30&room=To define!>
 <!talk|subject=Mining software repository with Pharo&author=Nicolas Hlad&length=30&room=To define!>
-<!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
+<!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=To define!>
 <!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=To define!>
 <!talk|subject=Cavrois: an organic window manager that respects your flow&author=Erik Stel&length=30&room=To define!>
 
@@ -48,6 +51,8 @@
 
 <!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=To define!>
 <!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=To define!>
+
+<!talk|subject=Show us your project&author=&length=60&room=To define!>
 
 
 !>
@@ -74,8 +79,10 @@
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=To define!>
 <!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=60&room=To define!>
+<!talk|subject=Going to the social event&author=&length=30&room=Walking!>
+<!talk|subject=Social event&author=&length=180&room=Walking!>
+
 
 
 !>
@@ -92,17 +99,13 @@
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=To define!>
-<!talk|subject=NIL&author=NONE&length=30&room=To define!>
+<!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
-<!talk|subject=NIL&author=NONE&length=30&room=To define!>
+<!talk|subject=Show us your project&author=&length=60&room=To define!>
 
-<!break|subject=Coffee Break&length=30&room=To define!>
-
-<!talk|subject=NIL&author=NONE&length=30&room=To define!>
-<!talk|subject=NIL&author=NONE&length=30&room=To define!>
 
 !>
 !>
