@@ -104,8 +104,9 @@
 
 <!break|subject=Lunch&length=120&room=To define!>
 
+<!talk|subject=Bloc and Toplo Update&author=Martín Diaz, Pablo Tesone&length=30&room=To define!>
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
-<!talk|subject=Illimani Tutorial&author=Sebastian Jordan Montaño&length=60&room=To define!>
+<!talk|subject=Illimani Tutorial&author=Sebastian Jordan Montaño&length=30&room=To define!>
 <!talk|subject=Show us your project&author=&length=60&room=To define!>
 
 
