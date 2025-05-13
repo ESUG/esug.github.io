@@ -52,7 +52,8 @@
 <!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
 <!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=To define!>
 
-<!talk|subject=Show us your project&author=&length=90&room=To define!>
+<!talk|subject=Job Opportunities/Internships&author=Oleksandr Zaitsev&length=30&room=To define!>
+<!talk|subject=Show us your project&author=&length=60&room=To define!>
 
 
 !>
