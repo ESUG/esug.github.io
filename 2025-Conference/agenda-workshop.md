@@ -2,7 +2,7 @@
 
 <!agenda|title=International Workshop on Smalltalk Technologies
 
-<!day|start=2025 July 2d
+<!day|start=2025 July 1st
 
 <!segment|start=11:00
 
@@ -24,7 +24,7 @@
 !>
 !>
 
-<!day|start=2025 July 4th
+<!day|start=2025 July 2nd
 
 <!segment|start=11:00
 
