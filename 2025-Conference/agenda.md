@@ -10,6 +10,7 @@
 
 <!talk|subject=Selective Pretenuring&author=Sebastian Jordan Montaño&length=30&room=To define!>
 <!talk|subject=Spec&author=Christophe Demarey&length=30&room=To define!>
+<!talk|subject=Bloc and Toplo Update&author=Martín Diaz, Pablo Tesone&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
@@ -45,7 +46,7 @@
 
 <!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=To define!>
 <!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=To define!>
-<!talk|subject=Bloc and Toplo Update&author=Martín Diaz, Pablo Tesone&length=30&room=To define!>
+<!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
@@ -75,11 +76,11 @@
 
 <!talk|subject=Mining software repository with Pharo&author=Nicolas Hlad&length=30&room=To define!>
 <!talk|subject=Clap - Command line for Pharo&author=Christophe Demarey&length=30&room=To define!>
-<!talk|subject=Fluid Class Defintions In Pharo&author=Marcus Denker&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
+<!talk|subject=Show us your project&author=&length=30&room=To define!>
 <!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=40&room=To define!>
 <!talk|subject=Going to the social event&author=&length=60&room=Walking!>
 <!talk|subject=Social event&author=&length=360&room=Walking!>
@@ -99,13 +100,10 @@
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=To define!>
-<!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=To define!>
+<!talk|subject=Fluid Class Defintions In Pharo&author=Marcus Denker&length=30&room=To define!>
 <!talk|subject=Cavrois: an organic window manager that respects your flow&author=Stéphane Ducasse&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
-
-<!talk|subject=Illimani Tutorial&author=Sebastian Jordan Montaño&length=30&room=To define!>
-<!talk|subject=Show us your project&author=&length=60&room=To define!>
 
 
 !>
