@@ -2,15 +2,15 @@
 <!day|start=2025 July 1st
 
 <!segment|start=09:00
-<!break|subject=Coffee Break&length=30&room=To define!>
+<!break|subject=Conference reception&length=30&room=To define!>
 
-<!talk|subject=Welcoming&author=Stéphane Ducasse&length=30&room=To define!>
+<!talk|subject=Welcome to ESUG&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Pharo 13 and beyond&author=Stéphane Ducasse&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=To define!>
-<!talk|subject=Smalltalk for the Web and Beyond&author=Noury Bouraqadi, Dave Mason, Richard Ronteltap, Erik Stel&length=30&room=To define!>
+<!talk|subject=Smalltalk for the Web and Beyond&author=Noury Bouraqadi, Dave Mason, Richard Ronteltap, Erik Stel&length=45&room=To define!>
+
 
 <!break|subject=Lunch&length=120&room=To define!>
 
@@ -31,9 +31,8 @@
 <!day|start=2025 July 2nd
 
 <!segment|start=09:00
-<!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
+<!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=To define!>
 <!talk|subject=Advancing Modern Web Architectures in Seaside&author=Johan Brichau&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
@@ -43,14 +42,17 @@
 
 <!break|subject=Lunch&length=120&room=To define!>
 
+<!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=To define!>
 <!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=To define!>
+
 <!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=To define!>
 <!talk|subject=Cavrois: an organic window manager that respects your flow&author=Erik Stel&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
-<!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=To define!>
+<!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
+<!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
 
 <!talk|subject=Job Opportunities/Internships&author=Oleksandr Zaitsev&length=30&room=To define!>
 <!talk|subject=Show us your project&author=&length=60&room=To define!>
@@ -62,8 +64,7 @@
 
 <!segment|start=09:00
 
-<!break|subject=Coffee Break&length=30&room=To define!>
-
+<!talk|subject=GemTalk Update and Roadmap&author=Norm Green, James Foster&length=30&room=To define!>
 <!talk|subject=Why Supporting Pharo is important&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Microservices: The Good, the Bad, and the Ugly&author=James Foster&length=30&room=To define!>
 
@@ -73,9 +74,7 @@
 <!talk|subject=Enhancing Security in VAST: Towards Static Vulnerability Scanning&author=Mariano Martinez Peck, Josh Wyatt&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
-
-<!talk|subject=High fidelity profiling for Pharo&author=Aliaksei Syrel&length=30&room=To define!>
-<!talk|subject=GemTalk Update and Roadmap&author=Norm Green, James Foster&length=30&room=To define!>
+<!talk|subject=Clap - Command line for Pharp&author=Christophe Demarrey&length=30&room=To define!>
 <!talk|subject=Fluid Class Defintions In Pharo&author=Marcus Denker&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
@@ -92,7 +91,7 @@
 
 <!segment|start=09:00
 
-<!break|subject=Coffee Break&length=30&room=To define!>
+<!talk|subject=What people are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
 
 <!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=To define!>
 <!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=To define!>
@@ -105,7 +104,6 @@
 <!break|subject=Lunch&length=120&room=To define!>
 
 <!talk|subject=Bloc and Toplo Update&author=Martín Diaz, Pablo Tesone&length=30&room=To define!>
-<!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
 <!talk|subject=Illimani Tutorial&author=Sebastian Jordan Montaño&length=30&room=To define!>
 <!talk|subject=Show us your project&author=&length=60&room=To define!>
 
