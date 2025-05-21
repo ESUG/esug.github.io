@@ -32,29 +32,26 @@
 <!segment|start=09:00
 
 <!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=To define!>
-<!talk|subject=Advancing Modern Web Architectures in Seaside&author=Johan Brichau&length=30&room=To define!>
+<!talk|subject=Selective Pretenuring&author=Sebastian Jordan Montaño&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Selective Pretenuring&author=Sebastian Jordan Montaño&length=30&room=To define!>
-<!talk|subject=Mining software repository with Pharo&author=Nicolas Hlad&length=30&room=To define!>
+<!talk|subject=Advancing Modern Web Architectures in Seaside&author=Johan Brichau&length=30&room=To define!>
+<!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
-<!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=To define!>
-<!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=To define!>
-
-<!talk|subject=Bloc and Toplo Update&author=Martín Diaz, Pablo Tesone&length=30&room=To define!>
-<!talk|subject=Cavrois: an organic window manager that respects your flow&author=Stéphane Ducasse&length=30&room=To define!>
+<!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=To define!>
+<!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=To define!>
+<!talk|subject=Mining software repository with Pharo&author=Nicolas Hlad&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
-<!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
 
 <!talk|subject=Job Opportunities/Internships&author=Oleksandr Zaitsev&length=30&room=To define!>
-<!talk|subject=Show us your project&author=&length=60&room=To define!>
+<!talk|subject=Show us your project&author=&length=30&room=To define!>
 
 
 !>
@@ -73,11 +70,14 @@
 <!talk|subject=Enhancing Security in VAST: Towards Static Vulnerability Scanning&author=Mariano Martinez Peck, Josh Wyatt&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
+
+<!talk|subject=Bloc and Toplo Update&author=Martín Diaz, Pablo Tesone&length=30&room=To define!>
 <!talk|subject=Clap - Command line for Pharo&author=Christophe Demarrey&length=30&room=To define!>
 <!talk|subject=Fluid Class Defintions In Pharo&author=Marcus Denker&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
+<!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=60&room=To define!>
 <!talk|subject=Going to the social event&author=&length=60&room=Walking!>
 <!talk|subject=Social event&author=&length=360&room=Walking!>
@@ -91,18 +91,17 @@
 <!segment|start=09:00
 
 <!talk|subject=What people are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
-
 <!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=To define!>
 <!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=To define!>
-<!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=To define!>
+<!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=To define!>
+<!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
-<!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=To define!>
+<!talk|subject=Cavrois: an organic window manager that respects your flow&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Illimani Tutorial&author=Sebastian Jordan Montaño&length=30&room=To define!>
 <!talk|subject=Show us your project&author=&length=60&room=To define!>
 
