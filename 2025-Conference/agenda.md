@@ -1,7 +1,7 @@
 <!agenda|title=ESUG 2025
 <!day|start=2025 July 1st
 
-<!segment|start=08:30
+<!segment|start=09:00
 <!break|subject=Conference reception&length=30&room=To define!>
 <!talk|subject=Welcome to ESUG&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Pharo 13 and beyond&author=Stéphane Ducasse&length=30&room=To define!>
@@ -30,7 +30,7 @@
 !>
 <!day|start=2025 July 2nd
 
-<!segment|start=08:30
+<!segment|start=09:00
 
 <!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=To define!>
 <!talk|subject=Why Supporting Pharo is important&author=Stéphane Ducasse&length=30&room=To define!>
@@ -61,7 +61,7 @@
 !>
 <!day|start=2025 July 3th
 
-<!segment|start=08:30
+<!segment|start=09:00
 
 <!talk|subject=GemTalk Update and Roadmap&author=Norm Green, James Foster&length=30&room=To define!>
 <!talk|subject=SqueakJS: A Decade of Progress&author=Vanessa Freudenberg&length=30&room=To define!>
@@ -91,7 +91,7 @@
 !>
 <!day|start=2025 July 4th
 
-<!segment|start=08:30
+<!segment|start=09:00
 
 <!talk|subject=What people are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=To define!>
