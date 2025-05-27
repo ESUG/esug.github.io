@@ -40,7 +40,7 @@
 
 <!talk|subject=Advancing Modern Web Architectures in Seaside&author=Johan Brichau&length=30&room=To define!>
 <!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=To define!>
-<!talk|subject=Testing in Spec&author=Christophe Demarey&length=30&room=To define!>
+<!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=To define!>
 
 <!break|subject=Lunch&length=120&room=To define!>
 
@@ -53,7 +53,6 @@
 <!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=To define!>
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
 
-<!talk|subject=Job Opportunities/Internships&author=Oleksandr Zaitsev&length=30&room=To define!>
 <!talk|subject=Show us your project&author=&length=30&room=To define!>
 
 
@@ -80,6 +79,7 @@
 <!break|subject=Coffee Break&length=30&room=To define!>
 
 <!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
+<!talk|subject=ChatPharo&author=Omar Abedelkader&length=30&room=To define!>
 <!talk|subject=Show us your project&author=&length=30&room=To define!>
 <!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=40&room=To define!>
 <!talk|subject=Going to the social event&author=&length=60&room=Walking!>
@@ -95,7 +95,7 @@
 
 <!talk|subject=What people are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=To define!>
-<!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=To define!>
+<!talk|subject=Testing in Spec&author=Christophe Demarey&length=30&room=To define!>
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
