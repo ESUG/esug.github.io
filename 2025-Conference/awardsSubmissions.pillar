@@ -6,13 +6,13 @@
 List of participants in submission order. Winners will be displayed at the top.
 
 
-!!! Dundi Model in Cormas Pharo
-- ''Submitted by'': 
--- François Vendel, CIRAD, UMR SENS, Dundi Ferlo, PPZS, ISRA CNRF, Senegal
--- Oleksandr Zaitsev, CIRAD, UMR SENS, France
--- Pierre Bommel, CIRAD, UMR SENS, France
-- ''Keywords'':  natural resource management, agent-based modelling, senegal, participatory modelling
-- ''More Info'': *https://github.com/panchovdl/DundiModel*
+%!!! Dundi Model in Cormas Pharo
+%- ''Submitted by'': 
+%-- François Vendel, CIRAD, UMR SENS, Dundi Ferlo, PPZS, ISRA CNRF, Senegal
+%-- Oleksandr Zaitsev, CIRAD, UMR SENS, France
+%-- Pierre Bommel, CIRAD, UMR SENS, France
+%- ''Keywords'':  natural resource management, agent-based modelling, senegal, participatory modelling
+%- ''More Info'': *https://github.com/panchovdl/DundiModel*
 
 % !!! Title
 % +file://picture.png+
