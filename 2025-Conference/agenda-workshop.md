@@ -41,7 +41,7 @@
 <!break|subject=Coffee Break &length=30&room=Amphi!>
 
 <!talk|subject=Package level scope heuristic for the Pharo auto-completion engine&length=30&author=Omar Abedelkader, Stéphane Ducasse, Oleksandr Zaitsev, Romain Robbes and Guillermo Polito&room=Room B!>
-<!talk|subject=Type Inference in Smalltalk&length=30&author=Larisa Safina&room=Room B!>
+<!talk|subject=Even Lighter Than Lightweight: Augmenting Type Inference with Primitive Heuristics and AI-support&length=30&author=Larisa Safina and Jan Blizničenko&room=Room B!>
 
 
 !>
