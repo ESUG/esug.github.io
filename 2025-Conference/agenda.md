@@ -54,6 +54,7 @@
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=To define!>
 
 <!talk|subject=Show us your project&author=&length=30&room=To define!>
+<!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=40&room=To define!>
 
 
 !>
@@ -78,10 +79,7 @@
 
 <!break|subject=Coffee Break&length=30&room=To define!>
 
-<!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
 <!talk|subject=ChatPharo&author=Omar Abedelkader&length=30&room=To define!>
-<!talk|subject=Show us your project&author=&length=30&room=To define!>
-<!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=40&room=To define!>
 <!talk|subject=Going to the social event&author=&length=60&room=Walking!>
 <!talk|subject=Social event&author=&length=360&room=Walking!>
 
@@ -105,6 +103,8 @@
 
 <!break|subject=Lunch&length=120&room=To define!>
 
+<!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=To define!>
+<!talk|subject=Show us your project&author=&length=30&room=To define!>
 
 !>
 !>
