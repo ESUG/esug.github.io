@@ -49,29 +49,35 @@ We welcome contributions on all aspects, theoretical as well as practical, of Sm
 
 !!! Submissions, reviews, and selection
 
-Authors interested to present their work at the IWST 2024 are invited to submit an abstract of the intended talk before the extended abstract submission deadline. The extended abstract should be not longer than 2 pages following the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*.
-Author of the submitted extended abstratcs will be notified and invited to present their work by the extended abstract notification deadline which enables presenters to register at the early registration prices.
+IWST is a special workshop: presentations and proceedings are *decoupled*.
+This means that you can present your work and the workshop and not have it published in the proceedings.
 
+This is how it works: 
+ - Authors interested to present their work submit first an extended abstract before the extended abstract submission deadline.
+   Author of the submitted extended abstracts will be notified and invited to present their work by the extended abstract notification deadline.
+ - Moreover, we hold a pre-published presentations track, where you Authors are invited to present work previously published in other venues/journals.
+ - Later, in a second step, authors are invited to send a full/short paper for publication in our proceedings. **You do not need** your paper in proceedings to present it at the conference.
 
-IWST invites everybody to submit full/short papers to be considered to be plublished in the IWST 2025 Proceedings.
+!!!! Submission Instructions
 
-Papers can both be presented in the conference and appear in proceedings independently of the initially submitted abstracts.
+Both extended abstracts and paper submissions must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*.
+We recommend using the template in single-column style, although you may use two colums.
+CEUR proceedings accept papers in both styles as soon as they use the template and have 5 or more pages.
+All submissions must be sent via EasyChair: *https://easychair.org/my/conference?conf=iwst25>https://easychair.org/my/conference?conf=iwst25*.
 
-We are looking for papers of two kinds:
+Pay attention: for organisation constraints, when submitting your article for presentation you are expected to register to the conference and pay the conference fees. 
+
+**What is an extended abstract?** It's a short (2 pages long) description of some work you are willing to present.
+Please describe the context of your work, the problem, what solution you are exploring, and how do you expect to evaluate it.
+
+Abstracts are only required to evaluate the work for presentation. They will not be published in the proceedings.
+
+**How about research papers?** We are looking for papers of two kinds:
 
 - Short position papers (5 to 10 pages) describing fresh ideas and early results.
 - Full research papers (more than 10 pages) with deeper description of experiments and of research results.
 
 Paper accepted for publishing will be published within a *CEUR-WS Proceedings>https://ceur-ws.org/*.
-Hence, both submissions and final papers must be prepared using the *CEUR ART style>https://ceur-ws.org/Vol-XXX/CEURART.zip*. 
-
-We recommend using the template in single-column style, although you may use two colums.
-CEUR proceedings accept papers in both styles as soon as they use the template and have 5 or more pages.
-
-All submissions must be sent via EasyChair: *https://easychair.org/my/conference?conf=iwst25>https://easychair.org/my/conference?conf=iwst25*.
-
-
-Pay attention, for organisation constraints, when submitting your article you are expected to register to the conference and pay the conference fees. 
 
 !!!! IWST 25 Pre-published Presentations
 
@@ -105,7 +111,6 @@ For the publication of the proceedings, it is necessary to have an agreement fro
 In case of third-party material, they must then append a copy of the permission(s) by the third parties to use this material to the signed author agreement! In the case of material produced by Generative Artificial Intelligence tools, they must fill in and sign a declaration on which elements of the paper was produced by AI tools, see *AI STATEMENT>https://ceur-ws.org/ceur-author-statement-AI-material.pdf?ver=2024-06-04*. This signed declaration must then be scanned and appended to the signed author agreement. Check *ACADEMIC-ETHICS>https://ceur-ws.org/ACADEMIC-ETHICS.html?ver=2024-06-04* for *CEUR WS>https://ceur-ws.org/* rules on including such material.
 
 Either form used ""must be signed by hand"". Electronic signatures are not accepted by *CEUR WS>https://ceur-ws.org/*, due to the lack of international laws that acknowledge them.
-
 
 
 !!!! Reviewing
