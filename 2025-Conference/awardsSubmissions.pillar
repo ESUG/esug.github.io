@@ -3,8 +3,79 @@
 }
 !Projects Submitted to the *Innovation Technology Awards 20th Edition>https://esug.github.io/2025-Conference/awardsCall2025.html*
 
-List of participants in submission order. Winners will be displayed at the top.
+List of participants in submission order. 
+Winners will be displayed at the top, once the results are publically announced. 
 
+!!! Coypu (TurboPhausto edition)
+- ''Submitted by'': Domenico Cipriani, Italy
+- ''Keywords'': programming music on-the-fly, OSC compatible application, MIDI hardware
+- ''More Info'':
+-- *https://github.com/lucretiomsp/Coypu*
+-- *https://www.youtube.com/watch?v=tf8KFKVQO2c*
+
+!!! Canyon, building mobile apps using CodeParadise
+- ''Submitted by'': Erik Stel (aka ErikOnBike), The Netherlands
+- ''Keywords'': Mobile Apps, Web, NodeJS
+- ''More Info'': *https://github.com/ErikOnBike/CodeParadise*
+
+!!! ChatPharo
+- ''Submitted by'': Omar ABEDELKADER,  Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France
+- ''Keywords'': AI Assistant, LLM, Code Generation 
+- ''More Info'': 
+-- *https://github.com/omarabedelkader/ChatPharo*
+-- *https://github.com/omarabedelkader/ChatPharo/wiki*
+
+!!! SqueakJS
+- ''Submitted by'': Vanessa Freudenberg, Freelancer, Germany
+- ''Keywords'': Virtual Machine, JavaScript, Web
+- ''More Info'': 
+-- *https://squeak.js.org*
+-- *https://github.com/codefrau/squeakjs*
+
+!!! GitProjectHealth: Mining sofware repository with Pharo and Moose
+- ''Submitted by'': 
+-- Nicolas Hlad , Berger-Levrault, France
+-- Benoit Verheaghe, Berger-Levrault, France
+-- Kilian Bauvent, Berger-Levrault, France
+- ''Keywords'': Git, Statistics, Visualization, Model-Driven Engineering
+- ''More Info'': 
+-- *https://github.com/moosetechnology/GitProjectHealth*
+-- *https://modularmoose.org/users/git-project-health/getting-started-with-gitproject-health/*
+-- *https://2025.msrconf.org/details/msr-2025-data-and-tool-showcase-track/19/GitProjectHealth-an-Extensible-Framework-for-Git-Social-Platform-Mining*
+
+!!! Microdown
+- ''Submitted by'': 
+-- Stéphane Ducasse
+-- Kasper Osterbye 
+- ''Keywords'': Markdown, Parser, Extensible
+- ''More Info'': *http://github.com/pillar-markup/microdown*
+
+!!! GeoView: a solution for displaying and interacting with geographical objects and cartographic layers for a more streamlined user interface
+- ''Submitted by'': 
+-- Pierre LABORDE - Thales - France
+-- Eric LE PORS - Thales - France
+-- Brendan LANDAIS - Thales - France 
+- ''Keywords'': UI, Geographical Data
+- ''More Info'': *https://github.com/OpenSmock/GeoView*
+
+!!! AutoReneraku - automatic code review
+- ''Submitted by'': Benoit Verhaeghe, Berger-Levrault, France
+- ''Keywords'': Code Review, SmalltalkCI
+- ''More Info'': *https://github.com/badetitou/AutoReneraku*
+
+!!! Hera
+- ''Submitted by'': Koen De Hondt, all: objects all: theTime, Belgium
+- ''Keywords'': Test, BDD 
+- ''More Info'': 
+-- Project website and documentation: *https://all-objects-all-the-time.st/#/projects/hera*
+-- Blog post about release: *https://all-objects-all-the-time.st/#/blog/posts/14*
+-- Short video of simple example: *https://all-objects-all-the-time.st/images/project-hera/hera-video-for-esug.mp4*
+
+%%%%
+%!!! Title
+%- ''Submitted by'': 
+%- ''Keywords'':
+%- ''More Info'': **
 
 %!!! Dundi Model in Cormas Pharo
 %- ''Submitted by'': 
