@@ -46,7 +46,7 @@ Winners will be displayed at the top, once the results are publically announced.
 !!! Microdown
 - ''Submitted by'': 
 -- Stéphane Ducasse
--- Kasper Osterbye 
+-- Kasper Østerbye 
 - ''Keywords'': Markdown, Parser, Extensible
 - ''More Info'': *http://github.com/pillar-markup/microdown*
 
@@ -71,11 +71,22 @@ Winners will be displayed at the top, once the results are publically announced.
 -- Blog post about release: *https://all-objects-all-the-time.st/#/blog/posts/14*
 -- Short video of simple example: *https://all-objects-all-the-time.st/images/project-hera/hera-video-for-esug.mp4*
 
+!!! AI based comment generator
+- ''Submitted by'': Kasper Østerbye, Denmark
+- ''Keywords'': Pharo, Mistral, Comment, Method, Class, Package, Browser
+- ''More Info'': 
+-- GitHub: *https://github.com/kasperosterbye/PharoAIActions*
+-- Examples: *https://github.com/kasperosterbye/PharoAIActions/blob/master/Examples.md*
+-- An example of the package comment of the code itself *https://github.com/kasperosterbye/PharoAIActions/blob/master/AIActionsCommentExample.md*
+-- Video: *https://maarumlam.dk/ESUG25-Kasper03.mp4*
+
 %%%%
 %!!! Title
 %- ''Submitted by'': 
 %- ''Keywords'':
 %- ''More Info'': **
+% -- URL1 
+% -- URL2
 
 %!!! Dundi Model in Cormas Pharo
 %- ''Submitted by'': 
