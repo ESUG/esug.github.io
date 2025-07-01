@@ -75,15 +75,12 @@
 <!break|subject=Lunch&length=120&room=Main Amphi!>
 
 <!talk|subject=Mining software repository with Pharo&author=Nicolas Hlad&length=30&room=Main Amphi!>
-<!talk|subject=Clap - Command line for Pharo&author=Christophe Demarey&length=30&room=Main Amphi!>
+<!talk|subject=Testing in Spec&author=Christophe Demarey&length=30&room=Main Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Main Amphi!>
 
-
 <!talk|subject=Going to the social event&author=&length=60&room=Walking!>
 <!talk|subject=Social event&author=&length=360&room=Walking!>
-
-
 
 !>
 !>
@@ -93,8 +90,8 @@
 <!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=Main Amphi!>
 
 <!talk|subject=Canyon - develop mobile apps using CodeParadise&author=Erik Stel&length=30&room=Main Amphi!>
-<!talk|subject=Testing in Spec&author=Christophe Demarey&length=30&room=Main Amphi!>
 
+<!talk|subject=Clap - Command line for Pharo&author=Christophe Demarey&length=30&room=Main Amphi!>
 <!break|subject=Coffee Break&length=30&room=Main Amphi!>
 
 <!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=Main Amphi!>
