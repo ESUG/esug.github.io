@@ -33,13 +33,14 @@
 <!segment|start=09:00
 
 <!talk|subject=Instantiations Company Update & VAST 2026 Overview&author=Josh Wyatt&length=30&room=Main Amphi!>
+<!talk|subject=Why Supporting Pharo is important&author=Stéphane Ducasse&length=30&room=Main Amphi!>
 <!talk|subject=Smalltalk for the Web and Beyond&author=Noury Bouraqadi, Dave Mason, Richard Ronteltap, Erik Stel&length=45&room=Main Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Main Amphi!>
 
 <!talk|subject=Advancing Modern Web Architectures in Seaside&author=Johan Brichau&length=30&room=Main Amphi!>
 <!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=Main Amphi!>
-<!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=Main Amphi!>
+<!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre Laborde, Eric Lepors, Paul Blottiere&length=30&room=Main Amphi!>
 
 <!break|subject=Lunch&length=90&room=Main Amphi!>
 
@@ -99,7 +100,7 @@
 
 <!break|subject=Lunch&length=120&room=Main Amphi!>
 <!talk|subject=ChatPharo&author=Omar Abedelkader&length=30&room=Main Amphi!>
-<!talk|subject=Why Supporting Pharo is important&author=Stéphane Ducasse&length=30&room=Main Amphi!>
+
 <!talk|subject=What people are doing with Pharo&author=Stéphane Ducasse&length=30&room=Main Amphi!>
 
 
