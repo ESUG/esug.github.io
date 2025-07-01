@@ -51,7 +51,7 @@
 <!break|subject=Coffee Break&length=30&room=Main Amphi!>
 
 <!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=Main Amphi!>
-<!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=60&room=Main Amphi!>
+<!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=45&room=Main Amphi!>
 
 <!talk|subject=Show us your project&author=&length=30&room=Main Amphi!>
 <!talk|subject=The Code in the Corridor (Music Performance)&author=Domenico Cipriani&length=40&room=Main Amphi!>
