@@ -1,5 +1,5 @@
 <!agenda|title=ESUG 2025
-<!day|start=2025 July 1st
+<!day|start=Tues. July 1st
 
 <!segment|start=09:00
 <!break|subject=Conference reception&length=30&room=Main Amphi!>
@@ -24,11 +24,11 @@
 <!talk|subject=Memory Management in Linux and GemStone&author=Martin McClure&length=30&room=Main Amphi!>
 
 <!talk|subject=Awards competition&author=&length=120&room=Main Amphi!>
-
-
 !>
 !>
-<!day|start=2025 July 2nd
+
+
+<!day|start=Wed. July 2nd
 
 <!segment|start=09:00
 
@@ -40,9 +40,9 @@
 
 <!talk|subject=Advancing Modern Web Architectures in Seaside&author=Johan Brichau&length=30&room=Main Amphi!>
 <!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=Main Amphi!>
-<!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre LABORDE, Eric LE PORS, Paul BLOTTIERE&length=30&room=Main Amphi!>
+<!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre Laborde, Eric Lepors, Paul Blottiere&length=30&room=Main Amphi!>
 
-<!break|subject=Lunch&length=120&room=Main Amphi!>
+<!break|subject=Lunch&length=90&room=Main Amphi!>
 
 <!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=Main Amphi!>
 <!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=Main Amphi!>
@@ -59,7 +59,7 @@
 
 !>
 !>
-<!day|start=2025 July 3th
+<!day|start=Thur July 3th
 
 <!segment|start=09:00
 
@@ -84,7 +84,7 @@
 
 !>
 !>
-<!day|start=2025 July 4th
+<!day|start=Frid July 4th
 
 <!segment|start=09:00
 <!talk|subject=What devs are doing with Pharo&author=Stéphane Ducasse&length=30&room=Main Amphi!>
@@ -100,8 +100,9 @@
 
 <!break|subject=Lunch&length=120&room=Main Amphi!>
 <!talk|subject=ChatPharo&author=Omar Abedelkader&length=30&room=Main Amphi!>
+
 <!talk|subject=What people are doing with Pharo&author=Stéphane Ducasse&length=30&room=Main Amphi!>
-<!talk|subject=Show us your project&author=&length=30&room=Main Amphi!>
+
 
 !>
 !>
