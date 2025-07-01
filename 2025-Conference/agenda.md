@@ -42,7 +42,7 @@
 <!talk|subject=Working with thousands of images&author=Andrei Chiș&length=30&room=Main Amphi!>
 <!talk|subject=GeoView, views to display and interact with geographical objects and cartographic layers&author=Pierre Laborde, Eric Lepors, Paul Blottiere&length=30&room=Main Amphi!>
 
-<!break|subject=Lunch&length=90&room=Main Amphi!>
+<!break|subject=Lunch&length=75&room=Main Amphi!>
 
 <!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=Main Amphi!>
 <!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=Main Amphi!>
