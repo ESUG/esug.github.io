@@ -47,10 +47,11 @@
 <!talk|subject=Fighting the Branch Predictor&author=Guille Polito&length=30&room=Main Amphi!>
 <!talk|subject=Tools and Techniques for VM & JIT Analysis in VAST&author=Henry Johansen&length=30&room=Main Amphi!>
 <!talk|subject=Working with many AI assistants in Glamorous Toolkit&author=Veit Heller&length=30&room=Main Amphi!>
+<!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=Main Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Main Amphi!>
 
-<!talk|subject=Rhizome - distributions in soil&author=Norbert Hartl&length=30&room=Main Amphi!>
+
 <!talk|subject=Soil Tutorial&author=Marcus Denker, Norbert Hartl&length=45&room=Main Amphi!>
 
 <!talk|subject=Show us your project&author=&length=30&room=Main Amphi!>
@@ -72,7 +73,7 @@
 <!talk|subject=(Turbo)Phausto: news from the pit lane&author=Domenico Cipriani&length=30&room=Main Amphi!>
 <!talk|subject=Enhancing Security in VAST: Towards Static Vulnerability Scanning&author=Mariano Martinez Peck, Josh Wyatt&length=30&room=Main Amphi!>
 
-<!break|subject=Lunch&length=120&room=Main Amphi!>
+<!break|subject=Lunch&length=90&room=Main Amphi!>
 
 <!talk|subject=Mining software repository with Pharo&author=Nicolas Hlad&length=30&room=Main Amphi!>
 <!talk|subject=Testing in Spec&author=Christophe Demarey&length=30&room=Main Amphi!>
