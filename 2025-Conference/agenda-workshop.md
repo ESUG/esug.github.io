@@ -30,9 +30,11 @@
 
 <!talk|subject=Migrating Katalon Studio Tests to Playwright with Model Driven Engineering&length=30&author=Nicolas Hlad and Benoit Verhaeghe&room=Room B!>
 <!talk|subject=FASTTypeScript metamodel generation using FAST traits and TreeSitter project&length=30&author=Aless Hosry and Benoit Verhaeghe&room=Room B!>
-<!talk|subject=Analysing Python Machine Learning Notebooks with Moose&length=30&author=Marius Mignard, Steven Costiou, Nicolas Anquetil and Anne Etien&room=Room B!>
 
 <!break|subject=Lunch&length=120&room=Amphi!>
+
+<!talk|subject=Analysing Python Machine Learning Notebooks with Moose&length=30&author=Marius Mignard, Steven Costiou, Nicolas Anquetil and Anne Etien&room=Room B!>
+
 
 <!talk|subject=Gamifying Agent-Based Models in Cormas: First Prototype of a Playable Architecture for Serious Games in Pharo&length=30&author=Jovan Kupusović, Oleksandr Zaitsev, Christophe Le Page and Pierre Bommel&room=Room B!>
 <!talk|subject=Coypu: a library and DSL for Composing and Performing Electronic Music on-the-Fly with Pharo&length=30&author=Domenico Cipriani, Sebastian Jordan Montaño, Nahuel Palumbo and Stéphane Ducasse&room=Room B!>
