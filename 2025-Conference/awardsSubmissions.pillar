@@ -3,8 +3,37 @@
 }
 !Projects Submitted to the *Innovation Technology Awards 20th Edition>https://esug.github.io/2025-Conference/awardsCall2025.html*
 
-List of participants in submission order. 
-Winners will be displayed at the top, once the results are publically announced. 
+List of participants in submission order.
+Winners are displayed at the top. 
+
+!!! 1st: SqueakJS
+- ''Submitted by'': Vanessa Freudenberg, Freelancer, Germany
+- ''Keywords'': Virtual Machine, JavaScript, Web
+- ''More Info'': 
+-- *https://squeak.js.org*
+-- *https://github.com/codefrau/squeakjs*
+
++file://esugAwards1stGoldRoundMedal.png+
+
+!!! 2nd: Hera
+- ''Submitted by'': Koen De Hondt, all: objects all: theTime, Belgium
+- ''Keywords'': Test, BDD 
+- ''More Info'': 
+-- Project website and documentation: *https://all-objects-all-the-time.st/#/projects/hera*
+-- Blog post about release: *https://all-objects-all-the-time.st/#/blog/posts/14*
+-- Short video of simple example: *https://all-objects-all-the-time.st/images/project-hera/hera-video-for-esug.mp4*
+
++file://esugAwards2ndSilverRoundMedal.png+
+
+!!! 3rd: GeoView: a solution for displaying and interacting with geographical objects and cartographic layers for a more streamlined user interface
+- ''Submitted by'': 
+-- Pierre LABORDE - Thales - France
+-- Eric LE PORS - Thales - France
+-- Brendan LANDAIS - Thales - France 
+- ''Keywords'': UI, Geographical Data
+- ''More Info'': *https://github.com/OpenSmock/GeoView*
+
++file://esugAwards3rdBronzeRoundMedal.png+
 
 !!! Coypu (TurboPhausto edition)
 - ''Submitted by'': Domenico Cipriani, Italy
@@ -25,13 +54,6 @@ Winners will be displayed at the top, once the results are publically announced.
 -- *https://github.com/omarabedelkader/ChatPharo*
 -- *https://github.com/omarabedelkader/ChatPharo/wiki*
 
-!!! SqueakJS
-- ''Submitted by'': Vanessa Freudenberg, Freelancer, Germany
-- ''Keywords'': Virtual Machine, JavaScript, Web
-- ''More Info'': 
--- *https://squeak.js.org*
--- *https://github.com/codefrau/squeakjs*
-
 !!! GitProjectHealth: Mining sofware repository with Pharo and Moose
 - ''Submitted by'': 
 -- Nicolas Hlad , Berger-Levrault, France
@@ -50,26 +72,10 @@ Winners will be displayed at the top, once the results are publically announced.
 - ''Keywords'': Markdown, Parser, Extensible
 - ''More Info'': *http://github.com/pillar-markup/microdown*
 
-!!! GeoView: a solution for displaying and interacting with geographical objects and cartographic layers for a more streamlined user interface
-- ''Submitted by'': 
--- Pierre LABORDE - Thales - France
--- Eric LE PORS - Thales - France
--- Brendan LANDAIS - Thales - France 
-- ''Keywords'': UI, Geographical Data
-- ''More Info'': *https://github.com/OpenSmock/GeoView*
-
 !!! AutoReneraku - automatic code review
 - ''Submitted by'': Benoit Verhaeghe, Berger-Levrault, France
 - ''Keywords'': Code Review, SmalltalkCI
 - ''More Info'': *https://github.com/badetitou/AutoReneraku*
-
-!!! Hera
-- ''Submitted by'': Koen De Hondt, all: objects all: theTime, Belgium
-- ''Keywords'': Test, BDD 
-- ''More Info'': 
--- Project website and documentation: *https://all-objects-all-the-time.st/#/projects/hera*
--- Blog post about release: *https://all-objects-all-the-time.st/#/blog/posts/14*
--- Short video of simple example: *https://all-objects-all-the-time.st/images/project-hera/hera-video-for-esug.mp4*
 
 !!! AI based comment generator
 - ''Submitted by'': Kasper Østerbye, Denmark
