@@ -18,4 +18,4 @@ This way, slides remain ordered even when dumped into a single folder and you ca
 All slides are in PDF.
 Pablo's slides from Day 1 also have a folder with HTML and assets because he has many videos a stale PDF would make his presentation less meaningful
 
-We will upload Slides to Slideshare, too.
+Slides are on SlideShare: https://www.slideshare.net/esug/presentations
