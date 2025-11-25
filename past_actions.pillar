@@ -2,102 +2,103 @@
 "title": "Past Actions"
 }
 
-!Past Actions
+! Past Actions
 
 In a time where we are bombarded with information some of you may not have noticed that ESUG is doing a lot to push Smalltalk in Europe and beyond. The following sums up the main actions ESUG performed in the past.
 
-!!Seaside Hosting since 2006
+!! Seaside Hosting since 2006
 
--*http://www.seasidehosting.st/*
+During several years you could run Seaside application in SeasideHosting. ESUG sponsored it and it was made by Netstyle.ch 
+- *http://www.seasidehosting.st/*
 
 !!Projects
-ESUG wants *support your projects>/project.pillar*. It can be project related to software development, teaching, conference presence, etc.
 
--*Squeak VM>http://isqueak.org/* on iPhone - John McIntosh
--*Clean of the Squeak VM>http://www.smalltalkconsulting.com/squeak.html* - John McIntosh
--*Morphic 3 project>http://www.jvuletich.org/Morphic3/Morphic3-201006.html* - Juan Vuletich
--iPhone Dev - Esteban Lorenzano
--*DrGeoll Scripting Syntax extension>http://community.ofset.org/index.php/DrGeo* - Hilaire Fernandes
+ESUG *supported your projects>/project.pillar*. It can be project related to software development, teaching, conference presence, etc.
 
+- *Squeak VM>http://isqueak.org/* on iPhone - John McIntosh
+- *Clean of the Squeak VM>http://www.smalltalkconsulting.com/squeak.html* - John McIntosh
+- *Morphic 3 project>http://www.jvuletich.org/Morphic3/Morphic3-201006.html* - Juan Vuletich
+- iPhone Dev - Esteban Lorenzano
+- *DrGeoll Scripting Syntax extension>http://community.ofset.org/index.php/DrGeo* - Hilaire Fernandes
 
-!!SummerTalk
+!! Past SummerTalk
 
 Each year, ESUG pays students to work on open-source Smalltalk projects during the *SummerTalk program>/summerTalk.pillar*.
 
--*SqueakOpenDBX>http://www.squeakdbx.org/* 2009
--*SqueakOpenDBX>http://www.squeakdbx.org/* 2008
--*Safara>http://www.squeaksource.com/Safara/* 2008
--*New Compiler>http://www.squeaksource.com/NewCompiler/* for Squeak 2006
--RDF Framework for Smalltalk 2006
--Process-based BugTracking System 2006
--ICal support in Smalltalk 2006
--SqueakBot 2006
+- *SqueakOpenDBX>http://www.squeakdbx.org/* 2009
+- *SqueakOpenDBX>http://www.squeakdbx.org/* 2008
+- *Safara>http://www.squeaksource.com/Safara/* 2008
+- *New Compiler>http://www.squeaksource.com/NewCompiler/* for Squeak 2006
+- RDF Framework for Smalltalk 2006
+- Process-based BugTracking System 2006
+- iCal support in Smalltalk 2006
+- SqueakBot 2006
 
 
-!!DVD
-
+!! DVD
+We collected and managed a ressources DVD
 -Free Smalltalk *DVD>/dvd.pillar*
 
+!! Book writing
 
-!!Book writing
-
--*Dynamic Web Development>http://book.seaside.st/* in Seaside by Ducasse etal. (2009)
--*Squeak by Example>http://squeakbyexample.org/* by Black et al. (2007)
--*A Mentoring Course on Smalltalk>http://www.lulu.com/product/paperback/a-mentoring-course-on-smalltalk/3788890* by Valloud et al.
--*Fundamentals of Smalltalk Programming Technique>http://www.lulu.com/product/paperback/fundamentals-of-smalltalk-programming-technique-volume-1/5299835* by Valloud et al.
--*Computer Programming using GNU Smalltalk>http://www.canol.info/books/computer_programming_using_gnu_smalltalk/* by C. Gökel
-
-
-
-!!Book spreading
-ESUG sent a lot of free books in 2002:
-
--Universities that received the packages:
--Germany: Darmstadt, Munich, Berlin
--Argentina: La Plata, Buenos Aires (3), Cordoba
--Belgium: Brussels
--France: Caen, Montpellier-II, Paris 8, Brest
--Spain: Vigo, Castellon
--Switzerland: St. Gallen
--Algeria: Chlef, Blida
--Argentina: Buenos Aires,
--Brasil: San Pablo
--Russia: Tver
--India: Hyderabad, Uttar Pradesh
--Chile: Santiago
--Italy: Cagliari, Benevento
--Czech Republic: Brno, Praha
--Servia: Novi Sad
--France: Douai
--United Kingdom: Portsmouth, Plymouth
--Belgium: Bruxelles
--Germany: Elmshorn
--China: Wuhan Hubei
--United States: Santa Barbara
--Universities that received the packages
--Roumania: Timisoara, Cluj Napoca, Targovista
+- *Dynamic Web Development>http://book.seaside.st/* in Seaside by Ducasse etal. (2009)
+- *Squeak by Example>http://squeakbyexample.org/* by Black et al. (2007)
+- *A Mentoring Course on Smalltalk>http://www.lulu.com/product/paperback/a-mentoring-course-on-smalltalk/3788890* by Valloud et al.
+- *Fundamentals of Smalltalk Programming Technique>http://www.lulu.com/product/paperback/fundamentals-of-smalltalk-programming-technique-volume-1/5299835* by Valloud et al.
+- *Computer Programming using GNU Smalltalk>http://www.canol.info/books/computer_programming_using_gnu_smalltalk/* by C. Gökel
 
 
 
-!!Miscellaneous
+!! Book spreading
 
--Sponsoring of the Russian Smalltalk Server
--Booth at Conferences
--Chaos club participation
--Scanning *old books>http://stephane.ducasse.free.fr/FreeBooks.html*
--Teaching at Barcelona (Spain)
--Teaching at Turino (Italy)
--Teaching at Bledj (Romania)
--Managing money for the Squeak foundation from 2004 to 2010
+ESUG sent a lot of books for free in 2002 (Best Smalltalk patterns, Introduction of OOP in VisualWorks, Smalltalk design pattern companion, Smalltalk with style,...)
+
+- Universities that received the packages:
+- Germany: Darmstadt, Munich, Berlin
+- Argentina: La Plata, Buenos Aires (3), Cordoba
+- Belgium: Brussels
+- France: Caen, Montpellier-II, Paris 8, Brest
+- Spain: Vigo, Castellon
+- Switzerland: St. Gallen
+- Algeria: Chlef, Blida
+- Argentina: Buenos Aires,
+- Brasil: San Pablo
+- Russia: Tver
+- India: Hyderabad, Uttar Pradesh
+- Chile: Santiago
+- Italy: Cagliari, Benevento
+- Czech Republic: Brno, Praha
+- Serbia: Novi Sad
+- France: Douai
+- United Kingdom: Portsmouth, Plymouth
+- Germany: Elmshorn
+- China: Wuhan Hubei
+- United States: Santa Barbara
+- Universities that received the packages
+- Roumania: Timisoara, Cluj Napoca, Targovista
 
 
 
-!!Sponsoring scientific articles
+!! Miscellaneous
+
+- Sponsoring of the Russian Smalltalk Server
+- Booth at open source Conferences such as RMLL and Fosdem
+- Chaos club participation
+- Scanning *old books>http://stephane.ducasse.free.fr/FreeBooks.html*
+- Teaching at Barcelona (Spain)
+- Teaching at Turino (Italy)
+- Teaching at Bledj (Romania)
+- Managing money for the Squeak foundation from 2004 to 2010
+
+
+
+!! Sponsoring scientific articles
 
 ESUG offers *money for each international conference paper>your_publication.pillar* whose concepts involves an implementation in Smalltalk
 
--6 international conference papers in 2009
--8 international conference papers in 2008
+We did a lot more but at least we recorded.
+- 6 international conference papers in 2009
+- 8 international conference papers in 2008
 
 
 
