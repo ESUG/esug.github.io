@@ -2,27 +2,27 @@
 "title": "Your Article"
 }
 
-!YourArticle
+! Your Article in Magazine
 
 +file://images/Promotion.jpg|width=70|label=Promote+
 
-ESUG decided to support authors for each paper that gets published on Smalltalk (whatever dialect) on mainstream forums:
+ESUG supports authors articles published dev mags on Smalltalk (whatever dialect) on mainstream forums:
 - ESUG will give 100€ for national or international audience.
 - For a smaller audience, the amount will be discussed per-article.
 - Research papers are not eligible to this category: See *Publication promotion>publications.pillar@publication*.
 
-!Conditions
+!! Conditions
 - The offer is limited to papers that have been published after August 2005.
 - For the moment we do not have a limit per person but this may change.
 - ESUG wants to have the article (after their publication period) on this website. So if you got a paper accepted in a magazine please make sure that we can post it on the esug web site later and contact the esug board to get your bonus.
 
-!How
-Send the *ESUG Board>board@esug.org*, the issue information and (possibly a scanned version of the article).
+!! How
+Send the *ESUG Board>board@esug.org*, the PDF and the information where the article is published.
 
-!!2012
+!! 2012
 - Jef Dex, "Smalltalk: een unieke ervaring!", Dutch/Flemish article published in 't Scholierke, issue 7-8, 2012
 
-!!2006
+!! 2006
 - Serge Stinckwich, Stéphane Ducasse, "Les structures de contrôle en Smalltalk", Linux Pratique 33, January-February 2006
 - Hilaire Fernandes, Stéphane Ducasse, "Smalltalk : Le pouvoir et la simplicité du tout objet", Linux Magazine 82, April 2006
 - Hilaire Fernandes, Stéphane Ducasse, "La syntaxe Smalltalk par la pratique", Linux Magazine 83, May 2006
@@ -30,7 +30,7 @@ Send the *ESUG Board>board@esug.org*, the issue information and (possibly a scan
 - Hilaire Fernandes, Serge Stinckwich, "Environnement de développement Smalltalk", Linux Magazine 85, July-August 2006
 - Stéphane Ducasse, Serge Stinckwich, "Seaside : développement d'applications Web avec Smalltalk", Linux Magazine 85, September 2006
 
-!!2005
+!! 2005
 - Hilaire Fernandes, Stéphane Ducasse, "Squeak, un Smalltalk libre multimédia", Linux Pratique 28, Mars-April 2005
 - Hilaire Fernandes, Stéphane Ducasse, "Squeak, mon premier programme", Linux Pratique 31, September-October 2005
 - Frank Müller, "Mehr als ein Spiel" ("More than a game"), German article featuring *Croquet>http://www.opencroquet.org/*, published in *IX>http://www.heise.de/ix/*, Oct 2005
