@@ -1,0 +1,109 @@
+{
+"title": "Projects Submitted to the Innovation Technology Awards 2025"
+}
+!Projects Submitted to the *Innovation Technology Awards 20th Edition>https://esug.github.io/2025-Conference/awardsCall2025.html*
+
+List of participants in submission order.
+Winners are displayed at the top. 
+
+!!! 1st: SqueakJS
+- ''Submitted by'': Vanessa Freudenberg, Freelancer, Germany
+- ''Keywords'': Virtual Machine, JavaScript, Web
+- ''More Info'': 
+-- *https://squeak.js.org*
+-- *https://github.com/codefrau/squeakjs*
+
++file://esugAwards1stGoldRoundMedal.png+
+
+!!! 2nd: Hera
+- ''Submitted by'': Koen De Hondt, all: objects all: theTime, Belgium
+- ''Keywords'': Test, BDD 
+- ''More Info'': 
+-- Project website and documentation: *https://all-objects-all-the-time.st/#/projects/hera*
+-- Blog post about release: *https://all-objects-all-the-time.st/#/blog/posts/14*
+-- Short video of simple example: *https://all-objects-all-the-time.st/images/project-hera/hera-video-for-esug.mp4*
+
++file://esugAwards2ndSilverRoundMedal.png+
+
+!!! 3rd: GeoView: a solution for displaying and interacting with geographical objects and cartographic layers for a more streamlined user interface
+- ''Submitted by'': 
+-- Pierre LABORDE - Thales - France
+-- Eric LE PORS - Thales - France
+-- Brendan LANDAIS - Thales - France 
+- ''Keywords'': UI, Geographical Data
+- ''More Info'': *https://github.com/OpenSmock/GeoView*
+
++file://esugAwards3rdBronzeRoundMedal.png+
+
+!!! Coypu (TurboPhausto edition)
+- ''Submitted by'': Domenico Cipriani, Italy
+- ''Keywords'': programming music on-the-fly, OSC compatible application, MIDI hardware
+- ''More Info'':
+-- *https://github.com/lucretiomsp/Coypu*
+-- *https://www.youtube.com/watch?v=tf8KFKVQO2c*
+
+!!! Canyon, building mobile apps using CodeParadise
+- ''Submitted by'': Erik Stel (aka ErikOnBike), The Netherlands
+- ''Keywords'': Mobile Apps, Web, NodeJS
+- ''More Info'': *https://github.com/ErikOnBike/CodeParadise*
+
+!!! ChatPharo
+- ''Submitted by'': Omar ABEDELKADER,  Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France
+- ''Keywords'': AI Assistant, LLM, Code Generation 
+- ''More Info'': 
+-- *https://github.com/omarabedelkader/ChatPharo*
+-- *https://github.com/omarabedelkader/ChatPharo/wiki*
+
+!!! GitProjectHealth: Mining sofware repository with Pharo and Moose
+- ''Submitted by'': 
+-- Nicolas Hlad , Berger-Levrault, France
+-- Benoit Verheaghe, Berger-Levrault, France
+-- Kilian Bauvent, Berger-Levrault, France
+- ''Keywords'': Git, Statistics, Visualization, Model-Driven Engineering
+- ''More Info'': 
+-- *https://github.com/moosetechnology/GitProjectHealth*
+-- *https://modularmoose.org/users/git-project-health/getting-started-with-gitproject-health/*
+-- *https://2025.msrconf.org/details/msr-2025-data-and-tool-showcase-track/19/GitProjectHealth-an-Extensible-Framework-for-Git-Social-Platform-Mining*
+
+!!! Microdown
+- ''Submitted by'': 
+-- Stéphane Ducasse
+-- Kasper Østerbye 
+- ''Keywords'': Markdown, Parser, Extensible
+- ''More Info'': *http://github.com/pillar-markup/microdown*
+
+!!! AutoReneraku - automatic code review
+- ''Submitted by'': Benoit Verhaeghe, Berger-Levrault, France
+- ''Keywords'': Code Review, SmalltalkCI
+- ''More Info'': *https://github.com/badetitou/AutoReneraku*
+
+!!! AI based comment generator
+- ''Submitted by'': Kasper Østerbye, Denmark
+- ''Keywords'': Pharo, Mistral, Comment, Method, Class, Package, Browser
+- ''More Info'': 
+-- GitHub: *https://github.com/kasperosterbye/PharoAIActions*
+-- Examples: *https://github.com/kasperosterbye/PharoAIActions/blob/master/Examples.md*
+-- An example of the package comment of the code itself *https://github.com/kasperosterbye/PharoAIActions/blob/master/AIActionsCommentExample.md*
+-- Video: *https://maarumlam.dk/ESUG25-Kasper03.mp4*
+
+%%%%
+%!!! Title
+%- ''Submitted by'': 
+%- ''Keywords'':
+%- ''More Info'': **
+% -- URL1 
+% -- URL2
+
+%!!! Dundi Model in Cormas Pharo
+%- ''Submitted by'': 
+%-- François Vendel, CIRAD, UMR SENS, Dundi Ferlo, PPZS, ISRA CNRF, Senegal
+%-- Oleksandr Zaitsev, CIRAD, UMR SENS, France
+%-- Pierre Bommel, CIRAD, UMR SENS, France
+%- ''Keywords'':  natural resource management, agent-based modelling, senegal, participatory modelling
+%- ''More Info'': *https://github.com/panchovdl/DundiModel*
+
+% !!! Title
+% +file://picture.png+
+% - ''Submitted by'': ""Sponge Bob""
+% - ''More Info'': *https://superlink.st*
+
