@@ -1,17 +1,17 @@
-!!ESUG 2025 Call for Participation
+!!ESUG 2026 Call for Participation
 
 Call-for-Presentations 31th International Smalltalk Joint Conference
 The ESUG board is pleased to announce that the 31th ESUG conference/summer-school 
-will be held in Gdansk, Poland 1 - 4 July 2025.
+will be held in Plovdiv, Bulgaria 4 - 7 July 2026.
 
 %Registration is available at: *https://registration.esug.org*
 
 This call includes:
 
-- Developer forum main conference (deadline is 8th of April 2025 - Acceptance by 15 of April 2025)
-- Smalltalk Technology Award *Link>awardsCall2025.pillar*
-- International Workshop *Link>IWST2025.pillar*
-- Student Volunteer *Link>callForStudents2025.pillar*
+- Developer forum main conference (deadline is tbd - Acceptance by tbd)
+- Smalltalk Technology Award *Link>awardsCall.pillar*
+- International Workshop *Link>IWST.pillar*
+- Student Volunteer *Link>callForStudents.pillar*
 
 Additionally, we invite all attendies to announce their fresh work in any of Smalltalk technologies and to show it shortly during the dedicated sessions during the conference. We will collect the show topics during the conference at the student volunteer desk.
 
@@ -41,11 +41,11 @@ The list of topics for the normal talks and tutorials includes, but is not limit
 
 !!How to submit?
 
-- Submission deadline is 8th of April 2025
+- Submission deadline is tbd
 - Notification of acceptance will be on done on the fly.
 
 Pay attention: the places are limited so do not wait till the last minute to apply. 
-Prospective presenters should submit a PR *https://github.com/ESUG/esug.github.io/tree/source/2025-Conference/talks>https://github.com/ESUG/esug.github.io/tree/source/2025-Conference/talks*
+Prospective presenters should submit a PR *https://github.com/ESUG/esug.github.io/tree/source/2026-Conference/talks>https://github.com/ESUG/esug.github.io/tree/source/2026-Conference/talks*
 If you do not succeed to do a PR you can send an email to stephane.ducasse@inria.fr with [ESUG2025] in the title
 = Title: Please follow the template below the email will be automatically processed!
 = Name:
@@ -57,7 +57,7 @@ Any presentation not respecting this form will be discarded automatically.
 
 !!International Workshop on Smalltalk Technologies
 
-IWST is an inspirative venue for sharing early ideas, preliminary results, tool demonstration, and any other more-or less inmature form of innovation and research contribution published in an academic manner. Read the page for more information: *Call for IWST 2025>cfpIWST2025.pillar*
+IWST is an inspirative venue for sharing early ideas, preliminary results, tool demonstration, and any other more-or less inmature form of innovation and research contribution published in an academic manner. Read the page for more information: *Call for IWST 2025>cfpIWST2026.pillar*
 
 
 !!Technology Award Competition
@@ -70,6 +70,6 @@ ceremony at the conference. Developers of any Smalltalk-based software are welco
 
 If you are a student wanting to attend ESUG, have you considered being a student volunteer? Student volunteers help keep the 
 conference running smoothly; in return, they have free accommodations, while still having most of the time to enjoy the conference.
-*More information>callForStudents2025.pillar*.
+*More information>callForStudents.pillar*.
 
 We hope to see you there and have fun together.
