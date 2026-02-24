@@ -1,7 +1,7 @@
 !ESUG 2026 Main Track!
 !!Call for Presentations 
 
-The ESUG board is pleased to announce Call for presentations at the 31th ESUG conference to be held in Plovdiv, Bulgaria 7 - 10 July 2026.
+The ESUG board is pleased to announce Call for presentations at the 31th ESUG conference to be held in Plovdiv, Bulgaria 4th - 10th July 2026.
 
 We are looking for YOUR experience on using Smalltalk. You will have 30 min for presentations and 45-60 min for hand-ons tutorial.
 
@@ -13,17 +13,20 @@ The list of topics for the normal talks and tutorials includes, but is not limit
 - Meta-Modeling, Security, New libraries and frameworks
 - Educational material, Embedded systems and robotics
 - SOA and Web services, Interaction with other programming languages
-- Teaching Pearls and Show us Your Business
+- Teaching Pearls
+- Show us Your Business
 - Show your business 10 min session (Get prepared!!)
 
 !!!How to submit?
 
-- Submission deadline is tbd
+- Submission deadline is 1st of May 2026
 - Notification of acceptance will be on done on the fly.
 
 Pay attention: the places are limited so do not wait till the last minute to apply. 
-Prospective presenters should submit a PR *https://github.com/ESUG/esug.github.io/tree/source/2026-Conference/talks>https://github.com/ESUG/esug.github.io/tree/source/2026-Conference/talks*
-If you do not succeed to do a PR you can send an email to stephane.ducasse@inria.fr with [ESUG2025] in the title
+
+Prospective presenters should submit a Pull Request on *https://github.com/ESUG/esug.github.io/tree/source/2026-Conference/talks>https://github.com/ESUG/esug.github.io/tree/source/2026-Conference/talks*
+
+If you do not succeed to do a PR you can send an email to <omar.abedelkader@inria.fr> and <stephane.ducasse@inria.fr> with [ESUG2026] in the title
 = Title: Please follow the template below the email will be automatically processed!
 = Name:
 = Email:
