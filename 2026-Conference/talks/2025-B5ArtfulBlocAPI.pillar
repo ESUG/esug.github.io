@@ -1,0 +1,16 @@
+! B5: an Artful Bloc API Designed for Creativity
+B5 is a high level API for Bloc, a low-level UI infrastructure & framework for Pharo. 
+Its design inspired by Processing, a graphic library for media art built with the purpose of teaching non-programmers the fundamentals of computer programming in a visual context.
+
+B5 brings those same principles to Pharo, following the spirit of Artful Design: it prioritizes immediacy, playfulness, and expressive simplicity over technical complexity.
+Combined with Phausto, a package for sound generation and DSP porhramming, B5 turns Pharo into a friendly yet powerful environment for teaching and designing interactive audio-visual art, and for prototyping unusual and expressive user interfaces.
+
+""Bio:""
+Domenico Cipriani (a.k.a. Lucretio) has been producing raw minimalist dance music for over adecade. 
+Through various aliases and collaborations (most notably with Blawan and Objekt) he has released more than 100 vinyl records and performed at prominent clubs all over the world.
+After graduating from the S.A.E. Institute in Barcelona, he earned an M.A. in Linguistics from the University of Padova, specializing in social semiotics. In 2016, he began working with Symbolic
+Sound’s Kyma system, participating regularly in the Kyma International Sound Symposium, where he explored the integration of Kyma with p5.js and network-distributed sound systems via Open
+Sound Control.
+In 2019, he presented an interactive performance based on distributed Open Sound Control at the Sonic Experiments festival at ZKM. He later performed at the Algorave hosted by ICLC24 in
+Shanghai and at the closing event of ICLC25 in Barcelona.
+He is currently a researcher in computer music with the Evref team at Inria, where he is the architect of Coyou and Phausto, two libraries for live coding and DSP programming in Pharo.
