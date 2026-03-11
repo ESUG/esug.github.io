@@ -1,8 +1,8 @@
-! B5: an Artful Bloc API Designed for Creativity
-B5 is a high level API for Bloc, a low-level UI infrastructure & framework for Pharo. 
+! Bloc5: an Artful Bloc API Designed for Creativity
+Bloc5 is a high level API for Bloc, a low-level UI infrastructure & framework for Pharo. 
 Its design inspired by Processing, a graphic library for media art built with the purpose of teaching non-programmers the fundamentals of computer programming in a visual context.
 
-B5 brings those same principles to Pharo, following the spirit of Artful Design: it prioritizes immediacy, playfulness, and expressive simplicity over technical complexity.
+Bloc5 brings those same principles to Pharo, following the spirit of Artful Design: it prioritizes immediacy, playfulness, and expressive simplicity over technical complexity.
 Combined with Phausto, a package for sound generation and DSP porhramming, B5 turns Pharo into a friendly yet powerful environment for teaching and designing interactive audio-visual art, and for prototyping unusual and expressive user interfaces.
 
 ""Bio:""
