@@ -2,42 +2,46 @@
 "title": "International Conference ESUG 2026"
 }
 
-!31th International Joint Conference ESUG: European Smalltalk User Group  
-!!Announcement and Call for Contributions
+!! 31th International Joint Conference ESUG
 
-The 31th ESUG conference will be held in Plovdiv, Bulgaria from Tuesday 7th to Friday 10th of July 2026. The collocated *isLoop summer school>https://isloop.pharo.org/* to be held from Saturday 4th to Monday 6th of July 2026 and spread all during the conference through *student volunteering program>callForStudents.html*.
+The 31th ESUG conference will be held in Plovdiv, Bulgaria from Tuesday 7th to Friday 10th of July 2026. The colocated *isLoop summer school>https://isloop.pharo.org/* to be held from Saturday 4th to Monday 6th of July 2026 and spread all during the conference through *student volunteering program>callForStudents.html*.
 
-!! Program & Info
-- *Conference Venue and trip information>city.html*
+!!! Location and Venue
 
-!!Calls for Contributions
+- *City and trip information>city.html*
+- *Conference venue>venue.html*
+
+
+!!! Calls for Contributions
+
 This call includes:
 
-- *Call for developer forum at the main conference>callForPresentations.html* 
+- *Call for presentations>callForPresentations.html* at the developer forum as the main conference track
 - *Call for Smalltalk Innovation Technology Award Competition>callForAwards.html*
 - Call for Show Us Your Project Anouncements
 - *Call for Submissions to the IWST 2026: International Workshop on Smalltalk Technologies>IWST.html*
-%Be careful with the call for students and the call for school as they are connected!!!
 - *Call for Students for attending the isLoop 2026 summer school and participate the Volunteering program>callForStudents.html*
-- *Call for sponsors and supporters 
+- Call for sponsors and supporters 
 
-!!!Call for Presentations
+
+!!! Call for Presentations
+
 ESUG Main Track is inviting interested speakers! In the *Call for Presentations>callForPresentations.html* we are looking for YOUR experience on using Smalltalk. You will have 30 min for presentations and 45-60 min for hand-ons tutorial.
 
-!!Technology Award Competition
+!!! Technology Award Competition
 
 The top 3 teams with the most innovative software will receive, respectively, 500 Euros, 300 Euros and 200 Euros during an awards 
 ceremony at the conference. Developers of any Smalltalk-based software are welcome to compete. Read more in the *Call for the Innovation Technology Awards >callForAwards.html*
 
-!!!Show us Your Project
+!!! Show us Your Project
 Additionally, we invite all attendies to announce their fresh work in any of Smalltalk technologies and to show it shortly during the dedicated sessions during the conference. We will collect the show topics during the conference at the student volunteer desk.
 
-!!International Workshop on Smalltalk Technologies
+!!! International Workshop on Smalltalk Technologies
 
 *IWST>iwst.html* is an inspirative venue for sharing early ideas, preliminary results, tool demonstration, and any other more-or less inmature form of innovation and research contribution published in an academic manner. 
 
 
-!!Student Volunteer Program
+!!!Student Volunteer Program
 
 If you are a student wanting to attend ESUG, have you considered being a student volunteer? Student volunteers help keep the 
 conference running smoothly; in return, they have free accommodations, while still having most of the time to enjoy the conference.
@@ -52,12 +56,12 @@ conference running smoothly; in return, they have free accommodations, while sti
 
 Thanks to our sponsors, students can get free registration and hosting if they enroll into the *Student Volunteers program>*.
 
-!!Conference Registration
+!!!Conference Registration
 
 *Conference Registration>http://registration.esug.org*. 
-Now you can also pay (without extra fees) at *HelloAsso>https://www.helloasso.com/associations/esug/evenements/esug-2025*.
+Now you can also pay (without extra fees) at *HelloAsso>https://www.helloasso.com/associations/esug/evenements/esug-2026*.
 
-Early registration deadline: 01/04/2025
+Early registration deadline: 01/04/2026
 
 Registration fees are:
 
@@ -71,29 +75,8 @@ Registration fees are:
 ""Cancellation Policy"": If the refund is requested during the early bird period all the fee (without charges) will be refunded. If it is requested after the early bird period is finished, the refund will be 50%.
 
 
-
 %+ESUG 2026 Logo>file://ESUG2026Logo.png+
-
-
-
-!! Conference organization
-""ESUG 2026 organization committee""
-- Stéphane Ducasse, Inria Lille, France.
-- Noury Bouraqadi, IMT, France.
-- Christophe Demarey, Inria Lille, France.
-- Marcus Denker, Inria Lille, France.
-- Luc Fabresse, IMT Nord Europe, France.
-- Gordana Rakić, University of Novi Sad, Serbia
-- Elena Somova,  "Paisii Hilendarski" University of Plovdiv, Bulgaria
-- Pablo Tesone, Pharo Consortium, France.
-- Oleksandr Zaitsev, CIRAD, France.
-
-
-""IWST 2026 organization committee""
-- Gordana Rakic, University of Novi Sad, Serbia
-- Nahuel Palumbo, Argentina
-- Guille Polito, Inria Lille, France
     
-*Got to the Conference agenda>agendaMain.html*   
+*Got to the Conference organization>organisation.html*   
     
 
