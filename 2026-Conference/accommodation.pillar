@@ -66,7 +66,7 @@ Once you have selected the room type and you are sure that your code is applied,
 +Offer Selection>file://images/hotel/offer.png+
 
 
-|{ *Go to the page about Plovdiv>city.html* |} *Back to Announcements>announcement.html*{| *Go to the Venue page>venue.html* }|
+|{ *Go to the page about Plovdiv>city.html* || *Back to Announcements>announcement.html* |} *Go to the Venue page>venue.html* 
 
 
 
