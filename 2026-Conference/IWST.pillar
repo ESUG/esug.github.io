@@ -2,132 +2,30 @@
 "title": "IWST 2026: International Workshop on Smalltalk Technologies"
 }
 
-!IWST 26 Call For Submissions
+!About IWST 26 
 
 IWST 26 — International Workshop on Smalltalk Technologies
 Plovdiv Bulgaria; July 7th to 10th, 2026
 Co-located with ESUG 2026
+*IWST 2026 Call for Submissions>https://conf.researchr.org/track/iwst-2026/iwst-2026-papers#Call-for-Submissions*
 
-!!! Description
+!! Description
 
 The goals of the workshop is to create a forum around contributions and experiences in building or using technologies related to Smalltalk. While maturity of presented ideas and results is not crucial, it is expected that their presentation triggers discussion and exchange of ideas. The topics of your paper can be on all aspect of Smalltalk, theoretical as well as practical.
 Authors are invited to submit research articles or industrial papers. 
 
-!!!Topics
+From this year we will be using the *conf.researchr.org>https://conf.researchr.org/* platform to maintain *IWST website>https://conf.researchr.org/home/iwst-2026/*, while this page will provide important ESUG-related information such as one about the organization, registration, etc.
 
-We welcome contributions on all aspects, theoretical as well as practical, of Smalltalk related topics such as:
+!! Registration
 
-- Code Analysis
-- Automated Testing
-- Debugging
-- Compilers, Virtual Machines and Language implementations
-- Meta-programming and Meta-modeling
-- Refactorings
-- Design patterns
-- Experience reports
-- Libraries and frameworks
-- New dialects or languages implemented in Smalltalk
-- Interaction and integration with other languages
-- Tools
+- Early *registration>https://registration.esug.org/* deadline: April 1, 2026
 
-!!! Submissions, reviews, and selection
-
-We invite two kind of submissions: 
-- original contributions that are not submitted or published elsewhere, and 
-- contributions previously published in a scientific journals.
-
-Presentations and proceedings are *decoupled* even in the case of original contributions. This means that you can present your work and the workshop and not have it published in the proceedings.
-
-This is how it works: 
- - Authors interested to present their work (original or previously published) submit an extended abstract before the extended abstract submission deadline.
- - Author of the submitted extended abstracts will be notified and (potentially) invited to present their work by the extended abstract notification deadline.
- - Authors of abstracts on original contributions, invited for presentations who are interested in publishing a paper based on the work to be presented, are invited to submit a paper on original contributions for further reviewing process and potential publication in our proceedings. 
- 
- **You do not need** your paper to be included in the workshop proceedings to present it at the conference.
-
-!!!! Submission Instructions
-
-Both extended abstracts and paper submissions must be prepared using a recommended template (TBD).
-All submissions must be sent via *EasyChair submission page>*
-
-Pay attention: for organisation constraints, when submitting your article for presentation you are expected to register to the conference and pay the conference fees. 
-
-**What is an extended abstract?** It's a short (up to 2 pages long) description of some work you are willing to present.
-Please describe the context of your work, the problem, what solution you are exploring, and how do you expect to evaluate it.
-
-Abstracts are only required to evaluate the work for presentation. They will not be published in the proceedings, but *will be published on the conference web site and shared to the IWST audience during the workshop*. Therefore, take care submit your abstract in a shareable form. Furthermore, If you already have your paper ready for submission, it can be submitted but please **be aware** that this working version of your paper, that is still not ready and accepted for publishing **will be shared on the web site**. We will assume that you agree with this.
-
-**Extended Abstracts on Previously Published Contributions**
-
-As a special category of presentation, we invite authors of contributions related to IWST's topics, accepted for publication in Journals and Proceedings of top-rated international conferences within the previous 2 years, to submit an (extended) abstract and present their published results to the IWST workshop collocated with ESUG.
-
-Authors of publications that meet the above criteria are invited to submit a presentation proposal to IWST organizers thorugh EasyChair submission page (To be open soon). 
-The submission will consist of (1) the presentation title, (2) authors, (3) the abstract,  (4) a pointer to the original journal paper (DOI) or pre-print, and (5) an acknowledgement that the paper meets the mentioned criteria and to not break any intellectual property limitations related to the previous publication.
-Authors will be invited to present their paper after checking that the submission meets the above criteria.
-Having the submissions already reviewed and accepted by the peers, they will not be reviewed again for technical content.
-We will tend to include in the program as many previously published contributions as possible; only in case an exceptionally high number of proposals is received, we will be forced to make a selection based on the quality and significance criteria.
-
-**How about papers on original contributions?**
-
-We are looking for papers of two kinds:
-- Short position papers (5 to 10 pages) describing fresh ideas and early results.
-- Full research papers (more than 10 pages) with deeper description of experiments and of research results.
-
-Paper accepted for publishing will be published within a Workshop Proceedings (Publisher under negotiation).
+""IMPORTANT"": As the *submissions deadline>https://conf.researchr.org/track/iwst-2026/iwst-2026-papers#Call-for-Submissions* for IWST is after the early registration deadline, we have got the confirmation that our authors are allowed to fill in the registration form by the deadline for early registration if they plan to submit the presentation abstract, and to pay afterwards in case of the acceptance. Therefore, "please fill in the registration form before the 1st of April." 
 
 
-%!!!! Camera Ready Package Submission
-%The camera-ready (CR) package should be submitted through EasyChair. CR package should contain:
-
-%- Final version of the paper (PDF)
-%- Source files of the paper (*Word/ODT/Latex, single column>https://ceur-ws.org/Vol-XXX/CEURART.zip*), as well as any figures, code listings, or additional materials needed. 
-%- (Eventually) Log of changes addressing additional improvements potentially required after the second round of reviewing.
-%- Signed copyright transfer form.
-
-
-!!!! Reviewing
-
-As the workshop format encourages bringing fresh ideas and early results to be presented and discussed, and aims for giving a chance to young community members to learn and grow, we will allow  submissions with a discussion potential to be conditionally accepted. In this case, authors are expected to follow the recommendations of the reviewers.
-
-Consequently, the reviewing process will be organized in two rounds:
-- in the first round, all submissions will be reviewed by at least 3 reviewers. Based on these reviews authors will receive a notification with reviewers comments, advices, and requirements, and papers that are not rejected will be invited to be resubmitted in an improved form together with change log and answrers to the reviewers.
-- in the second round, PC chairs in collaboration with the reviewers where needed and possible, will evaluate the improved paper version and notifiy authors about final decision on acceptance/rejection.
-
-
- 
-""Best Paper Award""
-
-To encourage the submission of high-quality ideas, contributions, and papers, the IWST organizing committee is very proud to announce a Award competition in the categories of ""best idea"", ""best contribution to the community"" and ""best paper for this edition of IWST"".
-
-The ranking will be decided by the program committee during the review process and by the audience voting during the conference. 
-
-The awards will be given during the ESUG conference social event.
-
-The Awards will take place only with a minimum of six submissions. Notice also that to be eligible, a paper/abstract must be presented at the workshop by one of the author and that the presenting author must be registered at the ESUG conference.
-
-
-!!! Important Dates (All in AoE - Anywhere on Earth)
-
-- Extended abstract submission deadline: tbd
-- Already Published Papers Abstract submission deadline: tbd
-- Extended abstract notification deadline: tbd
-- Early *registration deadline>https://esug.org/2025-Conference/conf2025.html*: tbd
-- Already Published Papers Abstract notifications: tbd
-- Full/short paper submission deadline: tbd
-- Full/short paper first-round notification deadline: tbd
-
-- Workshop: tbd
-
-- Full/short paper resubmission deadline: tbd
-- Full/short paper final notification deadline: tbd
-- Camera-ready package submission deadline: tbd
-
-!!! Program chairs
+!! Program chairs
 - Nahuel Palumbo, Argentina
 - Guillermo Polito, France
 - Grodana Rakić, Serbia
 
-!!!! Program committee
-
-- tbd
-
+If you have further question, please do not hesitate to *write to us>mailto:iwst@esug.org*.
