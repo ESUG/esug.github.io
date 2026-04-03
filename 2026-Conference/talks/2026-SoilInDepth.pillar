@@ -1,0 +1,16 @@
+! Soil - architecture & design
+
+Norbert Hartl  (norbert@apptivegrid.de)
+Marcus Denker (marcus.denker@inria.fr)
+
+""Abstract:""
+
+Soil is a light-weight object-oriented database for pharo. It turns a pharo image into a database instance that supports state-of-the-art abilities like ACID-transactions, MVCC and more. It aims to be a small and comprehensible database library that can be adjusted to individual use cases. 
+
+This talk will be an in-depth view on the architecure, design and algorithms that drive Soil. A report on the current state and plans for the near future. Aim of this talk is to learn about other ideas. So we try to make room for questions
+
+""Bio:""
+Norbert Hartl has a long track record of creating and building software projects. Currently he is on a mission to create projects with zero dependencies. He co-founded ApptiveGrid where he is working at the moment. He also co-founded PharoPro. 
+
+Marcus Denker is a permanent researcher (CR1, with tenure) at INRIA Lille. Before, he was a postdoc at the PLEIAD lab/DCC University of Chile and the Software Composition Group, University of Bern. His research focuses on reflection and meta-programming for dynamic languages. He is an active participant in the Squeak and Pharo open source communities for many years. Marcus Denker received a PhD in Computer Science from the University of Bern/Switzerland in 2008 and a Dipl.-Inform. (MSc) from the University of Karlsruhe/Germany in 2004. He co-founded ZWEIDENKER in 2009. He is a member of ACM, GI and a board-member of ESUG.
+
