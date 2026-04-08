@@ -1,0 +1,9 @@
+! ChatPharo: an AI Assistant inside Pharo
+
+Omar AbedelKader
+
+""Abstract:""
+This talk presents recent developments around ChatPharo and related efforts to integrate large language models into the Pharo ecosystem. It introduces ChatPharo as a live conversational interface between Pharo developers and LLMs, designed to support interactive discussions directly inside the Pharo environment. The talk also highlights the open and extensible architecture behind ChatPharo, which enables experimentation with multiple LLM backends, and discusses related projects such as Pharo-Copilot and Pharo-Infer that explore AI-assisted programming and code completion in Pharo.
+
+""Bio:""
+Omar AbedelKader is an AI researcher and software engineer currently pursuing a Ph.D. in Computer Science at the University of Lille. He is the founder and maintainer of the Pharo-LLM organization and leads several projects at the intersection of artificial intelligence and software engineering, including ChatPharo. His work explores conversational systems, AI-assisted programming, and open architectures for experimenting with LLMs in software development.
