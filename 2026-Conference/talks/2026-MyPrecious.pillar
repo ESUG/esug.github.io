@@ -1,0 +1,10 @@
+! MyPrecious Middleware
+
+Noury Bouraqadi (noury.bouraqadi@imt-nord-europe.fr)
+
+""Abstract:""
+Distributed applications involve software running on different machines connected via a network. To ensure proper collaboration, developers must address various concerns introduced by distribution. Many of these concerns are recurring and are typically handled by middleware. While there are multiple Smalltalk-based middleware solutions, each addresses only a specific subset of distributed applications by making particular design choices.
+In this talk, we introduce MyPrecious, a modular middleware designed to be extensible, enabling it to support a wide range of applications. 
+
+""Bio:""
+*Noury Bouraqadi>https://nootrix.com/noury* is a software developer, maker, repair hobbyist, environment/technology/robots lover. Noury works part-time as a university professor at IMT Nord Europe. His remaining work time is dedicated to a startup that leverages *PharoJS>https://pharojs.org* to build a SAS for teaching PLC programming & factory automation: *PLC3000>https://plc3000.com*.
