@@ -1,0 +1,9 @@
+! The Future of LLM in Pharo: PharoLLM
+
+Omar AbedelKader
+
+""Abstract:""
+This talk presents Pharo-LLM, a broader initiative to build a sovereign AI ecosystem directly inside the Pharo environment. It introduces the main components of the ecosystem, including ChatPharo as the conversational interface, Pharo-Infer as a native local inference engine, and Pharo-LLM Studio as a space for prompt engineering, workflow design, and experimentation. The presentation argues for moving beyond dependence on external APIs and tools such as Ollama or LM Studio, emphasizing local execution, transparency, privacy, and full control. Pharo-LLM is a strategic effort to make AI in Pharo native, inspectable, extensible, and fully owned by the community
+
+""Bio:""
+Omar AbedelKader is an AI researcher and software engineer currently pursuing a Ph.D. in Computer Science at the University of Lille. He is the founder and maintainer of the Pharo-LLM organization and leads several projects at the intersection of artificial intelligence and software engineering, including ChatPharo. His work explores conversational systems, AI-assisted programming, and open architectures for experimenting with LLMs in software development.
