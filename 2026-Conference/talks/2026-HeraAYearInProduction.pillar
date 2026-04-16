@@ -1,0 +1,10 @@
+! Hera: A Year in Production — Growing a BDD Framework in Pharo
+
+Koen De Hondt  (koen@all-objects-all-the-time.st)
+
+""Abstract:""
+At ESUG 2025, Hera was introduced as a BDD framework bringing full Gherkin expressiveness to Pharo. Since then, Hera has evolved significantly — both as a framework and as a tool adopted in real-world industrial settings.
+This talk presents a year of development on Hera: new features, IDE integration, and a growing ecosystem. It also describes Hera's journey beyond Pharo — ported to VisualWorks and introduced to multiple development teams in a large Smalltalk organisation, where it is now being used to automate end-of-line acceptance testing that was previously performed manually by QA staff.
+
+""Bio:""
+Koen De Hondt has used Smalltalk since 1988, first as a student, then as an academic researcher, and then in industry. In the nineties and a few years after the turn of the century, he was one of the driving forces behind the Belgian Smalltalk User Group (BSUG). In that time frame, he presented at ESUG conferences several times. In 2003, he left the Smalltalk community for other adventures. In 2023, he returned to the Smalltalk scene and started *all: objects all: theTime>https://all-objects-all-the-time.st*.He has been an active contributor to Pharo ever since. Software development tools are his main interest.
