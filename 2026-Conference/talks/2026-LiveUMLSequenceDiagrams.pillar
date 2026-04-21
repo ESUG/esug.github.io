@@ -1,0 +1,11 @@
+! Live UML Sequence Diagrams, their building and tests 
+
+Kasper Østerbye (kasper.osterbye@gmail.com)
+
+""Abstract:"" 
+Sequence diagrams are a powerful tool for understanding how objects interact at runtime. This talk presents MicroSequenceDiagram, a Pharo framework that generates live UML sequence diagrams directly from running code — no manual drawing, no static analysis. By tracing actual execution, the diagrams show what really happens, not what the programmer intended.
+
+The talk demonstrates how to build interactive diagrams with drill-down navigation between packages and clickable class documentation. As a secondary topic, we present our tests code for the MicroSequenceDiagram classes and methods — all built by our AI-driven test generator.
+
+""Bio:""
+Kasper Østerbye is a retired associate professor from IT University Copenhagen, where he was involved in building the institution and served in academic leadership. His background spans programming language design and implementation, with experience in Simula, Beta, Smalltalk, and Forth. He has worked with pioneers including Kristen Nygaard and Terry Winograd. He currently works full-time on AI research and Pharo development from his farm in Denmark, with a focus on empirical exploration of AI systems and their integration with live programming environments.
