@@ -7,7 +7,7 @@ Kris Gybels <kgybels@instantiations.com>
 
 Smalltalk environments have long been pioneers in developer productivity. With the VAST Platform AI Assistant, we’re extending that tradition by integrating Large Language Models (LLMs) directly into the VAST platform. This new tool is designed to bring AI capabilities directly into your daily workflow.
 
-In this session, we’ll share a user experience report and a live demonstration of the assistant’s current capabilities, not only powered by Google Gemini but also other (local) models.
+In this session, we’ll share a user experience report and a live demonstration of the assistant’s current capabilities, powered by both frontier cloud models as well as local ones.
 
 We will demonstrate how the VAST Platform AI Assistant leverages the live nature of Smalltalk to act as a true pair programmer. You’ll see how it goes beyond simple chat by directly interacting with the live VAST image through the LLM’s “tools” capabilities. This allows investigating source code as it responds to your questions.
 
