@@ -1,0 +1,10 @@
+! Moldable LLM Chats in Glamorous Toolkit
+
+Andrei Chiș  (andrei.chis@feenk.com) 
+
+""Abstract:""
+IDEs integrate LLM-powered assistant into their toolset. These assistants are often opaque, acting as immutable oracles over the codebase, and provide a fixed set of interactions with the system. In this talk we show how we are building many such assistants, context-dependent and aware of their surroundings, with an open set of capabilities that are extensible and, of course, moldable, directly inside Glamorous Toolkit.
+
+""Bio:""
+Andrei Chiș acts as a tool crafter at feenk (feenk.com) building tools and techniques for improving software development and is a co-author of Glamorous Toolkit (gtoolkit.org) platform. Andrei holds a PhD from the University of Bern. In his PhD he maintained that integrated development environments have to be moldable, that is, they have to be aware of the application under development and enable rapid customizations to new applications and tasks, and explored solutions to make this vision possible.
+
