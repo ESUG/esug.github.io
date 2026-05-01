@@ -1,0 +1,15 @@
+! Transpiling Python to Smalltalk
+
+James Foster (james.foster@gemtalksystems.com)
+
+""Abstract:""
+What would it take to host Python in GemStone? This presentation describes a GemTalk initiative to
+allow GemStone to support Python code by transpiling to Smalltalk or compiling to the internal 
+representation (IR) used to generate bytecodes. We will also show a Visual Studio Code extension
+used to interact with GemStone.
+
+""Bio:""
+James Foster discovered the local university’s computer center as a junior-high student in 1971 and a
+life-long obsession with computers began. He was introduced to Smalltalk/V for the Mac in the mid-90s,
+and became a Smalltalk fan. James is on the engineering team at GemTalk Systems and is a passionate 
+advocate for GemStone and all things Smalltalk.
