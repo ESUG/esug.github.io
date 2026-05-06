@@ -1,0 +1,14 @@
+! Undo the World
+
+Martin McClure  (martin.mcclure@gemtalksystems.com)
+
+""Abstract:""
+I think we've all had moments when we wish the world had an Undo button. Unfortunately, even Smalltalk isn't powerful enough to erase every regrettable act. But Smalltalk tools do offer Undo, and historically were among the first to do so. Unfortunately, there have long been missed opportunities, and many Smalltalk tools could be improved by making more actions undoable.
+In this talk I'll explore Undo from both a developer's and a user's point of view, and demonstrate tools built with undoability in mind.
+
+""Bio:""
+Martin has been using Smalltalk for over forty years, and finds that there is always more to learn.
+He is a Principal Engineer at GemTalk Systems, where he has been working on the GemStone Smalltalk
+product line for thirty years.
+In his spare time, he participates in social dancing, primarily American Contra and English Country,
+and works on remodeling an old house and church to be a home and dance hall for him and his wife.
