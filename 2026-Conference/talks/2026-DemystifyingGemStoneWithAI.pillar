@@ -1,0 +1,12 @@
+! Using AI to Demystify Running GemStone Systems
+
+Anna Stefaniv Oickle  (anna.stefaniv@wallawalla.edu)
+
+""Abstract:""
+GemStone has long provided hundreds of runtime statistics for each of its processes. These statistics are valuable for understanding system behavior and diagnosing runtime issues, but interpreting them often requires deep experience with GemStone internals and the operational patterns of a running system.
+
+This talk presents a tool to make GemStone runtime statistics more approachable using AI-assisted analysis. The goal is to help developers and administrators better understand what is happening inside a running GemStone system, identify potential problems, and turn raw statistics into more useful explanations.
+
+""Bio:""
+Anna is a computer science student at Walla Walla University and a software development intern at GemTalk Systems, where she works on developer tooling projects related to GemStone. 
+Outside of GemTalk, she creates programming-focused videos on YouTube (Anna Codes), where she shares the process of building software projects, experimenting with developer tools, and learning new technologies.
