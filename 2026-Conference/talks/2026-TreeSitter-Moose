@@ -1,0 +1,15 @@
+! Moose:: Simplifying the development of importers based on TreeSitter
+
+Cyril Ferlicot-Delbecque
+
+""Abstract:""
+Moose is a software analysis platform. In order to analyse a project we need to import it as a Moose model which is not an easy task. 
+
+TreeSitter is a parsing stack developed by Github.
+
+This presentation will show how we are using this project to simplify the creation of Famix and FAST importer for Moose.
+
+""Bio:""
+Cyril Ferlicot-Delbecque is a research and development engineer working in the Inria Evref team.
+He works since 2015 on divers project around Pharo, on Pharo itself and on Moose and its echosystem. 
+He's currently working on software analysis to analyse Python notebooks.
