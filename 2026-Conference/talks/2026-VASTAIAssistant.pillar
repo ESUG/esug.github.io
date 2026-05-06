@@ -1,0 +1,20 @@
+!The VAST Platform AI Assistant: Integrating LLMs into a Live Smalltalk Environment
+
+Johan Brichau <jbrichau@instantiations.com>
+Kris Gybels <kgybels@instantiations.com>
+
+""Abstract:""
+
+Smalltalk environments have long been pioneers in developer productivity. With the VAST Platform AI Assistant, we’re extending that tradition by integrating Large Language Models (LLMs) directly into the VAST platform. This new tool is designed to bring AI capabilities directly into your daily workflow.
+
+In this session, we’ll share a user experience report and a live demonstration of the assistant’s current capabilities, powered by both frontier cloud models as well as local ones.
+
+We will demonstrate how the VAST Platform AI Assistant leverages the live nature of Smalltalk to act as a true pair programmer. You’ll see how it goes beyond simple chat by directly interacting with the live VAST image through the LLM’s “tools” capabilities. This allows investigating source code as it responds to your questions.
+
+Join us to explore how we are shaping the future of AI-assisted development in VAST to better empower software developers. See it in action, try it out, and join the conversation on GitHub: https://github.com/instantiations/VAST-Platform-AI-Assistant.
+
+""Bio:""
+
+Kris Gybels recently joined Instantiations to work on the VAST Platform’s AI-based tool support. He previously spent a number of years in academia researching Declarative Meta Programming and its application to Aspect-Oriented Programming, and over a decade co-developing the Yesplan venue management system, during which he made a number of contributions to Pharo, most notably Pharo 12’s improved Mac ‘Retina display’ support, as well as to Seaside and its Parasol web testing framework.
+
+Johan Brichau is a seasoned software engineer with over 25 years of experience across a wide range of Smalltalk environments. He joined the VAST Platform development team at Instantiations in January 2025. Prior to that, he spent nearly 15 years as co-founder and CTO of Yesplan, a world-leading online venue management platform. Johan holds a PhD in computer science from the Vrije Universiteit Brussel (2005) and has actively contributed to several open source projects, most notably Seaside.
