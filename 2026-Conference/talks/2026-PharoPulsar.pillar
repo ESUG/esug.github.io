@@ -1,0 +1,32 @@
+! Pharo Pulsar: Spinning you into a Power User
+
+Esteban Lorenzano
+
+""Abstract:""
+
+Programming environments shape the way programmers think, explore, and act. Smalltalk has 
+always carried a powerful idea: the IDE is not merely a place where code is written, but 
+a living interface to the system itself. Pulsar starts from that tradition and asks how 
+far we can take it today.
+
+Pulsar is an experimental IDE for Pharo, built with Spec. Its goal is to provide programmers 
+with more leverage in their everyday work: better navigation, richer feedback, deeper inspection, 
+and a more fluid relation with the running image. It is not only a new browser, but an attempt 
+to rethink the IDE as a tool that amplifies the programmer’s ability to understand, modify, 
+and evolve software.
+
+This presentation introduces Pulsar as a work in progress and as a bet on the future of 
+Pharo tooling: an IDE designed for programmers who want to remain close to the system, 
+move quickly through it, and become more powerful in the act of programming itself.
+
+""Bio:""
+
+Esteban Lorenzano studied Computer Sciences at Universidad de Buenos Aires, and worked 
+since 1994 in several object-oriented and low-level technologies, in different software 
+companies, serving in various positions from programmer to senior architect. In 2007 he 
+co-founded Smallworks to offer Pharo-based agile development projects.
+
+Since 2012 he dedicated full time to developing the Pharo code and community. He works 
+with the INRIA-EVREF team in Lille, France, as core developer for Pharo, being responsible 
+with the coordination of new releases and the implementation and maintenance of several 
+Pharo libraries.
