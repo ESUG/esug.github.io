@@ -1,0 +1,40 @@
+! Compile-time PIC Generation using LiveTyping Information
+
+Nicolás Matías Sarfati (nmsarfati@gmail.com)
+
+""Abstract:""
+
+Dynamic message dispatch is a central feature of Smalltalk and other dynamically
+typed object-oriented languages. However, this flexibility comes at the cost of
+runtime method lookup, which can significantly impact performance. Modern
+Smalltalk virtual machines mitigate this cost using Just-in-Time compilation,
+Inline Caches, and Polymorphic Inline Caches. These caches are normally built
+reactively: a send site must first execute before the VM can observe receiver
+classes and specialize the dispatch. This talk presents an alternative approach
+that uses type information previously collected by LiveTyping to generate ICs
+and PICs proactively, before the VM would normally construct them during execution.
+
+The talk will present how this idea was implemented across the image and the
+OpenSmalltalk VM. At the image level, the current implementation focuses on message
+sends whose receivers are instance variables: an analysis identifies those candidate
+sends and uses LiveTyping information to determine the receiver types observed for the
+corresponding variables. At the VM level, a new primitive enables the controlled
+generation and installation of ICs and PICs in JIT-compiled code. Together, these
+two parts form an image-to-VM workflow that turns previously observed type
+information into dispatch caches generated ahead of execution.
+
+The experimental results and trade-offs of the approach will also be discussed.
+The evaluation compares proactively generated PICs against the default runtime
+behavior and JIT-only execution across benchmarks with different dispatch and
+allocation characteristics. The results show that proactive cache generation
+can reduce execution time in dispatch-dominated scenarios, especially during
+early execution and in methods with several send sites, while increasing the
+amount of generated machine code.
+
+""Bio:""
+
+Nicolás Matías Sarfati is a Computer Science student at the University of
+Buenos Aires, currently completing his degree with only the thesis defense
+remaining. He has almost 15 years of experience in the software industry and
+currently works as an independent software architect, helping companies diagnose
+and solve performance issues across their applications and infrastructure.
