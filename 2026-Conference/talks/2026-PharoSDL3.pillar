@@ -1,0 +1,25 @@
+
+! PharoSDL3: New FFI Bindings for SDL3 in Pharo
+
+Martín Dias (tinchodias@gmail.com)
+Pablo Tesone (pablo.tesone@inria.fr)
+
+
+""Abstract:""
+
+SDL (Simple DirectMedia Layer) is a cross-platform library widely used in game development and multimedia applications. SDL 3.0 is a major new release that brings, among other things, a modern GPU API for high-performance rendering.
+
+We present PharoSDL3, the first Pharo bindings for SDL 3.4.0. Beyond wrapping the SDL 3 API with Pharo's FFI, the library provides an OSWindow backend that integrates with both Morphic and Bloc, maintaining backwards compatibility with SDL 2. It also exposes the new SDL GPU API, opening the door to modern, hardware-accelerated rendering from Pharo.
+
+This work is a sign of a living and active community: Pharo keeps up with the latest developments in the ecosystem. We will demo the library, explain key design, and discuss the integration with the rest of the Pharo graphical stack.
+
+
+""Bio:""
+
+Martín Dias worked as an engineer for many years, and got a Ph.D in 2015. He loves Pharo and the Smalltalk community. His first ESUG was in 2010, but before that assisted to Smalltalks 2009 (Argentina).
+
+Pablo Tesone is engineer for the Pharo Consortium, with 10 years of experience in industrial projects.
+He has lately done a PhD on Dynamic Software Update applied to Live programming environments, distributed systems and robotic applications.
+He is interested in improving development tools and the daily development process.
+He is an enthusiast of the object oriented programming and their tools.
+He collaborates with different open-source projects in the Pharo Community and the Uqbar Foundation *http://www.uqbar-project.org/*.
