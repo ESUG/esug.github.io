@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head profile="http://www.w3.org/2005/10/profile">
+  	<link rel="icon" type="image/png" href="//images/favicon.png">
+  	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    	<title>ESUG: </title>
+    	<link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/theme/style.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  
+  <body>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+	<a class="navbar-brand" href="/">
+             <img alt="Esug" src="/images/esug-logo-small.jpg">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
+    		<span class="navbar-toggler-icon"></span>
+  	</button>
+        <!--<div class="container-fluid">-->
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="navbar-nav ml-auto">
+                    
+                    <li id="About Us" class="nav-item dropdown disabled">
+			<a href="/about_us.html" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            About Us
+                        </a>
+						
+                        
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                             
+                             <a class="dropdown-item" href="/about_us.html">About</a>
+                             
+                             <a class="dropdown-item" href="/membership.html">Membership&amp;Support</a>
+                             
+                             <a class="dropdown-item" href="/become_sponsor.html">Become a Sponsor</a>
+                             
+                             <a class="dropdown-item" href="/sponsors.html">Sponsors</a>
+                             
+                        </div>
+                        
+                   </li>
+	           
+                    <li id="Conferences" class="nav-item dropdown disabled">
+			<a href="/conferences.html" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            Conferences
+                        </a>
+						
+                        
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                             
+                             <a class="dropdown-item" href="/2026-Conference/announcement.html">2026</a>
+                             
+                             <a class="dropdown-item" href="/2025-Conference/conf2025.html">2025</a>
+                             
+                             <a class="dropdown-item" href="/2024-Conference/conf2024.html">2024</a>
+                             
+                             <a class="dropdown-item" href="/conferences.html">Past Conferences</a>
+                             
+                        </div>
+                        
+                   </li>
+	           
+                    <li id="Promotion" class="nav-item dropdown disabled">
+			<a href="/promotion.html" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            Promotion
+                        </a>
+						
+                        
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                             
+                             <a class="dropdown-item" href="/article.html">Your Article</a>
+                             
+                             <a class="dropdown-item" href="/publications.html">YourPublication</a>
+                             
+                             <a class="dropdown-item" href="/mobility.html">Your Mobility</a>
+                             
+                             <a class="dropdown-item" href="/freebook.html">Sponsoring Books</a>
+                             
+                             <a class="dropdown-item" href="/project.html">Your Project</a>
+                             
+                             <a class="dropdown-item" href="/past_actions.html">Past Actions</a>
+                             
+                        </div>
+                        
+                   </li>
+	           
+                    <li id="Smalltalk" class="nav-item dropdown disabled">
+			<a href="/smalltalk.html" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            Smalltalk
+                        </a>
+						
+                        
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                             
+                             <a class="dropdown-item" href="/smalltalk.html">Smalltalk</a>
+                             
+                             <a class="dropdown-item" href="/press.html">Press</a>
+                             
+                             <a class="dropdown-item" href="/companies.html">Companies</a>
+                             
+                             <a class="dropdown-item" href="/videos.html">Videos</a>
+                             
+                             <a class="dropdown-item" href="/smalltalk_archive.html">Smalltalk-Archive</a>
+                             
+                        </div>
+                        
+                   </li>
+	           
+		   
+                </ul>
+            </div>
+    </nav>
+    
+    <div class="row justify-content-center">
+        <div class="panel-body col-12" style="margin-top: 30px;"><section>
+<h1> Compile-time PIC Generation using LiveTyping Information</h1>
+
+<p>
+Nicolás Matías Sarfati (nmsarfati@gmail.com)
+</p>
+<p>
+<strong>Abstract:</strong>
+</p>
+<p>
+Dynamic message dispatch is a central feature of Smalltalk and other dynamically
+typed object-oriented languages. However, this flexibility comes at the cost of
+runtime method lookup, which can significantly impact performance. Modern
+Smalltalk virtual machines mitigate this cost using Just-in-Time compilation,
+Inline Caches, and Polymorphic Inline Caches. These caches are normally built
+reactively: a send site must first execute before the VM can observe receiver
+classes and specialize the dispatch. This talk presents an alternative approach
+that uses type information previously collected by LiveTyping to generate ICs
+and PICs proactively, before the VM would normally construct them during execution.
+</p>
+<p>
+The talk will present how this idea was implemented across the image and the
+OpenSmalltalk VM. At the image level, the current implementation focuses on message
+sends whose receivers are instance variables: an analysis identifies those candidate
+sends and uses LiveTyping information to determine the receiver types observed for the
+corresponding variables. At the VM level, a new primitive enables the controlled
+generation and installation of ICs and PICs in JIT-compiled code. Together, these
+two parts form an image-to-VM workflow that turns previously observed type
+information into dispatch caches generated ahead of execution.
+</p>
+<p>
+The experimental results and trade-offs of the approach will also be discussed.
+The evaluation compares proactively generated PICs against the default runtime
+behavior and JIT-only execution across benchmarks with different dispatch and
+allocation characteristics. The results show that proactive cache generation
+can reduce execution time in dispatch-dominated scenarios, especially during
+early execution and in methods with several send sites, while increasing the
+amount of generated machine code.
+</p>
+<p>
+<strong>Bio:</strong>
+</p>
+<p>
+Nicolás Matías Sarfati is a Computer Science student at the University of
+Buenos Aires, currently completing his degree with only the thesis defense
+remaining. He has almost 15 years of experience in the software industry and
+currently works as an independent software architect, helping companies diagnose
+and solve performance issues across their applications and infrastructure.
+</p></section></div>
+    </div>
+   </div> 
+    <footer class="footer">
+        This website is developed using <a href="https://github.com/pillar-markup/pillar-documentation">Pillar</a> and <a href="https://github.com/guillep/ecstatic">Ecstatic</a><br/>
+		Source Code and <a href="https://github.com/ESUG/esug.github.io/issues">Issue Tracker</a> hosted on <a href="https://github.com/ESUG/esug.github.io">Github</a>
+    </footer>
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script>
+		var table = document.getElementsByTagName("table");
+		for (i=0; i<table.length; i++) {
+			table[i].style.border = "";
+			table[i].setAttribute("class", "table");		
+		}
+
+		var captions = document.getElementsByTagName("figcaption");
+		for (i=0; i<captions.length; i++) {
+			captions[i].innerHTML=""
+		}
+	</script>
+    
+  </body>
+</html>
