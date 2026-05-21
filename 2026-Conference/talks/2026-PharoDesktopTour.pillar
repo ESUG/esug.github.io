@@ -1,0 +1,28 @@
+! Pharo on the Desktop: A Tour of Tools and Feedback Loops
+
+Esteban Lorenzano (esteban.lorenzano@inria.fr)
+
+""Abstract:""
+
+This talk is a tour of desktop applications built with Pharo: tools created to solve concrete, 
+everyday problems, from personal workflows to development tasks. Rather than presenting them 
+as isolated demos, the talk follows the feedback loop behind them: each application exposed 
+missing pieces, rough edges, or performance limits in the Pharo ecosystem.
+
+By building real tools for daily use, these problems became opportunities to improve the platform 
+itself: UI frameworks, native integrations, tooling, usability, and the developer experience. 
+
+The result is a practical showcase of Pharo on the desktop, but also a reflection on how 
+application-building can become a path to strengthening Pharo as a whole.
+
+""Bio:""
+
+Esteban Lorenzano studied Computer Sciences at Universidad de Buenos Aires, and worked 
+since 1994 in several object-oriented and low-level technologies, in different software 
+companies, serving in various positions from programmer to senior architect. In 2007 he 
+co-founded Smallworks to offer Pharo-based agile development projects.
+
+Since 2012 he dedicated full time to developing the Pharo code and community. He works 
+with the INRIA-EVREF team in Lille, France, as core developer for Pharo, being responsible 
+with the coordination of new releases and the implementation and maintenance of several 
+Pharo libraries.
