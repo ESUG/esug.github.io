@@ -9,20 +9,21 @@
 
 <!talk|subject=Pharo Pulsar: Spinning you into a Power User&author=Esteban Lorenzano&length=30&room=Main Amphi!>
 <!talk|subject=Live UML Sequence Diagrams, their building and tests&author=Kasper Østerbye&length=30&room=Main Amphi!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
+<!talk|subject=! Bloc5: an Artful Bloc API Designed for Creativity&author=Domenico Cipriani&length=30&room=Main Amphi!>
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
 <!talk|subject=The Future of LLM in Pharo: PharoLLM&author=Omar AbedelKader&length=30&room=Main Amphi!>
 <!talk|subject=The Pharo Module System&author=Guillermo Polito&length=30&room=Main Amphi!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
+<!talk|subject=Compile-time PIC Generation using LiveTyping Information&author=Nicolás Matías Sarfati&length=30&room=Main Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall!>
 
-<!talk|subject=Bloc and Toplo Update&author=Martín Diaz, Pablo Tesone&length=30&room=Main Amphi!>
 <!talk|subject=Soil - architecture & design&author=Norbert Hartl, Marcus Denker&length=30&room=Main Amphi!>
+<!talk|subject=Moose and Tree Sitter&author=Cyril Ferlicot&length=30&room=Main Amphi!>
 
 <!talk|subject=Awards competition&author=&length=120&room=Main Amphi!>
+
 !>
 !>
 
@@ -37,18 +38,20 @@
 
 <!break|subject=Coffee Break&length=30&room=Hall!>
 
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
+<!talk|subject=Complishon: a Better completion engine for Pharo&author=Stéphane Ducasse, Omar Abedelkader, Mehdi Elkokei&length=30&room=Main Amphi!>
+<!talk|subject=Moldable LLM Chats in Glamorous Toolkit&author=Andrei Chis&length=30&room=Main Amphi!>
+<!talk|subject=MyPrecious Middleware&author=Noury Bouraqadi&length=30&room=Main Amphi!>
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
-<!talk|subject=Compile-time PIC Generation using LiveTyping Information&author=Nicolás Matías Sarfati&length=30&room=Main Amphi!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
-<!talk|subject=Pharo on the Desktop: A Tour of Tools and Feedback Loops&author=Esteban Lorenzano&length=30&room=Main Amphi!>
+<!talk|subject=Glamorous Toolkit&author=Andrei Chis&length=30&room=Main Amphi!>
+
+<!talk|subject=PharoSDL3: New FFI Bindings for SDL3 in Pharo&author=Martin Dias and Pablo Tesone&length=30&room=Main Amphi!>
+<!talk|subject=Bloc for Pharo: What's New?&author=Martin Dias andPablo Tesone&length=30&room=Main Amphi!>
 
 <!break|subject=Coffee Break&length=30&room=Hall!>
-<!talk|subject=Bloc for Pharo: What's New?&author=Martín Diaz, Pablo Tesone&length=30&room=Main Amphi!>
+
+<!talk|subject=Pharo on the Desktop: A Tour of Tools and Feedback Loops&author=Esteban Lorenzano&length=30&room=Main Amphi!>
 
 <!talk|subject=Show us your project&author=&length=120&room=Main Amphi!>
 
@@ -68,16 +71,16 @@
 
 <!talk|subject=Modularity by Construction&author=Guillermo Polito&length=30&room=Main Amphi!>
 <!talk|subject=Pharo CIG, Round Two: Growing a Native Library Ecosystem for Pharo&author=Esteban Lorenzano&length=30&room=Main Amphi!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
+<!talk|subject= PharoJS 10th Anniversary: Now What?&author=Noury Bouraqadi&length=30&room=Main Amphi!>
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
 <!talk|subject=ChatPharo: an AI Assistant inside Pharo&author=Omar AbedelKader&length=30&room=Main Amphi!>
-<!talk|subject=From Squeak to Pharo: Modernizing the Eclipse SageTea Runtime for Edge AI and Sovereign Computing&author=David Long, Stéphane Ducasse&length=30&room=Main Amphi!>
-<!talk|subject=Glamorous Toolkit&author=Andrei Chiș&length=30&room=Main Amphi!>
 
+<!talk|subject=From Squeak to Pharo: Modernizing the Eclipse SageTea Runtime for Edge AI and Sovereign Computing&author=David Long, Stéphane Ducasse&length=30&room=Main Amphi!>
+<!talk|subject=Spec-Toplo: More Widgets, More Coverage&author=Martin Dias and Pablo Tesone&length=30&room=Main Amphi!>
 <!break|subject=Coffee Break&length=30&room=Hall!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
+<!talk|subject=Music Performance&author=DJ Lucretio&length=30&room=Main Amphi!>
 
 <!talk|subject=Going to the social event&author=&length=60&room=Walking!>
 <!talk|subject=Social event&author=&length=360&room=Walking!>
@@ -94,8 +97,8 @@
 
 <!break|subject=Coffee Break&length=30&room=Hall!>
 <!talk|subject=Hera: A Year in Production — Growing a BDD Framework in Pharo&author=Koen De Hondt&length=30&room=Main Amphi!>
-<!talk|subject=Microdown News&author=S. Ducasse&length=30&room=Main Amphi!>
-<!talk|subject=TOBEFILLED&author=Tintin&length=30&room=Main Amphi!>
+<!talk|subject=Microdown News&author=Stéphane Ducasse&length=30&room=Main Amphi!>
+<!talk|subject=Exploring the future&author=Stéphane Ducasse&length=30&room=Main Amphi!>
 !>
 !>
 !>
