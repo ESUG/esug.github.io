@@ -2,11 +2,11 @@
 "title": "ESUG Guide of Conduct"
 }
 
-## Code of Conduct
+!! Code of Conduct
 
 ESUG is a global community of developers who share information, discuss ideas, and work together. Everybody who participates in our community in one way or another is required to conform to this Code of Conduct (CoC). This includes online communications, meetup and conference attendees, speakers, sponsors, founders, moderators, organisers, and volunteers.
 
-### Why do we have a Code of Conduct?
+!!! Why do we have a Code of Conduct?
 
 Our goals with having this Code of Conduct are:
 
@@ -23,7 +23,7 @@ The Code of Conduct isn’t an exhaustive list of things that you must do, or ca
 If you believe someone is violating the Code of Conduct, please report it. Contact details are listed at the end of this page. When handling a report, we follow our Code of Conduct Response Guide.
 
 
-### The principles
+!!! The principles
 
 - ""Be friendly and patient.""
 
@@ -50,7 +50,7 @@ If you believe someone is violating the Code of Conduct, please report it. Conta
 
 Some events may provide alcoholic drinks. However, participants are expected to drink responsibly. Alcohol use or other intoxication are never accepted as an excuse for CoC violations.
 
-### Where does the Code of Conduct apply?
+!!! Where does the Code of Conduct apply?
 
 This Code of Conduct applies to all spaces managed by ESUG. This includes:
 
@@ -70,7 +70,7 @@ The Code of Conduct does not exclusively apply to events on an official agenda. 
 
 In addition, violations of this code outside our spaces may affect a person’s ability to participate in them.
 
-### Sponsors, affiliates, and exhibitors
+!!! Sponsors, affiliates, and exhibitors
 
 When you sponsor ESUG or related event, we welcome you as a member of our community, and we expect you to be respectful to the community you operate within.
 
@@ -93,11 +93,11 @@ In case of a Code of Conduct violation, some of the most common actions organise
 
 The action taken is at the discretion of the Code of Conduct team. Participants are expected to comply immediately, and further action may be taken in case a participant does not comply. A record will be kept of all incidents.
 
-### What to do in case of violations
+!!! What to do in case of violations
 
 If a Code of Conduct incident happens that affects you, or if you witness it affecting someone else, please contact ESUG board immediately at board@esug.org.
 
-### Guidelines for reporting incidents
+!!! Guidelines for reporting incidents
 
 Please do not feel like you may be a burden to us by reporting incidents. Even if you happen to report multiple incidents. We rather consider reports an opportunity for us to act: by knowing about an incident, we can act on it, and often prevent it from continuing or repeating. But if we don’t know, we can’t take action.
 
@@ -121,14 +121,14 @@ When handling a report, we follow our Code of Conduct Response Guide.
 
 All reports will be kept confidential. In some cases, a public statement might be required (for example in a CoC transparency report following conferences), but these reports are anonymized and do not include any personally identifying information.
 
-### Reports about a Code of Conduct response team member
+!!! Reports about a Code of Conduct response team member
 
 If your report concerns a member of the Code of Conduct team, you can report the issue to any other response team member or any other organiser. 
 
 If your report concerns a member of the Core Operations (CoreOps), which receives emails to conduct@writethedocs.org, you can report the issue individually to any of the other core organiser members.
 
 
-### Credits
+!!! Credits
 
 This Code of Conduct was originally based on the one of Write the Docs. 
 It was originally based on the DjangoCon Europe 2018 Code of Conduct and the Django Project Code of Conduct, which in turn credits the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others. Some inspiration was also taken from the FreeBSD Code of Conduct
