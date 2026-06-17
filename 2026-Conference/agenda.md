@@ -97,6 +97,7 @@
 
 <!break|subject=Coffee Break&length=30&room=Hall!>
 <!talk|subject=Hera: A Year in Production — Growing a BDD Framework in Pharo&author=Koen De Hondt&length=30&room=Main Amphi!>
+<!talk|subject=Smooth Flow of Refactorings and Tools&author=Cyril Ferlicot, Alexis Cnockaert, Stéphane Ducasse&length=30&room=Main Amphi!>
 <!talk|subject=Microdown News&author=Stéphane Ducasse&length=30&room=Main Amphi!>
 <!talk|subject=Exploring the future&author=Stéphane Ducasse&length=30&room=Main Amphi!>
 !>
