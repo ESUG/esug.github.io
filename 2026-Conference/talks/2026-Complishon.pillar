@@ -1,14 +1,16 @@
-! A tour with Compleshion
+! Complishon: a Better completion engine for Pharo
 
-Stephane Ducasse
+Stephane Ducasse (stephane.ducasse@inria.fr)
+Omar AbedelKader (omar.abedelkader@inria.fr)
+Mehdi Elkokei (mehdi.elkokei@inria.fr)
 
 ""Abstract:""
-This talk will start with an overview of the logic behind Compleshion the completion engine of Pharo. 
+This talk will start with an overview of the logic behind Complishon the completion engine of Pharo. 
 - context aware
 - syntactically triggered
 - semantically driven
 
-The talk will go over the default heuristics as well as the new package dependency- oriented features. We will also present the latest UX feature of Compleshion such as the way it takes into account your recent coding as well as your recent selection. 
+The talk will go over the default heuristics as well as the new package dependency- oriented features. We will also present the latest UX feature of Complishon such as the way it takes into account your recent coding as well as your recent selection. 
 Finally we will show the tolerance introduction that cope with typos. 
 
 
