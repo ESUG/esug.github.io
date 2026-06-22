@@ -14,7 +14,7 @@
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
-<!segment|start=14:00 
+<!segment|start=14:00
 
 <!talk|subject=Efficient Encoding of Objects for Dynamic-Typing&author=Dave Mason and Nishil Kapadia&length=30&room=Room B!>
 
@@ -26,7 +26,7 @@
 
 <!break|subject=Coffee Break&length=30&room=Hall!>
 
-<!segment|start=16:00 
+<!segment|start=16:00
 
 <!talk|subject=Alternative UX Extensions and Their Trade-offs for Code Completion in Pharo&author=Mehdi Elkolei, Omar Abedelkader and Stéphane Ducasse&length=30&room=Room B!>
 
@@ -46,7 +46,7 @@
 
 <!break|subject=Coffee Break&length=30&room=Hall!>
 
-<!segment|start=10:30 
+<!segment|start=10:30
 
 <!talk|subject=AutoCodeReview: Continuously Promoting Code Quality through Suggestions in Forge Pull Requests&author=Kilian Bauvent, Gabriel Darbord, Nicolas Hlad and Benoit Verhaeghe&length=60&room=Room B!>
 
@@ -58,7 +58,7 @@
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
-<!segment|start=14:00 
+<!segment|start=14:00
 
 <!talk|subject=re:mobidyc: A Multi-Agent Simulation Platform for Individual-Based Modeling in Biology&author=Tomohiro Oda and Gael Dur&length=60&room=Room B!>
 
@@ -70,7 +70,7 @@
 
 <!day|start=Thur. July 9th
 
-<!segment|start=10:30 
+<!segment|start=10:30
 
 <!talk|subject=MicroUML: Building a UML DSL Without a Compiler&author=Oleksandr Zaitsev, Tomohiro Oda and Stephane Ducasse&length=60&room=Room B!>
 
@@ -82,7 +82,7 @@
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
-<!segment|start=14:00 
+<!segment|start=14:00
 
 <!talk|subject=Compile-time PIC Generation using LiveTyping Information&author=Nicolás Matías Sarfati and Hernán Wilkinson&length=60&room=Room B!>
 
