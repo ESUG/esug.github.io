@@ -41,7 +41,7 @@
 
 <!talk|subject=Complishon: a Better completion engine for Pharo&author=Stéphane Ducasse, Omar Abedelkader, Mehdi Elkokei&length=30&room=Main Amphi!>
 <!talk|subject=Moldable LLM Chats in Glamorous Toolkit&author=Andrei Chis&length=30&room=Main Amphi!>
-<!talk|subject=MyPrecious Middleware&author=Noury Bouraqadi&length=30&room=Main Amphi!>
+<!talk|subject=PharoJS 10th Anniversary: Now What?&author=Noury Bouraqadi&length=30&room=Main Amphi!>
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
@@ -72,7 +72,7 @@
 
 <!talk|subject=Modularity by Construction&author=Guillermo Polito&length=30&room=Main Amphi!>
 <!talk|subject=Pharo CIG, Round Two: Growing a Native Library Ecosystem for Pharo&author=Esteban Lorenzano&length=30&room=Main Amphi!>
-<!talk|subject= PharoJS 10th Anniversary: Now What?&author=Noury Bouraqadi&length=30&room=Main Amphi!>
+<!talk|subject=MyPrecious Middleware&author=Noury Bouraqadi&length=30&room=Main Amphi!>
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
