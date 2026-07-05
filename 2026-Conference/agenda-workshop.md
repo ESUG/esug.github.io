@@ -33,33 +33,33 @@
 <!break|subject=Coffee Break&length=30&room=Hall!>
 
 <!segment|start=10:30
-<!talk|subject=AutoCodeReview: Continuously Promoting Code Quality through Suggestions in Forge Pull Requests&author=Kilian Bauvent, Gabriel Darbord, Nicolas Hlad and Benoit Verhaeghe&length=60&room=Room B!>
-<!talk|subject=Analysis of Backward Compatibility Maintenance in Bloc&author=Federico Lochbaum, Pablo Tesone and Guillermo Polito&length=60&room=Room B!>
-<!talk|subject=Testing Book Consistency with Pillar/Microdown&author=Stéphane Ducasse, Tokimahery Ramarozaka and Faniry Randriamihajarivo&length=60&room=Room B!>
+<!talk|subject=AutoCodeReview: Continuously Promoting Code Quality through Suggestions in Forge Pull Requests&author=Kilian Bauvent, Gabriel Darbord, Nicolas Hlad and Benoit Verhaeghe&length=30&room=Room B!>
+<!talk|subject=Analysis of Backward Compatibility Maintenance in Bloc&author=Federico Lochbaum, Pablo Tesone and Guillermo Polito&length=30&room=Room B!>
+<!talk|subject=Testing Book Consistency with Pillar/Microdown&author=Stéphane Ducasse, Tokimahery Ramarozaka and Faniry Randriamihajarivo&length=30&room=Room B!>
 !>
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
 <!segment|start=14:00
-<!talk|subject=re:mobidyc: A Multi-Agent Simulation Platform for Individual-Based Modeling in Biology&author=Tomohiro Oda and Gael Dur&length=60&room=Room B!>
-<!talk|subject=Phizura: On-the-Fly Music Recording with Method Proxies&author=Domenico Cipriani, Sebastian Jordan Montaño and Stéphane Ducasse&length=60&room=Room B!>
+<!talk|subject=re:mobidyc: A Multi-Agent Simulation Platform for Individual-Based Modeling in Biology&author=Tomohiro Oda and Gael Dur&length=30&room=Room B!>
+<!talk|subject=Phizura: On-the-Fly Music Recording with Method Proxies&author=Domenico Cipriani, Sebastian Jordan Montaño and Stéphane Ducasse&length=30&room=Room B!>
 !>
 !>
 
 <!day|start=Thur. July 9th
 
 <!segment|start=10:30
-<!talk|subject=MicroUML: Building a UML DSL Without a Compiler&author=Oleksandr Zaitsev, Tomohiro Oda and Stephane Ducasse&length=60&room=Room B!>
-<!talk|subject=Transducers in Smalltalk&author=Steffen Märcker&length=60&room=Room B!>
-<!talk|subject=Insight: Towards a Human Usable Instrumentation Language&author=Federico Lochbaum and Sebastian Jordan Montaño&length=60&room=Room B!>
+<!talk|subject=MicroUML: Building a UML DSL Without a Compiler&author=Oleksandr Zaitsev, Tomohiro Oda and Stephane Ducasse&length=30&room=Room B!>
+<!talk|subject=Transducers in Smalltalk&author=Steffen Märcker&length=30&room=Room B!>
+<!talk|subject=Insight: Towards a Human Usable Instrumentation Language&author=Federico Lochbaum and Sebastian Jordan Montaño&length=30&room=Room B!>
 !>
 
 <!break|subject=Lunch&length=120&room=Hall!>
 
 <!segment|start=14:00
-<!talk|subject=Compile-time PIC Generation using LiveTyping Information&author=Nicolás Matías Sarfati and Hernán Wilkinson&length=60&room=Room B!>
-<!talk|subject=Alternative Language Support in Smalltalk Image &author=Adrien Hopkins and Dave Mason&length=60&room=Room B!>
-<!talk|subject=Smalltalk and JavaScript Kernels Alignment for Transpilation&author=Noury Bouraqadi and Dave Mason&length=60&room=Room B!>
+<!talk|subject=Compile-time PIC Generation using LiveTyping Information&author=Nicolás Matías Sarfati and Hernán Wilkinson&length=30&room=Room B!>
+<!talk|subject=Alternative Language Support in Smalltalk Image &author=Adrien Hopkins and Dave Mason&length=30&room=Room B!>
+<!talk|subject=Smalltalk and JavaScript Kernels Alignment for Transpilation&author=Noury Bouraqadi and Dave Mason&length=30&room=Room B!>
 !>
 !>
 
