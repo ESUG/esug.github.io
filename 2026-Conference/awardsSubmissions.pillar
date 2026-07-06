@@ -25,3 +25,88 @@ List of participants in submission order to appear bellow.
 % - ''More Info'': *https://superlink.st*
 
 *Back to Announcements>announcement.html*
+
+!!! Pharo-Inference
+- ''Submitted by'': Omar ABEDELKADER
+- ''Keywords'': Pharo, LLM, Inference Engine
+- ''More Info'': *https://pharo-llm.github.io/pharo-infer/"*
+
+
+!!! Micromaid
+- ''Submitted by'': Tomohiro Oda, Software Research Associates, Inc.
+- ''Keywords'': Mermaid, UML, Microdown
+- ''More Info'': *https://github.com/tomooda/Micromaid/*
+
+!!! ChatPharo
+- ''Submitted by'': Omar AbedelKader
+- ''Keywords'': LLM, Pharo, Chat
+- ''More Info'': *https://pharo-llm.github.io/chatpharo/*
+
+!!! Microdown V2.0
+- ''Submitted by'': StÉphane Ducasse
+- ''Keywords'': Book Generation, Slides, WebSites, Validation
+- ''More Info'': 
+    -- *https://github.com/Pillar-markup/Foliage*
+    -- *https://github.com/Pillar-markup/Pillar*
+    -- *https://github.com/Pillar-markup/Microdown*
+
+!!! The Pharo Music Image
+- ''Submitted by'': Domenico Cipriani (Inria)
+- ''Keywords'': music live-coding DSP creativity
+- ''More Info'': *https://github.com/lucretiomsp/phausto/releases/tag/v0.1*
+
+!!! THE Sandbox
+- ''Submitted by'':  Guille Polito (Inria)
+- ''Keywords'': Sandboxing isolation analysis testing
+- ''More Info'': TBA
+
+!!! Compile-time PIC Generation using LiveTyping Information
+- ''Submitted by'': 
+    -- icolás Matías Sarfati - University of Buenos Aires (UBA)
+    -- Hernán Wilkinson - University of Buenos Aires (UBA)
+- ''Keywords'': Compile-time PIC Generation using LiveTyping Information
+- ''More Info'': 
+    -- Work done + Demo: *https://youtu.be/d3jPDhWUpNY*
+    -- Code + Docs: *https://github.com/nsarfati/proactive-pic-generation/*
+    -- Benchmark results: *https://github.com/nsarfati/proactive-pic-generation/blob/main/results/results.pdf*
+
+!!! YouTube to Pharo
+- ''Submitted by'': Kasper Østerbye, retired
+- ''Keywords'': Converting YouTube videos to text, text can then be read inside Pharo"
+- ''More Info'': 
+    -- I made a small (5min) video of what I have made: *https://maarumlam.dk/kasper/ESUG2026Kasper.mp4*
+    -- The essence is that it is possible to convert a YouTube video to text using a Pharo tool I have build. An use AI to read the text and summarize it. In essence it can turn all ESUG presentations into text, and get an overview of what was presented. Of cause presentations are richer than text, but to get an overview, it is rather useful.
+
+!!! Ume 
+- ''Submitted by'': Federico Lochbaum
+- ''Keywords'': Property-Based Testing Framework, Performance Fuzzing, Input Minimization, Bug Localization, Automatic Test Generation
+- ''More Info'': *https://github.com/FedeLoch/Ume*
+
+!!! The VAST AI Assistant
+- ''Submitted by'': Kris Gybels and Johan Brichau, Instantiations
+- ''Keywords'': AI, VAST
+- ''More Info'': *https://github.com/instantiations/VAST-Platform-AI-Assistant*
+
+!!! Jasper: A VS Code Extension for GemStone + Grail: Transpiling Python to GemStone
+- ''Submitted by'': James Foster, GemTalk Systems LLC
+- ''Keywords'': IDE, Python
+- ''More Info'': 
+    -- *https://www.youtube.com/watch?v=yoV4Jk_8em8*
+    -- *https://github.com/jgfoster/Jasper*
+
+!!! AI supported communication training application using realtime audio from a web application
+- ''Submitted by'': Stefan Krecher, Erik Stel
+- ''Keywords'': AI OpenAI realtime audio Voyage MongoDB CodeParadise WebRTC
+- ''More Info'': *http://prompt-institute.de/*
+
+!!! SageTea Smalltalk
+- ''Submitted by'': David Long and StÉphane Ducasse, SageTea and Pharo
+- ''Keywords'': Eclipse Pharo Smalltalk RAG AI-driven development
+- ''More Info'': *https://gitlab.eclipse.org/eclipse/sagetea/sagetea-smalltalk*
+
+!!! Pulsar: An alternative IDE to empower Pharo
+- ''Submitted by'': Esteban Lorenzano, Pharo Consortium
+- ''Keywords'': pharo, IDE
+- ''More Info'': 
+    -- *https://forge.smallworks.eu/pharo/Pulsar-installers*
+    -- *https://forge.smallworks.eu/pharo/Pulsar*
