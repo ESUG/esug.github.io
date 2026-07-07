@@ -1,6 +1,9 @@
-<!agenda|title=International Workshop on Smalltalk Technologies
 
 Click here to see the [IWST Program with extra attached information!!](https://conf.researchr.org/track/iwst-2026/iwst-2026-papers#program)
+
+<!agenda|title=International Workshop on Smalltalk Technologies
+
+
 
 <!day|start=Tues. July 7th
 
