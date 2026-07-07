@@ -21,21 +21,18 @@ List of participants in submission order to appear bellow.
 
 *Back to Announcements>announcement.html*
 
-!!! Pharo-Inference
+!!! Pharo LLM
 - ''Submitted by'': Omar ABEDELKADER
-- ''Keywords'': Pharo, LLM, Inference Engine
-- ''More Info'': *https://pharo-llm.github.io/pharo-infer/"*
+- ''Keywords'': Pharo, LLM, Inference Engine, Chat
+- ''More Info'': 
+    -- *https://pharo-llm.github.io/pharo-infer/"*
+    -- *https://pharo-llm.github.io/chatpharo/*
 
 
 !!! Micromaid
 - ''Submitted by'': Tomohiro Oda, Software Research Associates, Inc.
 - ''Keywords'': Mermaid, UML, Microdown
 - ''More Info'': *https://github.com/tomooda/Micromaid/*
-
-!!! ChatPharo
-- ''Submitted by'': Omar AbedelKader
-- ''Keywords'': LLM, Pharo, Chat
-- ''More Info'': *https://pharo-llm.github.io/chatpharo/*
 
 !!! Microdown V2.0
 - ''Submitted by'': StÉphane Ducasse
@@ -105,3 +102,8 @@ List of participants in submission order to appear bellow.
 - ''More Info'': 
     -- *https://forge.smallworks.eu/pharo/Pulsar-installers*
     -- *https://forge.smallworks.eu/pharo/Pulsar*
+
+!!! Pharo MCP
+- ''Submitted by'': Gabriel Darbord (Berger-Levrault)
+- ''Keywords'': MCP, IA, agentic
+- ''More Info'': *https://github.com/Evref-BL/MCP*
