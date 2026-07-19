@@ -1,15 +1,34 @@
 {
 "title": "Projects Submitted to the Innovation Technology Awards 2026"
 }
-!Innovation Technology Awards Submissions
-Projects Submitted to the *Innovation Technology Awards 21st Edition>https://esug.github.io/2026-Conference/callForAwards.html*
+!Innovation Technology Awards Winners and Nominees
 
-List of participants in submission order to appear bellow.
+%Projects Submitted to the *Innovation Technology Awards 21st Edition>https://esug.github.io/2026-Conference/callForAwards.html*
 
-%Winners are displayed at the top. 
-%+file://esugAwards1stGoldRoundMedal.png+
-%+file://esugAwards2ndSilverRoundMedal.png+
-%+file://esugAwards3rdBronzeRoundMedal.png+
+We are glad to announce our winners of the *Innovation Technology Awards 21st Edition>https://esug.github.io/2026-Conference/callForAwards.html*.
+Next to the winners, we also list all other nominees in submission order.
+
+!!! 1st. Pulsar: An alternative IDE to empower Pharo
++file://images/techAwards/esugAwards1stGoldRoundMedal.png+
+- ''Submitted by'': Esteban Lorenzano, Pharo Consortium
+- ''Keywords'': pharo, IDE
+- ''More Info'': 
+    - *https://forge.smallworks.eu/pharo/Pulsar-installers*
+    - *https://forge.smallworks.eu/pharo/Pulsar*
+
+!!! 2nd. THE Sandbox
+- ''Submitted by'':  Guille Polito (Inria)
+- ''Keywords'': Sandboxing isolation analysis testing
+- ''More Info'': TBA
++file://images/techAwards/esugAwards2ndSilverRoundMedal.png+
+
+!!! 3rd. Jasper (A VS Code Extension for GemStone) and Grail (Transpiling Python to GemStone)
+- ''Submitted by'': James Foster, GemTalk Systems LLC
+- ''Keywords'': IDE, Python
+- ''More Info'': 
+    - *https://www.youtube.com/watch?v=yoV4Jk_8em8*
+    - *https://github.com/jgfoster/Jasper*
+%+file://images/techAwards/esugAwards3rdBronzeRoundMedal.png+
 
 %%%%
 %!!! Title
@@ -18,8 +37,6 @@ List of participants in submission order to appear bellow.
 %- ''More Info'': **
 % -- URL1 
 % -- URL2
-
-*Back to Announcements>announcement.html*
 
 !!! Pharo LLM
 - ''Submitted by'': Omar ABEDELKADER
@@ -46,11 +63,6 @@ List of participants in submission order to appear bellow.
 - ''Submitted by'': Domenico Cipriani (Inria)
 - ''Keywords'': music live-coding DSP creativity
 - ''More Info'': *https://github.com/lucretiomsp/phausto/releases/tag/v0.1*
-
-!!! THE Sandbox
-- ''Submitted by'':  Guille Polito (Inria)
-- ''Keywords'': Sandboxing isolation analysis testing
-- ''More Info'': TBA
 
 !!! Compile-time PIC Generation using LiveTyping Information
 - ''Submitted by'': 
@@ -79,13 +91,6 @@ List of participants in submission order to appear bellow.
 - ''Keywords'': AI, VAST
 - ''More Info'': *https://github.com/instantiations/VAST-Platform-AI-Assistant*
 
-!!! Jasper (A VS Code Extension for GemStone) and Grail (Transpiling Python to GemStone)
-- ''Submitted by'': James Foster, GemTalk Systems LLC
-- ''Keywords'': IDE, Python
-- ''More Info'': 
-    - *https://www.youtube.com/watch?v=yoV4Jk_8em8*
-    - *https://github.com/jgfoster/Jasper*
-
 !!! AI supported communication training application using realtime audio from a web application
 - ''Submitted by'': Stefan Krecher, Erik Stel
 - ''Keywords'': AI OpenAI realtime audio Voyage MongoDB CodeParadise WebRTC
@@ -96,14 +101,9 @@ List of participants in submission order to appear bellow.
 - ''Keywords'': Eclipse Pharo Smalltalk RAG AI-driven development
 - ''More Info'': *https://gitlab.eclipse.org/eclipse/sagetea/sagetea-smalltalk*
 
-!!! Pulsar: An alternative IDE to empower Pharo
-- ''Submitted by'': Esteban Lorenzano, Pharo Consortium
-- ''Keywords'': pharo, IDE
-- ''More Info'': 
-    - *https://forge.smallworks.eu/pharo/Pulsar-installers*
-    - *https://forge.smallworks.eu/pharo/Pulsar*
-
 !!! Pharo MCP
 - ''Submitted by'': Gabriel Darbord (Berger-Levrault)
 - ''Keywords'': MCP, IA, agentic
 - ''More Info'': *https://github.com/Evref-BL/MCP*
+
+*Back to Announcements>announcement.html*
