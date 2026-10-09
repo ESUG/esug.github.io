@@ -47,6 +47,10 @@ If you would like to organise the ESUG event please send all *required informati
 -Second Summer School 1994 in Cork, Ireland
 -First Summer School 1993 in Brest, France
 
-{{{html:
-<p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;output=embed"></iframe><br /><small>Display <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=100153421485361479031.0004798d5c3a178c46554&amp;t=h&amp;ll=47.576526,5.097656&amp;spn=12.646953,26.05957&amp;source=embed" style="color:#0000FF;text-align:left">ESUG conferences</a> on a bigger map</small></p>
+{{{
+<video controls preload="metadata" playsinline style="width:100%; max-width:960px; height:auto;">
+  <source src="https://archive.esug.org/Logos+Graphics/ESUG_conferences_across_Europe_1993_2027.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  <a href="https://archive.esug.org/Logos+Graphics/ESUG_conferences_across_Europe_1993_2027.mp4">Download the video</a>.
+</video>
 }}}
