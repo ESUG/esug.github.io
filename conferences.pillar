@@ -48,7 +48,7 @@ If you would like to organise the ESUG event please send all *required informati
 -First Summer School 1993 in Brest, France
 
 {{{
-<video controls preload="metadata" playsinline style="width:100%; max-width:960px; height:auto;">
+<video controls preload="metadata" playsinline poster="images/esugsVideoThumb.jpg" style="width:100%; max-width:960px; height:auto;">
   <source src="https://archive.esug.org/Logos+Graphics/ESUG_conferences_across_Europe_1993_2027.mp4" type="video/mp4">
   Your browser does not support the video tag.
   <a href="https://archive.esug.org/Logos+Graphics/ESUG_conferences_across_Europe_1993_2027.mp4">Download the video</a>.
