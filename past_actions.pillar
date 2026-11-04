@@ -9,24 +9,24 @@ In a time where we are bombarded with information some of you may not have notic
 !!! Seaside Hosting since 2006
 
 During several years you could run Seaside application in SeasideHosting. ESUG sponsored it and it was made by Netstyle.ch 
-- *http://www.seasidehosting.st/*
+- SeasideHosting (www.seasidehosting.st, no longer online)
 
 !!!Projects
 
 ESUG *supported your projects>/project.pillar*. It can be project related to software development, teaching, conference presence, etc.
 
-- *Squeak VM>http://isqueak.org/* on iPhone - John McIntosh
-- *Clean of the Squeak VM>http://www.smalltalkconsulting.com/squeak.html* - John McIntosh
+- *Squeak VM>https://isqueak.org/* on iPhone - John McIntosh
+- Clean of the Squeak VM - John McIntosh
 - *Morphic 3 project>http://www.jvuletich.org/Morphic3/Morphic3-201006.html* - Juan Vuletich
 - iPhone Dev - Esteban Lorenzano
-- *DrGeoll Scripting Syntax extension>http://community.ofset.org/index.php/DrGeo* - Hilaire Fernandes
+- DrGeoII Scripting Syntax extension - Hilaire Fernandes
 
 !!! Past SummerTalk
 
-Each year, ESUG pays students to work on open-source Smalltalk projects during the *SummerTalk program>/summerTalk.pillar*.
+Each year, ESUG pays students to work on open-source Smalltalk projects during the SummerTalk program.
 
-- *SqueakOpenDBX>http://www.squeakdbx.org/* 2009
-- *SqueakOpenDBX>http://www.squeakdbx.org/* 2008
+- SqueakOpenDBX 2009
+- SqueakOpenDBX 2008
 - *Safara>http://www.squeaksource.com/Safara/* 2008
 - *New Compiler>http://www.squeaksource.com/NewCompiler/* for Squeak 2006
 - RDF Framework for Smalltalk 2006
@@ -37,15 +37,15 @@ Each year, ESUG pays students to work on open-source Smalltalk projects during t
 
 !!! DVD
 We collected and managed a ressources DVD
--Free Smalltalk *DVD>/dvd.pillar*
+- Free Smalltalk *DVD>/dvd.pillar*
 
 !!! Book writing
 
-- *Dynamic Web Development>http://book.seaside.st/* in Seaside by Ducasse etal. (2009)
-- *Squeak by Example>http://squeakbyexample.org/* by Black et al. (2007)
-- *A Mentoring Course on Smalltalk>http://www.lulu.com/product/paperback/a-mentoring-course-on-smalltalk/3788890* by Valloud et al.
-- *Fundamentals of Smalltalk Programming Technique>http://www.lulu.com/product/paperback/fundamentals-of-smalltalk-programming-technique-volume-1/5299835* by Valloud et al.
-- *Computer Programming using GNU Smalltalk>http://www.canol.info/books/computer_programming_using_gnu_smalltalk/* by C. Gökel
+- Dynamic Web Development in Seaside by Ducasse etal. (2009)
+- *Squeak by Example>https://www.squeakbyexample.org/* by Black et al. (2007)
+- A Mentoring Course on Smalltalk by Valloud et al.
+- Fundamentals of Smalltalk Programming Technique by Valloud et al.
+- *Computer Programming using GNU Smalltalk>https://www.canol.info/books/computer_programming_using_gnu_smalltalk/* by C. Gökel
 
 
 
@@ -94,7 +94,7 @@ ESUG sent a lot of books for free in 2002 (Best Smalltalk patterns, Introduction
 
 !!! Sponsoring scientific articles
 
-ESUG offers *money for each international conference paper>your_publication.pillar* whose concepts involves an implementation in Smalltalk
+ESUG offers *money for each international conference paper>publications.pillar@publication* whose concepts involves an implementation in Smalltalk
 
 We did a lot more but at least we recorded.
 - 6 international conference papers in 2009
@@ -106,9 +106,9 @@ We did a lot more but at least we recorded.
 
 ESUG decided to offer money for each paper that gets published on Smalltalk.
 
--6 in 2006
--3 in 2007
--5 in 2008
+- 6 in 2006
+- 3 in 2007
+- 5 in 2008
 
 
 !!! Student volunteer program
@@ -132,18 +132,18 @@ Student volunteers help keep the conference running smoothly; in return, they ha
 
 !!! Smalltalks Conference
 
-Since 2009 ESUG sponsorsthe *Smalltalks conference>http://www.fast.org.ar/* in Argentina.
+Since 2009 ESUG sponsors the *Smalltalks conference>https://www.fast.org.ar/* in Argentina.
 
--15 teachers got the travel/hosting to attend the conference
--One invited talk sponsored
+- 15 teachers got the travel/hosting to attend the conference
+- One invited talk sponsored
 
 
-!! Free Books for Academy"
+!! Free Books for Academy
 
 For this purpose we proposed two packages:
 
--Teacher Excellence Package : a package containing a relevant selection of Smalltalk books at all levels of expertise plus 30 CD's containing all the free or non-commercial Smalltalks (Squeak, VisualWorks, Gnu Smalltalk, Dolphin, Smalltalk/X, Smalltalk/MT) / plus all the freely available books / a ready-to-use lecture (400 slides / 100 pages of exercises)
--Teacher Immersion Package : we offer you to have the possibility to get an intensive lecture for any number of students over 3 or 4 days. The Teacher Immersion Package includes the Teacher Starter Package.
+- Teacher Excellence Package : a package containing a relevant selection of Smalltalk books at all levels of expertise plus 30 CD's containing all the free or non-commercial Smalltalks (Squeak, VisualWorks, Gnu Smalltalk, Dolphin, Smalltalk/X, Smalltalk/MT) / plus all the freely available books / a ready-to-use lecture (400 slides / 100 pages of exercises)
+- Teacher Immersion Package : we offer you to have the possibility to get an intensive lecture for any number of students over 3 or 4 days. The Teacher Immersion Package includes the Teacher Starter Package.
 
 
 !!!Admissibility conditions
@@ -155,239 +155,36 @@ There no limit of country location (within Europe) to obtain the packages. The o
 
 Here is the list of the books we will offer to you
 
--Smalltalk Best Practice Patterns
--Squeak: Object-Oriented Design with Multimedia Applications
--Squeak: Open Personal Computing and Multimedia
--Squeak: A Quick Trip to ObjectLand
--Smalltalk Design Patterns Companion
--Smalltalk with Style
--On to Smalltalk
--Art and Science of Smalltalk
--Smalltalk, Objects, and Design
--Dolphin Smalltalk Companion
--Squeak by Xavier Briffault (French)
-
-Here is the list of the Universities that received the teacher packages. Note that SmallWiki offuscates email addresses so we do not need to use tricks for email address encodings.
-
-{{{<hr/>}}}
-
-!!!Algeria
-!!!Département d'Électronique - Université de Blida
--Contact Information: Cherfa Yazid
-
-!!!Faculté des Sciences et des Sciences de l’Ingénieur – Université Hassiba Ben Bouali de Chlef
--Contact Information: Mohamed Benarous
-
-{{{<hr/>}}}
-
-!!!Argentina
-!!Universidad Tecnológica Nacional (Buenos Aires)
--Contact Information: Fernando Dodino *fcondado@yahoo.com.ar*
-
-!!!LIFIA - Facultad de Informática de Universidad Nacional de La Plata
--Contact Information: Prof. Gustavo Rossi *gustavo@sol.info.unlp.edu.ar*
--Website: *http://www-lifia.info.unlp.edu.ar*
-
-!!!Colegio Schonthal (Buenos Aires)
--Contact Information: Prof. Gonzalo Zabala, Coordinador de Informática Colegio Schonthal, *correo@schonthal.esc.edu.ar*
--Website: *http://www.schonthal.esc.edu.ar*, *http://www.roboliga.com.ar*
-
-!!!University of Buenos Aires
--Contact Information: Dan Rozenfarb *drozenfa@yahoo.com.ar*
-
-!!!Facultad Regional de Villa Maria - Universidad Tecnológica Nacional
--Contact Information: Ivano Bonamici *bonamici@infovia.com.ar* and Mario Rinaldi *ideagym@infovia.com.ar*
-
-!!!Smalltalking (Buenos Aires)
--Contact Information: Alejandro Reimondo *alereimondo@smalltalking.net*
-
-{{{<hr/>}}}
-
-!!!Belgium
-!!!Vrije Universiteit Brussels
--Contact Information: Johan Brichau and Kris Gijbels *johan.brichau@vub.ac.be* , *kris.gybels@vub.ac.be*
--Website: *http://www.prog.vub.be*
-
-!!!Université Libre de Bruxelles
--Contact Information: Roel Wuyts *Roel.Wuyts@ulb.ac.be*
--Website: *http://www.ulb.ac.be*
-
-{{{<hr/>}}}
-
-!!!Brazil
-!!!Instituto de Cinecias Matematicas e de Computacao - Universidade de Sao Paulo
--Contact Information: Rosana Braga *rtvb@icmc.usp.br*
--Website: *http://www.icmc.usp.br*
-
-{{{<hr/>}}}
-
-!!!Chile
-!!!Departamento de Ciencias de la Computación - Universidad de Chile
--Contact Information: Eric Tanter *etanter@free.fr*
-
-{{{<hr/>}}}
-
-!!!China
-!!!Huazhong University of Science and Technology (Wuhan Hubei)
--Contact Information: Junfeng Lee *unfeng@sohu.com*
--Website: *http://www.hust.edu.cn/english/index.html*
-
-!!!The State Key Laboratory of Software Engineering - Wuhan Technology University
--Contact Information: Liang Peng *pliangeng@yahoo.com*
--Website: *http://www.whut.edu.cn/*
-
-{{{<hr/>}}}
-
-!!!Czech Republic
-!!Brno University of Technology
--Contact Information: Vladimir Janousek *janousek@fit.vutbr.cz*
--Website: *http://www.fit.vutbr.cz*
-
-!!!Department of Information Engineering - Czech University of Agriculture in Prague
--Contact Information: Vojtech Merunka *merunka@pef.czu.cz*
--Website: *http://kii.pef.czu.cz/~merunka*
-
-!!!Faculty of Electrical Engineering - Czech Technical University (Prague)
--Contact Information: Jan Lukes *xlukesj@fel.cvut.cz*
--Website: *http://cs.felk.cvut.cz*, http://webis.felk.cvut.cz/en/
-
-{{{<hr/>}}}
-
-!!!France
-!!!IUT de Caen - Université de Caen
--Contact Information: Dr. Serge Stinckwich *http://www.iutc3.unicaen.fr/serge/* *Serge.Stinckwich@info.unicaen.fr*
--Website: *http://www.iutc3.unicaen.fr/*
-
-!!!Université de Montpellier-II
--Contact Information: Christophe Dony *dony@lirmm.fr*
--Website: *http://www.univ-montp2.fr/*
-
-!!!Université de Paris 8
--Contact Information: Vincent Lesbros *http://www.ai.univ-paris8.fr/~vi/* lesbros_AT_club-internet.fr
--Website: *http://www.ai.univ-paris8.fr/*
-
-!!!École des Mines de Douai
--Contact Information: Dr. Noury Bouraqadi *bouraqadi@ensm-douai.fr*
--Website: *http://csl.esmn-douai.fr/noury*
-
-!!!Université de Bretagne Occidentale
--Contact Information: Loic Lagadec *loic.lagadec@univ-brest.fr*
--Website: *http://www.univ-brest.fr/*
-
-{{{<hr/>}}}
-
-!!!Germany
-!!!Computer Science Department - Darmstadt University of Technology
--Prof. em. Dr.-Ing. Hans-Juergen Hoffmann *hoffmann@pu.informatik.tu-darmstadt.de*
--Contact Information: Prof. Thomas Kuehne *kuehne@informatik.uni-kl.de*
-
-!!!University of Munich
--Contact Information: Lothar Schmitz *lothar@informatik.unibw-muenchen.de*
--Website: *http://ist.unibw-muenchen.de/Research/Tools/SIC/*
-
-!!!FH Nordakademie - Fachbereich Informatik
--Contact Informaion: Prof. Johannes Brauer *brauer@nordakademie.de*
--Website: *http://www.nordakademie.de*
-
-!!!UDK (Berlin)
--Contact Information: Markus Gaelli gaelli@iam.unibe.ch
--Website: *http://www.udk-berlin.de*
-
-{{{<hr/>}}}
-
-!!!India
-!!!Department of Computer Science & Engineering - Jawaharlal Nehru Technological University
--Contact Information: Chandra Sekharaiah Kanagaluru chandra_sekharaiah
--Website: *http://www.jntu.org*
-
-!!!Department of Computer Science - Aligarh Muslim University
--Contact Information: Priti Bala pritibala2001
--Website: *http://amu.nic.net.in*
-
-
-{{{<hr/>}}}
-
-!!!Italy
-!!!Dipartimento di Ingegneria Elettrica e Elettronica -Universitá di Cagliari
--Contact information: Prof. Michele Marchesi *michele@diee.unica.it*
--Website: *http://www.diee.unica.it*
-
-{{{<hr/>}}}
-
-!!!Roumanie
-!!Faculty for Automation and Computer Science and Engineering Department of Computers - Politehnica University (Timisoara)
--Contact Information: Tudor Girba *radum@cs.utt.ro*
--Website: *http://www.cs.utt.ro*
-
-!!!Universitatea Tehnica Cluj-Napoca
--Contact Information: Illinca Ciuoa ilinca_ciupa
--Website: *http://www.utcluj.ro*
-
-!!!Valahia University
--Contact Information: Bizoi Mihai *bizoi@valahia.ro*
--Website: *http://www.valahia.ro*
-
-
-{{{<hr/>}}}
-
-!!!Russia
-!!!Tver State University
--Contact Information: Dennis Schetinin *denis@tversu.ru*
--Website: *http://university.tversu.ru/*
-
-{{{<hr/>}}}
-
-!!!Serbia & Montenegro
-!!!Department of Mathematics and Informatics - University of Novi Sad
--Contact Information: Prof. Zoran Budimac *zjb@im.ns.ac.yu*
--Website: *http://www.im.ns.ac.yu*
-
-{{{<hr/>}}}
-
-!!!Slovakia
-!!!Faculty of Electrical Egnineering and Information Technology - Slovak University of Technology
--Contact Information: Viliam Solcany *solcany@dcs.elf.stuba.sk*
--Website: *http://www.dcs.elf.stuba.sk*
-
-{{{<hr/>}}}
-
-!!!Spain
-!!!Escuela Técnica de Informática de Gestión - Universidad de Vigo
--Contact Information: D. María Rodríguez Damián *mrdamian@uvigo.es*
-
-!!!University Jaume I (Castellón)
--Contact Information: German Fabregat *fabregat@icc.uji.es*
--Website: *http://www.uji.es*
-
-{{{<hr/>}}}
-
-!!!Switzerland
-!!!University of Berne
--Contact Information: Ducasse Stephane *ducasse@iam.unibe.ch*
--Website: *http://www.iam.unibe.ch/~scg/*
-
-!!!Universitaet St. Gallen
--Contact Information: Mario Klesse *mario.klesse@unisg.ch*
--Website: *http://www.iwi.unisg.ch*
-
-{{{<hr/>}}}
-
-!!!United Kingdom
-!!!Department of Creative Techonologies - University of Portsmouth
--Contact Information: Steve Hand *Steve.Hand@port.ac.uk*
--Website: *http://www.port.ac.uk/ct*
-
-!!!School of Computing - University of Plymouth
--Contact Information: Robert Hawley *bob@soc.plym.ac.uk*
--Website: *http://www.plymouth.ac.uk*
-
-{{{<hr/>}}}
-
-!!!United States
-!!!University of California
--Contact Information: Stephen Pope *stp@mat.ucsb.edu*
--Website: *http://www.mat.ucsb.edu*
-
-
-
-
+- Smalltalk Best Practice Patterns
+- Squeak: Object-Oriented Design with Multimedia Applications
+- Squeak: Open Personal Computing and Multimedia
+- Squeak: A Quick Trip to ObjectLand
+- Smalltalk Design Patterns Companion
+- Smalltalk with Style
+- On to Smalltalk
+- Art and Science of Smalltalk
+- Smalltalk, Objects, and Design
+- Dolphin Smalltalk Companion
+- Squeak by Xavier Briffault (French)
+
+!!!Universities that received the teacher packages
+
+- Algeria: Université de Blida (Cherfa Yazid); Université Hassiba Ben Bouali de Chlef (Mohamed Benarous)
+- Argentina: Universidad Tecnológica Nacional, Buenos Aires (Fernando Dodino); *LIFIA>https://lifia.info.unlp.edu.ar/*, Universidad Nacional de La Plata (Gustavo Rossi); *Colegio Schonthal>http://www.schonthal.esc.edu.ar* and *Roboliga>http://www.roboliga.com.ar*, Buenos Aires (Gonzalo Zabala); University of Buenos Aires (Dan Rozenfarb); Universidad Tecnológica Nacional, Villa Maria (Ivano Bonamici, Mario Rinaldi); Smalltalking, Buenos Aires (Alejandro Reimondo)
+- Belgium: Vrije Universiteit Brussel, PROG (Johan Brichau, Kris Gybels); *Université Libre de Bruxelles>https://www.ulb.be/* (Roel Wuyts)
+- Brazil: *ICMC - Universidade de São Paulo>https://www.icmc.usp.br/* (Rosana Braga)
+- Chile: Universidad de Chile, DCC (Éric Tanter)
+- China: *Huazhong University of Science and Technology>https://www.hust.edu.cn/*, Wuhan (Junfeng Lee); *Wuhan University of Technology>http://www.whut.edu.cn/* (Liang Peng)
+- Czech Republic: *Brno University of Technology>https://www.fit.vut.cz/* (Vladimir Janousek); *Czech University of Agriculture, Prague>https://katedry.czu.cz/kii/uvod* (Vojtech Merunka); *Czech Technical University, Prague>https://cs.fel.cvut.cz/* (Jan Lukes)
+- France: IUT de Caen (Serge Stinckwich); *Université de Montpellier-II>https://www.umontpellier.fr/* (Christophe Dony); Université de Paris 8 (Vincent Lesbros); École des Mines de Douai (Noury Bouraqadi); *Université de Bretagne Occidentale>https://www.univ-brest.fr/* (Loïc Lagadec)
+- Germany: Darmstadt University of Technology (Hans-Jürgen Hoffmann, Thomas Kühne); Universität der Bundeswehr München (Lothar Schmitz); *FH Nordakademie>https://www.nordakademie.de/* (Johannes Brauer); *UdK Berlin>https://www.udk-berlin.de/* (Markus Gaelli)
+- India: *Jawaharlal Nehru Technological University>http://www.jntu.org/* (Chandra Sekharaiah Kanagaluru); Aligarh Muslim University (Priti Bala)
+- Italy: Università di Cagliari, DIEE (Michele Marchesi)
+- Romania: Politehnica University of Timisoara (Tudor Girba); *Universitatea Tehnica Cluj-Napoca>https://utcluj.ro/* (Ilinca Ciupa); *Valahia University>https://www.valahia.ro/* (Bizoi Mihai)
+- Russia: Tver State University (Dennis Schetinin)
+- Serbia & Montenegro: University of Novi Sad (Zoran Budimac)
+- Slovakia: Slovak University of Technology (Viliam Solcany)
+- Spain: Universidad de Vigo (María Rodríguez Damián); *Universitat Jaume I, Castellón>https://www.uji.es/* (Germán Fabregat)
+- Switzerland: *University of Bern, SCG>https://scg.unibe.ch/* (Stéphane Ducasse); *Universität St. Gallen>https://iwi.unisg.ch/* (Mario Klesse)
+- United Kingdom: *University of Portsmouth>https://www.port.ac.uk/* (Steve Hand); *University of Plymouth>https://www.plymouth.ac.uk/* (Robert Hawley)
+- United States: *University of California, Santa Barbara>https://www.mat.ucsb.edu/* (Stephen Pope)
