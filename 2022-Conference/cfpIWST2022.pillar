@@ -21,10 +21,10 @@ IWST22 — International Workshop on Smalltalk Technologies Novi Sad, Serbia; Au
 - "How Fast is AI in Pharo? Benchmarking Linear Regression", Oleksandr Zaitsev, Sebastian Jordan Montaño and Stéphane Ducasse
 - "Can We Automatically Generate Class Comments in Pharo?", Pooja Rani, Alexandre Bergel, Lino Hess, Timo Kehrer and Oscar Nierstrasz
 
-%All the articles can be found at ... %*http://esug.github.io/2022-Conference/articles/*.
+%All the articles can be found at ... %*articles/*.
 
 !!! Sessions
-- *Conference program is available>https://esug.github.io/2022-Conference/agenda/agenda-workshop.html*.
+- *Conference program is available>agenda-workshop.html*.
 
 
 !! Call for Papers
