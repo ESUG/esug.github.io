@@ -8,7 +8,7 @@ IWST 23 — International Workshop on Smalltalk Technologies
 Lyon, France; August 29th-31st, 2023
 
 
-*Program>https://esug.github.io/2023-Conference/agenda/agenda-workshop.html*
+*Program>agenda-workshop.html*
 
 Slides are available: *PDFs>https://github.com/ESUG/esug.github.io/tree/source/2023-Conference/iwst/slides*
 
@@ -25,7 +25,7 @@ More info in: *special issue>https://www.sciencedirect.com/journal/journal-of-co
 
 %!! List of Accepted Articles
 
-%All the articles can be found at ... %*http://esug.github.io/2022-Conference/articles/*.
+%All the articles can be found at ... %*../2022-Conference/articles/*.
 
 %!!! Session: Title
 %-paper
